@@ -6,10 +6,14 @@ Palettes sorted by type (Sequential/Diverging/Qualitative)
 Table of Contents
 =================
 
--   [Main page](README.md)
-    -   [Sequential color palettes](#Sequential-color-palettes)
-    -   [Diverging color palettes](#Diverging-color-palettes)
-    -   [Qualitative color palettes](#Qualitative-color-palettes)
+-   [Main page](README.md#comprehensive-list-of-color-palettes-in-r)
+-   [Blogposts and other resources](README.md#blogposts-and-other-resources)
+-   [Generative packages](README.md#generative-packages)
+-   [Honorable mentions](README.md#honorable-mentions)
+-   [Palettes sorted by Package (alphabetically)](README.md#palettes-sorted-by-package-alphabetically)
+    -   [Sequential color palettes](#sequential-color-palettes)
+    -   [Diverging color palettes](#diverging-color-palettes)
+    -   [Qualitative color palettes](#qualitative-color-palettes)
 
 ### Sequential color palettes
 

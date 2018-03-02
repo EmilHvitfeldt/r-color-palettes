@@ -11,29 +11,90 @@ knit_hooks$set(optipng = hook_optipng)
 opts_chunk$set("optipng" = "-o5")
 ```
 
-# Comprehensive list of color palettes available in r
+# Comprehensive list of color palettes in r
 
-The goal of this repository is to have a one stop destination for anyone looking for a color palette to use in r. 
+The goal of this repository is to have a one stop destination for anyone looking for a color palette to use in r. If you would like to help/contribute please feel free post an issue, PR or send a email to [emilhhvitfeldt@gmail.com](mailto:emilhhvitfeldt@gmail.com).
 
-Further down the page is all the palettes avaliable in the R ecosystem order alphabetically by package name. A list of palettes ordered by type can be found here [Type sorted palettes](type-sorted-palettes.md).
+----- **Atttention** -----  
+As this project is still in its early days I especially appreciate feedback on packages I have overlooked.  
 
-### Palettes sorted by Package (alphabetically)
+Further down the page is all the palettes available in the R ecosystem order alphabetically by package name. A list of palettes ordered by type can be found here [Type sorted palettes](type-sorted-palettes.md) to shorten the length of this page.
+
+Table of Contents
+=================
+  * [Main page](#comprehensive-list-of-color-palettes-in-r)
+  * [Blogposts and other resources](#blogposts-and-other-resources)
+  * [Generative packages](#generative-packages)
+  * [Honorable mentions](#honorable-mentions)
+  * [Palettes sorted by Package (alphabetically)](#palettes-sorted-by-package-alphabetically)
+    * [Sequential color palettes](type-sorted-palettes.md#sequential-color-palettes)
+    * [Diverging color palettes](type-sorted-palettes.md#diverging-color-palettes)
+    * [Qualitative color palettes](type-sorted-palettes.md#qualitative-color-palettes)
+
+## Blogposts and other resources
+
+Here is a collection of material on the use and creation of color palettes in r.
+
+- [Creating corporate colour palettes for ggplot2](https://drsimonj.svbtle.com/creating-corporate-colour-palettes-for-ggplot2)
+- [Make your own color palettes with paletti](https://edwinth.github.io/blog/paletti/)
+- [How to create a color palette in R with more than 15 colors with ggplot2 ](https://github.com/duttashi/visualize/issues/19)
+- [Generating a Custom Color Palette Function in R](https://quantdev.ssri.psu.edu/tutorials/generating-custom-color-palette-function-r)
+- [How to build a color palette from any image with R and k-means algo](http://www.milanor.net/blog/build-color-palette-from-image-with-paletter/)
+
+## Generative packages
+
+The purpose of this project is to showcase the palettes already available in R (packages). However sometimes you have to resort to make one yourself. When that is the case the following packages aides in creating.
+
+- [AndreaCirilloAC/paletter](https://github.com/AndreaCirilloAC/paletter)
+- [jolars/qualpalr](https://github.com/jolars/qualpalr)
+- [ronammar/randomcoloR](https://github.com/ronammar/randomcoloR)
+- [johnbaums/hues](https://github.com/johnbaums/hues)
+- [ColorPalette](https://cran.r-project.org/web/packages/ColorPalette/index.html)
+- [oaColors](https://cran.rstudio.com/web/packages/oaColors/index.html)
+- [earthtones](https://cran.r-project.org/web/packages/earthtones/index.html)
+- [leeper/colourlovers](https://github.com/leeper/colourlovers)
+
+When creating color palettes certain website have also provided valuable
+
+- [paletton](http://paletton.com/)
+- [Data color picker](https://learnui.design/tools/data-color-picker.html)
+- [i want hue](http://tools.medialab.sciences-po.fr/iwanthue/)
+
+## Honorable mentions
+
+Due to the somehow vague notion of "color palette" have I decided to exclude certain kinds of packages from the main gallery. [Generative package](#generative-packages) have been discussed earlier. 
+
+### sport colors
+
+Many of the palettes in sports related palettes have a very limited number of colors (often only 2 colors). This leads to quite low usability outside of the special area of sports analytic.
+
+- [colorr](https://cran.r-project.org/web/packages/colorr/index.html)
+Color palettes for EPL, MLB, NBA, NHL, and NFL teams.
+
+- [beanumber/teamcolors](https://github.com/beanumber/teamcolors)
+An R package providing color palettes for pro sports teams.
+
+## Palettes sorted by Package (alphabetically)
 
 ```{r awtools, fig.height=6}
-pals::pal.bands(awtools::a_palette,
-                awtools::a_spalette,
-                awtools::mpalette,
-                awtools::ppalette,
-                awtools::spalette,
-                labels = c("a_palette", "a_spalette", "mpalette", "ppalette", 
-                           "spalette"),
-                main = "awtools")
+pals::pal.bands(
+  awtools::a_palette,
+  awtools::a_spalette,
+  awtools::mpalette,
+  awtools::ppalette,
+  awtools::spalette,
+  labels = c("a_palette", "a_spalette", "mpalette", "ppalette", 
+             "spalette"),
+  main = "awtools"
+)
 ```
 
 ```{r cividis, fig.height=2.5}
-pals::pal.bands(viridisLite::cividis,
-                labels = "cividis",
-                main = "cividis")
+pals::pal.bands(
+  viridisLite::cividis,
+  labels = "cividis",
+  main = "cividis"
+  )
 ```
 
 ```{r dutchmasters, fig.height=7}
