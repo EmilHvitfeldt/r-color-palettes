@@ -71,48 +71,198 @@ Palettes sorted by Package (alphabetically)
 
 ![](README_files/figure-markdown_github/awtools-1.png)
 
+``` r
+# Developmental version
+devtools::install_github("awhstin/awtools")
+```
+
 ![](README_files/figure-markdown_github/cividis-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("marcosci/cividis")
+```
 
 ![](README_files/figure-markdown_github/dutchmasters-1.png)
 
+``` r
+# Developmental version
+devtools::install_github("EdwinTh/dutchmasters")
+```
+
 ![](README_files/figure-markdown_github/ggsci-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("road2stat/ggsci")
+# CRAN version
+install.packages("ggsci")
+```
 
 ![](README_files/figure-markdown_github/ghibli-1.png)
 
+``` r
+# Developmental version
+devtools::install_github("ewenme/ghibli")
+# CRAN version
+install.packages("ghibli")
+```
+
 ![](README_files/figure-markdown_github/grDevices-1.png)
+
+``` r
+# CRAN version
+install.packages("grDevices")
+```
 
 ![](README_files/figure-markdown_github/nord-1.png)
 
+``` r
+# Developmental version
+devtools::install_github("jkaupp/nord")
+# CRAN version
+install.packages("nord")
+```
+
 ![](README_files/figure-markdown_github/ochRe-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("ropenscilabs/ochRe")
+# CRAN version
+install.packages("ochRe")
+```
 
 ![](README_files/figure-markdown_github/oompaBase-1.png)
 
+``` r
+# CRAN version
+install.packages("oompaBase")
+```
+
 ![](README_files/figure-markdown_github/palettetown-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("timcdlucas/palettetown")
+# CRAN version
+install.packages("palettetown")
+```
 
 ![](README_files/figure-markdown_github/palsdiscrete-1.png)
 
+``` r
+# Developmental version
+devtools::install_github("kwstat/pals")
+# CRAN version
+install.packages("pals")
+```
+
 ![](README_files/figure-markdown_github/palscontinuous-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("kwstat/pals")
+# CRAN version
+install.packages("pals")
+```
 
 ![](README_files/figure-markdown_github/palsniccoli-1.png)
 
+``` r
+# Developmental version
+devtools::install_github("kwstat/pals")
+# CRAN version
+install.packages("pals")
+```
+
 ![](README_files/figure-markdown_github/palsocean-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("kwstat/pals")
+# CRAN version
+install.packages("pals")
+```
 
 ![](README_files/figure-markdown_github/palskovosi-1.png)
 
+``` r
+# Developmental version
+devtools::install_github("kwstat/pals")
+# CRAN version
+install.packages("pals")
+```
+
 ![](README_files/figure-markdown_github/palskovisilinear-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("kwstat/pals")
+# CRAN version
+install.packages("pals")
+```
 
 ![](README_files/figure-markdown_github/Polychrome-1.png)
 
+``` r
+# CRAN version
+install.packages("Polychrome")
+```
+
 ![](README_files/figure-markdown_github/rcartocolor-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("Nowosad/rcartocolor")
+# CRAN version
+install.packages("rcartocolor")
+```
 
 ![](README_files/figure-markdown_github/RColorBrewer-1.png)
 
+``` r
+# CRAN version
+install.packages("RColorBrewer")
+```
+
 ![](README_files/figure-markdown_github/Redmonder-1.png)
+
+``` r
+# CRAN version
+install.packages("Redmonder")
+```
 
 ![](README_files/figure-markdown_github/RSkittleBrewer-1.png)
 
+``` r
+# Developmental version
+devtools::install_github("alyssafrazee/RSkittleBrewer")
+```
+
 ![](README_files/figure-markdown_github/viridis-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("sjmgarnier/viridis")
+# CRAN version
+install.packages("viridis")
+```
 
 ![](README_files/figure-markdown_github/wesanderson-1.png)
 
+``` r
+# Developmental version
+devtools::install_github("karthik/wesanderson")
+# CRAN version
+install.packages("wesanderson")
+```
+
 ![](README_files/figure-markdown_github/yarrr-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("ndphillips/yarrr")
+# CRAN version
+install.packages("yarrr")
+```

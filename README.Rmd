@@ -89,12 +89,22 @@ pals::pal.bands(
 )
 ```
 
+```{r eval=FALSE, echo=TRUE}
+# Developmental version
+devtools::install_github("awhstin/awtools")
+```
+
 ```{r cividis, fig.height=2.5}
 pals::pal.bands(
   viridisLite::cividis,
   labels = "cividis",
   main = "cividis"
   )
+```
+
+```{r eval=FALSE, echo=TRUE}
+# Developmental version
+devtools::install_github("marcosci/cividis")
 ```
 
 ```{r dutchmasters, fig.height=7}
@@ -108,6 +118,11 @@ pals::pal.bands(
   labels = names(dutchmasters::dutchmasters),
   main = "dutchmasters"
 )
+```
+
+```{r eval=FALSE, echo=TRUE}
+# Developmental version
+devtools::install_github("EdwinTh/dutchmasters")
 ```
 
 ```{r ggsci, fig.height=43}
@@ -170,6 +185,13 @@ pals::pal.bands(
 )
 ```
 
+```{r eval=FALSE, echo=TRUE}
+# Developmental version
+devtools::install_github("road2stat/ggsci")
+# CRAN version
+install.packages("ggsci")
+```
+
 ```{r ghibli, fig.height=28}
 pals::pal.bands(
   ghibli::ghibli_palettes[[1]],
@@ -204,6 +226,13 @@ pals::pal.bands(
 )
 ```
 
+```{r eval=FALSE, echo=TRUE}
+# Developmental version
+devtools::install_github("ewenme/ghibli")
+# CRAN version
+install.packages("ghibli")
+```
+
 ```{r grDevices, fig.height=7}
 pals::pal.bands(
   grDevices::blues9,
@@ -216,6 +245,11 @@ pals::pal.bands(
              "topo.colors", "cm.colors"),
   main = "grDevices"
 )
+```
+
+```{r eval=FALSE, echo=TRUE}
+# CRAN version
+install.packages("grDevices")
 ```
 
 ```{r nord, fig.height=17}
@@ -241,6 +275,13 @@ pals::pal.bands(
 )
 ```
 
+```{r eval=FALSE, echo=TRUE}
+# Developmental version
+devtools::install_github("jkaupp/nord")
+# CRAN version
+install.packages("nord")
+```
+
 ```{r ochRe, fig.height=17}
 pals::pal.bands(
   unname(ochRe::ochre_palettes[[1]]),
@@ -264,6 +305,13 @@ pals::pal.bands(
 )
 ```
 
+```{r eval=FALSE, echo=TRUE}
+# Developmental version
+devtools::install_github("ropenscilabs/ochRe")
+# CRAN version
+install.packages("ochRe")
+```
+
 ```{r oompaBase, fig.height=9}
 pals::pal.bands(
   oompaBase::redscale(100),
@@ -278,6 +326,11 @@ pals::pal.bands(
              "redgreen", "jetColors", "greyscale"),
   main = "oompaBase"
 )
+```
+
+```{r eval=FALSE, echo=TRUE}
+# CRAN version
+install.packages("oompaBase")
 ```
 
 ```{r palettetown, fig.height=11}
@@ -301,6 +354,13 @@ pals::pal.bands(
 )
 ```
 
+```{r eval=FALSE, echo=TRUE}
+# Developmental version
+devtools::install_github("timcdlucas/palettetown")
+# CRAN version
+install.packages("palettetown")
+```
+
 ```{r palsdiscrete, fig.height=9}
 pals::pal.bands(
   pals::alphabet(), 
@@ -318,6 +378,13 @@ pals::pal.bands(
 )
 ```
 
+```{r eval=FALSE, echo=TRUE}
+# Developmental version
+devtools::install_github("kwstat/pals")
+# CRAN version
+install.packages("pals")
+```
+
 ```{r palscontinuous, fig.height=8}
 pals::pal.bands(
   pals::coolwarm,
@@ -333,6 +400,13 @@ pals::pal.bands(
 )
 ```
 
+```{r eval=FALSE, echo=TRUE}
+# Developmental version
+devtools::install_github("kwstat/pals")
+# CRAN version
+install.packages("pals")
+```
+
 ```{r palsniccoli, fig.height=6}
 pals::pal.bands(
   pals::cubicyf,
@@ -343,6 +417,13 @@ pals::pal.bands(
   labels = c("cubicyf", "cubicl", "isol", "linearl", "linearlhot"),
   main = "pals (Niccoli)"
 )
+```
+
+```{r eval=FALSE, echo=TRUE}
+# Developmental version
+devtools::install_github("kwstat/pals")
+# CRAN version
+install.packages("pals")
 ```
 
 ```{r palsocean, fig.height=19}
@@ -372,6 +453,13 @@ pals::pal.bands(
 )
 ```
 
+```{r eval=FALSE, echo=TRUE}
+# Developmental version
+devtools::install_github("kwstat/pals")
+# CRAN version
+install.packages("pals")
+```
+
 ```{r palskovosi, message=FALSE, fig.height=30}
 library(pals)
 pal.bands(
@@ -393,6 +481,13 @@ pal.bands(
 )
 ```
 
+```{r eval=FALSE, echo=TRUE}
+# Developmental version
+devtools::install_github("kwstat/pals")
+# CRAN version
+install.packages("pals")
+```
+
 ```{r palskovisilinear, fig.height=22}
 library(pals)
 pal.bands(
@@ -411,6 +506,13 @@ pal.bands(
 )
 ```
 
+```{r eval=FALSE, echo=TRUE}
+# Developmental version
+devtools::install_github("kwstat/pals")
+# CRAN version
+install.packages("pals")
+```
+
 ```{r Polychrome, fig.height=8}
 pals::pal.bands(
   Polychrome::alphabet.colors(),
@@ -425,6 +527,11 @@ pals::pal.bands(
              "palette36"),
   main = "Polychrome"
 )
+```
+
+```{r eval=FALSE, echo=TRUE}
+# CRAN version
+install.packages("Polychrome")
 ```
 
 ```{r rcartocolor, fig.height=35}
@@ -469,6 +576,13 @@ pals::pal.bands(
 )
 ```
 
+```{r eval=FALSE, echo=TRUE}
+# Developmental version
+devtools::install_github("Nowosad/rcartocolor")
+# CRAN version
+install.packages("rcartocolor")
+```
+
 ```{r RColorBrewer, fig.height=36}
 name <- rownames(RColorBrewer::brewer.pal.info)
 ncolor <- RColorBrewer::brewer.pal.info$maxcolors
@@ -511,6 +625,11 @@ pals::pal.bands(
   labels = name,
   main = "RColorBrewer"
 )
+```
+
+```{r eval=FALSE, echo=TRUE}
+# CRAN version
+install.packages("RColorBrewer")
 ```
 
 ```{r Redmonder, fig.height=42}
@@ -563,6 +682,11 @@ pals::pal.bands(
 )
 ```
 
+```{r eval=FALSE, echo=TRUE}
+# CRAN version
+install.packages("Redmonder")
+```
+
 ```{r RSkittleBrewer, fig.height=6}
 pals::pal.bands(RSkittleBrewer::RSkittleBrewer("original"),
                 RSkittleBrewer::RSkittleBrewer("tropical"),
@@ -571,6 +695,11 @@ pals::pal.bands(RSkittleBrewer::RSkittleBrewer("original"),
                 unname(RSkittleBrewer::RSkittleBrewer("smarties")),
                 labels = c("original", "tropical", "wildberry", "M&M", "smarties"),
                 main = "RSkittleBrewer")
+```
+
+```{r eval=FALSE, echo=TRUE}
+# Developmental version
+devtools::install_github("alyssafrazee/RSkittleBrewer")
 ```
 
 ```{r viridis, fig.height=5}
@@ -582,6 +711,13 @@ pals::pal.bands(
   labels = c("inferno", "magma", "plasma", "viridis"), 
   main = "Viridis"
 )
+```
+
+```{r eval=FALSE, echo=TRUE}
+# Developmental version
+devtools::install_github("sjmgarnier/viridis")
+# CRAN version
+install.packages("viridis")
 ```
 
 ```{r wesanderson, fig.height=16}
@@ -604,6 +740,13 @@ pals::pal.bands(
   labels = names(wesanderson::wes_palettes),
   main = "wesanderson"
 )
+```
+
+```{r eval=FALSE, echo=TRUE}
+# Developmental version
+devtools::install_github("karthik/wesanderson")
+# CRAN version
+install.packages("wesanderson")
 ```
 
 ```{r yarrr, fig.height=22}
@@ -632,4 +775,11 @@ pals::pal.bands(
   labels = yarrr::piratepal("names"),
   main = "yarrr"
 )
+```
+
+```{r eval=FALSE, echo=TRUE}
+# Developmental version
+devtools::install_github("ndphillips/yarrr")
+# CRAN version
+install.packages("yarrr")
 ```
