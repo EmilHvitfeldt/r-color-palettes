@@ -6,23 +6,20 @@ output: github_document
 
 ```{r setup, include=FALSE}
 library(knitr)
-opts_chunk$set(echo = FALSE, cache = TRUE, fig.width = 7)
+opts_chunk$set(echo = FALSE, cache = FALSE, fig.width = 7)
 knit_hooks$set(optipng = hook_optipng)
 opts_chunk$set("optipng" = "-o5")
 ```
 
 ## Palettes sorted by type (Sequential/Diverging/Qualitative)
 
-Directory
-
-[Main page](README.md)
 
 Table of Contents
 =================
-
-  * [Sequential color palettes](#Sequential-color-palettes)
-  * [Diverging color palettes](#Diverging-color-palettes)
-  * [Qualitative color palettes](#Qualitative-color-palettes)
+  * [Main page](README.md)
+    * [Sequential color palettes](#Sequential-color-palettes)
+    * [Diverging color palettes](#Diverging-color-palettes)
+    * [Qualitative color palettes](#Qualitative-color-palettes)
 
 ### Sequential color palettes
 

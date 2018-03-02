@@ -6,9 +6,10 @@ Palettes sorted by type (Sequential/Diverging/Qualitative)
 Table of Contents
 =================
 
--   [Sequential color palettes](#sequential-color-palettes)
--   [Diverging color palettes](#diverging-color-palettes)
--   [Qualitative color palettes](#qualitative-color-palettes)
+-   [Main page](README.md)
+    -   [Sequential color palettes](#Sequential-color-palettes)
+    -   [Diverging color palettes](#Diverging-color-palettes)
+    -   [Qualitative color palettes](#Qualitative-color-palettes)
 
 ### Sequential color palettes
 
