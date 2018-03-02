@@ -11,27 +11,31 @@ knit_hooks$set(optipng = hook_optipng)
 opts_chunk$set("optipng" = "-o5")
 ```
 
-# Comprehensive list of color palettes available in r
-
-
 ## Palettes sorted by type (Sequential/Diverging/Qualitative)
+
+Table of Contents
+=================
+
+  * [Sequential color palettes](#Sequential-color-palettes)
+  * [Diverging color palettes](#Diverging-color-palettes)
+  * [Qualitative color palettes](#Qualitative-color-palettes)
 
 ### Sequential color palettes
 
-```{r awtools, fig.height=3}
+```{r awtoolsseq, fig.height=3}
 pals::pal.bands(awtools::a_palette,
                 awtools::a_spalette,
                 labels = c("a_palette", "a_spalette"),
                 main = "awtools")
 ```
 
-```{r cividis, fig.height=2.5}
+```{r cividisseq, fig.height=2.5}
 pals::pal.bands(viridisLite::cividis,
                 labels = "cividis",
                 main = "cividis")
 ```
 
-```{r ggsci, fig.height=20}
+```{r ggsciseq, fig.height=20}
 pals::pal.bands(
   ggsci::pal_material("red")(10),
   ggsci::pal_material("pink")(10),
@@ -63,7 +67,7 @@ pals::pal.bands(
 )
 ```
 
-```{r grDevices, fig.height=3}
+```{r grDevicesseq, fig.height=3}
 pals::pal.bands(
   grDevices::blues9,
   heat.colors(100),
@@ -72,7 +76,7 @@ pals::pal.bands(
 )
 ```
 
-```{r nord, fig.height=4}
+```{r nordseq, fig.height=4}
 pals::pal.bands(
   nord::nord_palettes[[1]],
   nord::nord_palettes[[2]],
@@ -82,7 +86,7 @@ pals::pal.bands(
 )
 ```
 
-```{r oompaBase, fig.height=5}
+```{r oompaBaseseq, fig.height=5}
 pals::pal.bands(
   oompaBase::redscale(100),
   oompaBase::greenscale(100),
@@ -93,7 +97,7 @@ pals::pal.bands(
 )
 ```
 
-```{r palscontinuous, fig.height=4}
+```{r palscontinuousseq, fig.height=4}
 pals::pal.bands(
   pals::cubehelix,
   pals::gnuplot,
@@ -103,7 +107,7 @@ pals::pal.bands(
 )
 ```
 
-```{r palsniccoli, fig.height=6}
+```{r palsniccoliseq, fig.height=6}
 pals::pal.bands(
   pals::cubicyf,
   pals::cubicl,
@@ -115,7 +119,7 @@ pals::pal.bands(
 )
 ```
 
-```{r palsocean, fig.height=16}
+```{r palsoceanseq, fig.height=16}
 pals::pal.bands(
   pals::ocean.thermal, 
   pals::ocean.haline, 
@@ -138,7 +142,7 @@ pals::pal.bands(
 )
 ```
 
-```{r palskovosi, message=FALSE, fig.height=25}
+```{r palskovosiseq, message=FALSE, fig.height=25}
 library(pals)
 pal.bands(
   kovesi.cyclic_grey_15_85_c0, kovesi.cyclic_grey_15_85_c0_s25,
@@ -157,7 +161,7 @@ pal.bands(
 )
 ```
 
-```{r palskovisilinear, fig.height=22}
+```{r palskovisilinearseq, fig.height=22}
 library(pals)
 pal.bands(
   kovesi.linear_bgy_10_95_c74, kovesi.linear_bgyw_15_100_c67, 
@@ -175,7 +179,7 @@ pal.bands(
 )
 ```
 
-```{r rcartocolor, fig.height=22}
+```{r rcartocolorseq, fig.height=22}
 name <- rcartocolor::cartocolors$Name
 pals::pal.bands(
   rcartocolor::carto_pal(name = name[1]),
@@ -204,7 +208,7 @@ pals::pal.bands(
 )
 ```
 
-```{r RColorBrewer, fig.height=19}
+```{r RColorBrewerseq, fig.height=19}
 name <- rownames(RColorBrewer::brewer.pal.info)
 ncolor <- RColorBrewer::brewer.pal.info$maxcolors
 pals::pal.bands(
@@ -231,7 +235,7 @@ pals::pal.bands(
 )
 ```
 
-```{r Redmonder, fig.height=11}
+```{r Redmonderseq, fig.height=11}
 name <- rownames(Redmonder::redmonder.pal.info)
 ncolor <- Redmonder::redmonder.pal.info$maxcolors
 pals::pal.bands(
@@ -250,7 +254,7 @@ pals::pal.bands(
 )
 ```
 
-```{r viridis, fig.height=5}
+```{r viridisseq, fig.height=5}
 pals::pal.bands(
   viridis::inferno, 
   viridis::magma, 
@@ -258,5 +262,437 @@ pals::pal.bands(
   viridis::viridis, 
   labels = c("inferno", "magma", "plasma", "viridis"), 
   main = "Viridis"
+)
+```
+
+
+### Diverging color palettes
+
+```{r ggscidiv, fig.height=2.5}
+pals::pal.bands(
+  ggsci::pal_gsea("default")(12),
+  labels = c("gsea"),
+  main = "ggsci"
+)
+```
+
+```{r grDevicesdiv, fig.height=2.5}
+pals::pal.bands(
+  cm.colors(100),
+  labels = c("cm.colors"),
+  main = "grDevices"
+)
+```
+
+```{r norddiv, fig.height=3}
+pals::pal.bands(
+  nord::nord_palettes[[6]],
+  nord::nord_palettes[[7]],
+  labels = names(nord::nord_palettes)[6:7],
+  main = "nord"
+)
+```
+
+```{r oompaBasediv, fig.height=4}
+pals::pal.bands(
+  oompaBase::blueyellow(100),
+  oompaBase::cyanyellow(100),
+  oompaBase::redgreen(100),
+  labels = c("blueyellow", "cyanyellow", "redgreen"),
+  main = "oompaBase"
+)
+```
+
+```{r palscontinuousdiv, fig.height=3}
+pals::pal.bands(
+  pals::coolwarm,
+  pals::warmcool,
+  labels = c("coolwarm", "warmcool"),
+  main = "pals (Continuous)", n = 100
+)
+```
+
+```{r palsoceandiv, fig.height=4}
+pals::pal.bands(
+  pals::ocean.balance, 
+  pals::ocean.delta, 
+  pals::ocean.curl, 
+  labels = c("balance", "delta", "curl"),
+  main = "pals (Ocean)", n = 100
+)
+```
+
+```{r palskovosidiv, message=FALSE, fig.height=14}
+library(pals)
+pal.bands(
+  kovesi.diverging_isoluminant_cjm_75_c23, kovesi.diverging_isoluminant_cjm_75_c24,
+  kovesi.diverging_isoluminant_cjo_70_c25, kovesi.diverging_linear_bjr_30_55_c53,
+  kovesi.diverging_linear_bjy_30_90_c45,
+  kovesi.diverging_bkr_55_10_c35, kovesi.diverging_bky_60_10_c30,
+  kovesi.diverging_bwr_40_95_c42, kovesi.diverging_bwr_55_98_c37,
+  kovesi.diverging_cwm_80_100_c22, kovesi.diverging_gkr_60_10_c40,
+  kovesi.diverging_gwr_55_95_c38, kovesi.diverging_gwv_55_95_c39,
+  main = "pals (Kovesi)", n = 100
+)
+```
+
+```{r rcartocolordiv, fig.height=8}
+name <- rcartocolor::cartocolors$Name
+pals::pal.bands(
+  rcartocolor::carto_pal(name = name[3]),
+  rcartocolor::carto_pal(name = name[4]),
+  rcartocolor::carto_pal(name = name[5]),
+  rcartocolor::carto_pal(name = name[6]),
+  rcartocolor::carto_pal(name = name[7]),
+  rcartocolor::carto_pal(name = name[8]),
+  rcartocolor::carto_pal(name = name[9]),
+  labels = name[3:9],
+  main = "rcartocolor"
+)
+```
+
+```{r RColorBrewerdiv, fig.height=10}
+name <- rownames(RColorBrewer::brewer.pal.info)
+ncolor <- RColorBrewer::brewer.pal.info$maxcolors
+pals::pal.bands(
+  RColorBrewer::brewer.pal(ncolor[1], name[1]),
+  RColorBrewer::brewer.pal(ncolor[2], name[2]),
+  RColorBrewer::brewer.pal(ncolor[3], name[3]),
+  RColorBrewer::brewer.pal(ncolor[4], name[4]),
+  RColorBrewer::brewer.pal(ncolor[5], name[5]),
+  RColorBrewer::brewer.pal(ncolor[6], name[6]),
+  RColorBrewer::brewer.pal(ncolor[7], name[7]),
+  RColorBrewer::brewer.pal(ncolor[8], name[8]),
+  RColorBrewer::brewer.pal(ncolor[9], name[9]),
+  labels = name[1:9],
+  main = "RColorBrewer"
+)
+```
+
+```{r Redmonderdiv, fig.height=8}
+name <- rownames(Redmonder::redmonder.pal.info)
+ncolor <- Redmonder::redmonder.pal.info$maxcolors
+pals::pal.bands(
+  Redmonder::redmonder.pal(ncolor[1], name[1]),
+  Redmonder::redmonder.pal(ncolor[2], name[2]),
+  Redmonder::redmonder.pal(ncolor[3], name[3]),
+  Redmonder::redmonder.pal(ncolor[4], name[4]),
+  Redmonder::redmonder.pal(ncolor[5], name[5]),
+  Redmonder::redmonder.pal(ncolor[6], name[6]),
+  Redmonder::redmonder.pal(ncolor[7], name[7]),
+  labels = name[1:7],
+  main = "Redmonder"
+)
+```
+
+### Qualitative color palettes
+
+```{r awtoolsqua, fig.height=4}
+pals::pal.bands(
+  awtools::mpalette,
+  awtools::ppalette,
+  awtools::spalette,
+  labels = c("mpalette", "ppalette", 
+             "spalette"),
+  main = "awtools"
+  )
+```
+
+```{r dutchmastersqua, fig.height=7}
+pals::pal.bands(
+  unname(dutchmasters::dutchmasters[[1]]),
+  unname(dutchmasters::dutchmasters[[2]]),
+  unname(dutchmasters::dutchmasters[[3]]),
+  unname(dutchmasters::dutchmasters[[4]]),
+  unname(dutchmasters::dutchmasters[[5]]),
+  unname(dutchmasters::dutchmasters[[6]]),
+  labels = names(dutchmasters::dutchmasters),
+  main = "dutchmasters"
+)
+```
+
+```{r ggsciqua, fig.height=23}
+pals::pal.bands(
+  ggsci::pal_npg("nrc")(10),
+  ggsci::pal_aaas("default")(10),
+  ggsci::pal_nejm("default")(8),
+  ggsci::pal_lancet("lanonc")(9),
+  ggsci::pal_jama("default")(7),
+  ggsci::pal_jco("default")(10),
+  ggsci::pal_ucscgb("default")(26),
+  ggsci::pal_d3("category10")(10),
+  ggsci::pal_d3("category20")(20),
+  ggsci::pal_d3("category20b")(20),
+  ggsci::pal_d3("category20c")(20),
+  ggsci::pal_locuszoom("default")(7),
+  ggsci::pal_igv("default")(51),
+  ggsci::pal_igv("alternating")(2),
+  ggsci::pal_uchicago("default")(9),
+  ggsci::pal_uchicago("light")(9),
+  ggsci::pal_uchicago("dark")(9),
+  ggsci::pal_startrek("uniform")(7),
+  ggsci::pal_tron("legacy")(7),
+  ggsci::pal_futurama("planetexpress")(12),
+  ggsci::pal_rickandmorty("schwifty")(12),
+  ggsci::pal_simpsons("springfield")(16),
+  labels = c("npg", "aaas", "nejm", "lancet", "jama", "jco", "ucscgb", 
+             "d3-category10", "d3-category20", "d3-category20b", 
+             "d3-category20c", "locuszoom", "igv-default", "igv-alternative",
+             "uchicago-default", "uchicago-light", "uchicago-dark", "startrek",
+             "tron", "futurama", "rickandmorty", "simpsoms"),
+  main = "ggsci"
+)
+```
+
+```{r ghibliqua, fig.height=28}
+pals::pal.bands(
+  ghibli::ghibli_palettes[[1]],
+  ghibli::ghibli_palettes[[2]],
+  ghibli::ghibli_palettes[[3]],
+  ghibli::ghibli_palettes[[4]],
+  ghibli::ghibli_palettes[[5]],
+  ghibli::ghibli_palettes[[6]],
+  ghibli::ghibli_palettes[[7]],
+  ghibli::ghibli_palettes[[8]],
+  ghibli::ghibli_palettes[[9]],
+  ghibli::ghibli_palettes[[10]],
+  ghibli::ghibli_palettes[[11]],
+  ghibli::ghibli_palettes[[12]],
+  ghibli::ghibli_palettes[[13]],
+  ghibli::ghibli_palettes[[14]],
+  ghibli::ghibli_palettes[[15]],
+  ghibli::ghibli_palettes[[16]],
+  ghibli::ghibli_palettes[[17]],
+  ghibli::ghibli_palettes[[18]],
+  ghibli::ghibli_palettes[[19]],
+  ghibli::ghibli_palettes[[20]],
+  ghibli::ghibli_palettes[[21]],
+  ghibli::ghibli_palettes[[22]],
+  ghibli::ghibli_palettes[[23]],
+  ghibli::ghibli_palettes[[24]],
+  ghibli::ghibli_palettes[[25]],
+  ghibli::ghibli_palettes[[26]],
+  ghibli::ghibli_palettes[[27]],
+  labels = names(ghibli::ghibli_palettes),
+  main = "ghibli"
+)
+```
+
+```{r nordqua, fig.height=12}
+pals::pal.bands(
+  nord::nord_palettes[[3]],
+  nord::nord_palettes[[4]],
+  nord::nord_palettes[[5]],
+  nord::nord_palettes[[8]],
+  nord::nord_palettes[[9]],
+  nord::nord_palettes[[11]],
+  nord::nord_palettes[[12]],
+  nord::nord_palettes[[13]],
+  nord::nord_palettes[[14]],
+  nord::nord_palettes[[15]],
+  nord::nord_palettes[[16]],
+  labels = names(nord::nord_palettes)[c(3:5, 8:9, 11:16)],
+  main = "nord"
+)
+```
+
+```{r ochRequa, fig.height=17}
+pals::pal.bands(
+  unname(ochRe::ochre_palettes[[1]]),
+  unname(ochRe::ochre_palettes[[2]]),
+  unname(ochRe::ochre_palettes[[3]]),
+  unname(ochRe::ochre_palettes[[4]]),
+  unname(ochRe::ochre_palettes[[5]]),
+  unname(ochRe::ochre_palettes[[6]]),
+  unname(ochRe::ochre_palettes[[7]]),
+  unname(ochRe::ochre_palettes[[8]]),
+  unname(ochRe::ochre_palettes[[9]]),
+  unname(ochRe::ochre_palettes[[10]]),
+  unname(ochRe::ochre_palettes[[11]]),
+  unname(ochRe::ochre_palettes[[12]]),
+  unname(ochRe::ochre_palettes[[13]]),
+  unname(ochRe::ochre_palettes[[14]]),
+  unname(ochRe::ochre_palettes[[15]]),
+  unname(ochRe::ochre_palettes[[16]]),
+  labels = names(ochRe::ochre_palettes),
+  main = "ochRe"
+)
+```
+
+```{r palettetownqua, fig.height=11}
+ids <- c(6, 17, 114, 137, 156, 191, 193, 283, 311, 318)
+names <- c("charizard", "pidgeotto", "tangela", "porygon", "quilava", 
+           "sunkern", "yanma", "surskit", "plusle", "carvanha")
+
+pals::pal.bands(
+  palettetown::ichooseyou(ids[1]),
+  palettetown::ichooseyou(ids[2]),
+  palettetown::ichooseyou(ids[3]),
+  palettetown::ichooseyou(ids[4]),
+  palettetown::ichooseyou(ids[5]),
+  palettetown::ichooseyou(ids[6]),
+  palettetown::ichooseyou(ids[7]),
+  palettetown::ichooseyou(ids[8]),
+  palettetown::ichooseyou(ids[9]),
+  palettetown::ichooseyou(ids[10]),
+  labels = stringr::str_c(ids, " - ", names),
+  main = "palettetown"
+)
+```
+
+```{r palsdiscretequa, fig.height=9}
+pals::pal.bands(
+  pals::alphabet(), 
+  pals::alphabet2(), 
+  pals::glasbey(), 
+  pals::kelly(),
+  pals::polychrome(), 
+  pals::stepped(), 
+  pals::tol(), 
+  pals::watlington(), 
+  labels = c('alphabet','alphabet2', 'glasbey','kelly','polychrome', 'stepped',
+             'tol', 'watlington'), 
+  main = "pals (Discrete)",
+  show.names = FALSE
+)
+```
+
+```{r Polychromequa, fig.height=8}
+pals::pal.bands(
+  Polychrome::alphabet.colors(),
+  Polychrome::dark.colors(),
+  Polychrome::glasbey.colors(),
+  Polychrome::green.armytage.colors(),
+  Polychrome::kelly.colors(),
+  Polychrome::light.colors(),
+  Polychrome::palette36.colors(),
+  show.names = FALSE,
+  labels = c("alphabet", "dark", "glasbey", "green armytage", "kelly", "light",
+             "palette36"),
+  main = "Polychrome"
+)
+```
+
+```{r rcartocolorqua, fig.height=7}
+name <- rcartocolor::cartocolors$Name
+pals::pal.bands(
+  rcartocolor::carto_pal(name = name[10]),
+  rcartocolor::carto_pal(name = name[11]),
+  rcartocolor::carto_pal(name = name[12]),
+  rcartocolor::carto_pal(name = name[13]),
+  rcartocolor::carto_pal(name = name[14]),
+  rcartocolor::carto_pal(name = name[15]),
+  labels = name[10:15],
+  main = "rcartocolor"
+)
+```
+
+```{r RColorBrewerqua, fig.height=9}
+name <- rownames(RColorBrewer::brewer.pal.info)
+ncolor <- RColorBrewer::brewer.pal.info$maxcolors
+pals::pal.bands(
+  RColorBrewer::brewer.pal(ncolor[10], name[10]),
+  RColorBrewer::brewer.pal(ncolor[11], name[11]),
+  RColorBrewer::brewer.pal(ncolor[12], name[12]),
+  RColorBrewer::brewer.pal(ncolor[13], name[13]),
+  RColorBrewer::brewer.pal(ncolor[14], name[14]),
+  RColorBrewer::brewer.pal(ncolor[15], name[15]),
+  RColorBrewer::brewer.pal(ncolor[16], name[16]),
+  RColorBrewer::brewer.pal(ncolor[17], name[17]),
+  labels = name[10:17],
+  main = "RColorBrewer"
+)
+```
+
+```{r Redmonderqua, fig.height=25}
+name <- rownames(Redmonder::redmonder.pal.info)
+ncolor <- Redmonder::redmonder.pal.info$maxcolors
+pals::pal.bands(
+  Redmonder::redmonder.pal(ncolor[8], name[8]),
+  Redmonder::redmonder.pal(ncolor[9], name[9]),
+  Redmonder::redmonder.pal(ncolor[10], name[10]),
+  Redmonder::redmonder.pal(ncolor[11], name[11]),
+  Redmonder::redmonder.pal(ncolor[12], name[12]),
+  Redmonder::redmonder.pal(ncolor[13], name[13]),
+  Redmonder::redmonder.pal(ncolor[14], name[14]),
+  Redmonder::redmonder.pal(ncolor[15], name[15]),
+  Redmonder::redmonder.pal(ncolor[16], name[16]),
+  Redmonder::redmonder.pal(ncolor[17], name[17]),
+  Redmonder::redmonder.pal(ncolor[18], name[18]),
+  Redmonder::redmonder.pal(ncolor[19], name[19]),
+  Redmonder::redmonder.pal(ncolor[20], name[20]),
+  Redmonder::redmonder.pal(ncolor[21], name[21]),
+  Redmonder::redmonder.pal(ncolor[22], name[22]),
+  Redmonder::redmonder.pal(ncolor[23], name[23]),
+  Redmonder::redmonder.pal(ncolor[24], name[24]),
+  Redmonder::redmonder.pal(ncolor[25], name[25]),
+  Redmonder::redmonder.pal(ncolor[26], name[26]),
+  Redmonder::redmonder.pal(ncolor[27], name[27]),
+  Redmonder::redmonder.pal(ncolor[28], name[28]),
+  Redmonder::redmonder.pal(ncolor[29], name[29]),
+  Redmonder::redmonder.pal(ncolor[30], name[30]),
+  Redmonder::redmonder.pal(ncolor[31], name[31]),
+  labels = name[8:31],
+  main = "Redmonder"
+)
+```
+
+```{r RSkittleBrewerqua, fig.height=6}
+pals::pal.bands(RSkittleBrewer::RSkittleBrewer("original"),
+                RSkittleBrewer::RSkittleBrewer("tropical"),
+                RSkittleBrewer::RSkittleBrewer("wildberry"),
+                RSkittleBrewer::RSkittleBrewer("M&M"),
+                unname(RSkittleBrewer::RSkittleBrewer("smarties")),
+                labels = c("original", "tropical", "wildberry", "M&M", "smarties"),
+                main = "RSkittleBrewer")
+```
+
+```{r wesandersonqua, fig.height=16}
+pals::pal.bands(
+  wesanderson::wes_palettes[[1]],
+  wesanderson::wes_palettes[[2]],
+  wesanderson::wes_palettes[[3]],
+  wesanderson::wes_palettes[[4]],
+  wesanderson::wes_palettes[[5]],
+  wesanderson::wes_palettes[[6]],
+  wesanderson::wes_palettes[[7]],
+  wesanderson::wes_palettes[[8]],
+  wesanderson::wes_palettes[[9]],
+  wesanderson::wes_palettes[[10]],
+  wesanderson::wes_palettes[[11]],
+  wesanderson::wes_palettes[[12]],
+  wesanderson::wes_palettes[[13]],
+  wesanderson::wes_palettes[[14]],
+  wesanderson::wes_palettes[[15]],
+  labels = names(wesanderson::wes_palettes),
+  main = "wesanderson"
+)
+```
+
+```{r yarrrqua, fig.height=22}
+pals::pal.bands(
+  unname(yarrr::piratepal("basel")),
+  unname(yarrr::piratepal("pony")),
+  unname(yarrr::piratepal("xmen")),
+  unname(yarrr::piratepal("decision")),
+  unname(yarrr::piratepal("southpark")),
+  unname(yarrr::piratepal("google")),
+  unname(yarrr::piratepal("eternal")),
+  unname(yarrr::piratepal("evildead")),
+  unname(yarrr::piratepal("usualsuspects")),
+  unname(yarrr::piratepal("ohbrother")),
+  unname(yarrr::piratepal("appletv")),
+  unname(yarrr::piratepal("brave")),
+  unname(yarrr::piratepal("bugs")),
+  unname(yarrr::piratepal("cars")),
+  unname(yarrr::piratepal("nemo")),
+  unname(yarrr::piratepal("rat")),
+  unname(yarrr::piratepal("up")),
+  unname(yarrr::piratepal("espresso")),
+  unname(yarrr::piratepal("ipod")),
+  unname(yarrr::piratepal("info")),
+  unname(yarrr::piratepal("info2")),
+  labels = yarrr::piratepal("names"),
+  main = "yarrr"
 )
 ```
