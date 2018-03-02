@@ -1,0 +1,262 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r setup, include=FALSE}
+library(knitr)
+opts_chunk$set(echo = FALSE, cache = TRUE, fig.width = 7)
+knit_hooks$set(optipng = hook_optipng)
+opts_chunk$set("optipng" = "-o5")
+```
+
+# Comprehensive list of color palettes available in r
+
+
+## Palettes sorted by type (Sequential/Diverging/Qualitative)
+
+### Sequential color palettes
+
+```{r awtools, fig.height=3}
+pals::pal.bands(awtools::a_palette,
+                awtools::a_spalette,
+                labels = c("a_palette", "a_spalette"),
+                main = "awtools")
+```
+
+```{r cividis, fig.height=2.5}
+pals::pal.bands(viridisLite::cividis,
+                labels = "cividis",
+                main = "cividis")
+```
+
+```{r ggsci, fig.height=20}
+pals::pal.bands(
+  ggsci::pal_material("red")(10),
+  ggsci::pal_material("pink")(10),
+  ggsci::pal_material("purple")(10),
+  ggsci::pal_material("deep-purple")(10),
+  ggsci::pal_material("indigo")(10),
+  ggsci::pal_material("blue")(10),
+  ggsci::pal_material("light-blue")(10),
+  ggsci::pal_material("cyan")(10),
+  ggsci::pal_material("teal")(10),
+  ggsci::pal_material("green")(10),
+  ggsci::pal_material("light-green")(10),
+  ggsci::pal_material("lime")(10),
+  ggsci::pal_material("yellow")(10),
+  ggsci::pal_material("amber")(10),
+  ggsci::pal_material("orange")(10),
+  ggsci::pal_material("deep-orange")(10),
+  ggsci::pal_material("brown")(10),
+  ggsci::pal_material("grey")(10),
+  ggsci::pal_material("blue-grey")(10),
+  labels = c("material-red", "material-pink", "material-purple", 
+             "material-deep-purple", "material-indigo", "material-blue",
+             "material-light-blue", "material-cyan", "material-teal", 
+             "material-green", "material-light-green", "material-lime",
+             "material-yellow", "material-amber", "material-orange",
+             "material-deep-orange", "material-brown", "material-grey",
+             "material-blue-grey"),
+  main = "ggsci"
+)
+```
+
+```{r grDevices, fig.height=3}
+pals::pal.bands(
+  grDevices::blues9,
+  heat.colors(100),
+  labels = c("blues9", "heat.colors"),
+  main = "grDevices"
+)
+```
+
+```{r nord, fig.height=4}
+pals::pal.bands(
+  nord::nord_palettes[[1]],
+  nord::nord_palettes[[2]],
+  nord::nord_palettes[[10]],
+  labels = names(nord::nord_palettes)[c(1, 2, 10)],
+  main = "nord"
+)
+```
+
+```{r oompaBase, fig.height=5}
+pals::pal.bands(
+  oompaBase::redscale(100),
+  oompaBase::greenscale(100),
+  oompaBase::bluescale(100),
+  oompaBase::greyscale(100),
+  labels = c("redscale", "greenscale", "bluescale", "greyscale"),
+  main = "oompaBase"
+)
+```
+
+```{r palscontinuous, fig.height=4}
+pals::pal.bands(
+  pals::cubehelix,
+  pals::gnuplot,
+  pals::parula,
+  labels = c("cubehelix", "gnuplot", "parula"),
+  main = "pals (Continuous)"
+)
+```
+
+```{r palsniccoli, fig.height=6}
+pals::pal.bands(
+  pals::cubicyf,
+  pals::cubicl,
+  pals::isol,
+  pals::linearl,
+  pals::linearlhot,
+  labels = c("cubicyf", "cubicl", "isol", "linearl", "linearlhot"),
+  main = "pals (Niccoli)"
+)
+```
+
+```{r palsocean, fig.height=16}
+pals::pal.bands(
+  pals::ocean.thermal, 
+  pals::ocean.haline, 
+  pals::ocean.solar, 
+  pals::ocean.ice, 
+  pals::ocean.gray,
+  pals::ocean.oxy, 
+  pals::ocean.deep, 
+  pals::ocean.dense, 
+  pals::ocean.algae, 
+  pals::ocean.matter,
+  pals::ocean.turbid, 
+  pals::ocean.speed, 
+  pals::ocean.amp, 
+  pals::ocean.tempo, 
+  pals::ocean.phase,
+  labels = c("thermal", "haline", "solar", "ice", "gray", "oxy", "deep", "dense",
+             "algae", "matter", "turbid", "speed", "amp", "tempo", "phase"),
+  main = "pals (Ocean)"
+)
+```
+
+```{r palskovosi, message=FALSE, fig.height=25}
+library(pals)
+pal.bands(
+  kovesi.cyclic_grey_15_85_c0, kovesi.cyclic_grey_15_85_c0_s25,
+  kovesi.cyclic_mrybm_35_75_c68, kovesi.cyclic_mrybm_35_75_c68_s25,
+  kovesi.cyclic_mygbm_30_95_c78, kovesi.cyclic_mygbm_30_95_c78_s25,
+  kovesi.cyclic_wrwbw_40_90_c42, kovesi.cyclic_wrwbw_40_90_c42_s25,
+  kovesi.diverging_isoluminant_cjm_75_c23, kovesi.diverging_isoluminant_cjm_75_c24,
+  kovesi.diverging_isoluminant_cjo_70_c25, kovesi.diverging_linear_bjr_30_55_c53,
+  kovesi.diverging_linear_bjy_30_90_c45, kovesi.diverging_rainbow_bgymr_45_85_c67,
+  kovesi.diverging_gkr_60_10_c40,
+  kovesi.diverging_gwr_55_95_c38, kovesi.diverging_gwv_55_95_c39,
+  kovesi.isoluminant_cgo_70_c39, kovesi.isoluminant_cgo_80_c38,
+  kovesi.isoluminant_cm_70_c39, kovesi.rainbow_bgyr_35_85_c72, kovesi.rainbow_bgyr_35_85_c73,
+  kovesi.rainbow_bgyrm_35_85_c69, kovesi.rainbow_bgyrm_35_85_c71,
+  main = "pals (Kovesi)"
+)
+```
+
+```{r palskovisilinear, fig.height=22}
+library(pals)
+pal.bands(
+  kovesi.linear_bgy_10_95_c74, kovesi.linear_bgyw_15_100_c67, 
+  kovesi.linear_bgyw_15_100_c68, kovesi.linear_blue_5_95_c73, 
+  kovesi.linear_blue_95_50_c20, kovesi.linear_bmw_5_95_c86,
+  kovesi.linear_bmw_5_95_c89, kovesi.linear_bmy_10_95_c71,
+  kovesi.linear_bmy_10_95_c78, kovesi.linear_gow_60_85_c27,
+  kovesi.linear_gow_65_90_c35, kovesi.linear_green_5_95_c69, 
+  kovesi.linear_grey_0_100_c0, kovesi.linear_grey_10_95_c0,
+  kovesi.linear_kry_5_95_c72, kovesi.linear_kry_5_98_c75,
+  kovesi.linear_kryw_5_100_c64, kovesi.linear_kryw_5_100_c67,
+  kovesi.linear_ternary_blue_0_44_c57, kovesi.linear_ternary_green_0_46_c42,
+  kovesi.linear_ternary_red_0_50_c52,
+  main = "pals (Kovesi linear)"
+)
+```
+
+```{r rcartocolor, fig.height=22}
+name <- rcartocolor::cartocolors$Name
+pals::pal.bands(
+  rcartocolor::carto_pal(name = name[1]),
+  rcartocolor::carto_pal(name = name[2]),
+  rcartocolor::carto_pal(name = name[16]),
+  rcartocolor::carto_pal(name = name[17]),
+  rcartocolor::carto_pal(name = name[18]),
+  rcartocolor::carto_pal(name = name[19]),
+  rcartocolor::carto_pal(name = name[20]),
+  rcartocolor::carto_pal(name = name[21]),
+  rcartocolor::carto_pal(name = name[22]),
+  rcartocolor::carto_pal(name = name[23]),
+  rcartocolor::carto_pal(name = name[24]),
+  rcartocolor::carto_pal(name = name[25]),
+  rcartocolor::carto_pal(name = name[26]),
+  rcartocolor::carto_pal(name = name[27]),
+  rcartocolor::carto_pal(name = name[28]),
+  rcartocolor::carto_pal(name = name[29]),
+  rcartocolor::carto_pal(name = name[30]),
+  rcartocolor::carto_pal(name = name[31]),
+  rcartocolor::carto_pal(name = name[32]),
+  rcartocolor::carto_pal(name = name[33]),
+  rcartocolor::carto_pal(name = name[34]),
+  labels = name[c(1,2, 16:34)],
+  main = "rcartocolor"
+)
+```
+
+```{r RColorBrewer, fig.height=19}
+name <- rownames(RColorBrewer::brewer.pal.info)
+ncolor <- RColorBrewer::brewer.pal.info$maxcolors
+pals::pal.bands(
+  RColorBrewer::brewer.pal(ncolor[18], name[18]),
+  RColorBrewer::brewer.pal(ncolor[19], name[19]),
+  RColorBrewer::brewer.pal(ncolor[20], name[20]),
+  RColorBrewer::brewer.pal(ncolor[21], name[21]),
+  RColorBrewer::brewer.pal(ncolor[22], name[22]),
+  RColorBrewer::brewer.pal(ncolor[23], name[23]),
+  RColorBrewer::brewer.pal(ncolor[24], name[24]),
+  RColorBrewer::brewer.pal(ncolor[25], name[25]),
+  RColorBrewer::brewer.pal(ncolor[26], name[26]),
+  RColorBrewer::brewer.pal(ncolor[27], name[27]),
+  RColorBrewer::brewer.pal(ncolor[28], name[28]),
+  RColorBrewer::brewer.pal(ncolor[29], name[29]),
+  RColorBrewer::brewer.pal(ncolor[30], name[30]),
+  RColorBrewer::brewer.pal(ncolor[31], name[31]),
+  RColorBrewer::brewer.pal(ncolor[32], name[32]),
+  RColorBrewer::brewer.pal(ncolor[33], name[33]),
+  RColorBrewer::brewer.pal(ncolor[34], name[34]),
+  RColorBrewer::brewer.pal(ncolor[35], name[35]),
+  labels = name[18:35],
+  main = "RColorBrewer"
+)
+```
+
+```{r Redmonder, fig.height=11}
+name <- rownames(Redmonder::redmonder.pal.info)
+ncolor <- Redmonder::redmonder.pal.info$maxcolors
+pals::pal.bands(
+  Redmonder::redmonder.pal(ncolor[32], name[32]),
+  Redmonder::redmonder.pal(ncolor[33], name[33]),
+  Redmonder::redmonder.pal(ncolor[34], name[34]),
+  Redmonder::redmonder.pal(ncolor[35], name[35]),
+  Redmonder::redmonder.pal(ncolor[36], name[36]),
+  Redmonder::redmonder.pal(ncolor[37], name[37]),
+  Redmonder::redmonder.pal(ncolor[38], name[38]),
+  Redmonder::redmonder.pal(ncolor[39], name[39]),
+  Redmonder::redmonder.pal(ncolor[40], name[40]),
+  Redmonder::redmonder.pal(ncolor[41], name[41]),
+  labels = name[32:41],
+  main = "Redmonder"
+)
+```
+
+```{r viridis, fig.height=5}
+pals::pal.bands(
+  viridis::inferno, 
+  viridis::magma, 
+  viridis::plasma,
+  viridis::viridis, 
+  labels = c("inferno", "magma", "plasma", "viridis"), 
+  main = "Viridis"
+)
+```
