@@ -13,6 +13,10 @@ opts_chunk$set("optipng" = "-o5")
 
 ## Palettes sorted by type (Sequential/Diverging/Qualitative)
 
+Directory
+
+[Main page](README.md)
+
 Table of Contents
 =================
 
