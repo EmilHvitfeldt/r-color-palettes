@@ -69,28 +69,28 @@ Many of the palettes in sports related palettes have a very limited number of co
 Palettes sorted by Package (alphabetically)
 -------------------------------------------
 
-![](README_files/figure-markdown_github/awtools-1.png)
+![](man/figures/README-awtools-1.png)
 
 ``` r
 # Developmental version
 devtools::install_github("awhstin/awtools")
 ```
 
-![](README_files/figure-markdown_github/cividis-1.png)
+![](man/figures/README-cividis-1.png)
 
 ``` r
 # Developmental version
 devtools::install_github("marcosci/cividis")
 ```
 
-![](README_files/figure-markdown_github/dutchmasters-1.png)
+![](man/figures/README-dutchmasters-1.png)
 
 ``` r
 # Developmental version
 devtools::install_github("EdwinTh/dutchmasters")
 ```
 
-![](README_files/figure-markdown_github/ggsci-1.png)
+![](man/figures/README-ggsci-1.png)
 
 ``` r
 # Developmental version
@@ -99,7 +99,7 @@ devtools::install_github("road2stat/ggsci")
 install.packages("ggsci")
 ```
 
-![](README_files/figure-markdown_github/ghibli-1.png)
+![](man/figures/README-ghibli-1.png)
 
 ``` r
 # Developmental version
@@ -108,14 +108,14 @@ devtools::install_github("ewenme/ghibli")
 install.packages("ghibli")
 ```
 
-![](README_files/figure-markdown_github/grDevices-1.png)
+![](man/figures/README-grDevices-1.png)
 
 ``` r
 # CRAN version
 install.packages("grDevices")
 ```
 
-![](README_files/figure-markdown_github/nord-1.png)
+![](man/figures/README-nord-1.png)
 
 ``` r
 # Developmental version
@@ -124,7 +124,7 @@ devtools::install_github("jkaupp/nord")
 install.packages("nord")
 ```
 
-![](README_files/figure-markdown_github/ochRe-1.png)
+![](man/figures/README-ochRe-1.png)
 
 ``` r
 # Developmental version
@@ -133,14 +133,14 @@ devtools::install_github("ropenscilabs/ochRe")
 install.packages("ochRe")
 ```
 
-![](README_files/figure-markdown_github/oompaBase-1.png)
+![](man/figures/README-oompaBase-1.png)
 
 ``` r
 # CRAN version
 install.packages("oompaBase")
 ```
 
-![](README_files/figure-markdown_github/palettetown-1.png)
+![](man/figures/README-palettetown-1.png)
 
 ``` r
 # Developmental version
@@ -149,7 +149,7 @@ devtools::install_github("timcdlucas/palettetown")
 install.packages("palettetown")
 ```
 
-![](README_files/figure-markdown_github/palsdiscrete-1.png)
+![](man/figures/README-palsdiscrete-1.png)
 
 ``` r
 # Developmental version
@@ -158,7 +158,7 @@ devtools::install_github("kwstat/pals")
 install.packages("pals")
 ```
 
-![](README_files/figure-markdown_github/palscontinuous-1.png)
+![](man/figures/README-palscontinuous-1.png)
 
 ``` r
 # Developmental version
@@ -167,7 +167,7 @@ devtools::install_github("kwstat/pals")
 install.packages("pals")
 ```
 
-![](README_files/figure-markdown_github/palsniccoli-1.png)
+![](man/figures/README-palsniccoli-1.png)
 
 ``` r
 # Developmental version
@@ -176,7 +176,7 @@ devtools::install_github("kwstat/pals")
 install.packages("pals")
 ```
 
-![](README_files/figure-markdown_github/palsocean-1.png)
+![](man/figures/README-palsocean-1.png)
 
 ``` r
 # Developmental version
@@ -185,7 +185,7 @@ devtools::install_github("kwstat/pals")
 install.packages("pals")
 ```
 
-![](README_files/figure-markdown_github/palskovosi-1.png)
+![](man/figures/README-palskovosi-1.png)
 
 ``` r
 # Developmental version
@@ -194,7 +194,7 @@ devtools::install_github("kwstat/pals")
 install.packages("pals")
 ```
 
-![](README_files/figure-markdown_github/palskovisilinear-1.png)
+![](man/figures/README-palskovisilinear-1.png)
 
 ``` r
 # Developmental version
@@ -203,14 +203,14 @@ devtools::install_github("kwstat/pals")
 install.packages("pals")
 ```
 
-![](README_files/figure-markdown_github/Polychrome-1.png)
+![](man/figures/README-Polychrome-1.png)
 
 ``` r
 # CRAN version
 install.packages("Polychrome")
 ```
 
-![](README_files/figure-markdown_github/rcartocolor-1.png)
+![](man/figures/README-rcartocolor-1.png)
 
 ``` r
 # Developmental version
@@ -219,28 +219,28 @@ devtools::install_github("Nowosad/rcartocolor")
 install.packages("rcartocolor")
 ```
 
-![](README_files/figure-markdown_github/RColorBrewer-1.png)
+![](man/figures/README-RColorBrewer-1.png)
 
 ``` r
 # CRAN version
 install.packages("RColorBrewer")
 ```
 
-![](README_files/figure-markdown_github/Redmonder-1.png)
+![](man/figures/README-Redmonder-1.png)
 
 ``` r
 # CRAN version
 install.packages("Redmonder")
 ```
 
-![](README_files/figure-markdown_github/RSkittleBrewer-1.png)
+![](man/figures/README-RSkittleBrewer-1.png)
 
 ``` r
 # Developmental version
 devtools::install_github("alyssafrazee/RSkittleBrewer")
 ```
 
-![](README_files/figure-markdown_github/viridis-1.png)
+![](man/figures/README-viridis-1.png)
 
 ``` r
 # Developmental version
@@ -249,7 +249,7 @@ devtools::install_github("sjmgarnier/viridis")
 install.packages("viridis")
 ```
 
-![](README_files/figure-markdown_github/wesanderson-1.png)
+![](man/figures/README-wesanderson-1.png)
 
 ``` r
 # Developmental version
@@ -258,7 +258,7 @@ devtools::install_github("karthik/wesanderson")
 install.packages("wesanderson")
 ```
 
-![](README_files/figure-markdown_github/yarrr-1.png)
+![](man/figures/README-yarrr-1.png)
 
 ``` r
 # Developmental version

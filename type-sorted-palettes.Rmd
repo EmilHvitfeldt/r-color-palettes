@@ -6,7 +6,8 @@ output: github_document
 
 ```{r setup, include=FALSE}
 library(knitr)
-opts_chunk$set(echo = FALSE, cache = TRUE, fig.width = 7)
+opts_chunk$set(echo = FALSE, cache = TRUE, fig.width = 7,
+               fig.path = "man/figures/type-sorted-")
 knit_hooks$set(optipng = hook_optipng)
 opts_chunk$set("optipng" = "-o5")
 ```
