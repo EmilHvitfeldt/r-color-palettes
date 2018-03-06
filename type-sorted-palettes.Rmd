@@ -6,10 +6,10 @@ output: github_document
 
 ```{r setup, include=FALSE}
 library(knitr)
-opts_chunk$set(echo = FALSE, cache = TRUE, fig.width = 7,
+opts_chunk$set(echo = FALSE, fig.width = 7,
                fig.path = "man/figures/type-sorted-")
 knit_hooks$set(optipng = hook_optipng)
-opts_chunk$set("optipng" = "-o5")
+opts_chunk$set("optipng" = "-o5", cache = TRUE)
 ```
 
 ## Palettes sorted by type (Sequential/Diverging/Qualitative)
@@ -24,6 +24,7 @@ Table of Contents
     * [Sequential color palettes](#sequential-color-palettes)
     * [Diverging color palettes](#diverging-color-palettes)
     * [Qualitative color palettes](#qualitative-color-palettes)
+  * [News](NEWS.md)
 
 ### Sequential color palettes
 

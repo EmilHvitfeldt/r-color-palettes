@@ -5,7 +5,7 @@ Comprehensive list of color palettes in r
 
 The goal of this repository is to have a one stop destination for anyone looking for a color palette to use in r. If you would like to help/contribute please feel free post an issue, PR or send a email to <emilhhvitfeldt@gmail.com>.
 
------ **Atttention** -----
+----- **Attention** -----
 As this project is still in its early days I especially appreciate feedback on packages I have overlooked.
 
 Further down the page is all the palettes available in the R ecosystem order alphabetically by package name. A list of palettes ordered by type can be found here [Type sorted palettes](type-sorted-palettes.md) to shorten the length of this page.
@@ -21,6 +21,7 @@ Table of Contents
     -   [Sequential color palettes](type-sorted-palettes.md#sequential-color-palettes)
     -   [Diverging color palettes](type-sorted-palettes.md#diverging-color-palettes)
     -   [Qualitative color palettes](type-sorted-palettes.md#qualitative-color-palettes)
+-   [News](NEWS.md)
 
 Blogposts and other resources
 -----------------------------
