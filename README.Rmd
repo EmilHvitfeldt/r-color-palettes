@@ -66,6 +66,15 @@ When creating color palettes certain website have also provided valuable
 
 Due to the somehow vague notion of "color palette" have I decided to exclude certain kinds of packages from the main gallery. [Generative package](#generative-packages) have been discussed earlier. 
 
+### cpt-city
+
+The amazing [cpt-city](http://soliton.vm.bytemark.co.uk/pub/cpt-city/index.html) is a wonderful project of creating an archive of color palettes to be used in cartography, technical illustration and design. Due to the immense size (7140) I have decided to refer to it instead of re-illustration them in this repository. If any of the palettes found here are for your liking they can be accessed in R using the following [package](https://cran.r-project.org/web/packages/cptcity/index.html):
+
+```{r eval=FALSE, echo=TRUE}
+# CRAN version
+install.packages("cptcity")
+```
+
 ### sport colors
 
 Many of the palettes in sports related palettes have a very limited number of colors (often only 2 colors). This leads to quite low usability outside of the special area of sports analytic.
