@@ -71,6 +71,15 @@ install.packages("nord")
 install.packages("oompaBase")
 ```
 
+![](man/figures/type-sorted-palrseq-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("AustralianAntarcticDivision/palr")
+# CRAN version
+install.packages("palr")
+```
+
 ![](man/figures/type-sorted-palscontinuousseq-1.png)
 
 ``` r

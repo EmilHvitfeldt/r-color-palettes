@@ -393,6 +393,24 @@ devtools::install_github("timcdlucas/palettetown")
 install.packages("palettetown")
 ```
 
+```{r palr, fig.height=5}
+pals::pal.bands(
+  palr::bathyDeepPal(100),
+  palr::chlPal(100),
+  palr::icePal(100),
+  palr::sstPal(100),
+  labels = c("bathyDeepPal", "chlPal", "icePal", "sstPal"),
+  main = "palr"
+)
+```
+
+```{r eval=FALSE, echo=TRUE}
+# Developmental version
+devtools::install_github("AustralianAntarcticDivision/palr")
+# CRAN version
+install.packages("palr")
+```
+
 ```{r palsdiscrete, fig.height=9}
 pals::pal.bands(
   pals::alphabet(), 

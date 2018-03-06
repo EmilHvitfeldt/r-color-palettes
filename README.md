@@ -157,6 +157,15 @@ devtools::install_github("timcdlucas/palettetown")
 install.packages("palettetown")
 ```
 
+![](man/figures/README-palr-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("AustralianAntarcticDivision/palr")
+# CRAN version
+install.packages("palr")
+```
+
 ![](man/figures/README-palsdiscrete-1.png)
 
 ``` r
