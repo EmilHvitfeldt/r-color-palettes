@@ -273,6 +273,13 @@ devtools::install_github("road2stat/ggsci")
 install.packages("ggsci")
 ```
 
+![](man/figures/type-sorted-ggpomologicalqua-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("gadenbuie/ggpomological")
+```
+
 ![](man/figures/type-sorted-ghibliqua-1.png)
 
 ``` r

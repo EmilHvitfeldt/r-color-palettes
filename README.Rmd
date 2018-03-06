@@ -221,6 +221,21 @@ devtools::install_github("road2stat/ggsci")
 install.packages("ggsci")
 ```
 
+```{r ggpomological, fig.height=3}
+pals::pal.bands(
+  ggpomological:::pomological_palette,
+  unlist(ggpomological:::pomological_base), 
+  labels = c("pomological_palette", "pomological_base"),
+  main = "ggpomological",
+  show.names = FALSE
+)
+```
+
+```{r eval=FALSE, echo=TRUE}
+# Developmental version
+devtools::install_github("gadenbuie/ggpomological")
+```
+
 ```{r ghibli, fig.height=28}
 pals::pal.bands(
   ghibli::ghibli_palettes[[1]],

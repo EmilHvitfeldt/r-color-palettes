@@ -110,6 +110,13 @@ devtools::install_github("road2stat/ggsci")
 install.packages("ggsci")
 ```
 
+![](man/figures/README-ggpomological-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("gadenbuie/ggpomological")
+```
+
 ![](man/figures/README-ghibli-1.png)
 
 ``` r
