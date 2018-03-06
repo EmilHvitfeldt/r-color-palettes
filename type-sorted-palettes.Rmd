@@ -40,17 +40,6 @@ pals::pal.bands(awtools::a_palette,
 devtools::install_github("awhstin/awtools")
 ```
 
-```{r cividisseq, fig.height=2.5}
-pals::pal.bands(viridisLite::cividis,
-                labels = "cividis",
-                main = "cividis")
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("marcosci/cividis")
-```
-
 ```{r dichromatseq, fig.height=4}
 pals::pal.bands(
   dichromat::colorschemes[[13]],
@@ -380,13 +369,14 @@ pals::pal.bands(
 install.packages("Redmonder")
 ```
 
-```{r viridisseq, fig.height=5}
+```{r viridisseq, fig.height=6}
 pals::pal.bands(
+  viridis::cividis,
   viridis::inferno, 
   viridis::magma, 
   viridis::plasma,
   viridis::viridis, 
-  labels = c("inferno", "magma", "plasma", "viridis"), 
+  labels = c("civiris", "inferno", "magma", "plasma", "viridis"), 
   main = "Viridis"
 )
 ```

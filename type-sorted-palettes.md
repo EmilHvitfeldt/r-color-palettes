@@ -25,13 +25,6 @@ Table of Contents
 devtools::install_github("awhstin/awtools")
 ```
 
-![](man/figures/type-sorted-cividisseq-1.png)
-
-``` r
-# Developmental version
-devtools::install_github("marcosci/cividis")
-```
-
 ![](man/figures/type-sorted-dichromatseq-1.png)
 
 ``` r

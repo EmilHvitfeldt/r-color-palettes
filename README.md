@@ -77,13 +77,6 @@ Palettes sorted by Package (alphabetically)
 devtools::install_github("awhstin/awtools")
 ```
 
-![](man/figures/README-cividis-1.png)
-
-``` r
-# Developmental version
-devtools::install_github("marcosci/cividis")
-```
-
 ![](man/figures/README-dichromat-1.png)
 
 ``` r

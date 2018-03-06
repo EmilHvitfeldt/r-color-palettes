@@ -96,19 +96,6 @@ pals::pal.bands(
 devtools::install_github("awhstin/awtools")
 ```
 
-```{r cividis, fig.height=2.5}
-pals::pal.bands(
-  viridisLite::cividis,
-  labels = "cividis",
-  main = "cividis"
-  )
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("marcosci/cividis")
-```
-
 ```{r dichromat, fig.height=18}
 pals::pal.bands(
   dichromat::colorschemes[[1]],
@@ -752,13 +739,14 @@ pals::pal.bands(RSkittleBrewer::RSkittleBrewer("original"),
 devtools::install_github("alyssafrazee/RSkittleBrewer")
 ```
 
-```{r viridis, fig.height=5}
+```{r viridis, fig.height=6}
 pals::pal.bands(
+  viridis::cividis,
   viridis::inferno, 
   viridis::magma, 
   viridis::plasma,
   viridis::viridis, 
-  labels = c("inferno", "magma", "plasma", "viridis"), 
+  labels = c("civiris", "inferno", "magma", "plasma", "viridis"), 
   main = "Viridis"
 )
 ```
