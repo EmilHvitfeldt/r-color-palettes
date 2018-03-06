@@ -109,6 +109,36 @@ pals::pal.bands(
 devtools::install_github("marcosci/cividis")
 ```
 
+```{r dichromat, fig.height=18}
+pals::pal.bands(
+  dichromat::colorschemes[[1]],
+  dichromat::colorschemes[[2]],
+  dichromat::colorschemes[[3]],
+  dichromat::colorschemes[[4]],
+  dichromat::colorschemes[[5]],
+  dichromat::colorschemes[[6]],
+  dichromat::colorschemes[[7]],
+  dichromat::colorschemes[[8]],
+  dichromat::colorschemes[[9]],
+  dichromat::colorschemes[[10]],
+  dichromat::colorschemes[[11]],
+  dichromat::colorschemes[[12]],
+  dichromat::colorschemes[[13]],
+  dichromat::colorschemes[[14]],
+  dichromat::colorschemes[[15]],
+  dichromat::colorschemes[[16]],
+  dichromat::colorschemes[[17]],
+  labels = names(dichromat::colorschemes),
+  main = "dichromat"
+)
+```
+
+```{r eval=FALSE, echo=TRUE}
+# CRAN version
+install.packages("dichromat")
+```
+
+
 ```{r dutchmasters, fig.height=7}
 pals::pal.bands(
   unname(dutchmasters::dutchmasters[[1]]),

@@ -32,6 +32,13 @@ devtools::install_github("awhstin/awtools")
 devtools::install_github("marcosci/cividis")
 ```
 
+![](man/figures/type-sorted-dichromatseq-1.png)
+
+``` r
+# CRAN version
+install.packages("dichromat")
+```
+
 ![](man/figures/type-sorted-ggsciseq-1.png)
 
 ``` r
@@ -143,6 +150,13 @@ install.packages("viridis")
 
 ### Diverging color palettes
 
+![](man/figures/type-sorted-dichromatdiv-1.png)
+
+``` r
+# CRAN version
+install.packages("dichromat")
+```
+
 ![](man/figures/type-sorted-ggscidiv-1.png)
 
 ``` r
@@ -232,6 +246,13 @@ install.packages("Redmonder")
 ``` r
 # Developmental version
 devtools::install_github("awhstin/awtools")
+```
+
+![](man/figures/type-sorted-dichromatqua-1.png)
+
+``` r
+# CRAN version
+install.packages("dichromat")
 ```
 
 ![](man/figures/type-sorted-dutchmastersqua-1.png)

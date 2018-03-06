@@ -51,6 +51,22 @@ pals::pal.bands(viridisLite::cividis,
 devtools::install_github("marcosci/cividis")
 ```
 
+```{r dichromatseq, fig.height=4}
+pals::pal.bands(
+  dichromat::colorschemes[[13]],
+  dichromat::colorschemes[[14]],
+  dichromat::colorschemes[[17]],
+  labels = names(dichromat::colorschemes)[c(13:14, 17)],
+  main = "dichromat"
+)
+```
+
+```{r eval=FALSE, echo=TRUE}
+# CRAN version
+install.packages("dichromat")
+```
+
+
 ```{r ggsciseq, fig.height=20}
 pals::pal.bands(
   ggsci::pal_material("red")(10),
@@ -366,6 +382,31 @@ install.packages("viridis")
 
 ### Diverging color palettes
 
+```{r dichromatdiv, fig.height=14}
+pals::pal.bands(
+  dichromat::colorschemes[[1]],
+  dichromat::colorschemes[[2]],
+  dichromat::colorschemes[[3]],
+  dichromat::colorschemes[[4]],
+  dichromat::colorschemes[[5]],
+  dichromat::colorschemes[[6]],
+  dichromat::colorschemes[[7]],
+  dichromat::colorschemes[[8]],
+  dichromat::colorschemes[[9]],
+  dichromat::colorschemes[[10]],
+  dichromat::colorschemes[[11]],
+  dichromat::colorschemes[[12]],
+  dichromat::colorschemes[[16]],
+  labels = names(dichromat::colorschemes)[c(1:12, 6)],
+  main = "dichromat"
+)
+```
+
+```{r eval=FALSE, echo=TRUE}
+# CRAN version
+install.packages("dichromat")
+```
+
 ```{r ggscidiv, fig.height=2.5}
 pals::pal.bands(
   ggsci::pal_gsea("default")(12),
@@ -561,6 +602,19 @@ pals::pal.bands(
 ```{r eval=FALSE, echo=TRUE}
 # Developmental version
 devtools::install_github("awhstin/awtools")
+```
+
+```{r dichromatqua, fig.height=2.5}
+pals::pal.bands(
+  dichromat::colorschemes[[15]],
+  labels = names(dichromat::colorschemes)[15],
+  main = "dichromat"
+)
+```
+
+```{r eval=FALSE, echo=TRUE}
+# CRAN version
+install.packages("dichromat")
 ```
 
 ```{r dutchmastersqua, fig.height=7}

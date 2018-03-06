@@ -84,6 +84,13 @@ devtools::install_github("awhstin/awtools")
 devtools::install_github("marcosci/cividis")
 ```
 
+![](man/figures/README-dichromat-1.png)
+
+``` r
+# CRAN version
+install.packages("dichromat")
+```
+
 ![](man/figures/README-dutchmasters-1.png)
 
 ``` r
