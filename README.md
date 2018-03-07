@@ -117,6 +117,24 @@ install.packages("ggsci")
 devtools::install_github("gadenbuie/ggpomological")
 ```
 
+![](man/figures/README-ggthemes-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("jrnold/ggthemes")
+# CRAN version
+install.packages("ggthemes")
+```
+
+![](man/figures/README-ggthemestableau-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("jrnold/ggthemes")
+# CRAN version
+install.packages("ggthemes")
+```
+
 ![](man/figures/README-ghibli-1.png)
 
 ``` r

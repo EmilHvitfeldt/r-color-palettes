@@ -41,6 +41,15 @@ devtools::install_github("road2stat/ggsci")
 install.packages("ggsci")
 ```
 
+![](man/figures/type-sorted-ggthemestableauseq-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("jrnold/ggthemes")
+# CRAN version
+install.packages("ggthemes")
+```
+
 ![](man/figures/type-sorted-grDevicesseq-1.png)
 
 ``` r
@@ -161,6 +170,15 @@ install.packages("dichromat")
 
 ![](man/figures/type-sorted-ggscidiv-1.png)
 
+![](man/figures/type-sorted-ggthemestableaudiv-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("jrnold/ggthemes")
+# CRAN version
+install.packages("ggthemes")
+```
+
 ``` r
 # Developmental version
 devtools::install_github("road2stat/ggsci")
@@ -271,6 +289,24 @@ devtools::install_github("EdwinTh/dutchmasters")
 devtools::install_github("road2stat/ggsci")
 # CRAN version
 install.packages("ggsci")
+```
+
+![](man/figures/type-sorted-ggthemesqua-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("jrnold/ggthemes")
+# CRAN version
+install.packages("ggthemes")
+```
+
+![](man/figures/type-sorted-ggthemestableauqua-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("jrnold/ggthemes")
+# CRAN version
+install.packages("ggthemes")
 ```
 
 ![](man/figures/type-sorted-ggpomologicalqua-1.png)

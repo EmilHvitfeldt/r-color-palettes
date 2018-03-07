@@ -236,6 +236,115 @@ pals::pal.bands(
 devtools::install_github("gadenbuie/ggpomological")
 ```
 
+```{r ggthemes, fig.height=25}
+pals::pal.bands(
+  ggthemes::calc_pal()(12),
+  ggthemes::colorblind_pal()(8),
+  ggthemes::economist_pal()(9),
+  ggthemes::excel_pal(palette = "old")(7),
+  ggthemes::excel_pal(palette = "fill")(7),
+  ggthemes::excel_pal(palette = "new")(10),
+  ggthemes::few_pal(palette = "medium")(7),
+  ggthemes::few_pal(palette = "dark")(7),
+  ggthemes::few_pal(palette = "light")(7),
+  ggthemes::fivethirtyeight_pal()(3),
+  ggthemes::gdocs_pal()(20),
+  ggthemes::hc_pal(palette = "default")(10),
+  ggthemes::hc_pal(palette = "darkunica")(11),
+  ggthemes::ptol_pal()(12),
+  ggthemes::solarized_pal()(8),
+  ggthemes::stata_pal(scheme = "s2color")(15),
+  ggthemes::stata_pal(scheme = "s1rcolor")(15),
+  ggthemes::stata_pal(scheme = "s1color")(15),
+  ggthemes::stata_pal(scheme = "mono")(15),
+  ggthemes::wsj_pal(palette = "rgby")(4),
+  ggthemes::wsj_pal(palette = "red_green")(2),
+  ggthemes::wsj_pal(palette = "black_green")(4),
+  ggthemes::wsj_pal(palette = "dem_rep")(3),
+  ggthemes::wsj_pal(palette = "colors6")(6),
+  labels = c("calc", "colorblind", "economist", "excel-old", "excel-fill",
+             "excel-new", "few-medium", "few-dark", "few-light", 
+             "fivethirtyeight", "gdocs", "hc-default", "hc-darkunica",
+             "ptol", "solarized", "stata-s2color", "stata-s1rcolor",
+             "stata-s1color", "stata-mono", "wsj-rgby", "wsj-red_green",
+             "wsj-black_green", "wsj-dem_rep", "wjs-colors6"),
+  main = "ggthemes"
+)
+```
+
+```{r eval=FALSE, echo=TRUE}
+# Developmental version
+devtools::install_github("jrnold/ggthemes")
+# CRAN version
+install.packages("ggthemes")
+```
+
+```{r ggthemestableau, fig.height=47}
+names <- c(names(ggthemes::ggthemes_data$tableau$colors),
+        "tableau10", "tableau10light", 
+        "purplegray6", "bluered6", "greenorange6")
+namesdiv <- names(ggthemes::ggthemes_data[["tableau"]][["diverging"]])
+namesseq <- names(ggthemes::ggthemes_data$tableau$sequential)
+
+pals::pal.bands(
+  ggthemes::tableau_color_pal(palette = names[1])(20),
+  ggthemes::tableau_color_pal(palette = names[2])(10),
+  ggthemes::tableau_color_pal(palette = names[3])(5),
+  ggthemes::tableau_color_pal(palette = names[4])(10),
+  ggthemes::tableau_color_pal(palette = names[5])(9),
+  ggthemes::tableau_color_pal(palette = names[6])(12),
+  ggthemes::tableau_color_pal(palette = names[7])(12),
+  ggthemes::tableau_color_pal(palette = names[8])(12),
+  ggthemes::tableau_color_pal(palette = names[9])(20),
+  ggthemes::tableau_color_pal(palette = names[10])(10),
+  ggthemes::tableau_color_pal(palette = names[11])(10),
+  ggthemes::tableau_color_pal(palette = names[12])(6),
+  ggthemes::tableau_color_pal(palette = names[13])(6),
+  ggthemes::tableau_color_pal(palette = names[14])(6),
+  ggthemes::tableau_div_gradient_pal(palette = namesdiv[1])((1:100)/100),
+  ggthemes::tableau_div_gradient_pal(palette = namesdiv[2])((1:100)/100),
+  ggthemes::tableau_div_gradient_pal(palette = namesdiv[3])((1:100)/100),
+  ggthemes::tableau_div_gradient_pal(palette = namesdiv[4])((1:100)/100),
+  ggthemes::tableau_div_gradient_pal(palette = namesdiv[5])((1:100)/100),
+  ggthemes::tableau_div_gradient_pal(palette = namesdiv[6])((1:100)/100),
+  ggthemes::tableau_div_gradient_pal(palette = namesdiv[7])((1:100)/100),
+  ggthemes::tableau_div_gradient_pal(palette = namesdiv[8])((1:100)/100),
+  ggthemes::tableau_div_gradient_pal(palette = namesdiv[9])((1:100)/100),
+  ggthemes::tableau_div_gradient_pal(palette = namesdiv[10])((1:100)/100),
+  ggthemes::tableau_div_gradient_pal(palette = namesdiv[11])((1:100)/100),
+  ggthemes::tableau_div_gradient_pal(palette = namesdiv[12])((1:100)/100),
+  ggthemes::tableau_div_gradient_pal(palette = namesdiv[13])((1:100)/100),
+  ggthemes::tableau_div_gradient_pal(palette = namesdiv[14])((1:100)/100),
+  ggthemes::tableau_div_gradient_pal(palette = namesdiv[15])((1:100)/100),
+  ggthemes::tableau_div_gradient_pal(palette = namesdiv[16])((1:100)/100),
+  ggthemes::tableau_seq_gradient_pal(palette = namesseq[1])((1:100)/100),
+  ggthemes::tableau_seq_gradient_pal(palette = namesseq[2])((1:100)/100),
+  ggthemes::tableau_seq_gradient_pal(palette = namesseq[3])((1:100)/100),
+  ggthemes::tableau_seq_gradient_pal(palette = namesseq[4])((1:100)/100),
+  ggthemes::tableau_seq_gradient_pal(palette = namesseq[5])((1:100)/100),
+  ggthemes::tableau_seq_gradient_pal(palette = namesseq[6])((1:100)/100),
+  ggthemes::tableau_seq_gradient_pal(palette = namesseq[7])((1:100)/100),
+  ggthemes::tableau_seq_gradient_pal(palette = namesseq[8])((1:100)/100),
+  ggthemes::tableau_seq_gradient_pal(palette = namesseq[9])((1:100)/100),
+  ggthemes::tableau_seq_gradient_pal(palette = namesseq[10])((1:100)/100),
+  ggthemes::tableau_seq_gradient_pal(palette = namesseq[11])((1:100)/100),
+  ggthemes::tableau_seq_gradient_pal(palette = namesseq[12])((1:100)/100),
+  ggthemes::tableau_seq_gradient_pal(palette = namesseq[13])((1:100)/100),
+  ggthemes::tableau_seq_gradient_pal(palette = namesseq[14])((1:100)/100),
+  ggthemes::tableau_seq_gradient_pal(palette = namesseq[15])((1:100)/100),
+  ggthemes::tableau_seq_gradient_pal(palette = namesseq[16])((1:100)/100),
+  labels = c(names, namesdiv, namesseq),
+  main = "ggthemes (tableau)"
+)
+```
+
+```{r eval=FALSE, echo=TRUE}
+# Developmental version
+devtools::install_github("jrnold/ggthemes")
+# CRAN version
+install.packages("ggthemes")
+```
+
 ```{r ghibli, fig.height=28}
 pals::pal.bands(
   ghibli::ghibli_palettes[[1]],
