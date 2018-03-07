@@ -6,6 +6,8 @@
 * Refer to the cpt-city web archive and cptcity package [CRAN](https://cran.r-project.org/web/packages/cptcity/index.html)
 * reference the swatches package [github](https://github.com/hrbrmstr/swatches)
 * Added ggpomological package [github](https://github.com/gadenbuie/ggpomological)
+* Added ggthemes palettes [CRAN](https://cran.rstudio.com/web/packages/ggthemes/) [github](https://github.com/jrnold/ggthemes)
+* Added canva palettes from within ggthemes.
 
 # 2018-03-02
 

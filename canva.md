@@ -14,19 +14,19 @@ Table of Contents
     -   [Sequential color palettes](#sequential-color-palettes)
     -   [Diverging color palettes](#diverging-color-palettes)
     -   [Qualitative color palettes](#qualitative-color-palettes)
-    -   [Canva colors](canvas.md)
+    -   [Canva palettes](canva.md)
 -   [News](NEWS.md)
 
-### Canva colors
+### Canva palattes
 
 All of these palettes are avaliable with `ggthemes` package `ggthemes::canva_palettes` and `ggthemes::canva_pal()`.
 
-![](man/figures/type-sorted-canva1-1.png)
+![](man/figures/canva-canva1-1.png)
 
-![](man/figures/type-sorted-canva2-1.png)
+![](man/figures/canva-canva2-1.png)
 
-![](man/figures/type-sorted-canva3-1.png)
+![](man/figures/canva-canva3-1.png)
 
-![](man/figures/type-sorted-canva4-1.png)
+![](man/figures/canva-canva4-1.png)
 
-![](man/figures/type-sorted-canva5-1.png)
+![](man/figures/canva-canva5-1.png)

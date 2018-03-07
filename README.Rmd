@@ -31,7 +31,7 @@ Table of Contents
     * [Sequential color palettes](type-sorted-palettes.md#sequential-color-palettes)
     * [Diverging color palettes](type-sorted-palettes.md#diverging-color-palettes)
     * [Qualitative color palettes](type-sorted-palettes.md#qualitative-color-palettes)
-    * [Canva colors](canvas.md)
+    * [Canva palettes](canva.md)
   * [News](NEWS.md)
 
 ## Blogposts and other resources
