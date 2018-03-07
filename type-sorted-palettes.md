@@ -14,6 +14,7 @@ Table of Contents
     -   [Sequential color palettes](#sequential-color-palettes)
     -   [Diverging color palettes](#diverging-color-palettes)
     -   [Qualitative color palettes](#qualitative-color-palettes)
+    -   [Canva colors](canvas.md)
 -   [News](NEWS.md)
 
 ### Sequential color palettes

@@ -1,0 +1,227 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r setup, include=FALSE}
+library(knitr)
+opts_chunk$set(echo = FALSE, fig.width = 7,
+               fig.path = "man/figures/type-sorted-")
+knit_hooks$set(optipng = hook_optipng)
+opts_chunk$set("optipng" = "-o5", cache = TRUE)
+```
+
+## Palettes sorted by type (Sequential/Diverging/Qualitative)
+
+Table of Contents
+=================
+  * [Main page](README.md#comprehensive-list-of-color-palettes-in-r)
+  * [Blogposts and other resources](README.md#blogposts-and-other-resources)
+  * [Generative packages](README.md#generative-packages)
+  * [Honorable mentions](README.md#honorable-mentions)
+  * [Palettes sorted by Package (alphabetically)](README.md#palettes-sorted-by-package-alphabetically)
+    * [Sequential color palettes](#sequential-color-palettes)
+    * [Diverging color palettes](#diverging-color-palettes)
+    * [Qualitative color palettes](#qualitative-color-palettes)
+    * [Canva colors](canvas.md)
+  * [News](NEWS.md)
+
+### Canva colors
+
+All of these palettes are avaliable with `ggthemes` package `ggthemes::canva_palettes` and `ggthemes::canva_pal()`.
+
+```{r canva1, fig.height=31}
+names <- names(ggthemes::canva_palettes)
+
+pals::pal.bands(
+  ggthemes::canva_palettes[[1]],
+  ggthemes::canva_palettes[[2]],
+  ggthemes::canva_palettes[[3]],
+  ggthemes::canva_palettes[[4]],
+  ggthemes::canva_palettes[[5]],
+  ggthemes::canva_palettes[[6]],
+  ggthemes::canva_palettes[[7]],
+  ggthemes::canva_palettes[[8]],
+  ggthemes::canva_palettes[[9]],
+  ggthemes::canva_palettes[[10]],
+  ggthemes::canva_palettes[[11]],
+  ggthemes::canva_palettes[[12]],
+  ggthemes::canva_palettes[[13]],
+  ggthemes::canva_palettes[[14]],
+  ggthemes::canva_palettes[[15]],
+  ggthemes::canva_palettes[[16]],
+  ggthemes::canva_palettes[[17]],
+  ggthemes::canva_palettes[[18]],
+  ggthemes::canva_palettes[[19]],
+  ggthemes::canva_palettes[[20]],
+  ggthemes::canva_palettes[[21]],
+  ggthemes::canva_palettes[[22]],
+  ggthemes::canva_palettes[[23]],
+  ggthemes::canva_palettes[[24]],
+  ggthemes::canva_palettes[[25]],
+  ggthemes::canva_palettes[[26]],
+  ggthemes::canva_palettes[[27]],
+  ggthemes::canva_palettes[[28]],
+  ggthemes::canva_palettes[[29]],
+  ggthemes::canva_palettes[[30]],
+  labels = names[1:30],
+  main = "Canva 1-30"
+)
+```
+
+```{r canva2, fig.height=31}
+names <- names(ggthemes::canva_palettes)
+
+pals::pal.bands(
+  ggthemes::canva_palettes[[31]],
+  ggthemes::canva_palettes[[32]],
+  ggthemes::canva_palettes[[33]],
+  ggthemes::canva_palettes[[34]],
+  ggthemes::canva_palettes[[35]],
+  ggthemes::canva_palettes[[36]],
+  ggthemes::canva_palettes[[37]],
+  ggthemes::canva_palettes[[38]],
+  ggthemes::canva_palettes[[39]],
+  ggthemes::canva_palettes[[40]],
+  ggthemes::canva_palettes[[41]],
+  ggthemes::canva_palettes[[42]],
+  ggthemes::canva_palettes[[43]],
+  ggthemes::canva_palettes[[44]],
+  ggthemes::canva_palettes[[45]],
+  ggthemes::canva_palettes[[46]],
+  ggthemes::canva_palettes[[47]],
+  ggthemes::canva_palettes[[48]],
+  ggthemes::canva_palettes[[49]],
+  ggthemes::canva_palettes[[50]],
+  ggthemes::canva_palettes[[51]],
+  ggthemes::canva_palettes[[52]],
+  ggthemes::canva_palettes[[53]],
+  ggthemes::canva_palettes[[54]],
+  ggthemes::canva_palettes[[55]],
+  ggthemes::canva_palettes[[56]],
+  ggthemes::canva_palettes[[57]],
+  ggthemes::canva_palettes[[58]],
+  ggthemes::canva_palettes[[59]],
+  ggthemes::canva_palettes[[60]],
+  labels = names[31:60],
+  main = "Canva 31-60"
+)
+```
+
+```{r canva3, fig.height=31}
+names <- names(ggthemes::canva_palettes)
+
+pals::pal.bands(
+  ggthemes::canva_palettes[[61]],
+  ggthemes::canva_palettes[[62]],
+  ggthemes::canva_palettes[[63]],
+  ggthemes::canva_palettes[[64]],
+  ggthemes::canva_palettes[[65]],
+  ggthemes::canva_palettes[[66]],
+  ggthemes::canva_palettes[[67]],
+  ggthemes::canva_palettes[[68]],
+  ggthemes::canva_palettes[[69]],
+  ggthemes::canva_palettes[[70]],
+  ggthemes::canva_palettes[[71]],
+  ggthemes::canva_palettes[[72]],
+  ggthemes::canva_palettes[[73]],
+  ggthemes::canva_palettes[[74]],
+  ggthemes::canva_palettes[[75]],
+  ggthemes::canva_palettes[[76]],
+  ggthemes::canva_palettes[[77]],
+  ggthemes::canva_palettes[[78]],
+  ggthemes::canva_palettes[[79]],
+  ggthemes::canva_palettes[[80]],
+  ggthemes::canva_palettes[[81]],
+  ggthemes::canva_palettes[[82]],
+  ggthemes::canva_palettes[[83]],
+  ggthemes::canva_palettes[[84]],
+  ggthemes::canva_palettes[[85]],
+  ggthemes::canva_palettes[[86]],
+  ggthemes::canva_palettes[[87]],
+  ggthemes::canva_palettes[[88]],
+  ggthemes::canva_palettes[[89]],
+  ggthemes::canva_palettes[[90]],
+  labels = names[61:90],
+  main = "Canva 61-90"
+)
+```
+
+```{r canva4, fig.height=31}
+names <- names(ggthemes::canva_palettes)
+
+pals::pal.bands(
+  ggthemes::canva_palettes[[91]],
+  ggthemes::canva_palettes[[92]],
+  ggthemes::canva_palettes[[93]],
+  ggthemes::canva_palettes[[94]],
+  ggthemes::canva_palettes[[95]],
+  ggthemes::canva_palettes[[96]],
+  ggthemes::canva_palettes[[97]],
+  ggthemes::canva_palettes[[98]],
+  ggthemes::canva_palettes[[99]],
+  ggthemes::canva_palettes[[100]],
+  ggthemes::canva_palettes[[101]],
+  ggthemes::canva_palettes[[102]],
+  ggthemes::canva_palettes[[103]],
+  ggthemes::canva_palettes[[104]],
+  ggthemes::canva_palettes[[105]],
+  ggthemes::canva_palettes[[106]],
+  ggthemes::canva_palettes[[107]],
+  ggthemes::canva_palettes[[108]],
+  ggthemes::canva_palettes[[109]],
+  ggthemes::canva_palettes[[110]],
+  ggthemes::canva_palettes[[111]],
+  ggthemes::canva_palettes[[112]],
+  ggthemes::canva_palettes[[113]],
+  ggthemes::canva_palettes[[114]],
+  ggthemes::canva_palettes[[115]],
+  ggthemes::canva_palettes[[116]],
+  ggthemes::canva_palettes[[117]],
+  ggthemes::canva_palettes[[118]],
+  ggthemes::canva_palettes[[119]],
+  ggthemes::canva_palettes[[120]],
+  labels = names[91:120],
+  main = "Canva 91-120"
+)
+```
+
+```{r canva5, fig.height=31}
+names <- names(ggthemes::canva_palettes)
+
+pals::pal.bands(
+  ggthemes::canva_palettes[[121]],
+  ggthemes::canva_palettes[[122]],
+  ggthemes::canva_palettes[[123]],
+  ggthemes::canva_palettes[[124]],
+  ggthemes::canva_palettes[[125]],
+  ggthemes::canva_palettes[[126]],
+  ggthemes::canva_palettes[[127]],
+  ggthemes::canva_palettes[[128]],
+  ggthemes::canva_palettes[[129]],
+  ggthemes::canva_palettes[[130]],
+  ggthemes::canva_palettes[[131]],
+  ggthemes::canva_palettes[[132]],
+  ggthemes::canva_palettes[[133]],
+  ggthemes::canva_palettes[[134]],
+  ggthemes::canva_palettes[[135]],
+  ggthemes::canva_palettes[[136]],
+  ggthemes::canva_palettes[[137]],
+  ggthemes::canva_palettes[[138]],
+  ggthemes::canva_palettes[[139]],
+  ggthemes::canva_palettes[[140]],
+  ggthemes::canva_palettes[[141]],
+  ggthemes::canva_palettes[[142]],
+  ggthemes::canva_palettes[[143]],
+  ggthemes::canva_palettes[[144]],
+  ggthemes::canva_palettes[[145]],
+  ggthemes::canva_palettes[[146]],
+  ggthemes::canva_palettes[[147]],
+  ggthemes::canva_palettes[[148]],
+  ggthemes::canva_palettes[[149]],
+  ggthemes::canva_palettes[[150]],
+  labels = names[121:150],
+  main = "Canva 121-150"
+)
+```

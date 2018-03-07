@@ -21,6 +21,7 @@ Table of Contents
     -   [Sequential color palettes](type-sorted-palettes.md#sequential-color-palettes)
     -   [Diverging color palettes](type-sorted-palettes.md#diverging-color-palettes)
     -   [Qualitative color palettes](type-sorted-palettes.md#qualitative-color-palettes)
+    -   [Canva colors](canvas.md)
 -   [News](NEWS.md)
 
 Blogposts and other resources
@@ -76,6 +77,12 @@ Many of the palettes in sports related palettes have a very limited number of co
 -   [colorr](https://cran.r-project.org/web/packages/colorr/index.html) Color palettes for EPL, MLB, NBA, NHL, and NFL teams.
 
 -   [beanumber/teamcolors](https://github.com/beanumber/teamcolors) An R package providing color palettes for pro sports teams.
+
+### Canva palettes
+
+The `ggthemes` package include the 150 four-color palettes from the [canva.com](canva.com). Doe to the size and limited number of colors in the palettes these palettes will be featured on their own page and only once.
+
+-   [Canva colors](canvas.md)
 
 Palettes sorted by Package (alphabetically)
 -------------------------------------------
