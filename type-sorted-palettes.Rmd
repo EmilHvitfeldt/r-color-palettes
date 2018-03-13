@@ -1017,6 +1017,23 @@ pals::pal.bands(
 install.packages("Polychrome")
 ```
 
+```{r quickpalette, fig.height=6}
+pals::pal.bands(
+  quickpalette::qp_art[[1]],
+  quickpalette::qp_art[[2]],
+  quickpalette::qp_art[[3]],
+  quickpalette::qp_art[[4]],
+  quickpalette::qp_art[[5]],
+  labels = names(quickpalette::qp_art),
+  main = "quickpalette"
+)
+```
+
+```{r eval=FALSE, echo=TRUE}
+# Developmental version
+devtools::install_github("EmilHvitfeldt/quickpalette")
+```
+
 ```{r rcartocolorqua, fig.height=7}
 name <- rcartocolor::cartocolors$Name
 pals::pal.bands(

@@ -8,6 +8,7 @@
 * Added ggpomological package [github](https://github.com/gadenbuie/ggpomological)
 * Added ggthemes palettes [CRAN](https://cran.rstudio.com/web/packages/ggthemes/) [github](https://github.com/jrnold/ggthemes)
 * Added canva palettes from within ggthemes.
+* Adding quickpalette [github](https://github.com/EmilHvitfeldt/quickpalette)
 
 # 2018-03-02
 

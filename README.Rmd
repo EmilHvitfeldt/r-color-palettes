@@ -44,6 +44,7 @@ Here is a collection of material on the use and creation of color palettes in r.
 - [Generating a Custom Color Palette Function in R](https://quantdev.ssri.psu.edu/tutorials/generating-custom-color-palette-function-r)
 - [How to build a color palette from any image with R and k-means algo](http://www.milanor.net/blog/build-color-palette-from-image-with-paletter/)
 - [How to Read, Inspect, and Manipulate Color Swatch Files](https://github.com/hrbrmstr/swatches)
+- [extract palettes from images and text](https://github.com/EmilHvitfeldt/quickpalette)
 
 ## Generative packages
 
@@ -710,6 +711,23 @@ pals::pal.bands(
 ```{r eval=FALSE, echo=TRUE}
 # CRAN version
 install.packages("Polychrome")
+```
+
+```{r quickpalette, fig.height=6}
+pals::pal.bands(
+  quickpalette::qp_art[[1]],
+  quickpalette::qp_art[[2]],
+  quickpalette::qp_art[[3]],
+  quickpalette::qp_art[[4]],
+  quickpalette::qp_art[[5]],
+  labels = names(quickpalette::qp_art),
+  main = "quickpalette"
+)
+```
+
+```{r eval=FALSE, echo=TRUE}
+# Developmental version
+devtools::install_github("EmilHvitfeldt/quickpalette")
 ```
 
 ```{r rcartocolor, fig.height=35}

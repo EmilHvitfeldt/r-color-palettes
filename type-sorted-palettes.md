@@ -369,6 +369,13 @@ install.packages("pals")
 install.packages("Polychrome")
 ```
 
+![](man/figures/type-sorted-quickpalette-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("EmilHvitfeldt/quickpalette")
+```
+
 ![](man/figures/type-sorted-rcartocolorqua-1.png)
 
 ``` r
