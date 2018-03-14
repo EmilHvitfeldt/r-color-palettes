@@ -57,6 +57,42 @@ When creating color palettes certain website have also provided valuable
 -   [Data color picker](https://learnui.design/tools/data-color-picker.html)
 -   [i want hue](http://tools.medialab.sciences-po.fr/iwanthue/)
 
+Perception of color palettes
+----------------------------
+
+Selecting a color palette requires a number of different considerations. Within these considerations is
+
+-   the palette retains its integrity when printed in black and white
+-   people with colorblindness are able to understand it
+
+In the following I have outlined a couple of those problems
+
+### Printing in black and white
+
+While most of the palettes presented here contains a wide variety of colors. While that is compelling, you need to remember that your product might be printed in black and white one day, and you should pick a palette that allows for interpretation if that is the case.
+
+first example is the `rainbow` palette from the `grDevices` package with its colorful display. However as we see here would it be horrible if used for black and white printing since different colors are mapped to the same shade of grey.
+
+![](man/figures/README-unnamed-chunk-1-1.png)
+
+A related problem happens with the standard color palette used in `ggplot2` since that color is picked to have constant chroma and luminance thus yielding the same shade of grey when desaturated.
+
+![](man/figures/README-unnamed-chunk-2-1.png)
+
+One of the continuous palette that satisfy this criteria is the well known `viridis` palettes.
+
+![](man/figures/README-unnamed-chunk-3-1.png)
+
+To test if the palette you want to use will be distorted when in black and white, use the `colorspace::desaturate()` to desaturate it.
+
+### Colorblindness
+
+Another thing you have to take into consideration when picking a palette is how it would be viewed by a person who is [color blind](https://en.wikipedia.org/wiki/Color_blindness). To visualize the effect of color blindness on our palettes we will turn to two packages. The `dichromat` package can simulate color blindness on individual color and then also entire palettes like so in this `rainbow` palette:
+
+![](man/figures/README-unnamed-chunk-4-1.png)
+
+Another package that can provide helpful is the amazing [colorblindr](https://github.com/clauswilke/colorblindr) package that is able to simulate color blindness to `ggplot` objects them self.
+
 Honorable mentions
 ------------------
 
