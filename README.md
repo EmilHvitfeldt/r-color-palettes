@@ -16,6 +16,9 @@ Table of Contents
 -   [Main page](#comprehensive-list-of-color-palettes-in-r)
 -   [Blogposts and other resources](#blogposts-and-other-resources)
 -   [Generative packages](#generative-packages)
+-   [Perception of color palettes](#perception-of-color-palettes)
+    -   [Printing in black and white](#printing-in-black-and-white)
+    -   [Color blindness](#color-blindness)
 -   [Honorable mentions](#honorable-mentions)
 -   [Palettes sorted by Package (alphabetically)](#palettes-sorted-by-package-alphabetically)
     -   [Sequential color palettes](type-sorted-palettes.md#sequential-color-palettes)
@@ -85,7 +88,7 @@ One of the continuous palette that satisfy this criteria is the well known `viri
 
 To test if the palette you want to use will be distorted when in black and white, use the `colorspace::desaturate()` to desaturate it.
 
-### Colorblindness
+### Color blindness
 
 Another thing you have to take into consideration when picking a palette is how it would be viewed by a person who is [color blind](https://en.wikipedia.org/wiki/Color_blindness). To visualize the effect of color blindness on our palettes we will turn to two packages. The `dichromat` package can simulate color blindness on individual color and then also entire palettes like so in this `rainbow` palette:
 

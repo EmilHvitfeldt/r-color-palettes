@@ -9,6 +9,7 @@
 * Added ggthemes palettes [CRAN](https://cran.rstudio.com/web/packages/ggthemes/) [github](https://github.com/jrnold/ggthemes)
 * Added canva palettes from within ggthemes.
 * Adding quickpalette [github](https://github.com/EmilHvitfeldt/quickpalette)
+* Added section about colorblindness and printing in black/white
 
 # 2018-03-02
 
