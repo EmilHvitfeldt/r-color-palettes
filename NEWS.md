@@ -8,8 +8,9 @@
 * Added ggpomological package [github](https://github.com/gadenbuie/ggpomological)
 * Added ggthemes palettes [CRAN](https://cran.rstudio.com/web/packages/ggthemes/) [github](https://github.com/jrnold/ggthemes)
 * Added canva palettes from within ggthemes.
-* Adding quickpalette [github](https://github.com/EmilHvitfeldt/quickpalette)
+* Added quickpalette [github](https://github.com/EmilHvitfeldt/quickpalette)
 * Added section about colorblindness and printing in black/white
+* Added mention of developmental farver package [github](https://github.com/thomasp85/farver) by [thomasp85](https://twitter.com/thomasp85)
 
 # 2018-03-02
 

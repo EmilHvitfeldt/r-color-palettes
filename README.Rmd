@@ -48,6 +48,7 @@ Here is a collection of material on the use and creation of color palettes in r.
 - [How to build a color palette from any image with R and k-means algo](http://www.milanor.net/blog/build-color-palette-from-image-with-paletter/)
 - [How to Read, Inspect, and Manipulate Color Swatch Files](https://github.com/hrbrmstr/swatches)
 - [extract palettes from images and text](https://github.com/EmilHvitfeldt/quickpalette)
+- [Fast Vectorised Colour Conversion and Comparison](https://github.com/thomasp85/farver)
 
 ## Generative packages
 
