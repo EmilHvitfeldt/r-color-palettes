@@ -1,3 +1,6 @@
+# April
+* Added newly added mschart palette from quickpalette [github](https://github.com/EmilHvitfeldt/quickpalette)
+
 # March
 
 * Added Dichromat package [CRAN](https://cran.r-project.org/web/packages/dichromat/index.html)

@@ -372,7 +372,9 @@ install.packages("pals")
 install.packages("Polychrome")
 ```
 
-![](man/figures/type-sorted-quickpalette-1.png)
+![](man/figures/type-sorted-quickpalettequa-1.png)
+
+![](man/figures/type-sorted-quickpalette_mschartqua-1.png)
 
 ``` r
 # Developmental version

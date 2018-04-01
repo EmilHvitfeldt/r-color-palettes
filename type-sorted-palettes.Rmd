@@ -1020,7 +1020,7 @@ pals::pal.bands(
 install.packages("Polychrome")
 ```
 
-```{r quickpalette, fig.height=6}
+```{r quickpalettequa, fig.height=6}
 pals::pal.bands(
   quickpalette::qp_art[[1]],
   quickpalette::qp_art[[2]],
@@ -1029,6 +1029,25 @@ pals::pal.bands(
   quickpalette::qp_art[[5]],
   labels = names(quickpalette::qp_art),
   main = "quickpalette"
+)
+```
+
+```{r quickpalette_mschartqua, fig.height=13}
+pals::pal.bands(
+  quickpalette::mschart[[1]],
+  quickpalette::mschart[[2]],
+  quickpalette::mschart[[3]],
+  quickpalette::mschart[[4]],
+  quickpalette::mschart[[5]],
+  quickpalette::mschart[[6]],
+  quickpalette::mschart[[7]],
+  quickpalette::mschart[[8]],
+  quickpalette::mschart[[9]],
+  quickpalette::mschart[[10]],
+  quickpalette::mschart[[11]],
+  quickpalette::mschart[[12]],
+  labels = names(quickpalette::mschart),
+  main = "quickpalette - mschart"
 )
 ```
 

@@ -305,6 +305,8 @@ install.packages("Polychrome")
 
 ![](man/figures/README-quickpalette-1.png)
 
+![](man/figures/README-quickpalette_mschart-1.png)
+
 ``` r
 # Developmental version
 devtools::install_github("EmilHvitfeldt/quickpalette")
