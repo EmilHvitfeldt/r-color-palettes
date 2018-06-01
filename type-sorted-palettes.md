@@ -164,6 +164,15 @@ install.packages("RColorBrewer")
 install.packages("Redmonder")
 ```
 
+![](man/figures/type-sorted-scicoseq-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("thomasp85/scico")
+# CRAN version
+install.packages("scico")
+```
+
 ![](man/figures/type-sorted-viridisseq-1.png)
 
 ``` r
@@ -271,6 +280,15 @@ install.packages("RColorBrewer")
 ``` r
 # CRAN version
 install.packages("Redmonder")
+```
+
+![](man/figures/type-sorted-scicodiv-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("thomasp85/scico")
+# CRAN version
+install.packages("scico")
 ```
 
 ### Qualitative color palettes

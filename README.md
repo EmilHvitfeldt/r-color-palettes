@@ -38,6 +38,7 @@ Here is a collection of material on the use and creation of color palettes in r.
 -   [How to create a color palette in R with more than 15 colors with ggplot2](https://github.com/duttashi/visualize/issues/19)
 -   [Generating a Custom Color Palette Function in R](https://quantdev.ssri.psu.edu/tutorials/generating-custom-color-palette-function-r)
 -   [How to build a color palette from any image with R and k-means algo](http://www.milanor.net/blog/build-color-palette-from-image-with-paletter/)
+-   [Why choice of colour is important beyond aesthtic considerations and how the quality of a palette might be assesed](https://www.data-imaginist.com/2018/scico-and-the-colour-conundrum/)
 
 Color manipulation packages
 ---------------------------
@@ -355,6 +356,15 @@ install.packages("Redmonder")
 ``` r
 # Developmental version
 devtools::install_github("alyssafrazee/RSkittleBrewer")
+```
+
+![](man/figures/README-scico-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("thomasp85/scico")
+# CRAN version
+install.packages("scico")
 ```
 
 ![](man/figures/README-viridis-1.png)

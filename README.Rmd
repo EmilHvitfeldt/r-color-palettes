@@ -47,6 +47,7 @@ Here is a collection of material on the use and creation of color palettes in r.
 - [How to create a color palette in R with more than 15 colors with ggplot2 ](https://github.com/duttashi/visualize/issues/19)
 - [Generating a Custom Color Palette Function in R](https://quantdev.ssri.psu.edu/tutorials/generating-custom-color-palette-function-r)
 - [How to build a color palette from any image with R and k-means algo](http://www.milanor.net/blog/build-color-palette-from-image-with-paletter/)
+- [Why choice of colour is important beyond aesthtic considerations and how the quality of a palette might be assesed](https://www.data-imaginist.com/2018/scico-and-the-colour-conundrum/)
 
 ## Color manipulation packages 
 
@@ -1023,6 +1024,39 @@ pals::pal.bands(RSkittleBrewer::RSkittleBrewer("original"),
 ```{r eval=FALSE, echo=TRUE}
 # Developmental version
 devtools::install_github("alyssafrazee/RSkittleBrewer")
+```
+
+```{r scico, fig.height=18}
+pal_names <- names(scico:::palettes)
+
+pals::pal.bands(
+  scico::scico(100, palette = pal_names[1]),
+  scico::scico(100, palette = pal_names[2]),
+  scico::scico(100, palette = pal_names[3]),
+  scico::scico(100, palette = pal_names[4]),
+  scico::scico(100, palette = pal_names[5]),
+  scico::scico(100, palette = pal_names[6]),
+  scico::scico(100, palette = pal_names[7]),
+  scico::scico(100, palette = pal_names[8]),
+  scico::scico(100, palette = pal_names[9]),
+  scico::scico(100, palette = pal_names[10]),
+  scico::scico(100, palette = pal_names[11]),
+  scico::scico(100, palette = pal_names[12]),
+  scico::scico(100, palette = pal_names[13]),
+  scico::scico(100, palette = pal_names[14]),
+  scico::scico(100, palette = pal_names[15]),
+  scico::scico(100, palette = pal_names[16]),
+  scico::scico(100, palette = pal_names[17]),
+  labels = pal_names, 
+  main = "scico"
+)
+```
+
+```{r eval=FALSE, echo=TRUE}
+# Developmental version
+devtools::install_github("thomasp85/scico")
+# CRAN version
+install.packages("scico")
 ```
 
 ```{r viridis, fig.height=6}
