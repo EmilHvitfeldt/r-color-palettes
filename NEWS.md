@@ -1,3 +1,6 @@
+# May
+* Added cartography package [CRAN](https://cran.r-project.org/web/packages/cartography/index.html) [github](https://github.com/riatelab/cartography)
+
 # April
 * Added newly added mschart palette from quickpalette [github](https://github.com/EmilHvitfeldt/quickpalette)
 

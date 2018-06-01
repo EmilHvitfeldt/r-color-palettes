@@ -29,6 +29,15 @@ Table of Contents
 devtools::install_github("awhstin/awtools")
 ```
 
+![](man/figures/type-sorted-cartographyseq-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("riatelab/cartography")
+# CRAN version
+install.packages("cartography")
+```
+
 ![](man/figures/type-sorted-dichromatseq-1.png)
 
 ``` r
@@ -270,6 +279,15 @@ install.packages("Redmonder")
 ``` r
 # Developmental version
 devtools::install_github("awhstin/awtools")
+```
+
+![](man/figures/type-sorted-cartographyqua-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("riatelab/cartography")
+# CRAN version
+install.packages("cartography")
 ```
 
 ![](man/figures/type-sorted-dichromatqua-1.png)

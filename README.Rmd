@@ -187,6 +187,36 @@ pals::pal.bands(
 devtools::install_github("awhstin/awtools")
 ```
 
+```{r cartography, fig.height=17}
+pals::pal.bands(
+  cartography::carto.pal(1, 10),
+  cartography::carto.pal(2, 10),
+  cartography::carto.pal(3, 10),
+  cartography::carto.pal(4, 10),
+  cartography::carto.pal(5, 10),
+  cartography::carto.pal(6, 10),
+  cartography::carto.pal(7, 10),
+  cartography::carto.pal(8, 10),
+  cartography::carto.pal(9, 10),
+  cartography::carto.pal(10, 10),
+  cartography::carto.pal(11, 10),
+  cartography::carto.pal(12, 10),
+  cartography::carto.pal(13, 10),
+  cartography::carto.pal(14, 10),
+  cartography::carto.pal(15, 10),
+  cartography::carto.pal(16, 10),
+  labels = cartography::carto.pal.info(),
+  main = "cartography"
+)
+```
+
+```{r eval=FALSE, echo=TRUE}
+# Developmental version
+devtools::install_github("riatelab/cartography")
+# CRAN version
+install.packages("cartography")
+```
+
 ```{r dichromat, fig.height=18}
 pals::pal.bands(
   dichromat::colorschemes[[1]],

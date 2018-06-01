@@ -135,6 +135,15 @@ Palettes sorted by Package (alphabetically)
 devtools::install_github("awhstin/awtools")
 ```
 
+![](man/figures/README-cartography-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("riatelab/cartography")
+# CRAN version
+install.packages("cartography")
+```
+
 ![](man/figures/README-dichromat-1.png)
 
 ``` r
