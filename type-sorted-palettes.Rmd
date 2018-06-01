@@ -18,6 +18,7 @@ Table of Contents
 =================
   * [Main page](README.md#comprehensive-list-of-color-palettes-in-r)
   * [Blogposts and other resources](README.md#blogposts-and-other-resources)
+  * [Color manipulation packages](README.md#color-manipulation-packages)
   * [Generative packages](README.md#generative-packages)
   * [Perception of color palettes](README.md#perception-of-color-palettes)
     * [Printing in black and white](README.md#printing-in-black-and-white)
