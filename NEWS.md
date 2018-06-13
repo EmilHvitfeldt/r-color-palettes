@@ -1,4 +1,5 @@
 # June
+* Added LaCroixColoR package [github](https://github.com/johannesbjork/LaCroixColoR)
 * Added NineteenEightyR package [github](https://github.com/m-clark/NineteenEightyR)
 * Added visibly package [github](https://github.com/m-clark/visibly)
 * Added jcolors package [CRAN](https://cran.r-project.org/web/packages/jcolors/index.html) [github](https://github.com/jaredhuling/jcolors)

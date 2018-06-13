@@ -393,6 +393,13 @@ devtools::install_github("jaredhuling/jcolors")
 install.packages("jcolors")
 ```
 
+![](man/figures/type-sorted-LaCroixColoRqua-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("johannesbjork/LaCroixColoR")
+```
+
 ![](man/figures/type-sorted-NineteenEightyRqua-1.png)
 
 ``` r

@@ -1053,6 +1053,41 @@ devtools::install_github("jaredhuling/jcolors")
 install.packages("jcolors")
 ```
 
+```{r LaCroixColoRqua, fig.height=22}
+pal_names <- names(LaCroixColoR::lacroix_palettes)
+
+pals::pal.bands(
+  as.character(LaCroixColoR::lacroix_palette(pal_names[1], 6)),
+  as.character(LaCroixColoR::lacroix_palette(pal_names[2], 6)),
+  as.character(LaCroixColoR::lacroix_palette(pal_names[3], 6)),
+  as.character(LaCroixColoR::lacroix_palette(pal_names[4], 6)),
+  as.character(LaCroixColoR::lacroix_palette(pal_names[5], 6)),
+  as.character(LaCroixColoR::lacroix_palette(pal_names[6], 6)),
+  as.character(LaCroixColoR::lacroix_palette(pal_names[7], 6)),
+  as.character(LaCroixColoR::lacroix_palette(pal_names[8], 6)),
+  as.character(LaCroixColoR::lacroix_palette(pal_names[9], 6)),
+  as.character(LaCroixColoR::lacroix_palette(pal_names[10], 6)),
+  as.character(LaCroixColoR::lacroix_palette(pal_names[11], 6)),
+  as.character(LaCroixColoR::lacroix_palette(pal_names[12], 6)),
+  as.character(LaCroixColoR::lacroix_palette(pal_names[13], 6)),
+  as.character(LaCroixColoR::lacroix_palette(pal_names[14], 6)),
+  as.character(LaCroixColoR::lacroix_palette(pal_names[15], 6)),
+  as.character(LaCroixColoR::lacroix_palette(pal_names[16], 6)),
+  as.character(LaCroixColoR::lacroix_palette(pal_names[17], 6)),
+  as.character(LaCroixColoR::lacroix_palette(pal_names[18], 6)),
+  as.character(LaCroixColoR::lacroix_palette(pal_names[19], 6)),
+  as.character(LaCroixColoR::lacroix_palette(pal_names[20], 6)),
+  as.character(LaCroixColoR::lacroix_palette(pal_names[21], 12, type = "paired")),
+  labels = pal_names,
+  main = "LaCroixColoR"
+)
+```
+
+```{r eval=FALSE, echo=TRUE}
+# Developmental version
+devtools::install_github("johannesbjork/LaCroixColoR")
+```
+
 ```{r NineteenEightyRqua, fig.height=13}
 pals::pal.bands(
   NineteenEightyR::cobra(),

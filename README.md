@@ -226,6 +226,13 @@ devtools::install_github("jaredhuling/jcolors")
 install.packages("jcolors")
 ```
 
+![](man/figures/README-LaCroixColoR-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("johannesbjork/LaCroixColoR")
+```
+
 ![](man/figures/README-NineteenEightyR-1.png)
 
 ``` r
