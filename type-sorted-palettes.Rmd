@@ -1053,6 +1053,34 @@ devtools::install_github("jaredhuling/jcolors")
 install.packages("jcolors")
 ```
 
+```{r NineteenEightyRqua, fig.height=13}
+pals::pal.bands(
+  NineteenEightyR::cobra(),
+  NineteenEightyR::electronic_night(),
+  NineteenEightyR::hotpink(),
+  NineteenEightyR::malibu(),
+  NineteenEightyR::miami1(),
+  NineteenEightyR::miami2(),
+  NineteenEightyR::seventies_aint_done_yet(),
+  NineteenEightyR::sonny(),
+  NineteenEightyR::sunset1(),
+  NineteenEightyR::sunset2(),
+  NineteenEightyR::sunset3(),
+  NineteenEightyR::youngturqs(),
+  labels = c("cobra", "electronic_night", "hotpink", "malibu", "miami1", 
+             "miami2", "seventies_aint_done_yet", "sonny", "sunset1", 
+             "sunset2", "sunset3", "youngturqs"),
+  main = "NineteenEightyR"
+)
+```
+
+```{r eval=FALSE, echo=TRUE}
+# Developmental version
+devtools::install_github("m-clark/NineteenEightyR")
+# CRAN version
+install.packages("NineteenEightyR")
+```
+
 ```{r nordqua, fig.height=12}
 pals::pal.bands(
   nord::nord_palettes[[3]],

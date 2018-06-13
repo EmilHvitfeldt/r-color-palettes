@@ -393,6 +393,15 @@ devtools::install_github("jaredhuling/jcolors")
 install.packages("jcolors")
 ```
 
+![](man/figures/type-sorted-NineteenEightyRqua-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("m-clark/NineteenEightyR")
+# CRAN version
+install.packages("NineteenEightyR")
+```
+
 ![](man/figures/type-sorted-nordqua-1.png)
 
 ``` r
