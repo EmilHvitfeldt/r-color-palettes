@@ -1123,6 +1123,19 @@ devtools::install_github("sjmgarnier/viridis")
 install.packages("viridis")
 ```
 
+```{r visibly, fig.height=2.5}
+pals::pal.bands(
+  as.character(visibly::palettes$Plotly),
+  labels = c("Plotly"), 
+  main = "visibly"
+)
+```
+
+```{r eval=FALSE, echo=TRUE}
+# Developmental version
+devtools::install_github("m-clark/visibly")
+```
+
 ```{r wesanderson, fig.height=16}
 pals::pal.bands(
   wesanderson::wes_palettes[[1]],

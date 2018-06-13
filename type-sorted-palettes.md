@@ -475,6 +475,13 @@ install.packages("Redmonder")
 devtools::install_github("alyssafrazee/RSkittleBrewer")
 ```
 
+![](man/figures/type-sorted-visiblyqua-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("m-clark/visibly")
+```
+
 ![](man/figures/type-sorted-wesandersonqua-1.png)
 
 ``` r

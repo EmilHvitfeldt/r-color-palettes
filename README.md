@@ -387,6 +387,13 @@ devtools::install_github("sjmgarnier/viridis")
 install.packages("viridis")
 ```
 
+![](man/figures/README-visibly-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("m-clark/visibly")
+```
+
 ![](man/figures/README-wesanderson-1.png)
 
 ``` r
