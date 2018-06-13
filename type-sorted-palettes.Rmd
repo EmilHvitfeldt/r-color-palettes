@@ -179,6 +179,47 @@ pals::pal.bands(
 install.packages("grDevices")
 ```
 
+```{r jcolors-discreteseq, fig.height=4}
+pals::pal.bands(
+  jcolors::jcolors(palette = "pal10"),
+  jcolors::jcolors(palette = "pal11"),
+  jcolors::jcolors(palette = "pal12"),
+  show.names = FALSE,
+  labels = c("pal10", "pal11", "pal12"),
+  main = "jcolors (discrete)"
+)
+```
+
+```{r eval=FALSE, echo=TRUE}
+# Developmental version
+devtools::install_github("jaredhuling/jcolors")
+# CRAN version
+install.packages("jcolors")
+```
+
+```{r jcolors-continseq, fig.height=9}
+pals::pal.bands(
+  jcolors::jcolors_contin(palette = "default"),
+  jcolors::jcolors_contin(palette = "pal2"),
+  jcolors::jcolors_contin(palette = "pal3"),
+  jcolors::jcolors_contin(palette = "pal4"),
+  jcolors::jcolors_contin(palette = "pal10"),
+  jcolors::jcolors_contin(palette = "pal11"),
+  jcolors::jcolors_contin(palette = "pal12"),
+  jcolors::jcolors_contin(palette = "rainbow"),
+  show.names = FALSE,
+  labels = c("default", "pal2", "pal3", "pal4", "pal10", "pal11", "pal12", "rainbow"),
+  main = "jcolors (continuous)"
+)
+```
+
+```{r eval=FALSE, echo=TRUE}
+# Developmental version
+devtools::install_github("jaredhuling/jcolors")
+# CRAN version
+install.packages("jcolors")
+```
+
 ```{r nordseq, fig.height=4}
 pals::pal.bands(
   nord::nord_palettes[[1]],
@@ -984,6 +1025,32 @@ pals::pal.bands(
 devtools::install_github("ewenme/ghibli")
 # CRAN version
 install.packages("ghibli")
+```
+
+```{r jcolors-discrete, fig.height=11}
+pals::pal.bands(
+  jcolors::jcolors(palette = "default"),
+  jcolors::jcolors(palette = "pal2"),
+  jcolors::jcolors(palette = "pal3"),
+  jcolors::jcolors(palette = "pal4"),
+  jcolors::jcolors(palette = "pal5"),
+  jcolors::jcolors(palette = "pal6"),
+  jcolors::jcolors(palette = "pal7"),
+  jcolors::jcolors(palette = "pal8"),
+  jcolors::jcolors(palette = "pal9"),
+  jcolors::jcolors(palette = "rainbow"),
+  show.names = FALSE,
+  labels = c("default", "pal2", "pal3", "pal4", "pal5", "pal6", "pal7",
+            "pal8", "pal9", "rainbow"),
+  main = "jcolors (discrete)"
+)
+```
+
+```{r eval=FALSE, echo=TRUE}
+# Developmental version
+devtools::install_github("jaredhuling/jcolors")
+# CRAN version
+install.packages("jcolors")
 ```
 
 ```{r nordqua, fig.height=12}

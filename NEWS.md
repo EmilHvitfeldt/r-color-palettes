@@ -1,3 +1,6 @@
+# June
+* Added jcolors package [CRAN](https://cran.r-project.org/web/packages/jcolors/index.html) [github](https://github.com/jaredhuling/jcolors)
+
 # May
 * Added cartography package [CRAN](https://cran.r-project.org/web/packages/cartography/index.html) [github](https://github.com/riatelab/cartography)
 * Added scico package [CRAN](https://cran.r-project.org/web/packages/scico/index.html) [github](https://github.com/thomasp85/scico)

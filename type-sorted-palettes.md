@@ -71,6 +71,24 @@ install.packages("ggthemes")
 install.packages("grDevices")
 ```
 
+![](man/figures/type-sorted-jcolors-discreteseq-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("jaredhuling/jcolors")
+# CRAN version
+install.packages("jcolors")
+```
+
+![](man/figures/type-sorted-jcolors-continseq-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("jaredhuling/jcolors")
+# CRAN version
+install.packages("jcolors")
+```
+
 ![](man/figures/type-sorted-nordseq-1.png)
 
 ``` r
@@ -364,6 +382,15 @@ devtools::install_github("gadenbuie/ggpomological")
 devtools::install_github("ewenme/ghibli")
 # CRAN version
 install.packages("ghibli")
+```
+
+![](man/figures/type-sorted-jcolors-discrete-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("jaredhuling/jcolors")
+# CRAN version
+install.packages("jcolors")
 ```
 
 ![](man/figures/type-sorted-nordqua-1.png)

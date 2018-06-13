@@ -215,6 +215,17 @@ install.packages("ghibli")
 install.packages("grDevices")
 ```
 
+![](man/figures/README-jcolors-discrete-1.png)
+
+![](man/figures/README-jcolors-contin-1.png)
+
+``` r
+# Developmental version
+devtools::install_github("jaredhuling/jcolors")
+# CRAN version
+install.packages("jcolors")
+```
+
 ![](man/figures/README-nord-1.png)
 
 ``` r
