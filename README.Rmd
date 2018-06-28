@@ -74,6 +74,7 @@ When creating color palettes certain website have also provided valuable
 - [paletton](http://paletton.com/)
 - [Data color picker](https://learnui.design/tools/data-color-picker.html)
 - [i want hue](http://tools.medialab.sciences-po.fr/iwanthue/)
+- [Viz Palette](http://projects.susielu.com/viz-palette)
 
 ## Perception of color palettes
 
