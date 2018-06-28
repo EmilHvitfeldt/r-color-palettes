@@ -130,7 +130,7 @@ Many of the palettes in sports related palettes have a very limited number of co
 
 The `ggthemes` package include the 150 four-color palettes from the [canva.com](canva.com). Doe to the size and limited number of colors in the palettes these palettes will be featured on their own page and only once.
 
--   [Canva colors](canvas.md)
+-   [Canva colors](canva.md)
 
 Palettes sorted by Package (alphabetically)
 -------------------------------------------
