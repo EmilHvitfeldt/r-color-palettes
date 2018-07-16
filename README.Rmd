@@ -62,6 +62,7 @@ Here is a collection of material on the use and creation of color palettes in r.
 - [Generating a Custom Color Palette Function in R](https://quantdev.ssri.psu.edu/tutorials/generating-custom-color-palette-function-r)
 - [How to build a color palette from any image with R and k-means algo](http://www.milanor.net/blog/build-color-palette-from-image-with-paletter/)
 - [Why choice of colour is important beyond aesthtic considerations and how the quality of a palette might be assesed](https://www.data-imaginist.com/2018/scico-and-the-colour-conundrum/)
+- [Viz palette: colors in action](http://projects.susielu.com/viz-palette)
 
 ## Color manipulation packages 
 
