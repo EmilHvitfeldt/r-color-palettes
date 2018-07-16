@@ -12,8 +12,6 @@ knit_hooks$set(optipng = hook_optipng)
 opts_chunk$set("optipng" = "-o5", cache = TRUE)
 ```
 
-## Palettes sorted by type (Sequential/Diverging/Qualitative)
-
 Table of Contents
 =================
   * [Main page](README.md#comprehensive-list-of-color-palettes-in-r)
@@ -25,6 +23,7 @@ Table of Contents
     * [Diverging color palettes](#diverging-color-palettes)
     * [Qualitative color palettes](#qualitative-color-palettes)
     * [Canva palettes](canva.md)
+    * [Palettetown palettes](palettetown.md)
   * [News](NEWS.md)
 
 ### Canva palattes

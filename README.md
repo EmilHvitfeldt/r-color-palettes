@@ -44,6 +44,7 @@ GitHub:
       - [Qualitative color
         palettes](type-sorted-palettes.md#qualitative-color-palettes)
       - [Canva palettes](canva.md)
+      - [Palettetown palettes](palettetown.md)
   - [News](NEWS.md)
 
 ## Blogposts and other resources
@@ -64,7 +65,8 @@ palettes in r.
   - [Why choice of colour is important beyond aesthtic considerations
     and how the quality of a palette might be
     assesed](https://www.data-imaginist.com/2018/scico-and-the-colour-conundrum/)
-  - [Viz palette: colors in action](http://projects.susielu.com/viz-palette)
+  - [Viz palette: colors in
+    action](http://projects.susielu.com/viz-palette)
 
 ## Color manipulation packages
 

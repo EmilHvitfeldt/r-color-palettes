@@ -50,6 +50,7 @@ Table of Contents
     * [Diverging color palettes](type-sorted-palettes.md#diverging-color-palettes)
     * [Qualitative color palettes](type-sorted-palettes.md#qualitative-color-palettes)
     * [Canva palettes](canva.md)
+    * [Palettetown palettes](palettetown.md)
   * [News](NEWS.md)
 
 ## Blogposts and other resources

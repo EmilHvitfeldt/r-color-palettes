@@ -1,0 +1,90 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r setup, include=FALSE}
+library(knitr)
+opts_chunk$set(echo = FALSE, fig.width = 7,
+               fig.path = "man/figures/palettetown-")
+knit_hooks$set(optipng = hook_optipng)
+opts_chunk$set("optipng" = "-o5", cache = TRUE)
+```
+
+Table of Contents
+=================
+  * [Main page](README.md#comprehensive-list-of-color-palettes-in-r)
+  * [Blogposts and other resources](README.md#blogposts-and-other-resources)
+  * [Generative packages](README.md#generative-packages)
+  * [Honorable mentions](README.md#honorable-mentions)
+  * [Palettes sorted by Package (alphabetically)](README.md#palettes-sorted-by-package-alphabetically)
+    * [Sequential color palettes](#sequential-color-palettes)
+    * [Diverging color palettes](#diverging-color-palettes)
+    * [Qualitative color palettes](#qualitative-color-palettes)
+    * [Canva palettes](canva.md)
+    * [Palettetown palettes](palettetown.md)
+  * [News](NEWS.md)
+  
+## Palettetown palettes
+
+```{r include=FALSE}
+library(paletteer)
+source("R/list_plotter.R")
+```
+
+```{r palettetown1, fig.height=51}
+package_name <- "palettetown"
+pal_data <- all_names(package_name)
+
+list_plotter(pal_data$color[1:50], pal_data$names[1:50], glue::glue("{package_name}: 1:50"))
+```
+
+```{r palettetown2, fig.height=51}
+package_name <- "palettetown"
+pal_data <- all_names(package_name)
+
+list_plotter(pal_data$color[51:100], pal_data$names[51:100], glue::glue("{package_name}: 51:100"))
+```
+
+```{r palettetown3, fig.height=51}
+package_name <- "palettetown"
+pal_data <- all_names(package_name)
+
+list_plotter(pal_data$color[101:150], pal_data$names[101:150], glue::glue("{package_name}: 101:150"))
+```
+
+```{r palettetown4, fig.height=51}
+package_name <- "palettetown"
+pal_data <- all_names(package_name)
+
+list_plotter(pal_data$color[151:200], pal_data$names[151:200], glue::glue("{package_name}: 151:200"))
+```
+
+```{r palettetown5, fig.height=51}
+package_name <- "palettetown"
+pal_data <- all_names(package_name)
+
+list_plotter(pal_data$color[201:250], pal_data$names[201:250], glue::glue("{package_name}: 201:250"))
+```
+
+```{r palettetown6, fig.height=51}
+package_name <- "palettetown"
+pal_data <- all_names(package_name)
+
+list_plotter(pal_data$color[251:300], pal_data$names[251:300], glue::glue("{package_name}: 251:300"))
+```
+
+```{r palettetown7, fig.height=51}
+package_name <- "palettetown"
+pal_data <- all_names(package_name)
+
+list_plotter(pal_data$color[301:350], pal_data$names[301:350], glue::glue("{package_name}: 301:350"))
+```
+
+```{r palettetown8, fig.height=40}
+package_name <- "palettetown"
+pal_data <- all_names(package_name)
+
+list_plotter(pal_data$color[351:389], pal_data$names[351:389], glue::glue("{package_name}: 351:389"))
+```

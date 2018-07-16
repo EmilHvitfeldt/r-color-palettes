@@ -17,17 +17,20 @@
       - [Palettetown palettes](palettetown.md)
   - [News](NEWS.md)
 
-### Canva palattes
+## Palettetown palettes
 
-All of these palettes are avaliable with `ggthemes` package
-`ggthemes::canva_palettes` and `ggthemes::canva_pal()`.
+![](man/figures/palettetown-palettetown1-1.png)<!-- -->
 
-![](man/figures/canva-canva1-1.png)<!-- -->
+![](man/figures/palettetown-palettetown2-1.png)<!-- -->
 
-![](man/figures/canva-canva2-1.png)<!-- -->
+![](man/figures/palettetown-palettetown3-1.png)<!-- -->
 
-![](man/figures/canva-canva3-1.png)<!-- -->
+![](man/figures/palettetown-palettetown4-1.png)<!-- -->
 
-![](man/figures/canva-canva4-1.png)<!-- -->
+![](man/figures/palettetown-palettetown5-1.png)<!-- -->
 
-![](man/figures/canva-canva5-1.png)<!-- -->
+![](man/figures/palettetown-palettetown6-1.png)<!-- -->
+
+![](man/figures/palettetown-palettetown7-1.png)<!-- -->
+
+![](man/figures/palettetown-palettetown8-1.png)<!-- -->
