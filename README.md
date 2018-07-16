@@ -293,8 +293,6 @@ devtools::install_github("johannesbjork/LaCroixColoR")
 ``` r
 # Developmental version
 devtools::install_github("m-clark/NineteenEightyR")
-# CRAN version
-install.packages("NineteenEightyR")
 ```
 
 ![](man/figures/README-nord-1.png)<!-- -->

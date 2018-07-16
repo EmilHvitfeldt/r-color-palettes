@@ -366,8 +366,6 @@ list_plotter(pal_data$color, pal_data$names, package_name)
 ```{r eval=FALSE, echo=TRUE}
 # Developmental version
 devtools::install_github("m-clark/NineteenEightyR")
-# CRAN version
-install.packages("NineteenEightyR")
 ```
 
 ```{r nord, fig.height=17}
