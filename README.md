@@ -125,18 +125,20 @@ its colorful display. However as we see here would it be horrible if
 used for black and white printing since different colors are mapped to
 the same shade of grey.
 
-![](man/figures/README-unnamed-chunk-3-1.png)<!-- -->
+![](man/figures/README-unnamed-chunk-4-1.png)<!-- -->
 
 A related problem happens with the standard color palette used in
 `ggplot2` since that color is picked to have constant chroma and
-luminance thus yielding the same shade of grey when desaturated.
+luminance thus yielding the same shade of grey when desaturated. (This
+palette is no longer the default for continuous variables in `ggplot2`
+after version 3.0.0)
 
-![](man/figures/README-unnamed-chunk-4-1.png)<!-- -->
+![](man/figures/README-unnamed-chunk-5-1.png)<!-- -->
 
 One of the continuous palette that satisfy this criteria is the well
 known `viridis` palettes.
 
-![](man/figures/README-unnamed-chunk-5-1.png)<!-- -->
+![](man/figures/README-unnamed-chunk-6-1.png)<!-- -->
 
 To test if the palette you want to use will be distorted when in black
 and white, use the `colorspace::desaturate()` to desaturate it.
@@ -150,7 +152,7 @@ effect of color blindness on our palettes we will turn to two packages.
 The `dichromat` package can simulate color blindness on individual color
 and then also entire palettes like so in this `rainbow` palette:
 
-![](man/figures/README-unnamed-chunk-6-1.png)<!-- -->
+![](man/figures/README-unnamed-chunk-7-1.png)<!-- -->
 
 Another package that can provide helpful is the amazing
 [colorblindr](https://github.com/clauswilke/colorblindr) package that is

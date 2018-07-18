@@ -12,6 +12,11 @@ knit_hooks$set(optipng = hook_optipng)
 opts_chunk$set("optipng" = "-o5")
 ```
 
+```{r include=FALSE}
+library(paletteer)
+source("R/list_plotter.R")
+```
+
 # Comprehensive list of color palettes in r
 
 The goal of this repository is to have a one stop destination for anyone looking for a color palette to use in r. If you would like to help/contribute please feel free post an issue, PR or send a email to [emilhhvitfeldt@gmail.com](mailto:emilhhvitfeldt@gmail.com).
@@ -108,37 +113,31 @@ While most of the palettes presented here contains a wide variety of colors. Whi
 First example is the `rainbow` palette from the `grDevices` package with its colorful display. However as we see here would it be horrible if used for black and white printing since different colors are mapped to the same shade of grey.
 
 ```{r, fig.height=3}
-pal <- rainbow(32)
-pals::pal.bands(
-  pal,
-  colorspace::desaturate(pal),
-  labels = c("Normal", "desaturated"),
-  main = "Normal rainbow palette"
-)
+pal_data <- list(names = c("Normal", "desaturated"),
+                 color = list(rainbow(32),
+                              colorspace::desaturate(rainbow(32))))
+
+list_plotter(pal_data$color, pal_data$names, "Normal rainbow palette")
 ```
 
-A related problem happens with the standard color palette used in `ggplot2` since that color is picked to have constant chroma and luminance thus yielding the same shade of grey when desaturated.
+A related problem happens with the standard color palette used in `ggplot2` since that color is picked to have constant chroma and luminance thus yielding the same shade of grey when desaturated. (This palette is no longer the default for continuous variables in `ggplot2` after version 3.0.0)
 
 ```{r fig.height=3}
-pal <- scales::hue_pal()(256)
-pals::pal.bands(
-  pal,
-  colorspace::desaturate(pal),
-  labels = c("Normal", "desaturated"),
-  main = "Standard color palette for ggplot2"
-)
+pal_data <- list(names = c("Normal", "desaturated"),
+                 color = list(scales::hue_pal()(256),
+                              colorspace::desaturate(scales::hue_pal()(256))))
+
+list_plotter(pal_data$color, pal_data$names, "Standard color palette for ggplot2")
 ```
 
 One of the continuous palette that satisfy this criteria is the well known `viridis` palettes.
 
 ```{r fig.height=3}
-pal <- viridis::inferno(32)
-pals::pal.bands(
-  pal,
-  colorspace::desaturate(pal),
-  labels = c("Normal", "desaturated"),
-  main = "viridis::inferno"
-)
+pal_data <- list(names = c("Normal", "desaturated"),
+                 color = list(viridis::inferno(256),
+                              colorspace::desaturate(viridis::inferno(256))))
+
+list_plotter(pal_data$color, pal_data$names, "viridis::inferno")
 ```
 
 To test if the palette you want to use will be distorted when in black and white, use the `colorspace::desaturate()` to desaturate it. 
@@ -148,15 +147,13 @@ To test if the palette you want to use will be distorted when in black and white
 Another thing you have to take into consideration when picking a palette is how it would be viewed by a person who is [color blind](https://en.wikipedia.org/wiki/Color_blindness). To visualize the effect of color blindness on our palettes we will turn to two packages. The `dichromat` package can simulate color blindness on individual color and then also entire palettes like so in this `rainbow` palette:
 
 ```{r}
-pal <- rainbow(32)
-pals::pal.bands(
-  pal,
-  dichromat::dichromat(pal, type = "deutan"),
-  dichromat::dichromat(pal, type = "protan"),
-  dichromat::dichromat(pal, type = "tritan"),
-  labels = c("Normal", "deuteranopia", "protanopia", "tritanopia"),
-  main = "The effect of color blindness on the rainbow"
-)
+pal_data <- list(names = c("Normal", "deuteranopia", "protanopia", "tritanopia"),
+                 color = list(rainbow(256),
+                              dichromat::dichromat(rainbow(256), type = "deutan"),
+                              dichromat::dichromat(rainbow(256), type = "protan"),
+                              dichromat::dichromat(rainbow(256), type = "tritan")))
+
+list_plotter(pal_data$color, pal_data$names, "The effect of color blindness on the rainbow palette")
 ```
 
 Another package that can provide helpful is the amazing [colorblindr](https://github.com/clauswilke/colorblindr) package that is able to simulate color blindness to `ggplot` objects them self.
@@ -191,12 +188,6 @@ The `ggthemes` package include the 150 four-color palettes from the [canva.com](
 - [Canva colors](canva.md)
 
 ## Palettes sorted by Package (alphabetically)
-
-```{r include=FALSE}
-library(paletteer)
-source("R/list_plotter.R")
-```
-
 
 ```{r awtools, fig.height=6}
 package_name <- "awtools"
