@@ -332,20 +332,16 @@ list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r jcolors-contin, fig.height=9}
-pals::pal.bands(
-  jcolors::jcolors_contin(palette = "default"),
-  jcolors::jcolors_contin(palette = "pal2"),
-  jcolors::jcolors_contin(palette = "pal3"),
-  jcolors::jcolors_contin(palette = "pal4"),
-  jcolors::jcolors_contin(palette = "pal10"),
-  jcolors::jcolors_contin(palette = "pal11"),
-  jcolors::jcolors_contin(palette = "pal12"),
-  jcolors::jcolors_contin(palette = "rainbow"),
-  show.names = FALSE,
-  labels = c("default", "pal2", "pal3", "pal4", "pal10", "pal11", "pal12", "rainbow"),
-  main = "jcolors (continuous)"
-)
+package_name <- "jcolors"
+palette_names <- c("default", "pal2", "pal3", "pal4", "pal10", "pal11", "pal12", "rainbow")
+
+pal_data <- list(names = palette_names,
+                 color = purrr::map(palette_names, ~ jcolors::jcolors_contin(palette = .x)(256)))
+
+list_plotter(pal_data$color, pal_data$names, "jcolors (continuous)")
 ```
+
+the `jcolors` continuous palettes are currently not available in the `paletteer` package. 
 
 ```{r eval=FALSE, echo=TRUE}
 # Developmental version

@@ -276,6 +276,9 @@ install.packages("grDevices")
 
 ![](man/figures/README-jcolors-contin-1.png)<!-- -->
 
+the `jcolors` continuous palettes are currently not available in the
+`paletteer` package.
+
 ``` r
 # Developmental version
 devtools::install_github("jaredhuling/jcolors")
