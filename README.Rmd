@@ -105,7 +105,7 @@ In the following I have outlined a couple of those problems
 
 While most of the palettes presented here contains a wide variety of colors. While that is compelling, you need to remember that your product might be printed in black and white one day, and you should pick a palette that allows for interpretation if that is the case.  
 
-first example is the `rainbow` palette from the `grDevices` package with its colorful display. However as we see here would it be horrible if used for black and white printing since different colors are mapped to the same shade of grey.
+First example is the `rainbow` palette from the `grDevices` package with its colorful display. However as we see here would it be horrible if used for black and white printing since different colors are mapped to the same shade of grey.
 
 ```{r, fig.height=3}
 pal <- rainbow(32)
@@ -275,9 +275,18 @@ list_plotter(pal_data$color, pal_data$names, package_name)
 devtools::install_github("gadenbuie/ggpomological")
 ```
 
-```{r ggthemes, fig.height=64}
+```{r ggthemes, fig.height=73}
 package_name <- "ggthemes"
-pal_data <- all_names(package_name)
+pal_data_1 <- all_names(package_name)
+pal_data_2 <- all_names("ggthemes_ptol")
+pal_data_3 <- all_names("ggthemes_solarized")
+
+pal_data <- list(names = c(pal_data_1$names,
+                           pal_data_2$names,
+                           pal_data_3$names),
+                 color = c(pal_data_1$color,
+                           pal_data_2$color,
+                           pal_data_3$color))
 
 list_plotter(pal_data$color, pal_data$names, package_name)
 ```

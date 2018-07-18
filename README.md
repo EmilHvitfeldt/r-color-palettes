@@ -120,7 +120,7 @@ colors. While that is compelling, you need to remember that your product
 might be printed in black and white one day, and you should pick a
 palette that allows for interpretation if that is the case.
 
-first example is the `rainbow` palette from the `grDevices` package with
+First example is the `rainbow` palette from the `grDevices` package with
 its colorful display. However as we see here would it be horrible if
 used for black and white printing since different colors are mapped to
 the same shade of grey.
