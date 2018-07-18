@@ -1,6 +1,7 @@
 # July
 * Added reference to paletteer package [github](https://github.com/EmilHvitfeldt/paletteer) [CRAN](https://CRAN.R-project.org/package=paletteer)
 * Added seperate page for all palettetown palettes
+* updated all figures to use new plotting function
 
 # June
 * Added LaCroixColoR package [github](https://github.com/johannesbjork/LaCroixColoR)

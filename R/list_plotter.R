@@ -18,20 +18,37 @@ list_plotter <- function(color_list, names, package_name) {
   }
 }
 
-all_names <- function(package) {
+all_names <- function(package, type = NULL) {
   color_list_d <- character()
   color_list_c <- character()
   color_list_dynamic <- character()
   
-  names_d <- palettes_d_names[which(palettes_d_names$package == package), ]$palette
-  color_list_d <- lapply(names_d, paletteer_d, package = !!package)
+  if(is.null(type)) {
+    names_d <- palettes_d_names[which(palettes_d_names$package == package), ]$palette
+  } else {
+    names_d <- palettes_d_names[intersect(which(palettes_d_names$package == package),
+                                which(palettes_d_names$type == type)), ]$palette
+  }
   
-  names_c <- palettes_c_names[which(palettes_c_names$package == package), ]$palette
+  color_list_d <- lapply(names_d, paletteer_d, package = !!package)
+
+  if(is.null(type)) {
+    names_c <- palettes_c_names[which(palettes_c_names$package == package), ]$palette
+  } else {
+    names_c <- palettes_c_names[intersect(which(palettes_c_names$package == package),
+                                  which(palettes_c_names$type == type)), ]$palette
+  }
+  
   if(length(names_c) > 0) {
     color_list_c <- lapply(names_c, paletteer_c, package = !!package, n = 256)
   }
   
-  which_dynamic <- which(palettes_dynamic_names$package == package)
+  if(is.null(type)) {
+    which_dynamic <- which(palettes_dynamic_names$package == package)
+  } else {
+    which_dynamic <- intersect(which(palettes_dynamic_names$package == package),
+                       which(palettes_dynamic_names$type == type))
+  }
   
   names_dynamic <- palettes_dynamic_names[which_dynamic, ]$palette
   length_dynamic <- palettes_dynamic_names[which_dynamic, ]$length

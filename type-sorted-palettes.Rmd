@@ -12,6 +12,11 @@ knit_hooks$set(optipng = hook_optipng)
 opts_chunk$set("optipng" = "-o5", cache = TRUE)
 ```
 
+```{r include=FALSE}
+library(paletteer)
+source("R/list_plotter.R")
+```
+
 ## Palettes sorted by type (Sequential/Diverging/Qualitative)
 
 Table of Contents
@@ -34,37 +39,11 @@ Table of Contents
 
 ### Sequential color palettes
 
-```{r awtoolsseq, fig.height=3}
-pals::pal.bands(awtools::a_palette,
-                awtools::a_spalette,
-                labels = c("a_palette", "a_spalette"),
-                main = "awtools")
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("awhstin/awtools")
-```
-
 ```{r cartographyseq, fig.height=15}
-pals::pal.bands(
-  cartography::carto.pal(1, 10),
-  cartography::carto.pal(2, 10),
-  cartography::carto.pal(3, 10),
-  cartography::carto.pal(4, 10),
-  cartography::carto.pal(5, 10),
-  cartography::carto.pal(6, 10),
-  cartography::carto.pal(7, 10),
-  cartography::carto.pal(8, 10),
-  cartography::carto.pal(9, 10),
-  cartography::carto.pal(10, 10),
-  cartography::carto.pal(11, 10),
-  cartography::carto.pal(12, 10),
-  cartography::carto.pal(13, 10),
-  cartography::carto.pal(14, 10),
-  labels = cartography::carto.pal.info()[1:14],
-  main = "cartography"
-)
+package_name <- "cartography"
+pal_data <- all_names(package_name, "sequential")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -75,13 +54,10 @@ install.packages("cartography")
 ```
 
 ```{r dichromatseq, fig.height=4}
-pals::pal.bands(
-  dichromat::colorschemes[[13]],
-  dichromat::colorschemes[[14]],
-  dichromat::colorschemes[[17]],
-  labels = names(dichromat::colorschemes)[c(13:14, 17)],
-  main = "dichromat"
-)
+package_name <- "dichromat"
+pal_data <- all_names(package_name, "sequential")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -91,35 +67,10 @@ install.packages("dichromat")
 
 
 ```{r ggsciseq, fig.height=20}
-pals::pal.bands(
-  ggsci::pal_material("red")(10),
-  ggsci::pal_material("pink")(10),
-  ggsci::pal_material("purple")(10),
-  ggsci::pal_material("deep-purple")(10),
-  ggsci::pal_material("indigo")(10),
-  ggsci::pal_material("blue")(10),
-  ggsci::pal_material("light-blue")(10),
-  ggsci::pal_material("cyan")(10),
-  ggsci::pal_material("teal")(10),
-  ggsci::pal_material("green")(10),
-  ggsci::pal_material("light-green")(10),
-  ggsci::pal_material("lime")(10),
-  ggsci::pal_material("yellow")(10),
-  ggsci::pal_material("amber")(10),
-  ggsci::pal_material("orange")(10),
-  ggsci::pal_material("deep-orange")(10),
-  ggsci::pal_material("brown")(10),
-  ggsci::pal_material("grey")(10),
-  ggsci::pal_material("blue-grey")(10),
-  labels = c("material-red", "material-pink", "material-purple", 
-             "material-deep-purple", "material-indigo", "material-blue",
-             "material-light-blue", "material-cyan", "material-teal", 
-             "material-green", "material-light-green", "material-lime",
-             "material-yellow", "material-amber", "material-orange",
-             "material-deep-orange", "material-brown", "material-grey",
-             "material-blue-grey"),
-  main = "ggsci"
-)
+package_name <- "ggsci"
+pal_data <- all_names(package_name, "sequential")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -129,34 +80,11 @@ devtools::install_github("road2stat/ggsci")
 install.packages("ggsci")
 ```
 
-```{r ggthemestableauseq, fig.height=18}
-names <- c(names(ggthemes::ggthemes_data$tableau$colors),
-        "tableau10", "tableau10light", 
-        "purplegray6", "bluered6", "greenorange6")
-namesdiv <- names(ggthemes::ggthemes_data[["tableau"]][["diverging"]])
-namesseq <- names(ggthemes::ggthemes_data$tableau$sequential)
+```{r ggthemestableauseq, fig.height=19}
+package_name <- "ggthemes"
+pal_data <- all_names(package_name, "sequential")
 
-pals::pal.bands(
-  ggthemes::tableau_color_pal(palette = names[9])(20),
-  ggthemes::tableau_seq_gradient_pal(palette = namesseq[1])((1:100)/100),
-  ggthemes::tableau_seq_gradient_pal(palette = namesseq[2])((1:100)/100),
-  ggthemes::tableau_seq_gradient_pal(palette = namesseq[3])((1:100)/100),
-  ggthemes::tableau_seq_gradient_pal(palette = namesseq[4])((1:100)/100),
-  ggthemes::tableau_seq_gradient_pal(palette = namesseq[5])((1:100)/100),
-  ggthemes::tableau_seq_gradient_pal(palette = namesseq[6])((1:100)/100),
-  ggthemes::tableau_seq_gradient_pal(palette = namesseq[7])((1:100)/100),
-  ggthemes::tableau_seq_gradient_pal(palette = namesseq[8])((1:100)/100),
-  ggthemes::tableau_seq_gradient_pal(palette = namesseq[9])((1:100)/100),
-  ggthemes::tableau_seq_gradient_pal(palette = namesseq[10])((1:100)/100),
-  ggthemes::tableau_seq_gradient_pal(palette = namesseq[11])((1:100)/100),
-  ggthemes::tableau_seq_gradient_pal(palette = namesseq[12])((1:100)/100),
-  ggthemes::tableau_seq_gradient_pal(palette = namesseq[13])((1:100)/100),
-  ggthemes::tableau_seq_gradient_pal(palette = namesseq[14])((1:100)/100),
-  ggthemes::tableau_seq_gradient_pal(palette = namesseq[15])((1:100)/100),
-  ggthemes::tableau_seq_gradient_pal(palette = namesseq[16])((1:100)/100),
-  labels = c(names[9], namesseq),
-  main = "ggthemes (tableau)"
-)
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -166,13 +94,11 @@ devtools::install_github("jrnold/ggthemes")
 install.packages("ggthemes")
 ```
 
-```{r grDevicesseq, fig.height=3}
-pals::pal.bands(
-  grDevices::blues9,
-  heat.colors(100),
-  labels = c("blues9", "heat.colors"),
-  main = "grDevices"
-)
+```{r grDevicesseq, fig.height=6}
+package_name <- "grDevices"
+pal_data <- all_names(package_name, "sequential")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -181,14 +107,10 @@ install.packages("grDevices")
 ```
 
 ```{r jcolors-discreteseq, fig.height=4}
-pals::pal.bands(
-  jcolors::jcolors(palette = "pal10"),
-  jcolors::jcolors(palette = "pal11"),
-  jcolors::jcolors(palette = "pal12"),
-  show.names = FALSE,
-  labels = c("pal10", "pal11", "pal12"),
-  main = "jcolors (discrete)"
-)
+package_name <- "jcolors"
+pal_data <- all_names(package_name, "sequential")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -199,20 +121,16 @@ install.packages("jcolors")
 ```
 
 ```{r jcolors-continseq, fig.height=9}
-pals::pal.bands(
-  jcolors::jcolors_contin(palette = "default"),
-  jcolors::jcolors_contin(palette = "pal2"),
-  jcolors::jcolors_contin(palette = "pal3"),
-  jcolors::jcolors_contin(palette = "pal4"),
-  jcolors::jcolors_contin(palette = "pal10"),
-  jcolors::jcolors_contin(palette = "pal11"),
-  jcolors::jcolors_contin(palette = "pal12"),
-  jcolors::jcolors_contin(palette = "rainbow"),
-  show.names = FALSE,
-  labels = c("default", "pal2", "pal3", "pal4", "pal10", "pal11", "pal12", "rainbow"),
-  main = "jcolors (continuous)"
-)
+package_name <- "jcolors"
+palette_names <- c("default", "pal2", "pal3", "pal4", "pal10", "pal11", "pal12", "rainbow")
+
+pal_data <- list(names = palette_names,
+                 color = purrr::map(palette_names, ~ jcolors::jcolors_contin(palette = .x)(256)))
+
+list_plotter(pal_data$color, pal_data$names, "jcolors (continuous)")
 ```
+
+the `jcolors` continuous palettes are currently not available in the `paletteer` package. 
 
 ```{r eval=FALSE, echo=TRUE}
 # Developmental version
@@ -222,13 +140,10 @@ install.packages("jcolors")
 ```
 
 ```{r nordseq, fig.height=4}
-pals::pal.bands(
-  nord::nord_palettes[[1]],
-  nord::nord_palettes[[2]],
-  nord::nord_palettes[[10]],
-  labels = names(nord::nord_palettes)[c(1, 2, 10)],
-  main = "nord"
-)
+package_name <- "nord"
+pal_data <- all_names(package_name, "sequential")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -238,15 +153,11 @@ devtools::install_github("jkaupp/nord")
 install.packages("nord")
 ```
 
-```{r oompaBaseseq, fig.height=5}
-pals::pal.bands(
-  oompaBase::redscale(100),
-  oompaBase::greenscale(100),
-  oompaBase::bluescale(100),
-  oompaBase::greyscale(100),
-  labels = c("redscale", "greenscale", "bluescale", "greyscale"),
-  main = "oompaBase"
-)
+```{r oompaBaseseq, fig.height=6}
+package_name <- "oompaBase"
+pal_data <- all_names(package_name, "sequential")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -255,14 +166,10 @@ install.packages("oompaBase")
 ```
 
 ```{r palrseq, fig.height=5}
-pals::pal.bands(
-  palr::bathyDeepPal(100),
-  palr::chlPal(100),
-  palr::icePal(100),
-  palr::sstPal(100),
-  labels = c("bathyDeepPal", "chlPal", "icePal", "sstPal"),
-  main = "palr"
-)
+package_name <- "palr"
+pal_data <- all_names(package_name, "sequential")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -272,14 +179,12 @@ devtools::install_github("AustralianAntarcticDivision/palr")
 install.packages("palr")
 ```
 
-```{r palscontinuousseq, fig.height=4}
-pals::pal.bands(
-  pals::cubehelix,
-  pals::gnuplot,
-  pals::parula,
-  labels = c("cubehelix", "gnuplot", "parula"),
-  main = "pals (Continuous)"
-)
+```{r palscontinuousseq, fig.height=23}
+package_name <- "pals"
+pal_data <- all_names(package_name, "sequential")
+ids <- !stringr::str_detect(pal_data$names, "kovesi")
+
+list_plotter(pal_data$color[ids], pal_data$names[ids], package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -289,97 +194,12 @@ devtools::install_github("kwstat/pals")
 install.packages("pals")
 ```
 
-```{r palsniccoliseq, fig.height=6}
-pals::pal.bands(
-  pals::cubicyf,
-  pals::cubicl,
-  pals::isol,
-  pals::linearl,
-  pals::linearlhot,
-  labels = c("cubicyf", "cubicl", "isol", "linearl", "linearlhot"),
-  main = "pals (Niccoli)"
-)
-```
+```{r palsniccoliseq, fig.height=38}
+package_name <- "pals"
+pal_data <- all_names(package_name, "sequential")
+ids <- stringr::str_detect(pal_data$names, "kovesi")
 
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("kwstat/pals")
-# CRAN version
-install.packages("pals")
-```
-
-```{r palsoceanseq, fig.height=16}
-pals::pal.bands(
-  pals::ocean.thermal, 
-  pals::ocean.haline, 
-  pals::ocean.solar, 
-  pals::ocean.ice, 
-  pals::ocean.gray,
-  pals::ocean.oxy, 
-  pals::ocean.deep, 
-  pals::ocean.dense, 
-  pals::ocean.algae, 
-  pals::ocean.matter,
-  pals::ocean.turbid, 
-  pals::ocean.speed, 
-  pals::ocean.amp, 
-  pals::ocean.tempo, 
-  pals::ocean.phase,
-  labels = c("thermal", "haline", "solar", "ice", "gray", "oxy", "deep", "dense",
-             "algae", "matter", "turbid", "speed", "amp", "tempo", "phase"),
-  main = "pals (Ocean)"
-)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("kwstat/pals")
-# CRAN version
-install.packages("pals")
-```
-
-```{r palskovosiseq, message=FALSE, fig.height=25}
-library(pals)
-pal.bands(
-  kovesi.cyclic_grey_15_85_c0, kovesi.cyclic_grey_15_85_c0_s25,
-  kovesi.cyclic_mrybm_35_75_c68, kovesi.cyclic_mrybm_35_75_c68_s25,
-  kovesi.cyclic_mygbm_30_95_c78, kovesi.cyclic_mygbm_30_95_c78_s25,
-  kovesi.cyclic_wrwbw_40_90_c42, kovesi.cyclic_wrwbw_40_90_c42_s25,
-  kovesi.diverging_isoluminant_cjm_75_c23, kovesi.diverging_isoluminant_cjm_75_c24,
-  kovesi.diverging_isoluminant_cjo_70_c25, kovesi.diverging_linear_bjr_30_55_c53,
-  kovesi.diverging_linear_bjy_30_90_c45, kovesi.diverging_rainbow_bgymr_45_85_c67,
-  kovesi.diverging_gkr_60_10_c40,
-  kovesi.diverging_gwr_55_95_c38, kovesi.diverging_gwv_55_95_c39,
-  kovesi.isoluminant_cgo_70_c39, kovesi.isoluminant_cgo_80_c38,
-  kovesi.isoluminant_cm_70_c39, kovesi.rainbow_bgyr_35_85_c72, kovesi.rainbow_bgyr_35_85_c73,
-  kovesi.rainbow_bgyrm_35_85_c69, kovesi.rainbow_bgyrm_35_85_c71,
-  main = "pals (Kovesi)"
-)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("kwstat/pals")
-# CRAN version
-install.packages("pals")
-```
-
-```{r palskovisilinearseq, fig.height=22}
-library(pals)
-pal.bands(
-  kovesi.linear_bgy_10_95_c74, kovesi.linear_bgyw_15_100_c67, 
-  kovesi.linear_bgyw_15_100_c68, kovesi.linear_blue_5_95_c73, 
-  kovesi.linear_blue_95_50_c20, kovesi.linear_bmw_5_95_c86,
-  kovesi.linear_bmw_5_95_c89, kovesi.linear_bmy_10_95_c71,
-  kovesi.linear_bmy_10_95_c78, kovesi.linear_gow_60_85_c27,
-  kovesi.linear_gow_65_90_c35, kovesi.linear_green_5_95_c69, 
-  kovesi.linear_grey_0_100_c0, kovesi.linear_grey_10_95_c0,
-  kovesi.linear_kry_5_95_c72, kovesi.linear_kry_5_98_c75,
-  kovesi.linear_kryw_5_100_c64, kovesi.linear_kryw_5_100_c67,
-  kovesi.linear_ternary_blue_0_44_c57, kovesi.linear_ternary_green_0_46_c42,
-  kovesi.linear_ternary_red_0_50_c52,
-  main = "pals (Kovesi linear)"
-)
+list_plotter(pal_data$color[ids], pal_data$names[ids], package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -390,32 +210,10 @@ install.packages("pals")
 ```
 
 ```{r rcartocolorseq, fig.height=22}
-name <- rcartocolor::cartocolors$Name
-pals::pal.bands(
-  rcartocolor::carto_pal(name = name[1]),
-  rcartocolor::carto_pal(name = name[2]),
-  rcartocolor::carto_pal(name = name[16]),
-  rcartocolor::carto_pal(name = name[17]),
-  rcartocolor::carto_pal(name = name[18]),
-  rcartocolor::carto_pal(name = name[19]),
-  rcartocolor::carto_pal(name = name[20]),
-  rcartocolor::carto_pal(name = name[21]),
-  rcartocolor::carto_pal(name = name[22]),
-  rcartocolor::carto_pal(name = name[23]),
-  rcartocolor::carto_pal(name = name[24]),
-  rcartocolor::carto_pal(name = name[25]),
-  rcartocolor::carto_pal(name = name[26]),
-  rcartocolor::carto_pal(name = name[27]),
-  rcartocolor::carto_pal(name = name[28]),
-  rcartocolor::carto_pal(name = name[29]),
-  rcartocolor::carto_pal(name = name[30]),
-  rcartocolor::carto_pal(name = name[31]),
-  rcartocolor::carto_pal(name = name[32]),
-  rcartocolor::carto_pal(name = name[33]),
-  rcartocolor::carto_pal(name = name[34]),
-  labels = name[c(1,2, 16:34)],
-  main = "rcartocolor"
-)
+package_name <- "rcartocolor"
+pal_data <- all_names(package_name, "sequential")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -426,30 +224,10 @@ install.packages("rcartocolor")
 ```
 
 ```{r RColorBrewerseq, fig.height=19}
-name <- rownames(RColorBrewer::brewer.pal.info)
-ncolor <- RColorBrewer::brewer.pal.info$maxcolors
-pals::pal.bands(
-  RColorBrewer::brewer.pal(ncolor[18], name[18]),
-  RColorBrewer::brewer.pal(ncolor[19], name[19]),
-  RColorBrewer::brewer.pal(ncolor[20], name[20]),
-  RColorBrewer::brewer.pal(ncolor[21], name[21]),
-  RColorBrewer::brewer.pal(ncolor[22], name[22]),
-  RColorBrewer::brewer.pal(ncolor[23], name[23]),
-  RColorBrewer::brewer.pal(ncolor[24], name[24]),
-  RColorBrewer::brewer.pal(ncolor[25], name[25]),
-  RColorBrewer::brewer.pal(ncolor[26], name[26]),
-  RColorBrewer::brewer.pal(ncolor[27], name[27]),
-  RColorBrewer::brewer.pal(ncolor[28], name[28]),
-  RColorBrewer::brewer.pal(ncolor[29], name[29]),
-  RColorBrewer::brewer.pal(ncolor[30], name[30]),
-  RColorBrewer::brewer.pal(ncolor[31], name[31]),
-  RColorBrewer::brewer.pal(ncolor[32], name[32]),
-  RColorBrewer::brewer.pal(ncolor[33], name[33]),
-  RColorBrewer::brewer.pal(ncolor[34], name[34]),
-  RColorBrewer::brewer.pal(ncolor[35], name[35]),
-  labels = name[18:35],
-  main = "RColorBrewer"
-)
+package_name <- "RColorBrewer"
+pal_data <- all_names(package_name, "sequential")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -458,22 +236,10 @@ install.packages("RColorBrewer")
 ```
 
 ```{r Redmonderseq, fig.height=11}
-name <- rownames(Redmonder::redmonder.pal.info)
-ncolor <- Redmonder::redmonder.pal.info$maxcolors
-pals::pal.bands(
-  Redmonder::redmonder.pal(ncolor[32], name[32]),
-  Redmonder::redmonder.pal(ncolor[33], name[33]),
-  Redmonder::redmonder.pal(ncolor[34], name[34]),
-  Redmonder::redmonder.pal(ncolor[35], name[35]),
-  Redmonder::redmonder.pal(ncolor[36], name[36]),
-  Redmonder::redmonder.pal(ncolor[37], name[37]),
-  Redmonder::redmonder.pal(ncolor[38], name[38]),
-  Redmonder::redmonder.pal(ncolor[39], name[39]),
-  Redmonder::redmonder.pal(ncolor[40], name[40]),
-  Redmonder::redmonder.pal(ncolor[41], name[41]),
-  labels = name[32:41],
-  main = "Redmonder"
-)
+package_name <- "Redmonder"
+pal_data <- all_names(package_name, "sequential")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -482,23 +248,10 @@ install.packages("Redmonder")
 ```
 
 ```{r scicoseq, fig.height=12}
-pal_names <- names(scico:::palettes)
+package_name <- "scico"
+pal_data <- all_names(package_name, "sequential")
 
-pals::pal.bands(
-  scico::scico(100, palette = pal_names[2]),
-  scico::scico(100, palette = pal_names[5]),
-  scico::scico(100, palette = pal_names[6]),
-  scico::scico(100, palette = pal_names[7]),
-  scico::scico(100, palette = pal_names[8]),
-  scico::scico(100, palette = pal_names[9]),
-  scico::scico(100, palette = pal_names[11]),
-  scico::scico(100, palette = pal_names[12]),
-  scico::scico(100, palette = pal_names[13]),
-  scico::scico(100, palette = pal_names[15]),
-  scico::scico(100, palette = pal_names[16]),
-  labels = pal_names[c(2, 5, 6, 7, 8, 9, 11, 12, 13, 15, 16)], 
-  main = "scico"
-)
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -509,15 +262,10 @@ install.packages("scico")
 ```
 
 ```{r viridisseq, fig.height=6}
-pals::pal.bands(
-  viridis::cividis,
-  viridis::inferno, 
-  viridis::magma, 
-  viridis::plasma,
-  viridis::viridis, 
-  labels = c("civiris", "inferno", "magma", "plasma", "viridis"), 
-  main = "Viridis"
-)
+package_name <- "viridis"
+pal_data <- all_names(package_name, "sequential")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -530,23 +278,10 @@ install.packages("viridis")
 ### Diverging color palettes
 
 ```{r dichromatdiv, fig.height=14}
-pals::pal.bands(
-  dichromat::colorschemes[[1]],
-  dichromat::colorschemes[[2]],
-  dichromat::colorschemes[[3]],
-  dichromat::colorschemes[[4]],
-  dichromat::colorschemes[[5]],
-  dichromat::colorschemes[[6]],
-  dichromat::colorschemes[[7]],
-  dichromat::colorschemes[[8]],
-  dichromat::colorschemes[[9]],
-  dichromat::colorschemes[[10]],
-  dichromat::colorschemes[[11]],
-  dichromat::colorschemes[[12]],
-  dichromat::colorschemes[[16]],
-  labels = names(dichromat::colorschemes)[c(1:12, 6)],
-  main = "dichromat"
-)
+package_name <- "dichromat"
+pal_data <- all_names(package_name, "diverging")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -555,47 +290,10 @@ install.packages("dichromat")
 ```
 
 ```{r ggscidiv, fig.height=2.5}
-pals::pal.bands(
-  ggsci::pal_gsea("default")(12),
-  labels = c("gsea"),
-  main = "ggsci"
-)
-```
+package_name <- "ggsci"
+pal_data <- all_names(package_name, "diverging")
 
-```{r ggthemestableaudiv, fig.height=17}
-names <- c(names(ggthemes::ggthemes_data$tableau$colors),
-        "tableau10", "tableau10light", 
-        "purplegray6", "bluered6", "greenorange6")
-namesdiv <- names(ggthemes::ggthemes_data[["tableau"]][["diverging"]])
-namesseq <- names(ggthemes::ggthemes_data$tableau$sequential)
-
-pals::pal.bands(
-  ggthemes::tableau_div_gradient_pal(palette = namesdiv[1])((1:100)/100),
-  ggthemes::tableau_div_gradient_pal(palette = namesdiv[2])((1:100)/100),
-  ggthemes::tableau_div_gradient_pal(palette = namesdiv[3])((1:100)/100),
-  ggthemes::tableau_div_gradient_pal(palette = namesdiv[4])((1:100)/100),
-  ggthemes::tableau_div_gradient_pal(palette = namesdiv[5])((1:100)/100),
-  ggthemes::tableau_div_gradient_pal(palette = namesdiv[6])((1:100)/100),
-  ggthemes::tableau_div_gradient_pal(palette = namesdiv[7])((1:100)/100),
-  ggthemes::tableau_div_gradient_pal(palette = namesdiv[8])((1:100)/100),
-  ggthemes::tableau_div_gradient_pal(palette = namesdiv[9])((1:100)/100),
-  ggthemes::tableau_div_gradient_pal(palette = namesdiv[10])((1:100)/100),
-  ggthemes::tableau_div_gradient_pal(palette = namesdiv[11])((1:100)/100),
-  ggthemes::tableau_div_gradient_pal(palette = namesdiv[12])((1:100)/100),
-  ggthemes::tableau_div_gradient_pal(palette = namesdiv[13])((1:100)/100),
-  ggthemes::tableau_div_gradient_pal(palette = namesdiv[14])((1:100)/100),
-  ggthemes::tableau_div_gradient_pal(palette = namesdiv[15])((1:100)/100),
-  ggthemes::tableau_div_gradient_pal(palette = namesdiv[16])((1:100)/100),
-  labels = c(namesdiv),
-  main = "ggthemes (tableau)"
-)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("jrnold/ggthemes")
-# CRAN version
-install.packages("ggthemes")
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -605,12 +303,25 @@ devtools::install_github("road2stat/ggsci")
 install.packages("ggsci")
 ```
 
+```{r ggthemestableaudiv, fig.height=17}
+package_name <- "ggthemes"
+pal_data <- all_names(package_name, "diverging")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
+```
+
+```{r eval=FALSE, echo=TRUE}
+# Developmental version
+devtools::install_github("jrnold/ggthemes")
+# CRAN version
+install.packages("ggthemes")
+```
+
 ```{r grDevicesdiv, fig.height=2.5}
-pals::pal.bands(
-  cm.colors(100),
-  labels = c("cm.colors"),
-  main = "grDevices"
-)
+package_name <- "grDevices"
+pal_data <- all_names(package_name, "diverging")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -619,12 +330,10 @@ install.packages("grDevices")
 ```
 
 ```{r norddiv, fig.height=3}
-pals::pal.bands(
-  nord::nord_palettes[[6]],
-  nord::nord_palettes[[7]],
-  labels = names(nord::nord_palettes)[6:7],
-  main = "nord"
-)
+package_name <- "nord"
+pal_data <- all_names(package_name, "diverging")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -635,13 +344,10 @@ install.packages("nord")
 ```
 
 ```{r oompaBasediv, fig.height=4}
-pals::pal.bands(
-  oompaBase::blueyellow(100),
-  oompaBase::cyanyellow(100),
-  oompaBase::redgreen(100),
-  labels = c("blueyellow", "cyanyellow", "redgreen"),
-  main = "oompaBase"
-)
+package_name <- "oompaBase"
+pal_data <- all_names(package_name, "diverging")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -649,30 +355,12 @@ pals::pal.bands(
 install.packages("oompaBase")
 ```
 
-```{r palscontinuousdiv, fig.height=3}
-pals::pal.bands(
-  pals::coolwarm,
-  pals::warmcool,
-  labels = c("coolwarm", "warmcool"),
-  main = "pals (Continuous)", n = 100
-)
-```
+```{r palsoceandiv, fig.height=6}
+package_name <- "pals"
+pal_data <- all_names(package_name, "diverging")
+ids <- !stringr::str_detect(pal_data$names, "kovesi")
 
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("kwstat/pals")
-# CRAN version
-install.packages("pals")
-```
-
-```{r palsoceandiv, fig.height=4}
-pals::pal.bands(
-  pals::ocean.balance, 
-  pals::ocean.delta, 
-  pals::ocean.curl, 
-  labels = c("balance", "delta", "curl"),
-  main = "pals (Ocean)", n = 100
-)
+list_plotter(pal_data$color[ids], pal_data$names[ids], package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -683,17 +371,11 @@ install.packages("pals")
 ```
 
 ```{r palskovosidiv, message=FALSE, fig.height=14}
-library(pals)
-pal.bands(
-  kovesi.diverging_isoluminant_cjm_75_c23, kovesi.diverging_isoluminant_cjm_75_c24,
-  kovesi.diverging_isoluminant_cjo_70_c25, kovesi.diverging_linear_bjr_30_55_c53,
-  kovesi.diverging_linear_bjy_30_90_c45,
-  kovesi.diverging_bkr_55_10_c35, kovesi.diverging_bky_60_10_c30,
-  kovesi.diverging_bwr_40_95_c42, kovesi.diverging_bwr_55_98_c37,
-  kovesi.diverging_cwm_80_100_c22, kovesi.diverging_gkr_60_10_c40,
-  kovesi.diverging_gwr_55_95_c38, kovesi.diverging_gwv_55_95_c39,
-  main = "pals (Kovesi)", n = 100
-)
+package_name <- "pals"
+pal_data <- all_names(package_name, "diverging")
+ids <- stringr::str_detect(pal_data$names, "kovesi")
+
+list_plotter(pal_data$color[ids], pal_data$names[ids], package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -704,18 +386,10 @@ install.packages("pals")
 ```
 
 ```{r rcartocolordiv, fig.height=8}
-name <- rcartocolor::cartocolors$Name
-pals::pal.bands(
-  rcartocolor::carto_pal(name = name[3]),
-  rcartocolor::carto_pal(name = name[4]),
-  rcartocolor::carto_pal(name = name[5]),
-  rcartocolor::carto_pal(name = name[6]),
-  rcartocolor::carto_pal(name = name[7]),
-  rcartocolor::carto_pal(name = name[8]),
-  rcartocolor::carto_pal(name = name[9]),
-  labels = name[3:9],
-  main = "rcartocolor"
-)
+package_name <- "rcartocolor"
+pal_data <- all_names(package_name, "diverging")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -726,21 +400,10 @@ install.packages("rcartocolor")
 ```
 
 ```{r RColorBrewerdiv, fig.height=10}
-name <- rownames(RColorBrewer::brewer.pal.info)
-ncolor <- RColorBrewer::brewer.pal.info$maxcolors
-pals::pal.bands(
-  RColorBrewer::brewer.pal(ncolor[1], name[1]),
-  RColorBrewer::brewer.pal(ncolor[2], name[2]),
-  RColorBrewer::brewer.pal(ncolor[3], name[3]),
-  RColorBrewer::brewer.pal(ncolor[4], name[4]),
-  RColorBrewer::brewer.pal(ncolor[5], name[5]),
-  RColorBrewer::brewer.pal(ncolor[6], name[6]),
-  RColorBrewer::brewer.pal(ncolor[7], name[7]),
-  RColorBrewer::brewer.pal(ncolor[8], name[8]),
-  RColorBrewer::brewer.pal(ncolor[9], name[9]),
-  labels = name[1:9],
-  main = "RColorBrewer"
-)
+package_name <- "RColorBrewer"
+pal_data <- all_names(package_name, "diverging")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -749,19 +412,10 @@ install.packages("RColorBrewer")
 ```
 
 ```{r Redmonderdiv, fig.height=8}
-name <- rownames(Redmonder::redmonder.pal.info)
-ncolor <- Redmonder::redmonder.pal.info$maxcolors
-pals::pal.bands(
-  Redmonder::redmonder.pal(ncolor[1], name[1]),
-  Redmonder::redmonder.pal(ncolor[2], name[2]),
-  Redmonder::redmonder.pal(ncolor[3], name[3]),
-  Redmonder::redmonder.pal(ncolor[4], name[4]),
-  Redmonder::redmonder.pal(ncolor[5], name[5]),
-  Redmonder::redmonder.pal(ncolor[6], name[6]),
-  Redmonder::redmonder.pal(ncolor[7], name[7]),
-  labels = name[1:7],
-  main = "Redmonder"
-)
+package_name <- "Redmonder"
+pal_data <- all_names(package_name, "diverging")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -770,18 +424,10 @@ install.packages("Redmonder")
 ```
 
 ```{r scicodiv, fig.height=7}
-pal_names <- names(scico:::palettes)
+package_name <- "scico"
+pal_data <- all_names(package_name, "diverging")
 
-pals::pal.bands(
-  scico::scico(100, palette = pal_names[1]),
-  scico::scico(100, palette = pal_names[3]),
-  scico::scico(100, palette = pal_names[4]),
-  scico::scico(100, palette = pal_names[10]),
-  scico::scico(100, palette = pal_names[14]),
-  scico::scico(100, palette = pal_names[17]),
-  labels = pal_names[c(1, 3, 4, 10, 14, 17)], 
-  main = "scico"
-)
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -793,15 +439,11 @@ install.packages("scico")
 
 ### Qualitative color palettes
 
-```{r awtoolsqua, fig.height=4}
-pals::pal.bands(
-  awtools::mpalette,
-  awtools::ppalette,
-  awtools::spalette,
-  labels = c("mpalette", "ppalette", 
-             "spalette"),
-  main = "awtools"
-  )
+```{r awtoolsqua, fig.height=6}
+package_name <- "awtools"
+pal_data <- all_names(package_name, "qualitative")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -810,12 +452,10 @@ devtools::install_github("awhstin/awtools")
 ```
 
 ```{r cartographyqua, fig.height=3}
-pals::pal.bands(
-  cartography::carto.pal(15, 10),
-  cartography::carto.pal(16, 10),
-  labels = cartography::carto.pal.info()[15:16],
-  main = "cartography"
-)
+package_name <- "cartography"
+pal_data <- all_names(package_name, "qualitative")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -826,11 +466,10 @@ install.packages("cartography")
 ```
 
 ```{r dichromatqua, fig.height=2.5}
-pals::pal.bands(
-  dichromat::colorschemes[[15]],
-  labels = names(dichromat::colorschemes)[15],
-  main = "dichromat"
-)
+package_name <- "dichromat"
+pal_data <- all_names(package_name, "qualitative")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -839,16 +478,10 @@ install.packages("dichromat")
 ```
 
 ```{r dutchmastersqua, fig.height=7}
-pals::pal.bands(
-  unname(dutchmasters::dutchmasters[[1]]),
-  unname(dutchmasters::dutchmasters[[2]]),
-  unname(dutchmasters::dutchmasters[[3]]),
-  unname(dutchmasters::dutchmasters[[4]]),
-  unname(dutchmasters::dutchmasters[[5]]),
-  unname(dutchmasters::dutchmasters[[6]]),
-  labels = names(dutchmasters::dutchmasters),
-  main = "dutchmasters"
-)
+package_name <- "dutchmasters"
+pal_data <- all_names(package_name, "qualitative")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -857,36 +490,10 @@ devtools::install_github("EdwinTh/dutchmasters")
 ```
 
 ```{r ggsciqua, fig.height=23}
-pals::pal.bands(
-  ggsci::pal_npg("nrc")(10),
-  ggsci::pal_aaas("default")(10),
-  ggsci::pal_nejm("default")(8),
-  ggsci::pal_lancet("lanonc")(9),
-  ggsci::pal_jama("default")(7),
-  ggsci::pal_jco("default")(10),
-  ggsci::pal_ucscgb("default")(26),
-  ggsci::pal_d3("category10")(10),
-  ggsci::pal_d3("category20")(20),
-  ggsci::pal_d3("category20b")(20),
-  ggsci::pal_d3("category20c")(20),
-  ggsci::pal_locuszoom("default")(7),
-  ggsci::pal_igv("default")(51),
-  ggsci::pal_igv("alternating")(2),
-  ggsci::pal_uchicago("default")(9),
-  ggsci::pal_uchicago("light")(9),
-  ggsci::pal_uchicago("dark")(9),
-  ggsci::pal_startrek("uniform")(7),
-  ggsci::pal_tron("legacy")(7),
-  ggsci::pal_futurama("planetexpress")(12),
-  ggsci::pal_rickandmorty("schwifty")(12),
-  ggsci::pal_simpsons("springfield")(16),
-  labels = c("npg", "aaas", "nejm", "lancet", "jama", "jco", "ucscgb", 
-             "d3-category10", "d3-category20", "d3-category20b", 
-             "d3-category20c", "locuszoom", "igv-default", "igv-alternative",
-             "uchicago-default", "uchicago-light", "uchicago-dark", "startrek",
-             "tron", "futurama", "rickandmorty", "simpsoms"),
-  main = "ggsci"
-)
+package_name <- "ggsci"
+pal_data <- all_names(package_name, "qualitative")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -896,73 +503,11 @@ devtools::install_github("road2stat/ggsci")
 install.packages("ggsci")
 ```
 
-```{r ggthemesqua, fig.height=25}
-pals::pal.bands(
-  ggthemes::calc_pal()(12),
-  ggthemes::colorblind_pal()(8),
-  ggthemes::economist_pal()(9),
-  ggthemes::excel_pal(palette = "old")(7),
-  ggthemes::excel_pal(palette = "fill")(7),
-  ggthemes::excel_pal(palette = "new")(10),
-  ggthemes::few_pal(palette = "medium")(7),
-  ggthemes::few_pal(palette = "dark")(7),
-  ggthemes::few_pal(palette = "light")(7),
-  ggthemes::fivethirtyeight_pal()(3),
-  ggthemes::gdocs_pal()(20),
-  ggthemes::hc_pal(palette = "default")(10),
-  ggthemes::hc_pal(palette = "darkunica")(11),
-  ggthemes::ptol_pal()(12),
-  ggthemes::solarized_pal()(8),
-  ggthemes::stata_pal(scheme = "s2color")(15),
-  ggthemes::stata_pal(scheme = "s1rcolor")(15),
-  ggthemes::stata_pal(scheme = "s1color")(15),
-  ggthemes::stata_pal(scheme = "mono")(15),
-  ggthemes::wsj_pal(palette = "rgby")(4),
-  ggthemes::wsj_pal(palette = "red_green")(2),
-  ggthemes::wsj_pal(palette = "black_green")(4),
-  ggthemes::wsj_pal(palette = "dem_rep")(3),
-  ggthemes::wsj_pal(palette = "colors6")(6),
-  labels = c("calc", "colorblind", "economist", "excel-old", "excel-fill",
-             "excel-new", "few-medium", "few-dark", "few-light", 
-             "fivethirtyeight", "gdocs", "hc-default", "hc-darkunica",
-             "ptol", "solarized", "stata-s2color", "stata-s1rcolor",
-             "stata-s1color", "stata-mono", "wsj-rgby", "wsj-red_green",
-             "wsj-black_green", "wsj-dem_rep", "wjs-colors6"),
-  main = "ggthemes"
-)
-```
+```{r ggthemesqua, fig.height=30}
+package_name <- "ggthemes"
+pal_data <- all_names(package_name, "qualitative")
 
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("jrnold/ggthemes")
-# CRAN version
-install.packages("ggthemes")
-```
-
-```{r ggthemestableauqua, fig.height=14}
-names <- c(names(ggthemes::ggthemes_data$tableau$colors),
-        "tableau10", "tableau10light", 
-        "purplegray6", "bluered6", "greenorange6")
-namesdiv <- names(ggthemes::ggthemes_data[["tableau"]][["diverging"]])
-namesseq <- names(ggthemes::ggthemes_data$tableau$sequential)
-
-pals::pal.bands(
-  ggthemes::tableau_color_pal(palette = names[1])(20),
-  ggthemes::tableau_color_pal(palette = names[2])(10),
-  ggthemes::tableau_color_pal(palette = names[3])(5),
-  ggthemes::tableau_color_pal(palette = names[4])(10),
-  ggthemes::tableau_color_pal(palette = names[5])(9),
-  ggthemes::tableau_color_pal(palette = names[6])(12),
-  ggthemes::tableau_color_pal(palette = names[7])(12),
-  ggthemes::tableau_color_pal(palette = names[8])(12),
-  ggthemes::tableau_color_pal(palette = names[10])(10),
-  ggthemes::tableau_color_pal(palette = names[11])(10),
-  ggthemes::tableau_color_pal(palette = names[12])(6),
-  ggthemes::tableau_color_pal(palette = names[13])(6),
-  ggthemes::tableau_color_pal(palette = names[14])(6),
-  labels = c(names[c(1:8, 10:14)]),
-  main = "ggthemes (tableau)"
-)
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -973,13 +518,10 @@ install.packages("ggthemes")
 ```
 
 ```{r ggpomologicalqua, fig.height=3}
-pals::pal.bands(
-  ggpomological:::pomological_palette,
-  unlist(ggpomological:::pomological_base), 
-  labels = c("pomological_palette", "pomological_base"),
-  main = "ggpomological",
-  show.names = FALSE
-)
+package_name <- "ggpomological"
+pal_data <- all_names(package_name, "qualitative")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -988,37 +530,10 @@ devtools::install_github("gadenbuie/ggpomological")
 ```
 
 ```{r ghibliqua, fig.height=28}
-pals::pal.bands(
-  ghibli::ghibli_palettes[[1]],
-  ghibli::ghibli_palettes[[2]],
-  ghibli::ghibli_palettes[[3]],
-  ghibli::ghibli_palettes[[4]],
-  ghibli::ghibli_palettes[[5]],
-  ghibli::ghibli_palettes[[6]],
-  ghibli::ghibli_palettes[[7]],
-  ghibli::ghibli_palettes[[8]],
-  ghibli::ghibli_palettes[[9]],
-  ghibli::ghibli_palettes[[10]],
-  ghibli::ghibli_palettes[[11]],
-  ghibli::ghibli_palettes[[12]],
-  ghibli::ghibli_palettes[[13]],
-  ghibli::ghibli_palettes[[14]],
-  ghibli::ghibli_palettes[[15]],
-  ghibli::ghibli_palettes[[16]],
-  ghibli::ghibli_palettes[[17]],
-  ghibli::ghibli_palettes[[18]],
-  ghibli::ghibli_palettes[[19]],
-  ghibli::ghibli_palettes[[20]],
-  ghibli::ghibli_palettes[[21]],
-  ghibli::ghibli_palettes[[22]],
-  ghibli::ghibli_palettes[[23]],
-  ghibli::ghibli_palettes[[24]],
-  ghibli::ghibli_palettes[[25]],
-  ghibli::ghibli_palettes[[26]],
-  ghibli::ghibli_palettes[[27]],
-  labels = names(ghibli::ghibli_palettes),
-  main = "ghibli"
-)
+package_name <- "ghibli"
+pal_data <- all_names(package_name, "qualitative")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -1029,22 +544,10 @@ install.packages("ghibli")
 ```
 
 ```{r jcolors-discrete, fig.height=11}
-pals::pal.bands(
-  jcolors::jcolors(palette = "default"),
-  jcolors::jcolors(palette = "pal2"),
-  jcolors::jcolors(palette = "pal3"),
-  jcolors::jcolors(palette = "pal4"),
-  jcolors::jcolors(palette = "pal5"),
-  jcolors::jcolors(palette = "pal6"),
-  jcolors::jcolors(palette = "pal7"),
-  jcolors::jcolors(palette = "pal8"),
-  jcolors::jcolors(palette = "pal9"),
-  jcolors::jcolors(palette = "rainbow"),
-  show.names = FALSE,
-  labels = c("default", "pal2", "pal3", "pal4", "pal5", "pal6", "pal7",
-            "pal8", "pal9", "rainbow"),
-  main = "jcolors (discrete)"
-)
+package_name <- "jcolors"
+pal_data <- all_names(package_name, "qualitative")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -1055,33 +558,10 @@ install.packages("jcolors")
 ```
 
 ```{r LaCroixColoRqua, fig.height=22}
-pal_names <- names(LaCroixColoR::lacroix_palettes)
+package_name <- "LaCroixColoR"
+pal_data <- all_names(package_name, "qualitative")
 
-pals::pal.bands(
-  as.character(LaCroixColoR::lacroix_palette(pal_names[1], 6)),
-  as.character(LaCroixColoR::lacroix_palette(pal_names[2], 6)),
-  as.character(LaCroixColoR::lacroix_palette(pal_names[3], 6)),
-  as.character(LaCroixColoR::lacroix_palette(pal_names[4], 6)),
-  as.character(LaCroixColoR::lacroix_palette(pal_names[5], 6)),
-  as.character(LaCroixColoR::lacroix_palette(pal_names[6], 6)),
-  as.character(LaCroixColoR::lacroix_palette(pal_names[7], 6)),
-  as.character(LaCroixColoR::lacroix_palette(pal_names[8], 6)),
-  as.character(LaCroixColoR::lacroix_palette(pal_names[9], 6)),
-  as.character(LaCroixColoR::lacroix_palette(pal_names[10], 6)),
-  as.character(LaCroixColoR::lacroix_palette(pal_names[11], 6)),
-  as.character(LaCroixColoR::lacroix_palette(pal_names[12], 6)),
-  as.character(LaCroixColoR::lacroix_palette(pal_names[13], 6)),
-  as.character(LaCroixColoR::lacroix_palette(pal_names[14], 6)),
-  as.character(LaCroixColoR::lacroix_palette(pal_names[15], 6)),
-  as.character(LaCroixColoR::lacroix_palette(pal_names[16], 6)),
-  as.character(LaCroixColoR::lacroix_palette(pal_names[17], 6)),
-  as.character(LaCroixColoR::lacroix_palette(pal_names[18], 6)),
-  as.character(LaCroixColoR::lacroix_palette(pal_names[19], 6)),
-  as.character(LaCroixColoR::lacroix_palette(pal_names[20], 6)),
-  as.character(LaCroixColoR::lacroix_palette(pal_names[21], 12, type = "paired")),
-  labels = pal_names,
-  main = "LaCroixColoR"
-)
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -1090,24 +570,10 @@ devtools::install_github("johannesbjork/LaCroixColoR")
 ```
 
 ```{r NineteenEightyRqua, fig.height=13}
-pals::pal.bands(
-  NineteenEightyR::cobra(),
-  NineteenEightyR::electronic_night(),
-  NineteenEightyR::hotpink(),
-  NineteenEightyR::malibu(),
-  NineteenEightyR::miami1(),
-  NineteenEightyR::miami2(),
-  NineteenEightyR::seventies_aint_done_yet(),
-  NineteenEightyR::sonny(),
-  NineteenEightyR::sunset1(),
-  NineteenEightyR::sunset2(),
-  NineteenEightyR::sunset3(),
-  NineteenEightyR::youngturqs(),
-  labels = c("cobra", "electronic_night", "hotpink", "malibu", "miami1", 
-             "miami2", "seventies_aint_done_yet", "sonny", "sunset1", 
-             "sunset2", "sunset3", "youngturqs"),
-  main = "NineteenEightyR"
-)
+package_name <- "NineteenEightyR"
+pal_data <- all_names(package_name, "qualitative")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -1118,21 +584,10 @@ install.packages("NineteenEightyR")
 ```
 
 ```{r nordqua, fig.height=12}
-pals::pal.bands(
-  nord::nord_palettes[[3]],
-  nord::nord_palettes[[4]],
-  nord::nord_palettes[[5]],
-  nord::nord_palettes[[8]],
-  nord::nord_palettes[[9]],
-  nord::nord_palettes[[11]],
-  nord::nord_palettes[[12]],
-  nord::nord_palettes[[13]],
-  nord::nord_palettes[[14]],
-  nord::nord_palettes[[15]],
-  nord::nord_palettes[[16]],
-  labels = names(nord::nord_palettes)[c(3:5, 8:9, 11:16)],
-  main = "nord"
-)
+package_name <- "nord"
+pal_data <- all_names(package_name, "qualitative")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -1143,26 +598,10 @@ install.packages("nord")
 ```
 
 ```{r ochRequa, fig.height=17}
-pals::pal.bands(
-  unname(ochRe::ochre_palettes[[1]]),
-  unname(ochRe::ochre_palettes[[2]]),
-  unname(ochRe::ochre_palettes[[3]]),
-  unname(ochRe::ochre_palettes[[4]]),
-  unname(ochRe::ochre_palettes[[5]]),
-  unname(ochRe::ochre_palettes[[6]]),
-  unname(ochRe::ochre_palettes[[7]]),
-  unname(ochRe::ochre_palettes[[8]]),
-  unname(ochRe::ochre_palettes[[9]]),
-  unname(ochRe::ochre_palettes[[10]]),
-  unname(ochRe::ochre_palettes[[11]]),
-  unname(ochRe::ochre_palettes[[12]]),
-  unname(ochRe::ochre_palettes[[13]]),
-  unname(ochRe::ochre_palettes[[14]]),
-  unname(ochRe::ochre_palettes[[15]]),
-  unname(ochRe::ochre_palettes[[16]]),
-  labels = names(ochRe::ochre_palettes),
-  main = "ochRe"
-)
+package_name <- "ochRe"
+pal_data <- all_names(package_name, "qualitative")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -1174,23 +613,10 @@ install.packages("ochRe")
 
 ```{r palettetownqua, fig.height=11}
 ids <- c(6, 17, 114, 137, 156, 191, 193, 283, 311, 318)
-names <- c("charizard", "pidgeotto", "tangela", "porygon", "quilava", 
-           "sunkern", "yanma", "surskit", "plusle", "carvanha")
+package_name <- "palettetown"
+pal_data <- all_names(package_name, "qualitative")
 
-pals::pal.bands(
-  palettetown::ichooseyou(ids[1]),
-  palettetown::ichooseyou(ids[2]),
-  palettetown::ichooseyou(ids[3]),
-  palettetown::ichooseyou(ids[4]),
-  palettetown::ichooseyou(ids[5]),
-  palettetown::ichooseyou(ids[6]),
-  palettetown::ichooseyou(ids[7]),
-  palettetown::ichooseyou(ids[8]),
-  palettetown::ichooseyou(ids[9]),
-  palettetown::ichooseyou(ids[10]),
-  labels = stringr::str_c(ids, " - ", names),
-  main = "palettetown"
-)
+list_plotter(pal_data$color[ids], pal_data$names[ids], package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -1201,20 +627,10 @@ install.packages("palettetown")
 ```
 
 ```{r palsdiscretequa, fig.height=9}
-pals::pal.bands(
-  pals::alphabet(), 
-  pals::alphabet2(), 
-  pals::glasbey(), 
-  pals::kelly(),
-  pals::polychrome(), 
-  pals::stepped(), 
-  pals::tol(), 
-  pals::watlington(), 
-  labels = c('alphabet','alphabet2', 'glasbey','kelly','polychrome', 'stepped',
-             'tol', 'watlington'), 
-  main = "pals (Discrete)",
-  show.names = FALSE
-)
+package_name <- "pals"
+pal_data <- all_names(package_name, "qualitative")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -1225,19 +641,10 @@ install.packages("pals")
 ```
 
 ```{r Polychromequa, fig.height=8}
-pals::pal.bands(
-  Polychrome::alphabet.colors(),
-  Polychrome::dark.colors(),
-  Polychrome::glasbey.colors(),
-  Polychrome::green.armytage.colors(),
-  Polychrome::kelly.colors(),
-  Polychrome::light.colors(),
-  Polychrome::palette36.colors(),
-  show.names = FALSE,
-  labels = c("alphabet", "dark", "glasbey", "green armytage", "kelly", "light",
-             "palette36"),
-  main = "Polychrome"
-)
+package_name <- "Polychrome"
+pal_data <- all_names(package_name, "qualitative")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -1245,35 +652,11 @@ pals::pal.bands(
 install.packages("Polychrome")
 ```
 
-```{r quickpalettequa, fig.height=6}
-pals::pal.bands(
-  quickpalette::qp_art[[1]],
-  quickpalette::qp_art[[2]],
-  quickpalette::qp_art[[3]],
-  quickpalette::qp_art[[4]],
-  quickpalette::qp_art[[5]],
-  labels = names(quickpalette::qp_art),
-  main = "quickpalette"
-)
-```
+```{r quickpalettequa, fig.height=17}
+package_name <- "quickpalette"
+pal_data <- all_names(package_name, "qualitative")
 
-```{r quickpalette_mschartqua, fig.height=13}
-pals::pal.bands(
-  quickpalette::mschart[[1]],
-  quickpalette::mschart[[2]],
-  quickpalette::mschart[[3]],
-  quickpalette::mschart[[4]],
-  quickpalette::mschart[[5]],
-  quickpalette::mschart[[6]],
-  quickpalette::mschart[[7]],
-  quickpalette::mschart[[8]],
-  quickpalette::mschart[[9]],
-  quickpalette::mschart[[10]],
-  quickpalette::mschart[[11]],
-  quickpalette::mschart[[12]],
-  labels = names(quickpalette::mschart),
-  main = "quickpalette - mschart"
-)
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -1282,17 +665,10 @@ devtools::install_github("EmilHvitfeldt/quickpalette")
 ```
 
 ```{r rcartocolorqua, fig.height=7}
-name <- rcartocolor::cartocolors$Name
-pals::pal.bands(
-  rcartocolor::carto_pal(name = name[10]),
-  rcartocolor::carto_pal(name = name[11]),
-  rcartocolor::carto_pal(name = name[12]),
-  rcartocolor::carto_pal(name = name[13]),
-  rcartocolor::carto_pal(name = name[14]),
-  rcartocolor::carto_pal(name = name[15]),
-  labels = name[10:15],
-  main = "rcartocolor"
-)
+package_name <- "rcartocolor"
+pal_data <- all_names(package_name, "qualitative")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -1303,20 +679,10 @@ install.packages("rcartocolor")
 ```
 
 ```{r RColorBrewerqua, fig.height=9}
-name <- rownames(RColorBrewer::brewer.pal.info)
-ncolor <- RColorBrewer::brewer.pal.info$maxcolors
-pals::pal.bands(
-  RColorBrewer::brewer.pal(ncolor[10], name[10]),
-  RColorBrewer::brewer.pal(ncolor[11], name[11]),
-  RColorBrewer::brewer.pal(ncolor[12], name[12]),
-  RColorBrewer::brewer.pal(ncolor[13], name[13]),
-  RColorBrewer::brewer.pal(ncolor[14], name[14]),
-  RColorBrewer::brewer.pal(ncolor[15], name[15]),
-  RColorBrewer::brewer.pal(ncolor[16], name[16]),
-  RColorBrewer::brewer.pal(ncolor[17], name[17]),
-  labels = name[10:17],
-  main = "RColorBrewer"
-)
+package_name <- "RColorBrewer"
+pal_data <- all_names(package_name, "qualitative")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -1325,36 +691,10 @@ install.packages("RColorBrewer")
 ```
 
 ```{r Redmonderqua, fig.height=25}
-name <- rownames(Redmonder::redmonder.pal.info)
-ncolor <- Redmonder::redmonder.pal.info$maxcolors
-pals::pal.bands(
-  Redmonder::redmonder.pal(ncolor[8], name[8]),
-  Redmonder::redmonder.pal(ncolor[9], name[9]),
-  Redmonder::redmonder.pal(ncolor[10], name[10]),
-  Redmonder::redmonder.pal(ncolor[11], name[11]),
-  Redmonder::redmonder.pal(ncolor[12], name[12]),
-  Redmonder::redmonder.pal(ncolor[13], name[13]),
-  Redmonder::redmonder.pal(ncolor[14], name[14]),
-  Redmonder::redmonder.pal(ncolor[15], name[15]),
-  Redmonder::redmonder.pal(ncolor[16], name[16]),
-  Redmonder::redmonder.pal(ncolor[17], name[17]),
-  Redmonder::redmonder.pal(ncolor[18], name[18]),
-  Redmonder::redmonder.pal(ncolor[19], name[19]),
-  Redmonder::redmonder.pal(ncolor[20], name[20]),
-  Redmonder::redmonder.pal(ncolor[21], name[21]),
-  Redmonder::redmonder.pal(ncolor[22], name[22]),
-  Redmonder::redmonder.pal(ncolor[23], name[23]),
-  Redmonder::redmonder.pal(ncolor[24], name[24]),
-  Redmonder::redmonder.pal(ncolor[25], name[25]),
-  Redmonder::redmonder.pal(ncolor[26], name[26]),
-  Redmonder::redmonder.pal(ncolor[27], name[27]),
-  Redmonder::redmonder.pal(ncolor[28], name[28]),
-  Redmonder::redmonder.pal(ncolor[29], name[29]),
-  Redmonder::redmonder.pal(ncolor[30], name[30]),
-  Redmonder::redmonder.pal(ncolor[31], name[31]),
-  labels = name[8:31],
-  main = "Redmonder"
-)
+package_name <- "Redmonder"
+pal_data <- all_names(package_name, "qualitative")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -1363,13 +703,10 @@ install.packages("Redmonder")
 ```
 
 ```{r RSkittleBrewerqua, fig.height=6}
-pals::pal.bands(RSkittleBrewer::RSkittleBrewer("original"),
-                RSkittleBrewer::RSkittleBrewer("tropical"),
-                RSkittleBrewer::RSkittleBrewer("wildberry"),
-                RSkittleBrewer::RSkittleBrewer("M&M"),
-                unname(RSkittleBrewer::RSkittleBrewer("smarties")),
-                labels = c("original", "tropical", "wildberry", "M&M", "smarties"),
-                main = "RSkittleBrewer")
+package_name <- "RSkittleBrewer"
+pal_data <- all_names(package_name, "qualitative")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -1377,39 +714,11 @@ pals::pal.bands(RSkittleBrewer::RSkittleBrewer("original"),
 devtools::install_github("alyssafrazee/RSkittleBrewer")
 ```
 
-```{r visiblyqua, fig.height=2.5}
-pals::pal.bands(
-  as.character(visibly::palettes$Plotly),
-  labels = c("Plotly"), 
-  main = "visibly"
-)
-```
+```{r wesandersonqua, fig.height=20}
+package_name <- "wesanderson"
+pal_data <- all_names(package_name, "qualitative")
 
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("m-clark/visibly")
-```
-
-```{r wesandersonqua, fig.height=16}
-pals::pal.bands(
-  wesanderson::wes_palettes[[1]],
-  wesanderson::wes_palettes[[2]],
-  wesanderson::wes_palettes[[3]],
-  wesanderson::wes_palettes[[4]],
-  wesanderson::wes_palettes[[5]],
-  wesanderson::wes_palettes[[6]],
-  wesanderson::wes_palettes[[7]],
-  wesanderson::wes_palettes[[8]],
-  wesanderson::wes_palettes[[9]],
-  wesanderson::wes_palettes[[10]],
-  wesanderson::wes_palettes[[11]],
-  wesanderson::wes_palettes[[12]],
-  wesanderson::wes_palettes[[13]],
-  wesanderson::wes_palettes[[14]],
-  wesanderson::wes_palettes[[15]],
-  labels = names(wesanderson::wes_palettes),
-  main = "wesanderson"
-)
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
@@ -1420,31 +729,10 @@ install.packages("wesanderson")
 ```
 
 ```{r yarrrqua, fig.height=22}
-pals::pal.bands(
-  unname(yarrr::piratepal("basel")),
-  unname(yarrr::piratepal("pony")),
-  unname(yarrr::piratepal("xmen")),
-  unname(yarrr::piratepal("decision")),
-  unname(yarrr::piratepal("southpark")),
-  unname(yarrr::piratepal("google")),
-  unname(yarrr::piratepal("eternal")),
-  unname(yarrr::piratepal("evildead")),
-  unname(yarrr::piratepal("usualsuspects")),
-  unname(yarrr::piratepal("ohbrother")),
-  unname(yarrr::piratepal("appletv")),
-  unname(yarrr::piratepal("brave")),
-  unname(yarrr::piratepal("bugs")),
-  unname(yarrr::piratepal("cars")),
-  unname(yarrr::piratepal("nemo")),
-  unname(yarrr::piratepal("rat")),
-  unname(yarrr::piratepal("up")),
-  unname(yarrr::piratepal("espresso")),
-  unname(yarrr::piratepal("ipod")),
-  unname(yarrr::piratepal("info")),
-  unname(yarrr::piratepal("info2")),
-  labels = yarrr::piratepal("names"),
-  main = "yarrr"
-)
+package_name <- "yarrr"
+pal_data <- all_names(package_name, "qualitative")
+
+list_plotter(pal_data$color, pal_data$names, package_name)
 ```
 
 ```{r eval=FALSE, echo=TRUE}
