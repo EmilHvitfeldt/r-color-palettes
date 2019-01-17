@@ -144,7 +144,18 @@ To test if the palette you want to use will be distorted when in black and white
 
 ### Color blindness
 
-Another thing you have to take into consideration when picking a palette is how it would be viewed by a person who is [color blind](https://en.wikipedia.org/wiki/Color_blindness). To visualize the effect of color blindness on our palettes we will turn to two packages. The `dichromat` package can simulate color blindness on individual color and then also entire palettes like so in this `rainbow` palette:
+Another thing you have to take into consideration when picking a palette is how it would be viewed by a person who is [color blind](https://en.wikipedia.org/wiki/Color_blindness). There are several approaches to ensuring that a colorblind person can interpret your figures. A very good summary of what you can do is given by Masataka Okabe and Kei Ito in their document ["Color Universal Design (CUD) - How to make figures and presentations that are friendly to Colorblind people"](http://jfly.iam.u-tokyo.ac.jp/color/). Beyond using shapes, linetypes and size for information coding, which is easily done using the [ggplot2 aesthetics](https://ggplot2.tidyverse.org/reference/aes_linetype_size_shape.html), they recommend:
+
+#### Using unambiguous palettes
+
+The easiest way to make color coding accessible to everyone, is using a palette, that is unambiguous to people with various types of color blindness. There are a few available:
+
+* Masataka Okabe and Kei Ito have developed such a [barrier free palette](http://jfly.iam.u-tokyo.ac.jp/color/#pallet), and you can use it in R with the [colorblind_pal() of the `ggthemes` package](https://jrnold.github.io/ggthemes/reference/colorblind.html) (also see colorblind_pal palette among the ggthemes palettes in the alphabetical list below) or by using the encoding provided by the [Cookbook for R](http://www.cookbook-r.com/Graphs/Colors_(ggplot2)/#a-colorblind-friendly-palette).
+* Some of the palettes developed by Cynthia Brewer for the [ColorBrewer](http://colorbrewer2.org) are colorblind safe, you can find them through the [palette chooser website's button "colorblind safe"](http://colorbrewer2.org). In R, you can use the brewer palettes through [`ggplot2`'s scale_colour_brewer() et al.](https://ggplot2.tidyverse.org/reference/scale_brewer.html) or through the separate package [`RColorBrewer`](https://cran.r-project.org/web/packages/RColorBrewer/index.html).
+
+#### Simulating effects of color blindness on used palettes
+
+To visualize the effect of color blindness on our palettes we will turn to two packages. The `dichromat` package can simulate color blindness on individual color and then also entire palettes like so in this `rainbow` palette:
 
 ```{r}
 pal_data <- list(names = c("Normal", "deuteranopia", "protanopia", "tritanopia"),
