@@ -62,9 +62,9 @@ palettes in r.
     R](https://quantdev.ssri.psu.edu/tutorials/generating-custom-color-palette-function-r)
   - [How to build a color palette from any image with R and k-means
     algo](http://www.milanor.net/blog/build-color-palette-from-image-with-paletter/)
-  - [Why choice of colour is important beyond aesthtic considerations
+  - [Why choice of colour is important beyond aesthetic considerations
     and how the quality of a palette might be
-    assesed](https://www.data-imaginist.com/2018/scico-and-the-colour-conundrum/)
+    assessed](https://www.data-imaginist.com/2018/scico-and-the-colour-conundrum/)
   - [Viz palette: colors in
     action](http://projects.susielu.com/viz-palette)
 
@@ -195,7 +195,7 @@ usability outside of the special area of sports analytic.
 ### Canva palettes
 
 The `ggthemes` package include the 150 four-color palettes from the
-[canva.com](canva.com). Doe to the size and limited number of colors in
+[canva.com](canva.com). Due to the size and limited number of colors in
 the palettes these palettes will be featured on their own page and only
 once.
 
