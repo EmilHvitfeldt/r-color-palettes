@@ -39,7 +39,6 @@ library(dplyr)
 library(paletteer)
 
 palette_summary <- palettes_d_names %>%
-  slice(1:500) %>%
   mutate(key = paste(package, palette, sep = "::")) %>%
   slice()
 
