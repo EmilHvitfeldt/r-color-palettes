@@ -1,0 +1,214 @@
+
+/* Shuffle custom styles */
+
+.shuffle-nodata {
+  text-align: center;
+  line-height: 100px;
+}
+
+
+.sc-border {
+  padding: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+
+/* quick grid */
+/*
+.shuffle-container {
+  width: 93%;
+  margin: auto;
+}
+*/
+/* Bootstrap-style columns */
+.shuffle-column {
+  position: relative;
+  float: left;
+  min-height: 1px;
+  width: 25%;
+  padding-left: 4px;
+  padding-right: 4px;
+
+  /* Space between tiles */
+  margin-top: 8px;
+}
+
+.shuffle-col-span {
+  width: 50%;
+}
+
+.shuffle-my-sizer-element {
+  width: 8.33333%;
+}
+
+/* default styles so shuffle doesn't have to set them (it will if they're missing) */
+.my-shuffle {
+  position: relative;
+  overflow: hidden;
+}
+
+/* Ensure images take up the same space when they load */
+/* https://vestride.github.io/Shuffle/images */
+.aspect {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 100%;
+  overflow: hidden;
+}
+
+.aspect__inner {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.aspect--16x9 {
+  padding-bottom: 56.25%;
+}
+
+.aspect--9x80 {
+  padding-bottom: calc(112.5% + 8px);
+}
+
+.aspect--32x9 {
+  padding-bottom: calc(28.125% - 3px);
+}
+
+
+
+
+
+
+/* Pure CSS close icon concept */
+/* by: Rubén Reyes */
+/* source: https://codepen.io/ndeniche/pen/ljbDL */
+
+.close {
+  /*position: relative;*/
+  position: absolute;
+  top: 0;
+  right: 0;
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+}
+.close:hover::before, .close:hover::after {
+  background: #1ebcc5;
+}
+.close::before, .close::after {
+  content: "";
+  position: absolute;
+  height: 2px;
+  width: 100%;
+  top: 50%;
+  left: 0;
+  margin-top: -1px;
+  background: #000;
+}
+.close::before {
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+.close::after {
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+.close.big {
+  -webkit-transform: scale(3);
+  -moz-transform: scale(3);
+  -ms-transform: scale(3);
+  -o-transform: scale(3);
+  transform: scale(3);
+}
+.close.hairline::before, .close.hairline::after {
+  height: 1px;
+}
+.close.thick::before, .close.thick::after {
+  height: 4px;
+  margin-top: -2px;
+}
+.close.black::before, .close.black::after {
+  height: 8px;
+  margin-top: -4px;
+}
+.close.heavy::before, .close.heavy::after {
+  height: 12px;
+  margin-top: -6px;
+}
+.close.pointy::before, .close.pointy::after {
+  width: 200%;
+  left: -50%;
+}
+.close.rounded::before, .close.rounded::after {
+  border-radius: 5px;
+}
+.close.blades::before, .close.blades::after {
+  border-radius: 5px 0;
+}
+.close.warp::before, .close.warp::after {
+  border-radius: 120% 0;
+}
+.close.fat::before, .close.fat::after {
+  border-radius: 100%;
+}
+
+/*
+small {
+  display: block;
+  padding: 5rem;
+  font: 0.8rem/1 sans-serif;
+  color: #777;
+  text-align: center;
+}
+
+small a {
+  color: #1ebcc5;
+  text-decoration: none;
+  border-bottom: 1px solid #ccc;
+}
+
+small a:hover {
+  border-bottom-color: #222;
+}
+*/
+
+
+
+
+.item-image {
+  /*border: 1px solid silver;*/
+  overflow: hidden;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.item-image img {
+  max-width: 100%;
+  -moz-transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+.item-image:hover img {
+ -moz-transform: scale(1.05);
+ -webkit-transform: scale(1.05);
+ transform: scale(1.05);
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+---
+title: "Palette Picker"
+---
+
+This is a new iteration of the [r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes) repository.
+
+This website is in early stages of development. Think alpha build. More functionality and information will be added, along with styling of the site.
+
+Any feedback, suggestions, or styling help are welcome as [issues](https://github.com/EmilHvitfeldt/r-color-palettes/issues).
+
+Available palette pickers:
+
+- [Discrete Color Palettes](discrete.html)

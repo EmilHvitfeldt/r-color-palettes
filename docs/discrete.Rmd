@@ -1,0 +1,126 @@
+---
+title: ""
+---
+
+<SCRIPT language="JavaScript" SRC="display.js"></SCRIPT>
+<SCRIPT language="JavaScript" SRC="data.js"></SCRIPT>
+
+```{r, echo=FALSE}
+shufflecards::use_polyfill()
+```
+
+<!-- custom CSS to make the document full width -->
+```{css, echo=FALSE}
+.main-container {
+  max-width: 95% !important;
+}
+
+aside {
+ position:fixed;
+ width: 400px;
+ height: 100%;
+ top: 0;
+ left: 0;
+ border: 1px solid #111;
+}
+
+.right {
+  margin-left: 350px;
+}
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(shufflecards)
+library(shiny)
+library(crosstalk)
+library(ggplot2)
+library(dplyr)
+library(paletteer)
+
+palette_summary <- palettes_d_names %>%
+  slice(1:500) %>%
+  mutate(key = paste(package, palette, sep = "::")) %>%
+  slice()
+
+palettes_shared <- SharedData$new(palette_summary, key = palette_summary$key)
+
+plot_data <- function(key) {
+  colors <- paletteer_d(key)
+  div(style = "width:350px;",
+    purrr::map(colors, ~ div(style = glue::glue("width:{100/length(colors)}%; height:50px; background:{.x}; float: left;")))
+  )
+}
+
+fetch_length <- function(key) {
+  palette_summary$length[palette_summary$key == key]
+}
+```
+
+```{r}
+writeLines(
+  paste(
+    "const palette_index = ", jsonlite::toJSON(palette_summary),
+    "\n",
+    "const package_index = ", jsonlite::toJSON(paletteer::paletteer_packages)
+    ),
+  "data.js"
+)
+```
+
+<aside style="border-top-width: 50px;">
+<!-- sorting buttons & crosstalk inputs -->
+```{r}
+bscols(
+  rmd_group_buttons(
+    shuffleId = "grid", label = "Click to reset palettes",
+    arrange_button("Sort by length", "length", icon = icon("sort-numeric-asc")),
+    arrange_button("Sort by length (decreasing)", "length", desc = TRUE, icon = icon("sort-numeric-desc"))
+  )
+)
+```
+
+<br>
+
+```{r}
+bscols(
+  filter_select("package_filter", "Package:", palettes_shared, ~package),
+  filter_checkbox("type_filter", "Type:", palettes_shared, ~type)
+)
+```
+
+<hr>
+
+<div style="height: 20rem;">
+<div id="palette" style ="font-size:2.5rem; width: 100%;"></div>
+<br>
+<div id="github" style ="font-size:2rem;"></div>
+<div id="CRAN" style ="font-size:2rem;"></div>
+<br>
+<div id="example1"></div>
+</div>
+</aside>
+
+<div class="right">
+<!-- Grid -->
+```{r}
+shuffle_widget(
+  shuffleId = "grid",
+  shared_data = palettes_shared,
+  options = shuffle_options(is_centered = TRUE),
+  no_card = "No plot in selection",
+  card_list = lapply(
+    X = palette_summary$key,
+    FUN = function(x) {
+      shuffle_card(
+        key = x, # for sort & filter
+        length = fetch_length(x),
+        plot_data(x)
+      )
+    }
+  )
+)
+```
+
+</div>
+
