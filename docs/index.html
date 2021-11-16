@@ -11,7 +11,7 @@
 
 
 
-<title>Palette Picker</title>
+<title>index.knit</title>
 
 <script src="site_libs/header-attrs-2.10/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
@@ -87,76 +87,6 @@ pre code {
 </style>
 
 
-<style type="text/css">
-.dropdown-submenu {
-  position: relative;
-}
-.dropdown-submenu>.dropdown-menu {
-  top: 0;
-  left: 100%;
-  margin-top: -6px;
-  margin-left: -1px;
-  border-radius: 0 6px 6px 6px;
-}
-.dropdown-submenu:hover>.dropdown-menu {
-  display: block;
-}
-.dropdown-submenu>a:after {
-  display: block;
-  content: " ";
-  float: right;
-  width: 0;
-  height: 0;
-  border-color: transparent;
-  border-style: solid;
-  border-width: 5px 0 5px 5px;
-  border-left-color: #cccccc;
-  margin-top: 5px;
-  margin-right: -10px;
-}
-.dropdown-submenu:hover>a:after {
-  border-left-color: #adb5bd;
-}
-.dropdown-submenu.pull-left {
-  float: none;
-}
-.dropdown-submenu.pull-left>.dropdown-menu {
-  left: -100%;
-  margin-left: 10px;
-  border-radius: 6px 0 6px 6px;
-}
-</style>
-
-<script type="text/javascript">
-// manage active state of menu based on current page
-$(document).ready(function () {
-  // active menu anchor
-  href = window.location.pathname
-  href = href.substr(href.lastIndexOf('/') + 1)
-  if (href === "")
-    href = "index.html";
-  var menuAnchor = $('a[href="' + href + '"]');
-
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
-
-  // Navbar adjustments
-  var navHeight = $(".navbar").first().height() + 15;
-  var style = document.createElement('style');
-  var pt = "padding-top: " + navHeight + "px; ";
-  var mt = "margin-top: -" + navHeight + "px; ";
-  var css = "";
-  // offset scroll position for anchor links (for fixed navbar)
-  for (var i = 1; i <= 6; i++) {
-    css += ".section h" + i + "{ " + pt + mt + "}\n";
-  }
-  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
-  document.head.appendChild(style);
-});
-</script>
 
 <!-- tabsets -->
 
@@ -229,40 +159,48 @@ $(document).ready(function () {
 
 
 
-<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
-  <div class="container">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="index.html">Palette Picker</a>
-    </div>
-    <div id="navbar" class="navbar-collapse collapse">
-      <ul class="nav navbar-nav">
-        <li>
-  <a href="index.html">Home</a>
-</li>
-      </ul>
-      <ul class="nav navbar-nav navbar-right">
-        <li>
-  <a href="discrete.html">Discrete</a>
-</li>
-      </ul>
-    </div><!--/.nav-collapse -->
-  </div><!--/.container -->
-</div><!--/.navbar -->
-
 <div id="header">
 
 
 
-<h1 class="title toc-ignore">Palette Picker</h1>
 
 </div>
 
 
+<script language="JavaScript" SRC="display.js"></script>
+<script language="JavaScript" SRC="data.js"></script>
+<script src="https://cdn-tailwindcss.vercel.app/?plugins=forms,typography,aspect-ratio,line-clamp"></script>
+<style type="text/css">
+html {
+  font-size: 16px;
+}
+.main-container {
+  width: 100%;
+  max-width: 100%;
+}
+.container-fluid {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+</style>
+<div class="min-h-screen bg-gray-100 flex flex-col">
+<nav class="bg-gray-800 px-8 py-4">
+<div class="flex items-center flex-wrap max-w-6xl mx-auto">
+<a href="index.html" class="py-2 lg:px-2 mr-4 items-center">
+<span class="text-2xl text-white font-bold uppercase tracking-wide">Palette Picker</span>
+</a>
+<div class="w-full lg:inline-flex lg:flex-grow lg:w-auto">
+<div class="lg:inline-flex lg:flex-row lg:ml-auto lg:w-auto w-full lg:items-center items-start flex flex-col lg:h-auto">
+<a href="index.html" class="text-lg lg:inline-flex lg:w-auto w-full lg:px-4 py-2 rounded text-gray-200 items-center justify-center hover:bg-gray-900 hover:text-white">Home</a>
+<a href="discrete.html" class="text-lg lg:inline-flex lg:w-auto w-full lg:px-4 py-2 rounded text-gray-200 items-center justify-center hover:bg-gray-900 hover:text-white">Discrete</a>
+</div>
+</div>
+</div>
+</nav>
+<div class="w-full mx-auto py-24 bg-cover flex-grow" style="background-image: url(&#39;https://products.ls.graphics/mesh-gradients/images/33.-Beauty-Bush.jpg&#39;)">
+<div class="max-w-6xl py-24 mx-auto">
+<div id="r-color-palettes" class="section level1 mx-auto max-w-4xl bg-white backdrop-filter backdrop-blur-lg bg-opacity-40 my-4 px-8 py-8 shadow-lg sm:rounded-lg border-y-2 sm:border-x-2 border-gray-100 prose">
+<h1>R Color Palettes</h1>
 <p>This is a new iteration of the <a href="https://github.com/EmilHvitfeldt/r-color-palettes">r-color-palettes</a> repository.</p>
 <p>This website is in early stages of development. Think alpha build. More functionality and information will be added, along with styling of the site.</p>
 <p>Any feedback, suggestions, or styling help are welcome as <a href="https://github.com/EmilHvitfeldt/r-color-palettes/issues">issues</a>.</p>
@@ -270,6 +208,11 @@ $(document).ready(function () {
 <ul>
 <li><a href="discrete.html">Discrete Color Palettes</a></li>
 </ul>
+<p>This site was designed by <a href="twitter.com/kylebutts">Kyle Butts</a>.</p>
+</div>
+</div>
+</div>
+</div>
 
 
 

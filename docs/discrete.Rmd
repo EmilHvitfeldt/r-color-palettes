@@ -2,32 +2,28 @@
 title: ""
 ---
 
-<SCRIPT language="JavaScript" SRC="display.js"></SCRIPT>
-<SCRIPT language="JavaScript" SRC="data.js"></SCRIPT>
+<script language="JavaScript" SRC="data.js"></script>
+<script src="https://cdn-tailwindcss.vercel.app/?plugins=forms,typography,aspect-ratio,line-clamp"></script>
+
+```{css, echo=FALSE}
+html {
+  font-size: 16px;
+}
+.main-container {
+  width: 100%;
+  max-width: 100%;
+}
+.container-fluid {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+```
+
 
 ```{r, echo=FALSE}
 shufflecards::use_polyfill()
 ```
 
-<!-- custom CSS to make the document full width -->
-```{css, echo=FALSE}
-.main-container {
-  max-width: 95% !important;
-}
-
-aside {
- position:fixed;
- width: 400px;
- height: 100%;
- top: 0;
- left: 0;
- border: 1px solid #111;
-}
-
-.right {
-  margin-left: 350px;
-}
-```
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
@@ -40,14 +36,15 @@ library(paletteer)
 
 palette_summary <- palettes_d_names %>%
   mutate(key = paste(package, palette, sep = "::")) %>%
-  slice()
+  slice() 
+
 
 palettes_shared <- SharedData$new(palette_summary, key = palette_summary$key)
 
 plot_data <- function(key) {
   colors <- paletteer_d(key)
   div(style = "width:350px;",
-    purrr::map(colors, ~ div(style = glue::glue("width:{100/length(colors)}%; height:50px; background:{.x}; float: left;")))
+    purrr::map(colors, ~ div(style = glue::glue("width: {100/length(colors)}%; height: 50px; background:{.x}; float: left;")))
   )
 }
 
@@ -67,59 +64,88 @@ writeLines(
 )
 ```
 
-<aside style="border-top-width: 50px;">
-<!-- sorting buttons & crosstalk inputs -->
+
+
 ```{r}
-bscols(
-  rmd_group_buttons(
-    shuffleId = "grid", label = "Click to reset palettes",
-    arrange_button("Sort by length", "length", icon = icon("sort-numeric-asc")),
-    arrange_button("Sort by length (decreasing)", "length", desc = TRUE, icon = icon("sort-numeric-desc"))
+tags$nav(class="bg-gray-800 px-8 py-4",
+  div(class="flex items-center flex-wrap max-w-6xl mx-auto",
+    a(href="index.html", class="py-2 lg:px-2 mr-4 items-center",
+      span(class="text-2xl text-white font-bold uppercase tracking-wide", "Palette Picker")
+    ),
+    div(class="w-full lg:inline-flex lg:flex-grow lg:w-auto",
+        div(class="lg:inline-flex lg:flex-row lg:ml-auto lg:w-auto w-full lg:items-center items-start flex flex-col lg:h-auto",
+            a(href="index.html", class="text-lg lg:inline-flex lg:w-auto w-full lg:px-4 py-2 rounded text-gray-200 items-center justify-center hover:bg-gray-900 hover:text-white",
+              "Home"  
+            ),
+            a(href="discrete.html", class="text-lg lg:inline-flex lg:w-auto w-full lg:px-4 py-2 rounded text-gray-200 items-center justify-center hover:bg-gray-900 hover:text-white",
+              "Discrete"  
+            )
+        )
+    )
   )
 )
 ```
 
-<br>
 
 ```{r}
-bscols(
-  filter_select("package_filter", "Package:", palettes_shared, ~package),
-  filter_checkbox("type_filter", "Type:", palettes_shared, ~type)
-)
-```
 
-<hr>
-
-<div style="height: 20rem;">
-<div id="palette" style ="font-size:2.5rem; width: 100%;"></div>
-<br>
-<div id="github" style ="font-size:2rem;"></div>
-<div id="CRAN" style ="font-size:2rem;"></div>
-<br>
-<div id="example1"></div>
-</div>
-</aside>
-
-<div class="right">
-<!-- Grid -->
-```{r}
-shuffle_widget(
-  shuffleId = "grid",
-  shared_data = palettes_shared,
-  options = shuffle_options(is_centered = TRUE),
-  no_card = "No plot in selection",
-  card_list = lapply(
-    X = palette_summary$key,
-    FUN = function(x) {
-      shuffle_card(
-        key = x, # for sort & filter
-        length = fetch_length(x),
-        plot_data(x)
+div(class="w-full", 
+  HTML("<!-- sorting buttons & crosstalk inputs -->"),
+  div(
+    class="w-full mx-auto py-24 bg-cover", 
+    style="background-image: url('https://products.ls.graphics/mesh-gradients/images/33.-Beauty-Bush.jpg')",
+    # Glassmorphic Card
+    div(class="max-w-4xl mx-auto px-4 py-10 bg-white backdrop-filter backdrop-blur-lg bg-opacity-40 border-white border-y-2 lg:border-x-2 sm:shadow-lg lg:rounded-3xl ",
+      div(class="grid grid-flow-row grid-cols-1 sm:grid-cols-2 gap-y-4 sm:gap-y-0 sm:gap-x-4",
+        div(class="px-4 mt-4",
+          # Sort Palettes
+          div(class="relative",
+            h2(class="text-2xl font-semibold tracking-tight text-grey-600 pb-4", "Sort Palettes"),
+            div(class="button-group sort-shuffle-btn-grid",
+              tags$label(class="font-normal px-2 py-2 mt-2 bg-white bg-opacity-90 rounded-md text-gray-800 outline-none focus:ring-4 shadow-lg transform active:scale-90 transition-transform inline-block", "Click to reset palettes"),
+              tags$button(class="px-2 py-2 mt-2 bg-white bg-opacity-90 rounded-md text-gray-800 outline-none focus:ring-4 shadow-lg transform active:scale-90 transition-transform inline-block", 'data-sort-by'="length", 'data-sort-decreasing'="false",
+                tags$i(class="fa fa-sort-numeric-asc", role="presentation", 'aria-label'="sort-numeric-asc icon"),
+                "Sort by length"
+              ),
+              tags$button(class="px-2 py-2 mt-2 bg-white bg-opacity-90 rounded-md text-gray-800 outline-none focus:ring-4 shadow-lg transform active:scale-90 transition-transform inline-block", 'data-sort-by'="length", 'data-sort-decreasing'="true",
+                tags$i(class="fa fa-sort-numericdesc", role="presentation", 'aria-label'="sort-numeric-desc icon"),
+                "Sort by length (decreasing"
+              )
+            )
+          )
+        ),
+        div(class="px-4 mt-4",
+          # Filter Palettes
+          div(class="relative",
+            h2(class="text-2xl font-semibold tracking-tight text-grey-600 pb-4", "Filter Palettes"),
+            div(
+              filter_select("package_filter", "Package:", palettes_shared, ~package),
+              filter_checkbox("type_filter", "Type:", palettes_shared, ~type)
+            )
+          )
+        )
       )
-    }
+    )
+  ),
+  HTML("<!-- Palettes -->"),
+  div(class="max-w-6xl mx-auto mt-24",
+    shuffle_widget(
+    shuffleId = "grid",
+    shared_data = palettes_shared,
+    options = shuffle_options(is_centered = TRUE),
+    no_card = "No plot in selection",
+    card_list = lapply(
+        X = palette_summary$key,
+        FUN = function(x) {
+          shuffle_card(
+            key = x, # for sort & filter
+            length = fetch_length(x),
+            plot_data(x)
+          )
+        }
+      )
+    )
   )
 )
+
 ```
-
-</div>
-
