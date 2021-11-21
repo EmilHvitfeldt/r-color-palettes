@@ -31,7 +31,7 @@ library(dplyr)
 
 ```
 
-<div class="min-h-screen bg-gray-100 flex flex-col">
+<div class="min-h-screen bg-gray-100">
 
 ```{r}
 tags$nav(class="bg-gray-800 px-8 py-4",
@@ -54,12 +54,7 @@ tags$nav(class="bg-gray-800 px-8 py-4",
 ```
 
 
-<div class="w-full mx-auto py-24 bg-cover flex-grow" style="background-image: url('https://products.ls.graphics/mesh-gradients/images/33.-Beauty-Bush.jpg')">
-
-<div class="max-w-6xl py-24 mx-auto">
-
-
-<div class="mx-auto max-w-4xl bg-white bg-white backdrop-filter backdrop-blur-lg bg-opacity-40 my-4 px-8 py-8 shadow-lg sm:rounded-lg border-y-2 sm:border-x-2 border-gray-100 prose">
+<div class="max-w-6xl py-24 mx-auto prose">
 
 # R Color Palettes
 
@@ -73,9 +68,5 @@ Available palette pickers:
 
 - [Discrete Color Palettes](discrete.html)
 
-This site was designed by [Kyle Butts](twitter.com/kylebutts).
-
-</div>
-</div>
 </div>
 </div>
