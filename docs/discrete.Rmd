@@ -42,7 +42,7 @@ library(paletteer)
 
 palette_summary <- palettes_d_names %>%
   mutate(key = paste(package, palette, sep = "::")) %>%
-  slice(15:30) 
+  slice() 
 
 
 palettes_shared <- SharedData$new(palette_summary, key = palette_summary$key)
