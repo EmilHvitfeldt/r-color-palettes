@@ -2,32 +2,34 @@
 title: ""
 ---
 
-<SCRIPT language="JavaScript" SRC="display.js"></SCRIPT>
-<SCRIPT language="JavaScript" SRC="data.js"></SCRIPT>
+<script language="JavaScript" SRC="data.js"></script>
+<script language="JavaScript" SRC="display.js"></script>
+<script src="https://cdn-tailwindcss.vercel.app/?plugins=forms,typography,aspect-ratio,line-clamp"></script>
+<style type="text/tailwindcss">
+  #example1 pre:not([class]) {
+    @apply bg-transparent border-none select-all;
+  }
+</style>
+
+```{css, echo=FALSE}
+html {
+  font-size: 16px;
+}
+.main-container {
+  width: 100%;
+  max-width: 100%;
+}
+.container-fluid {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+```
+
 
 ```{r, echo=FALSE}
 shufflecards::use_polyfill()
 ```
 
-<!-- custom CSS to make the document full width -->
-```{css, echo=FALSE}
-.main-container {
-  max-width: 95% !important;
-}
-
-aside {
- position:fixed;
- width: 400px;
- height: 100%;
- top: 0;
- left: 0;
- border: 1px solid #111;
-}
-
-.right {
-  margin-left: 350px;
-}
-```
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
@@ -40,14 +42,15 @@ library(paletteer)
 
 palette_summary <- palettes_d_names %>%
   mutate(key = paste(package, palette, sep = "::")) %>%
-  slice()
+  slice() 
+
 
 palettes_shared <- SharedData$new(palette_summary, key = palette_summary$key)
 
 plot_data <- function(key) {
   colors <- paletteer_d(key)
   div(style = "width:350px;",
-    purrr::map(colors, ~ div(style = glue::glue("width:{100/length(colors)}%; height:50px; background:{.x}; float: left;")))
+    purrr::map(colors, ~ div(style = glue::glue("width: {100/length(colors)}%; height: 50px; background:{.x}; float: left;")))
   )
 }
 
@@ -67,59 +70,138 @@ writeLines(
 )
 ```
 
-<aside style="border-top-width: 50px;">
-<!-- sorting buttons & crosstalk inputs -->
+
+
 ```{r}
-bscols(
-  rmd_group_buttons(
-    shuffleId = "grid", label = "Click to reset palettes",
-    arrange_button("Sort by length", "length", icon = icon("sort-numeric-asc")),
-    arrange_button("Sort by length (decreasing)", "length", desc = TRUE, icon = icon("sort-numeric-desc"))
+tags$nav(class="bg-gray-800 px-8 py-4",
+  div(class="flex items-center flex-wrap max-w-6xl mx-auto",
+    a(href="index.html", class="py-2 lg:px-2 mr-4 items-center",
+      span(class="text-2xl text-white font-bold uppercase tracking-wide", "Palette Picker")
+    ),
+    div(class="w-full lg:inline-flex lg:flex-grow lg:w-auto",
+        div(class="lg:inline-flex lg:flex-row lg:ml-auto lg:w-auto w-full lg:items-center items-start flex flex-col lg:h-auto",
+            a(href="index.html", class="text-lg lg:inline-flex lg:w-auto w-full lg:px-4 py-2 rounded text-gray-200 items-center justify-center hover:bg-gray-900 hover:text-white",
+              "Home"  
+            ),
+            a(href="discrete.html", class="text-lg lg:inline-flex lg:w-auto w-full lg:px-4 py-2 rounded text-gray-200 items-center justify-center hover:bg-gray-900 hover:text-white",
+              "Discrete"  
+            )
+        )
+    )
   )
 )
 ```
 
-<br>
 
 ```{r}
-bscols(
-  filter_select("package_filter", "Package:", palettes_shared, ~package),
-  filter_checkbox("type_filter", "Type:", palettes_shared, ~type)
-)
-```
 
-<hr>
+palette_icon <- HTML('<svg class="w-8 h-8" xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512"><title>Color Palette</title><path d="M430.11 347.9c-6.6-6.1-16.3-7.6-24.6-9-11.5-1.9-15.9-4-22.6-10-14.3-12.7-14.3-31.1 0-43.8l30.3-26.9c46.4-41 46.4-108.2 0-149.2-34.2-30.1-80.1-45-127.8-45-55.7 0-113.9 20.3-158.8 60.1-83.5 73.8-83.5 194.7 0 268.5 41.5 36.7 97.5 55 152.9 55.4h1.7c55.4 0 110-17.9 148.8-52.4 14.4-12.7 11.99-36.6.1-47.7z" fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="32"/><circle cx="144" cy="208" r="32"/><circle cx="152" cy="311" r="32"/><circle cx="224" cy="144" r="32"/><circle cx="256" cy="367" r="48"/><circle cx="328" cy="144" r="32"/></svg>')
 
-<div style="height: 20rem;">
-<div id="palette" style ="font-size:2.5rem; width: 100%;"></div>
-<br>
-<div id="github" style ="font-size:2rem;"></div>
-<div id="CRAN" style ="font-size:2rem;"></div>
-<br>
-<div id="example1"></div>
-</div>
-</aside>
+github_icon <- HTML('<svg class="w-8 h-8" xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512"><title>Logo Github</title><path d="M256 32C132.3 32 32 134.9 32 261.7c0 101.5 64.2 187.5 153.2 217.9a17.56 17.56 0 003.8.4c8.3 0 11.5-6.1 11.5-11.4 0-5.5-.2-19.9-.3-39.1a102.4 102.4 0 01-22.6 2.7c-43.1 0-52.9-33.5-52.9-33.5-10.2-26.5-24.9-33.6-24.9-33.6-19.5-13.7-.1-14.1 1.4-14.1h.1c22.5 2 34.3 23.8 34.3 23.8 11.2 19.6 26.2 25.1 39.6 25.1a63 63 0 0025.6-6c2-14.8 7.8-24.9 14.2-30.7-49.7-5.8-102-25.5-102-113.5 0-25.1 8.7-45.6 23-61.6-2.3-5.8-10-29.2 2.2-60.8a18.64 18.64 0 015-.5c8.1 0 26.4 3.1 56.6 24.1a208.21 208.21 0 01112.2 0c30.2-21 48.5-24.1 56.6-24.1a18.64 18.64 0 015 .5c12.2 31.6 4.5 55 2.2 60.8 14.3 16.1 23 36.6 23 61.6 0 88.2-52.4 107.6-102.3 113.3 8 7.1 15.2 21.1 15.2 42.5 0 30.7-.3 55.5-.3 63 0 5.4 3.1 11.5 11.4 11.5a19.35 19.35 0 004-.4C415.9 449.2 480 363.1 480 261.7 480 134.9 379.7 32 256 32z"/></svg>')
 
-<div class="right">
-<!-- Grid -->
-```{r}
-shuffle_widget(
-  shuffleId = "grid",
-  shared_data = palettes_shared,
-  options = shuffle_options(is_centered = TRUE),
-  no_card = "No plot in selection",
-  card_list = lapply(
-    X = palette_summary$key,
-    FUN = function(x) {
-      shuffle_card(
-        key = x, # for sort & filter
-        length = fetch_length(x),
-        plot_data(x)
+archive_icon <- HTML('<svg class="w-8 h-8" xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512"><title>Archive</title><path d="M80 152v256a40.12 40.12 0 0040 40h272a40.12 40.12 0 0040-40V152" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/><rect x="48" y="64" width="416" height="80" rx="28" ry="28" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="32"/><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="M320 304l-64 64-64-64M256 345.89V224"/></svg>')
+
+code_icon <- HTML('<svg class="w-8 h-8" xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512"><title>Code</title><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="M160 368L32 256l128-112M352 368l128-112-128-112"/></svg>')
+
+div(class="w-full", 
+  HTML("<!-- sorting buttons & crosstalk inputs -->"),
+  div(
+    class="w-full mx-auto py-24 bg-cover", 
+    style="background-image: url('https://products.ls.graphics/mesh-gradients/images/33.-Beauty-Bush.jpg')",
+    # Glassmorphic Card
+    div(class="max-w-4xl mx-auto px-4 py-10 bg-white backdrop-filter backdrop-blur-lg bg-opacity-40 border-white border-y-2 lg:border-x-2 sm:shadow-lg lg:rounded-3xl ",
+      div(class="grid grid-flow-row grid-cols-1 sm:grid-cols-2 gap-y-4 sm:gap-y-0 sm:gap-x-4",
+        div(class="px-4 mt-4",
+          # Sort Palettes
+          div(class="relative",
+            h2(class="text-2xl font-semibold tracking-tight text-grey-600 pb-4", "Sort Palettes"),
+            div(class="button-group sort-shuffle-btn-grid",
+              tags$label(class="font-normal px-2 py-2 mt-2 bg-white bg-opacity-90 rounded-md text-gray-800 outline-none focus:ring-4 shadow-lg transform active:scale-90 transition-transform inline-block", "Click to reset palettes"),
+              tags$button(class="px-2 py-2 mt-2 bg-white bg-opacity-90 rounded-md text-gray-800 outline-none focus:ring-4 shadow-lg transform active:scale-90 transition-transform inline-block", 'data-sort-by'="length", 'data-sort-decreasing'="false",
+                tags$i(class="fa fa-sort-numeric-asc", role="presentation", 'aria-label'="sort-numeric-asc icon"),
+                "Sort by length"
+              ),
+              tags$button(class="px-2 py-2 mt-2 bg-white bg-opacity-90 rounded-md text-gray-800 outline-none focus:ring-4 shadow-lg transform active:scale-90 transition-transform inline-block", 'data-sort-by'="length", 'data-sort-decreasing'="true",
+                tags$i(class="fa fa-sort-numericdesc", role="presentation", 'aria-label'="sort-numeric-desc icon"),
+                "Sort by length (decreasing)"
+              )
+            )
+          )
+        ),
+        div(class="px-4 mt-4",
+          # Filter Palettes
+          div(class="relative",
+            h2(class="text-2xl font-semibold tracking-tight text-grey-600 pb-4", "Filter Palettes"),
+            div(
+              filter_select("package_filter", "Package:", palettes_shared, ~package),
+              filter_checkbox("type_filter", "Type:", palettes_shared, ~type)
+            )
+          )
+        )
+      ),
+      div(class="grid grid-flow-row grid-cols-1",
+          div(class="px-4 mt-4",
+            h2(
+              class="text-2xl font-semibold tracking-tight text-grey-600 pb-4", 
+              "Click a palette you like to display information"),
+          ),
+          div(class="px-4 grid grid-flow-row grid-cols-1 gap-y-8 sm:grid-cols-3 sm:gap-y-0 sm:gap-x-4",
+            div(class="col-span-1 flex flex-col items-center gap-y-2",
+              div(class = "flex flex-col items-center",
+                palette_icon,
+                p(class="text-lg font-semibold text-gray-700", "Package + Palette")
+              ),
+              h2(class="text-xl", id="palette", "")
+            ),
+            div(class="col-span-1 flex flex-col items-center gap-y-2",
+              div(class = "flex flex-col items-center",
+                github_icon,
+                p(class="text-lg font-semibold text-gray-700", "Github")
+              ),
+              h2(class="text-xl", id="github", "")
+            ),
+            div(class="col-span-1 flex flex-col items-center gap-y-2",
+              div(class = "flex flex-col items-center",
+                archive_icon,
+                p(class="text-lg font-semibold text-gray-700", "CRAN")
+              ),
+              h2(class="text-xl", id="CRAN", "")
+            )
+          ),
+          div(class="px-4 mt-16",
+            div(class="py-4 px-8 w-full lg:w-4/5 mx-auto bg-white backdrop-filter backdrop-blur-lg bg-opacity-40 border-white border-y-2 border-x-2 sm:shadow-lg lg:rounded-3xl flex flex-row gap-x-12 items-center",
+                code_icon,
+                div(id = "example1", class="flex-grow text-xl",
+                    pre(
+                      code(id="example1code", class="language-r",
+                           "library(paletteer)\npaletter_d(\"\")"
+                      )
+                    )
+                )
+            )
+          )
       )
-    }
+    )
+  ),
+  HTML("<!-- Palettes -->"),
+  div(class="max-w-6xl mx-auto mt-24",
+    shuffle_widget(
+    shuffleId = "grid",
+    shared_data = palettes_shared,
+    options = shuffle_options(is_centered = TRUE),
+    no_card = "No plot in selection",
+    card_list = lapply(
+        X = palette_summary$key,
+        FUN = function(x) {
+          shuffle_card(
+            key = x, # for sort & filter
+            length = fetch_length(x),
+            plot_data(x)
+          )
+        }
+      )
+    )
   )
 )
+
 ```
-
-</div>
-

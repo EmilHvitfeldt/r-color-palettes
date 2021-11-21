@@ -1,6 +1,62 @@
 ---
-title: "Palette Picker"
+title: ""
 ---
+
+<script language="JavaScript" SRC="display.js"></script>
+<script language="JavaScript" SRC="data.js"></script>
+<script src="https://cdn-tailwindcss.vercel.app/?plugins=forms,typography,aspect-ratio,line-clamp"></script>
+
+```{css, echo=FALSE}
+html {
+  font-size: 16px;
+}
+.main-container {
+  width: 100%;
+  max-width: 100%;
+}
+.container-fluid {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+```
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(shufflecards)
+library(shiny)
+library(crosstalk)
+library(ggplot2)
+library(dplyr)
+
+```
+
+<div class="min-h-screen bg-gray-100">
+
+```{r}
+tags$nav(class="bg-gray-800 px-8 py-4",
+  div(class="flex items-center flex-wrap max-w-6xl mx-auto",
+    a(href="index.html", class="py-2 lg:px-2 mr-4 items-center",
+      span(class="text-2xl text-white font-bold uppercase tracking-wide", "Palette Picker")
+    ),
+    div(class="w-full lg:inline-flex lg:flex-grow lg:w-auto",
+        div(class="lg:inline-flex lg:flex-row lg:ml-auto lg:w-auto w-full lg:items-center items-start flex flex-col lg:h-auto",
+            a(href="index.html", class="text-lg lg:inline-flex lg:w-auto w-full lg:px-4 py-2 rounded text-gray-200 items-center justify-center hover:bg-gray-900 hover:text-white",
+              "Home"  
+            ),
+            a(href="discrete.html", class="text-lg lg:inline-flex lg:w-auto w-full lg:px-4 py-2 rounded text-gray-200 items-center justify-center hover:bg-gray-900 hover:text-white",
+              "Discrete"  
+            )
+        )
+    )
+  )
+)
+```
+
+
+<div class="max-w-6xl py-24 mx-auto prose">
+
+# R Color Palettes
 
 This is a new iteration of the [r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes) repository.
 
@@ -11,3 +67,6 @@ Any feedback, suggestions, or styling help are welcome as [issues](https://githu
 Available palette pickers:
 
 - [Discrete Color Palettes](discrete.html)
+
+</div>
+</div>

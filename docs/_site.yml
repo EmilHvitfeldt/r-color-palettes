@@ -1,12 +1,1 @@
-name: "Palette Picker"
-
 output_dir: "."
-
-navbar:
-  title: "Palette Picker"
-  left:
-    - text: "Home"
-      href: index.html
-  right:
-    - text: "Discrete"
-      href: discrete.html
