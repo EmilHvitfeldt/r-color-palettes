@@ -1,0 +1,9 @@
+---
+listing:
+  contents: discrete
+  template: gallery.ejs
+  sort-ui: [length]
+  filter-ui: true
+  page-size: 30
+  categories: true
+---

@@ -1,0 +1,80 @@
+---
+image: featured.svg
+package: ggprism
+palette: ocean
+length: 9
+type: qualitative
+novelty: Novelty - Yes
+categories:
+  - Package - ggprism
+  - Novelty - Yes
+  - Type - qualitative
+---
+
+![](featured.svg)
+
+# ggprism - ocean 
+
+::: columns
+::: {.column width="50%"}
+{{< fa brands github size=3x >}}
+**Github**
+
+[csdaw/ggprism](https://github.com/csdaw/ggprism)
+:::
+
+::: {.column width="50%"}
+{{< fa brands r-project size=3x >}}
+**CRAN**
+
+[ggprism](https://CRAN.R-project.org/package=ggprism)
+:::
+:::
+
+<hr> 
+
+Use with [paletteer](https://emilhvitfeldt.github.io/paletteer/) package:
+
+```r
+library(paletteer)
+paletteer_d("ggprism::ocean")
+```
+
+Use raw:
+
+```r
+c("#808000FF", "#FFFFCCFF", "#3F71A3FF", "#808000FF", "#666699FF", "#666699FF", "#FFFFCCFF", "#808000FF", "#FFFFCCFF")
+``` 
+
+![](examples.svg) 
+
+<br>
+
+# Related Palettes
+
+<div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
+<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggprism/ocean3/"> <img src="../../ggprism/ocean3/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggprism/ocean2/"> <img src="../../ggprism/ocean2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggprism/quiet2/"> <img src="../../ggprism/quiet2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/tauros/"> <img src="../../palettetown/tauros/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../calecopal/sierra2/"> <img src="../../calecopal/sierra2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Redmonder/dPBIYlBu/"> <img src="../../Redmonder/dPBIYlBu/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../peRReo/rosalia/"> <img src="../../peRReo/rosalia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/lotad/"> <img src="../../palettetown/lotad/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Redmonder/dPBIYlPu/"> <img src="../../Redmonder/dPBIYlPu/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/sandslash/"> <img src="../../palettetown/sandslash/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/teddiursa/"> <img src="../../palettetown/teddiursa/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> 
+</div>

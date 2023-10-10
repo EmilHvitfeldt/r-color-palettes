@@ -1,0 +1,80 @@
+---
+image: featured.svg
+package: fishualize
+palette: Halichoeres_garnoti
+length: 5
+type: qualitative
+novelty: Novelty - Yes
+categories:
+  - Package - fishualize
+  - Novelty - Yes
+  - Type - qualitative
+---
+
+![](featured.svg)
+
+# fishualize - Halichoeres_garnoti 
+
+::: columns
+::: {.column width="50%"}
+{{< fa brands github size=3x >}}
+**Github**
+
+[nschiett/fishualize](https://github.com/nschiett/fishualize)
+:::
+
+::: {.column width="50%"}
+{{< fa brands r-project size=3x >}}
+**CRAN**
+
+[fishualize](https://CRAN.R-project.org/package=fishualize)
+:::
+:::
+
+<hr> 
+
+Use with [paletteer](https://emilhvitfeldt.github.io/paletteer/) package:
+
+```r
+library(paletteer)
+paletteer_d("fishualize::Halichoeres_garnoti")
+```
+
+Use raw:
+
+```r
+c("#D29B02FF", "#FAEE09FF", "#8FAE22FF", "#2F83A8FF", "#1A1C2BFF")
+``` 
+
+![](examples.svg) 
+
+<br>
+
+# Related Palettes
+
+<div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
+<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Balistoides_conspicillum/"> <img src="../../fishualize/Balistoides_conspicillum/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Thalassoma_pavo/"> <img src="../../fishualize/Thalassoma_pavo/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Balistapus_undulatus/"> <img src="../../fishualize/Balistapus_undulatus/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Ostracion_cubicus/"> <img src="../../fishualize/Ostracion_cubicus/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../feathers/bee_eater/"> <img src="../../feathers/bee_eater/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ochRe/lorikeet/"> <img src="../../ochRe/lorikeet/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Neogobius_melanostomus/"> <img src="../../fishualize/Neogobius_melanostomus/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../LaCroixColoR/PommeBaya/"> <img src="../../LaCroixColoR/PommeBaya/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Coris_gaimard/"> <img src="../../fishualize/Coris_gaimard/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Rhinecanthus_aculeatus/"> <img src="../../fishualize/Rhinecanthus_aculeatus/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Holacanthus_ciliaris/"> <img src="../../fishualize/Holacanthus_ciliaris/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> 
+</div>

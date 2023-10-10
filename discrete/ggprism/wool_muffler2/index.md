@@ -1,0 +1,80 @@
+---
+image: featured.svg
+package: ggprism
+palette: wool_muffler2
+length: 9
+type: qualitative
+novelty: Novelty - Yes
+categories:
+  - Package - ggprism
+  - Novelty - Yes
+  - Type - qualitative
+---
+
+![](featured.svg)
+
+# ggprism - wool_muffler2 
+
+::: columns
+::: {.column width="50%"}
+{{< fa brands github size=3x >}}
+**Github**
+
+[csdaw/ggprism](https://github.com/csdaw/ggprism)
+:::
+
+::: {.column width="50%"}
+{{< fa brands r-project size=3x >}}
+**CRAN**
+
+[ggprism](https://CRAN.R-project.org/package=ggprism)
+:::
+:::
+
+<hr> 
+
+Use with [paletteer](https://emilhvitfeldt.github.io/paletteer/) package:
+
+```r
+library(paletteer)
+paletteer_d("ggprism::wool_muffler2")
+```
+
+Use raw:
+
+```r
+c("#6699CCFF", "#87CEFAFF", "#FF9933FF", "#6699CCFF", "#87CEFAFF", "#FF6600FF", "#CCCCFFFF", "#87CEFAFF", "#FF9933FF")
+``` 
+
+![](examples.svg) 
+
+<br>
+
+# Related Palettes
+
+<div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
+<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggprism/wool_muffler3/"> <img src="../../ggprism/wool_muffler3/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggprism/wool_muffler/"> <img src="../../ggprism/wool_muffler/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../calecopal/figmtn/"> <img src="../../calecopal/figmtn/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../colorBlindness/Blue2DarkOrange12Steps/"> <img src="../../colorBlindness/Blue2DarkOrange12Steps/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../dichromat/BluetoDarkOrange_12/"> <img src="../../dichromat/BluetoDarkOrange_12/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggthemes/Classic_Blue_Red_12/"> <img src="../../ggthemes/Classic_Blue_Red_12/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MetBrewer/Hiroshige/"> <img src="../../MetBrewer/Hiroshige/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggthemes/Color_Blind/"> <img src="../../ggthemes/Color_Blind/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../colorBlindness/Brown2Blue10Steps/"> <img src="../../colorBlindness/Brown2Blue10Steps/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../dichromat/BrowntoBlue_10/"> <img src="../../dichromat/BrowntoBlue_10/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../beyonce/X9/"> <img src="../../beyonce/X9/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> 
+</div>

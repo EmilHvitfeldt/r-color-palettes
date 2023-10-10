@@ -1,0 +1,17 @@
+---
+title: "R Color Palettes"
+---
+
+Welcome to the [r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes) palette viewer!
+
+
+
+# [Discrete Color Palettes](discrete.qmd)
+
+[![](discrete.png)](discrete.qmd)
+
+
+
+Continuous palettes coming soon!
+
+Any feedback and suggestion are welcome as [issues](https://github.com/EmilHvitfeldt/r-color-palettes/issues).

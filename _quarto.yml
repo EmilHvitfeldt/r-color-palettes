@@ -1,0 +1,21 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+    - "!.Rmd"
+    - "!.md"
+website:
+  title: "Color palettes"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: discrete.qmd
+        text: Discrete
+
+format:
+  html:
+    theme: cosmo
+    css: styles.scss
+    toc: false
+    anchor-sections: false
