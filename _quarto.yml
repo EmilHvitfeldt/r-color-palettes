@@ -2,8 +2,10 @@ project:
   type: website
   render:
     - "*.qmd"
+    - "discrete/*/*/index.md"
     - "!.Rmd"
     - "!.md"
+
 website:
   title: "Color palettes"
   navbar:
