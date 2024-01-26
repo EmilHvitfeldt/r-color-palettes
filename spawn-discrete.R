@@ -183,5 +183,3 @@ for (i in seq_len(nrow(pals))) {
   
   ggsave(file = example_path, plot = example_plot, width = 8, height = 8 / 1.718, dpi = 150)
 }
-
-system("svgo --folder discrete --recursive --quiet --config svg-config.js")
