@@ -46,7 +46,7 @@ Use raw:
 c("#E5E9EAFF", "#A2BAC5FF", "#CE3D21FF", "#992216FF", "#490D07FF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 
@@ -73,8 +73,8 @@ c("#E5E9EAFF", "#A2BAC5FF", "#CE3D21FF", "#992216FF", "#490D07FF")
 </figure> <figure class="figure">
 <a href="../../lisa/SandroBotticelli_1/"> <img src="../../lisa/SandroBotticelli_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../NineteenEightyR/sunset1/"> <img src="../../NineteenEightyR/sunset1/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../beyonce/X92/"> <img src="../../beyonce/X92/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../NineteenEightyR/sunset1/"> <img src="../../NineteenEightyR/sunset1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

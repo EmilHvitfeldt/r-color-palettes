@@ -46,7 +46,7 @@ Use raw:
 c("#5D784CFF", "#ADDAB3FF", "#778E3FFF", "#B1F0EEFF", "#6E927DFF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 
@@ -75,6 +75,6 @@ c("#5D784CFF", "#ADDAB3FF", "#778E3FFF", "#B1F0EEFF", "#6E927DFF")
 </figure> <figure class="figure">
 <a href="../../PNWColors/Anemone/"> <img src="../../PNWColors/Anemone/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggthemes/excel_Green_Yellow/"> <img src="../../ggthemes/excel_Green_Yellow/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../palettetown/geodude/"> <img src="../../palettetown/geodude/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

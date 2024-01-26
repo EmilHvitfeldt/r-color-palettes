@@ -46,7 +46,7 @@ Use raw:
 c("#408890FF", "#D8C8F0FF", "#406078FF", "#384048FF", "#90B8B8FF", "#000000FF", "#A898B0FF", "#E8E0F8FF", "#F8F8F8FF", "#F8D860FF", "#D8B840FF", "#683848FF", "#E83018FF", "#984858FF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 
@@ -63,17 +63,17 @@ c("#408890FF", "#D8C8F0FF", "#406078FF", "#384048FF", "#90B8B8FF", "#000000FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/volbeat/"> <img src="../../palettetown/volbeat/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/armaldo/"> <img src="../../palettetown/armaldo/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../palettetown/chimecho/"> <img src="../../palettetown/chimecho/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/armaldo/"> <img src="../../palettetown/armaldo/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/exploud/"> <img src="../../palettetown/exploud/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/minun/"> <img src="../../palettetown/minun/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/gyarados/"> <img src="../../palettetown/gyarados/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../palettetown/miltank/"> <img src="../../palettetown/miltank/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/gyarados/"> <img src="../../palettetown/gyarados/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/mightyena/"> <img src="../../palettetown/mightyena/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 

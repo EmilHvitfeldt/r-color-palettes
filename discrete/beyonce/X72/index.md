@@ -46,7 +46,7 @@ Use raw:
 c("#00B5E4FF", "#649D72FF", "#F1E436FF", "#F3E338FF", "#C25337FF", "#E80F18FF", "#EA0E18FF", "#E02327FF", "#C7844FFF", "#A96943FF", "#8A472AFF", "#8C472AFF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 
@@ -69,9 +69,9 @@ c("#00B5E4FF", "#649D72FF", "#F1E436FF", "#F3E338FF", "#C25337FF", "#E80F18FF", 
 </figure> <figure class="figure">
 <a href="../../tvthemes/parksAndRec/"> <img src="../../tvthemes/parksAndRec/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../Redmonder/qMSOYl/"> <img src="../../Redmonder/qMSOYl/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../palettetown/slowking/"> <img src="../../palettetown/slowking/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Redmonder/qMSOYl/"> <img src="../../Redmonder/qMSOYl/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSORdOr/"> <img src="../../Redmonder/qMSORdOr/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

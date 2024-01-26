@@ -46,7 +46,7 @@ Use raw:
 c("#000000FF", "#001221FF", "#012243FF", "#002142FF", "#002341FF", "#002343FF", "#187999FF", "#00B6E6FF", "#00B6E5FF", "#62A2ACFF", "#CD8958FF", "#CD8A56FF", "#A86D4FFF", "#834631FF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 
@@ -67,9 +67,9 @@ c("#000000FF", "#001221FF", "#012243FF", "#002142FF", "#002341FF", "#002343FF", 
 </figure> <figure class="figure">
 <a href="../../nbapalettes/bobcats/"> <img src="../../nbapalettes/bobcats/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../MetBrewer/Moreau/"> <img src="../../MetBrewer/Moreau/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../MetBrewer/Veronese/"> <img src="../../MetBrewer/Veronese/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MetBrewer/Moreau/"> <img src="../../MetBrewer/Moreau/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ghibli/KikiMedium/"> <img src="../../ghibli/KikiMedium/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

@@ -46,7 +46,7 @@ Use raw:
 c("#ACCBF9FF", "#242852FF", "#4A66ACFF", "#629DD1FF", "#297FD5FF", "#7F8FA9FF", "#5AA2AEFF", "#9D90A0FF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 
@@ -59,9 +59,9 @@ c("#ACCBF9FF", "#242852FF", "#4A66ACFF", "#629DD1FF", "#297FD5FF", "#7F8FA9FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/dragonair/"> <img src="../../palettetown/dragonair/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../MetBrewer/Hokusai2/"> <img src="../../MetBrewer/Hokusai2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../severance/Dinner/"> <img src="../../severance/Dinner/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MetBrewer/Hokusai2/"> <img src="../../MetBrewer/Hokusai2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/lugia/"> <img src="../../palettetown/lugia/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

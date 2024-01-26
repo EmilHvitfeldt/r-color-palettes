@@ -46,7 +46,7 @@ Use raw:
 c("#00471BFF", "#EEE1C6FF", "#0077C0FF", "#000000FF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 
@@ -71,10 +71,10 @@ c("#00471BFF", "#EEE1C6FF", "#0077C0FF", "#000000FF")
 </figure> <figure class="figure">
 <a href="../../nbapalettes/pacers_venue/"> <img src="../../nbapalettes/pacers_venue/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nbapalettes/magic_city2/"> <img src="../../nbapalettes/magic_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../nbapalettes/clippers/"> <img src="../../nbapalettes/clippers/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/wsj_colors6/"> <img src="../../ggthemes/wsj_colors6/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nbapalettes/hawks_90s/"> <img src="../../nbapalettes/hawks_90s/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

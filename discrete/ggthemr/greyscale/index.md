@@ -46,7 +46,7 @@ Use raw:
 c("#000000FF", "#515151FF", "#909090FF", "#D0D0D0FF", "#444444FF", "#111111FF", "#EAEAEAFF", "#666666FF", "#000000FF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 
@@ -57,11 +57,11 @@ c("#000000FF", "#515151FF", "#909090FF", "#D0D0D0FF", "#444444FF", "#111111FF", 
 </figure> <figure class="figure">
 <a href="../../RColorBrewer/Greys/"> <img src="../../RColorBrewer/Greys/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../tayloRswift/reputation/"> <img src="../../tayloRswift/reputation/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../ggthemes/stata_mono/"> <img src="../../ggthemes/stata_mono/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/silcoon/"> <img src="../../palettetown/silcoon/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../tayloRswift/reputation/"> <img src="../../tayloRswift/reputation/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/MarkRothko_1/"> <img src="../../lisa/MarkRothko_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -73,8 +73,8 @@ c("#000000FF", "#515151FF", "#909090FF", "#D0D0D0FF", "#444444FF", "#111111FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/linoone/"> <img src="../../palettetown/linoone/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../dutchmasters/little_street/"> <img src="../../dutchmasters/little_street/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../trekcolors/borg/"> <img src="../../trekcolors/borg/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggthemr/chalk/"> <img src="../../ggthemr/chalk/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../beyonce/X122/"> <img src="../../beyonce/X122/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

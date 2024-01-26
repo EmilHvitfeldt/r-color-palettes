@@ -46,7 +46,7 @@ Use raw:
 c("#D5E4EBFF", "#C3D6DFFF", "#ED111AFF", "#EBEBEBFF", "#C9C9C9FF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 
@@ -73,8 +73,8 @@ c("#D5E4EBFF", "#C3D6DFFF", "#ED111AFF", "#EBEBEBFF", "#C9C9C9FF")
 </figure> <figure class="figure">
 <a href="../../Redmonder/sPBIOr/"> <img src="../../Redmonder/sPBIOr/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ghibli/MononokeLight/"> <img src="../../ghibli/MononokeLight/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../ghibli/LaputaLight/"> <img src="../../ghibli/LaputaLight/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ghibli/MononokeLight/"> <img src="../../ghibli/MononokeLight/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

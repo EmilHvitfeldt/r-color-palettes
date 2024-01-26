@@ -46,7 +46,7 @@ Use raw:
 c("#3399FFFF", "#666600FF", "#003399FF", "#999900FF", "#000000FF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 
@@ -73,8 +73,8 @@ c("#3399FFFF", "#666600FF", "#003399FF", "#999900FF", "#000000FF")
 </figure> <figure class="figure">
 <a href="../../nbapalettes/warriors/"> <img src="../../nbapalettes/warriors/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nbapalettes/magic_city2/"> <img src="../../nbapalettes/magic_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../ggthemes/wsj_colors6/"> <img src="../../ggthemes/wsj_colors6/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../trekcolors/romulan/"> <img src="../../trekcolors/romulan/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

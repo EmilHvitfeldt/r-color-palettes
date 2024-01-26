@@ -46,7 +46,7 @@ Use raw:
 c("#FFFFFFFF", "#366699FF", "#FFFFFFFF", "#366699FF", "#366699FF", "#366699FF", "#000000FF", "#000000FF", "#003366FF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 
@@ -57,11 +57,11 @@ c("#FFFFFFFF", "#366699FF", "#FFFFFFFF", "#366699FF", "#366699FF", "#366699FF", 
 </figure> <figure class="figure">
 <a href="../../ggprism/blueprint3/"> <img src="../../ggprism/blueprint3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nbapalettes/magic_city2/"> <img src="../../nbapalettes/magic_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../palettetown/wailord/"> <img src="../../palettetown/wailord/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/Stark/"> <img src="../../tvthemes/Stark/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nbapalettes/magic_city2/"> <img src="../../nbapalettes/magic_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/LapisLazuli/"> <img src="../../tvthemes/LapisLazuli/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

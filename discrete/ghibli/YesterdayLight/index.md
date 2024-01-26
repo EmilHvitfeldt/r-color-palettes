@@ -46,7 +46,7 @@ Use raw:
 c("#768185FF", "#7E8C97FF", "#88988DFF", "#9DAFC3FF", "#B1D5BBFF", "#ECE28BFF", "#C3DAEAFF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 
@@ -73,8 +73,8 @@ c("#768185FF", "#7E8C97FF", "#88988DFF", "#9DAFC3FF", "#B1D5BBFF", "#ECE28BFF", 
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Feathered/"> <img src="../../ggthemes/excel_Feathered/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../beyonce/X5/"> <img src="../../beyonce/X5/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../ghibli/KikiLight/"> <img src="../../ghibli/KikiLight/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Sardinella_brasiliensis/"> <img src="../../fishualize/Sardinella_brasiliensis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

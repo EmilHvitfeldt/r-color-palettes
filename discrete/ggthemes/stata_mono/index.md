@@ -46,7 +46,7 @@ Use raw:
 c("#606060FF", "#A0A0A0FF", "#808080FF", "#404040FF", "#000000FF", "#E0E0E0FF", "#202020FF", "#707070FF", "#909090FF", "#B0B0B0FF", "#D0D0D0FF", "#F0F0F0FF", "#303030FF", "#C0C0C0FF", "#505050FF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 
@@ -63,15 +63,15 @@ c("#606060FF", "#A0A0A0FF", "#808080FF", "#404040FF", "#000000FF", "#E0E0E0FF", 
 </figure> <figure class="figure">
 <a href="../../trekcolors/borg/"> <img src="../../trekcolors/borg/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ggthemr/greyscale/"> <img src="../../ggthemr/greyscale/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../miscpalettes/grayscale/"> <img src="../../miscpalettes/grayscale/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/grey_material/"> <img src="../../ggsci/grey_material/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggthemr/greyscale/"> <img src="../../ggthemr/greyscale/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../palettetown/castform/"> <img src="../../palettetown/castform/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tayloRswift/reputation/"> <img src="../../tayloRswift/reputation/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/castform/"> <img src="../../palettetown/castform/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemr/chalk/"> <img src="../../ggthemr/chalk/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

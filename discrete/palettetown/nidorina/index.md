@@ -46,7 +46,7 @@ Use raw:
 c("#88C0C8FF", "#C0E0E8FF", "#5088B8FF", "#385860FF", "#183870FF", "#D8F8F8FF", "#4880F0FF", "#F8F8F8FF", "#1060B0FF", "#C02010FF", "#E84838FF", "#C0C0C0FF", "#F89888FF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 
@@ -73,8 +73,8 @@ c("#88C0C8FF", "#C0E0E8FF", "#5088B8FF", "#385860FF", "#183870FF", "#D8F8F8FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/flaaffy/"> <img src="../../palettetown/flaaffy/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/porygon2/"> <img src="../../palettetown/porygon2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../palettetown/phanpy/"> <img src="../../palettetown/phanpy/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/porygon2/"> <img src="../../palettetown/porygon2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

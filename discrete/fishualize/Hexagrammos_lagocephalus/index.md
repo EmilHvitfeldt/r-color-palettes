@@ -46,7 +46,7 @@ Use raw:
 c("#3E271DFF", "#A45019FF", "#FE2A02FF", "#D5AE06FF", "#637613FF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 

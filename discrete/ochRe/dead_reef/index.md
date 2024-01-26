@@ -46,7 +46,7 @@ Use raw:
 c("#D2E1DEFF", "#548495FF", "#3C4347FF", "#758388FF", "#DBE9E2FF", "#8E9796FF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 
@@ -61,6 +61,8 @@ c("#D2E1DEFF", "#548495FF", "#3C4347FF", "#758388FF", "#DBE9E2FF", "#8E9796FF")
 </figure> <figure class="figure">
 <a href="../../ggsci/blue_grey_material/"> <img src="../../ggsci/blue_grey_material/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../palettetown/poliwrath/"> <img src="../../palettetown/poliwrath/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../severance/Half/"> <img src="../../severance/Half/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/sPBIGy2/"> <img src="../../Redmonder/sPBIGy2/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -74,7 +76,5 @@ c("#D2E1DEFF", "#548495FF", "#3C4347FF", "#758388FF", "#DBE9E2FF", "#8E9796FF")
 <a href="../../fishualize/Mycteroperca_bonaci/"> <img src="../../fishualize/Mycteroperca_bonaci/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/Seattle_Grays/"> <img src="../../ggthemes/Seattle_Grays/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/dewgong/"> <img src="../../palettetown/dewgong/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -46,7 +46,7 @@ Use raw:
 c("#0064C3FF", "#9FEEF0FF", "#041859FF", "#4682B4FF", "#00C4FAFF", "#00005BFF", "#000000FF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 
@@ -57,13 +57,13 @@ c("#0064C3FF", "#9FEEF0FF", "#041859FF", "#4682B4FF", "#00C4FAFF", "#00005BFF", 
 </figure> <figure class="figure">
 <a href="../../trekcolors/black_alert/"> <img src="../../trekcolors/black_alert/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nbapalettes/magic_city2/"> <img src="../../nbapalettes/magic_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../ggprism/blueprint/"> <img src="../../ggprism/blueprint/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/Aquamarine/"> <img src="../../tvthemes/Aquamarine/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/blueprint3/"> <img src="../../ggprism/blueprint3/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nbapalettes/magic_city2/"> <img src="../../nbapalettes/magic_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/fir/"> <img src="../../ggprism/fir/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

@@ -46,7 +46,7 @@ Use raw:
 c("#FFFFFFFF", "#F0F0F0FF", "#D9D9D9FF", "#BDBDBDFF", "#969696FF", "#737373FF", "#525252FF", "#252525FF", "#000000FF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 
@@ -65,9 +65,9 @@ c("#FFFFFFFF", "#F0F0F0FF", "#D9D9D9FF", "#BDBDBDFF", "#969696FF", "#737373FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/castform/"> <img src="../../palettetown/castform/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../tayloRswift/reputation/"> <img src="../../tayloRswift/reputation/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../ggthemr/greyscale/"> <img src="../../ggthemr/greyscale/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../tayloRswift/reputation/"> <img src="../../tayloRswift/reputation/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/grey_material/"> <img src="../../ggsci/grey_material/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

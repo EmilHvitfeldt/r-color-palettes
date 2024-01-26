@@ -46,7 +46,7 @@ Use raw:
 c("#E9F8F6FF", "#CCE5E2FF", "#AFD1CEFF", "#92BEBAFF", "#75AAA6FF", "#579791FF", "#3A837DFF", "#1D7069FF", "#005C55FF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 
@@ -73,8 +73,8 @@ c("#E9F8F6FF", "#CCE5E2FF", "#AFD1CEFF", "#92BEBAFF", "#75AAA6FF", "#579791FF", 
 </figure> <figure class="figure">
 <a href="../../trekcolors/romulan2/"> <img src="../../trekcolors/romulan2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../colorBlindness/Blue2Gray8Steps/"> <img src="../../colorBlindness/Blue2Gray8Steps/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../soilpalettes/gley/"> <img src="../../soilpalettes/gley/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../colorBlindness/Blue2Gray8Steps/"> <img src="../../colorBlindness/Blue2Gray8Steps/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -46,7 +46,7 @@ Use raw:
 c("#008ECEFF", "#00A9E0FF", "#59C7EBFF", "#A6E1F4FF", "#CCEEF9FF", "#FFFFFFFF", "#E5E5E5FF", "#CCCCCCFF", "#999999FF", "#666666FF", "#000000FF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 
@@ -71,9 +71,9 @@ c("#008ECEFF", "#00A9E0FF", "#59C7EBFF", "#A6E1F4FF", "#CCEEF9FF", "#FFFFFFFF", 
 </figure> <figure class="figure">
 <a href="../../tvthemes/Stark/"> <img src="../../tvthemes/Stark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../dichromat/BluetoGray_8/"> <img src="../../dichromat/BluetoGray_8/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../ggprism/fir2/"> <img src="../../ggprism/fir2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../dichromat/BluetoGray_8/"> <img src="../../dichromat/BluetoGray_8/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colorBlindness/Blue2Gray8Steps/"> <img src="../../colorBlindness/Blue2Gray8Steps/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 

@@ -46,7 +46,7 @@ Use raw:
 c("#D86050FF", "#F89088FF", "#68C8F8FF", "#40A0D8FF", "#90E8F8FF", "#003098FF", "#2078C0FF", "#F8F8F8FF", "#B02010FF", "#F8D0A8FF", "#D0D0D0FF", "#686878FF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 
@@ -75,6 +75,6 @@ c("#D86050FF", "#F89088FF", "#68C8F8FF", "#40A0D8FF", "#90E8F8FF", "#003098FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/phanpy/"> <img src="../../palettetown/phanpy/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggsci/nrc_npg/"> <img src="../../ggsci/nrc_npg/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ggthemes/stata_economist/"> <img src="../../ggthemes/stata_economist/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>
