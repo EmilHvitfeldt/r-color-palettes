@@ -1,1 +1,1 @@
-Sitemap: https://github.com/EmilHvitfeldt/r-color-palettes/sitemap.xml
+Sitemap: https://EmilHvitfeldt.github.io/r-color-palettes/sitemap.xml
