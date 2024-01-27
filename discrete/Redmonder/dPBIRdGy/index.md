@@ -55,13 +55,17 @@ c("#7F312FFF", "#BE4A47FF", "#FD817EFF", "#FEA19EFF", "#FEC0BFFF", "#F5F5F5FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/venonat/"> <img src="../../palettetown/venonat/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../futurevisions/kepler186/"> <img src="../../futurevisions/kepler186/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/zangoose/"> <img src="../../palettetown/zangoose/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../palettetown/mr_mime/"> <img src="../../palettetown/mr_mime/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/zangoose/"> <img src="../../palettetown/zangoose/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/haunter/"> <img src="../../palettetown/haunter/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -72,9 +76,5 @@ c("#7F312FFF", "#BE4A47FF", "#FD817EFF", "#FEA19EFF", "#FEC0BFFF", "#F5F5F5FF", 
 <a href="../../palettetown/absol/"> <img src="../../palettetown/absol/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/rhyhorn/"> <img src="../../palettetown/rhyhorn/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/gengar/"> <img src="../../palettetown/gengar/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../trekcolors/lcars_red_alert/"> <img src="../../trekcolors/lcars_red_alert/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,6 +55,10 @@ c("#7CA0D4FF", "#A48AD3FF", "#E995EBFF", "#BADE86FF", "#2B8AAEFF", "#624894FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../rcartocolor/Safe/"> <img src="../../rcartocolor/Safe/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/lanonc_lancet/"> <img src="../../ggsci/lanonc_lancet/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#7CA0D4FF", "#A48AD3FF", "#E995EBFF", "#BADE86FF", "#2B8AAEFF", "#624894FF", 
 <a href="../../khroma/muted/"> <img src="../../khroma/muted/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../jcolors/pal8/"> <img src="../../jcolors/pal8/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tvthemes/gravityFalls/"> <img src="../../tvthemes/gravityFalls/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tvthemes/Garnet/"> <img src="../../tvthemes/Garnet/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

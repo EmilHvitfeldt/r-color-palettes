@@ -55,6 +55,10 @@ c("#D6EBECFF", "#7AD8DFFF", "#51D2DAFF", "#34AAB6FF", "#3D7688FF", "#306F83FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../rcartocolor/Teal/"> <img src="../../rcartocolor/Teal/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/pineco/"> <img src="../../palettetown/pineco/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#D6EBECFF", "#7AD8DFFF", "#51D2DAFF", "#34AAB6FF", "#3D7688FF", "#306F83FF")
 <a href="../../nord/frost/"> <img src="../../nord/frost/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Blue_Green/"> <img src="../../ggthemes/excel_Blue_Green/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../miscpalettes/seaGreen/"> <img src="../../miscpalettes/seaGreen/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Opisthonema_oglinum/"> <img src="../../fishualize/Opisthonema_oglinum/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

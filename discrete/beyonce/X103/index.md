@@ -55,6 +55,10 @@ c("#000000FF", "#613922FF", "#7D4C29FF", "#96725BFF", "#C1B5A2FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/DiegoVelazquez/"> <img src="../../lisa/DiegoVelazquez/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/BarnettNewman/"> <img src="../../lisa/BarnettNewman/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -67,14 +71,10 @@ c("#000000FF", "#613922FF", "#7D4C29FF", "#96725BFF", "#C1B5A2FF")
 </figure> <figure class="figure">
 <a href="../../dutchmasters/anatomy/"> <img src="../../dutchmasters/anatomy/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/danaus_erippus/"> <img src="../../ButterflyColors/danaus_erippus/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../colRoz/kimberley/"> <img src="../../colRoz/kimberley/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/p_breviceps/"> <img src="../../colRoz/p_breviceps/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X102/"> <img src="../../beyonce/X102/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/C_M_Coolidge/"> <img src="../../lisa/C_M_Coolidge/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../NatParksPalettes/WindCave/"> <img src="../../NatParksPalettes/WindCave/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

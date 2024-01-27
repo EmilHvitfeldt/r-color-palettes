@@ -55,6 +55,10 @@ c("#66C2A5FF", "#FC8D62FF", "#8DA0CBFF", "#E78AC3FF", "#A6D854FF", "#FFD92FFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggthemes/few_Light/"> <img src="../../ggthemes/few_Light/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/Pastel/"> <img src="../../rcartocolor/Pastel/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -69,12 +73,8 @@ c("#66C2A5FF", "#FC8D62FF", "#8DA0CBFF", "#E78AC3FF", "#A6D854FF", "#FFD92FFF", 
 </figure> <figure class="figure">
 <a href="../../khroma/light/"> <img src="../../khroma/light/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ltc/olga/"> <img src="../../ltc/olga/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggthemes/excel_Paper/"> <img src="../../ggthemes/excel_Paper/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/Jewel_Bright/"> <img src="../../ggthemes/Jewel_Bright/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/Summer/"> <img src="../../ggthemes/Summer/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/Superfishel_Stone/"> <img src="../../ggthemes/Superfishel_Stone/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

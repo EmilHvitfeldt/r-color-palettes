@@ -55,9 +55,15 @@ c("#8A2BE2FF", "#BA55D3FF", "#4169E1FF", "#C71585FF", "#0000FFFF", "#8A2BE2FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggprism/purple_passion/"> <img src="../../ggprism/purple_passion/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Violet_II/"> <img src="../../ggthemes/excel_Violet_II/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/Purples/"> <img src="../../PrettyCols/Purples/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X111/"> <img src="../../beyonce/X111/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -65,16 +71,10 @@ c("#8A2BE2FF", "#BA55D3FF", "#4169E1FF", "#C71585FF", "#0000FFFF", "#8A2BE2FF", 
 </figure> <figure class="figure">
 <a href="../../lisa/Prince/"> <img src="../../lisa/Prince/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../MoMAColors/Flash/"> <img src="../../MoMAColors/Flash/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggthemes/excel_Red_Violet/"> <img src="../../ggthemes/excel_Red_Violet/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../beyonce/X112/"> <img src="../../beyonce/X112/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../ggsci/purple_material/"> <img src="../../ggsci/purple_material/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X98/"> <img src="../../beyonce/X98/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tvthemes/Sugilite/"> <img src="../../tvthemes/Sugilite/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggprism/the_blues/"> <img src="../../ggprism/the_blues/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

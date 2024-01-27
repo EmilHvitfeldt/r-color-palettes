@@ -55,6 +55,10 @@ c("#336666FF", "#20B2AAFF", "#99CCCCFF", "#20B2AAFF", "#336666FF", "#20B2AAFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggprism/fir/"> <img src="../../ggprism/fir/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/fir2/"> <img src="../../ggprism/fir2/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#336666FF", "#20B2AAFF", "#99CCCCFF", "#20B2AAFF", "#336666FF", "#20B2AAFF", 
 <a href="../../rockthemes/coltrane/"> <img src="../../rockthemes/coltrane/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../unikn/pal_unikn/"> <img src="../../unikn/pal_unikn/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../calecopal/grasswet/"> <img src="../../calecopal/grasswet/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/wobbuffet/"> <img src="../../palettetown/wobbuffet/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

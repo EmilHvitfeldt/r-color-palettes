@@ -55,6 +55,10 @@ c("#C8E870FF", "#A8C860FF", "#305028FF", "#407028FF", "#88A850FF", "#688840FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/scyther/"> <img src="../../palettetown/scyther/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/exeggutor/"> <img src="../../palettetown/exeggutor/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#C8E870FF", "#A8C860FF", "#305028FF", "#407028FF", "#88A850FF", "#688840FF", 
 <a href="../../tvthemes/Tyrell/"> <img src="../../tvthemes/Tyrell/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/politoed/"> <img src="../../palettetown/politoed/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/lombre/"> <img src="../../palettetown/lombre/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/farfetchd/"> <img src="../../palettetown/farfetchd/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

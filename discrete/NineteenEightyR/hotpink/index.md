@@ -55,6 +55,12 @@ c("#FF69B4FF", "#FF6EB4FF", "#EE6AA7FF", "#CD6090FF", "#8B3A62FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/Pinks/"> <img src="../../PrettyCols/Pinks/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../vapeplot/sunset/"> <img src="../../vapeplot/sunset/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../vapoRwave/sunSet/"> <img src="../../vapoRwave/sunSet/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -70,11 +76,5 @@ c("#FF69B4FF", "#FF6EB4FF", "#EE6AA7FF", "#CD6090FF", "#8B3A62FF")
 <a href="../../rcartocolor/Magenta/"> <img src="../../rcartocolor/Magenta/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/Burg/"> <img src="../../rcartocolor/Burg/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X27/"> <img src="../../beyonce/X27/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggsci/pink_material/"> <img src="../../ggsci/pink_material/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X14/"> <img src="../../beyonce/X14/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

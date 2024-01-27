@@ -55,9 +55,15 @@ c("#EC8FA3FF", "#FCBA65FF", "#FAECCFFF", "#8D7F99FF", "#8C9D57FF", "#163343FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../feathers/rose_crowned_fruit_dove/"> <img src="../../feathers/rose_crowned_fruit_dove/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../futurevisions/kepler16b/"> <img src="../../futurevisions/kepler16b/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MoMAColors/Rattner/"> <img src="../../MoMAColors/Rattner/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nationalparkcolors/DeathValley/"> <img src="../../nationalparkcolors/DeathValley/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,14 +73,8 @@ c("#EC8FA3FF", "#FCBA65FF", "#FAECCFFF", "#8D7F99FF", "#8C9D57FF", "#163343FF")
 </figure> <figure class="figure">
 <a href="../../tayloRswift/speakNow/"> <img src="../../tayloRswift/speakNow/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../PrettyCols/TangerineBlues/"> <img src="../../PrettyCols/TangerineBlues/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Epinephelus_lanceolatus/"> <img src="../../fishualize/Epinephelus_lanceolatus/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../IslamicArt/alhambra/"> <img src="../../IslamicArt/alhambra/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../Redmonder/qMSO12/"> <img src="../../Redmonder/qMSO12/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tayloRswift/lover/"> <img src="../../tayloRswift/lover/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/JamesJean/"> <img src="../../lisa/JamesJean/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

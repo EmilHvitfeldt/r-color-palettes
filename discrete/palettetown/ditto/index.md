@@ -55,26 +55,26 @@ c("#E898D0FF", "#D070A0FF", "#B05080FF", "#303030FF", "#702858FF", "#F0C0E8FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../tvthemes/Rhodonite/"> <img src="../../tvthemes/Rhodonite/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/Arches2/"> <img src="../../NatParksPalettes/Arches2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/Magenta/"> <img src="../../rcartocolor/Magenta/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../MoMAColors/Althoff/"> <img src="../../MoMAColors/Althoff/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../beyonce/X27/"> <img src="../../beyonce/X27/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../unikn/pal_bordeaux/"> <img src="../../unikn/pal_bordeaux/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../beyonce/X14/"> <img src="../../beyonce/X14/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../tvthemes/Dusk/"> <img src="../../tvthemes/Dusk/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../beyonce/X14/"> <img src="../../beyonce/X14/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../NatParksPalettes/LakeNakuru/"> <img src="../../NatParksPalettes/LakeNakuru/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../calecopal/vermillion/"> <img src="../../calecopal/vermillion/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../rockthemes/muse/"> <img src="../../rockthemes/muse/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MapPalettes/bruiser/"> <img src="../../MapPalettes/bruiser/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,9 +55,15 @@ c("#B77B7BFF", "#FEEC44FF", "#F66C09FF", "#E60505FF", "#2C1B21FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Salvelinus_fontinalis/"> <img src="../../fishualize/Salvelinus_fontinalis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nationalparkcolors/Saguaro/"> <img src="../../nationalparkcolors/Saguaro/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MoMAColors/vonHeyl/"> <img src="../../MoMAColors/vonHeyl/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../DresdenColor/changes/"> <img src="../../DresdenColor/changes/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,14 +73,8 @@ c("#B77B7BFF", "#FEEC44FF", "#F66C09FF", "#E60505FF", "#2C1B21FF")
 </figure> <figure class="figure">
 <a href="../../nationalparkcolors/Hawaii/"> <img src="../../nationalparkcolors/Hawaii/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Aulostomus_chinensis/"> <img src="../../fishualize/Aulostomus_chinensis/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../MoMAColors/Exter/"> <img src="../../MoMAColors/Exter/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/teamrocket/"> <img src="../../palettetown/teamrocket/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../colRoz/whitei/"> <img src="../../colRoz/whitei/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tvthemes/CrazyLaceAgate/"> <img src="../../tvthemes/CrazyLaceAgate/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tvthemes/Martell/"> <img src="../../tvthemes/Martell/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

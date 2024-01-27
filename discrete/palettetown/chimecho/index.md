@@ -55,6 +55,10 @@ c("#98C0E0FF", "#404868FF", "#C0E0F8FF", "#F05870FF", "#7090B0FF", "#F8D058FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/taillow/"> <img src="../../palettetown/taillow/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/volbeat/"> <img src="../../palettetown/volbeat/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -67,14 +71,10 @@ c("#98C0E0FF", "#404868FF", "#C0E0F8FF", "#F05870FF", "#7090B0FF", "#F8D058FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/exploud/"> <img src="../../palettetown/exploud/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/minun/"> <img src="../../palettetown/minun/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../palettetown/delcatty/"> <img src="../../palettetown/delcatty/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../palettetown/minun/"> <img src="../../palettetown/minun/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/miltank/"> <img src="../../palettetown/miltank/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/jynx/"> <img src="../../palettetown/jynx/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/swalot/"> <img src="../../palettetown/swalot/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

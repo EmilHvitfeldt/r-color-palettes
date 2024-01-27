@@ -55,26 +55,26 @@ c("#446455FF", "#FDD262FF", "#D3DDDCFF", "#C7B19CFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nationalparkcolors/MtRainier/"> <img src="../../nationalparkcolors/MtRainier/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/spurs/"> <img src="../../nbapalettes/spurs/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../wesanderson/Royal2/"> <img src="../../wesanderson/Royal2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../wesanderson/Moonrise3/"> <img src="../../wesanderson/Moonrise3/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../waRhol/camo_87_5/"> <img src="../../waRhol/camo_87_5/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../calecopal/seagrass/"> <img src="../../calecopal/seagrass/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ltc/olga/"> <img src="../../ltc/olga/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../wesanderson/Moonrise3/"> <img src="../../wesanderson/Moonrise3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Chaetodon_sedentarius/"> <img src="../../fishualize/Chaetodon_sedentarius/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../calecopal/seagrass/"> <img src="../../calecopal/seagrass/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/PaulKlee/"> <img src="../../lisa/PaulKlee/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/RobertDelaunay_1/"> <img src="../../lisa/RobertDelaunay_1/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../rcartocolor/ArmyRose/"> <img src="../../rcartocolor/ArmyRose/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/J_M_W_Turner/"> <img src="../../lisa/J_M_W_Turner/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Valenciennea_strigata/"> <img src="../../fishualize/Valenciennea_strigata/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

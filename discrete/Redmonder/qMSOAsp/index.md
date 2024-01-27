@@ -55,6 +55,12 @@ c("#E3DED1FF", "#323232FF", "#F07F09FF", "#9F2936FF", "#1B587CFF", "#4E8542FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/TangerineBlues/"> <img src="../../PrettyCols/TangerineBlues/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../NatParksPalettes/Triglav/"> <img src="../../NatParksPalettes/Triglav/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemr/light/"> <img src="../../ggthemr/light/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -70,11 +76,5 @@ c("#E3DED1FF", "#323232FF", "#F07F09FF", "#9F2936FF", "#1B587CFF", "#4E8542FF", 
 <a href="../../ggthemr/pale/"> <img src="../../ggthemr/pale/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSO12/"> <img src="../../Redmonder/qMSO12/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggsci/light_uchicago/"> <img src="../../ggsci/light_uchicago/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../Redmonder/qMSO15/"> <img src="../../Redmonder/qMSO15/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nationalparkcolors/ChannelIslands/"> <img src="../../nationalparkcolors/ChannelIslands/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

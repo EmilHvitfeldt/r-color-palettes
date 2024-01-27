@@ -55,6 +55,10 @@ c("#582C83FF", "#FFC72CFF", "#010101FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nbapalettes/warriors/"> <img src="../../nbapalettes/warriors/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/jazz/"> <img src="../../nbapalettes/jazz/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -71,10 +75,6 @@ c("#582C83FF", "#FFC72CFF", "#010101FF")
 </figure> <figure class="figure">
 <a href="../../nbapalettes/celtics/"> <img src="../../nbapalettes/celtics/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../Manu/Gloomy_Nudi/"> <img src="../../Manu/Gloomy_Nudi/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/lakers_alt/"> <img src="../../nbapalettes/lakers_alt/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/pelicans/"> <img src="../../nbapalettes/pelicans/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../khroma/highcontrast/"> <img src="../../khroma/highcontrast/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

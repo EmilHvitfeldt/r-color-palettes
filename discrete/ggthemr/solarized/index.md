@@ -55,26 +55,26 @@ c("#073642FF", "#268BD2FF", "#DC322FFF", "#2AA198FF", "#B58900FF", "#6C71C4FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/Lively/"> <img src="../../PrettyCols/Lively/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MoMAColors/Sidhu/"> <img src="../../MoMAColors/Sidhu/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../suffrager/oxon/"> <img src="../../suffrager/oxon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/thunder_city/"> <img src="../../nbapalettes/thunder_city/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggprism/prism_light/"> <img src="../../ggprism/prism_light/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../ggprism/prism_dark2/"> <img src="../../ggprism/prism_dark2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggprism/prism_dark/"> <img src="../../ggprism/prism_dark/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ggprism/prism_light/"> <img src="../../ggprism/prism_light/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/prism_light2/"> <img src="../../ggprism/prism_light2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ggprism/prism_dark/"> <img src="../../ggprism/prism_dark/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../LaCroixColoR/CranRaspberry/"> <img src="../../LaCroixColoR/CranRaspberry/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tvthemes/Steven/"> <img src="../../tvthemes/Steven/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/timberwolves_statement/"> <img src="../../nbapalettes/timberwolves_statement/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/pistons_city/"> <img src="../../nbapalettes/pistons_city/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggsci/hallmarks_light_cosmic/"> <img src="../../ggsci/hallmarks_light_cosmic/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

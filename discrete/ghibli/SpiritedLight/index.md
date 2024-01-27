@@ -55,6 +55,10 @@ c("#8F9297FF", "#9A9C97FF", "#C19A9BFF", "#C7C0C8FF", "#B4DCF5FF", "#E1D7CBFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ghibli/LaputaLight/"> <img src="../../ghibli/LaputaLight/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ghibli/KikiLight/"> <img src="../../ghibli/KikiLight/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#8F9297FF", "#9A9C97FF", "#C19A9BFF", "#C7C0C8FF", "#B4DCF5FF", "#E1D7CBFF", 
 <a href="../../calecopal/chaparral2/"> <img src="../../calecopal/chaparral2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Sardinella_brasiliensis/"> <img src="../../fishualize/Sardinella_brasiliensis/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ghibli/TotoroLight/"> <img src="../../ghibli/TotoroLight/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ghibli/YesterdayLight/"> <img src="../../ghibli/YesterdayLight/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

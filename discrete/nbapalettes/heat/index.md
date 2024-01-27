@@ -55,6 +55,10 @@ c("#98002EFF", "#F9A01BFF", "#000000FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nbapalettes/cavaliers/"> <img src="../../nbapalettes/cavaliers/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/hawks_90s/"> <img src="../../nbapalettes/hawks_90s/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -67,14 +71,10 @@ c("#98002EFF", "#F9A01BFF", "#000000FF")
 </figure> <figure class="figure">
 <a href="../../fishualize/Centropyge_loricula/"> <img src="../../fishualize/Centropyge_loricula/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nbapalettes/celtics2/"> <img src="../../nbapalettes/celtics2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../nbapalettes/heat_0506/"> <img src="../../nbapalettes/heat_0506/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../nbapalettes/celtics2/"> <img src="../../nbapalettes/celtics2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../tvthemes/Lannister/"> <img src="../../tvthemes/Lannister/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/rockets_original/"> <img src="../../nbapalettes/rockets_original/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tvthemes/FireNation/"> <img src="../../tvthemes/FireNation/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

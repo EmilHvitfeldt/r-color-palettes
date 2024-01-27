@@ -55,6 +55,10 @@ c("#B860B8FF", "#882880FF", "#E098D0FF", "#C0C0A0FF", "#F8D0F8FF", "#E0E0D0FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../Redmonder/dPBIPuGn/"> <img src="../../Redmonder/dPBIPuGn/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemr/lilac/"> <img src="../../ggthemr/lilac/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#B860B8FF", "#882880FF", "#E098D0FF", "#C0C0A0FF", "#F8D0F8FF", "#E0E0D0FF", 
 <a href="../../khroma/PRGn/"> <img src="../../khroma/PRGn/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/Tropic/"> <img src="../../rcartocolor/Tropic/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/hitmontop/"> <img src="../../palettetown/hitmontop/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/venomoth/"> <img src="../../palettetown/venomoth/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

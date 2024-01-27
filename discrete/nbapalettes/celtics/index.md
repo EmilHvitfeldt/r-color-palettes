@@ -55,6 +55,10 @@ c("#008348FF", "#061922FF", "#BB9753FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nbapalettes/jazz/"> <img src="../../nbapalettes/jazz/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/warriors/"> <img src="../../nbapalettes/warriors/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -63,18 +67,14 @@ c("#008348FF", "#061922FF", "#BB9753FF")
 </figure> <figure class="figure">
 <a href="../../trekcolors/starfleet/"> <img src="../../trekcolors/starfleet/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../khroma/highcontrast/"> <img src="../../khroma/highcontrast/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nbapalettes/supersonics/"> <img src="../../nbapalettes/supersonics/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/bulls_city/"> <img src="../../nbapalettes/bulls_city/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/warriors_cny/"> <img src="../../nbapalettes/warriors_cny/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nbapalettes/hawks_statement/"> <img src="../../nbapalettes/hawks_statement/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/lakers/"> <img src="../../nbapalettes/lakers/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/pacers/"> <img src="../../nbapalettes/pacers/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../futurevisions/atomic_orange/"> <img src="../../futurevisions/atomic_orange/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ltc/trio4/"> <img src="../../ltc/trio4/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

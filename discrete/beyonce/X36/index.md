@@ -55,6 +55,10 @@ c("#180705FF", "#3A140CFF", "#DD8521FF", "#F1C332FF", "#ED9C97FF", "#E1595CFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../beyonce/X45/"> <img src="../../beyonce/X45/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Greek/"> <img src="../../MetBrewer/Greek/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -67,14 +71,10 @@ c("#180705FF", "#3A140CFF", "#DD8521FF", "#F1C332FF", "#ED9C97FF", "#E1595CFF")
 </figure> <figure class="figure">
 <a href="../../soilpalettes/podzol/"> <img src="../../soilpalettes/podzol/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../MexBrewer/Naturaleza/"> <img src="../../MexBrewer/Naturaleza/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../suffrager/london/"> <img src="../../suffrager/london/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nationalparkcolors/Hawaii/"> <img src="../../nationalparkcolors/Hawaii/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../rockthemes/alice/"> <img src="../../rockthemes/alice/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Nemateleotris_magnifica/"> <img src="../../fishualize/Nemateleotris_magnifica/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../soilpalettes/vitrixerand/"> <img src="../../soilpalettes/vitrixerand/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../MexBrewer/Taurus1/"> <img src="../../MexBrewer/Taurus1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

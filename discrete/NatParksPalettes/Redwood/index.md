@@ -55,6 +55,10 @@ c("#5E3B49FF", "#9B5F6BFF", "#BA817DFF", "#325731FF", "#6A9741FF", "#5F4E2FFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/C_M_Coolidge/"> <img src="../../lisa/C_M_Coolidge/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/GeorgesSeurat/"> <img src="../../lisa/GeorgesSeurat/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#5E3B49FF", "#9B5F6BFF", "#BA817DFF", "#325731FF", "#6A9741FF", "#5F4E2FFF")
 <a href="../../lisa/MaxErnst/"> <img src="../../lisa/MaxErnst/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/OdilonRedon/"> <img src="../../lisa/OdilonRedon/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/OttoDix/"> <img src="../../lisa/OttoDix/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../colRoz/a_conica/"> <img src="../../colRoz/a_conica/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

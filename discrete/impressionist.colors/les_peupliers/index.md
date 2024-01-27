@@ -55,9 +55,15 @@ c("#A54B2DFF", "#874B3CFF", "#A5694BFF", "#D29678FF", "#B49696FF", "#A57878FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../rcartocolor/Antique/"> <img src="../../rcartocolor/Antique/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../impressionist.colors/les_nympheas/"> <img src="../../impressionist.colors/les_nympheas/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MoMAColors/Picabia/"> <img src="../../MoMAColors/Picabia/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../impressionist.colors/fleurs_dans_un_vase_de_cristal/"> <img src="../../impressionist.colors/fleurs_dans_un_vase_de_cristal/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,14 +73,8 @@ c("#A54B2DFF", "#874B3CFF", "#A5694BFF", "#D29678FF", "#B49696FF", "#A57878FF", 
 </figure> <figure class="figure">
 <a href="../../impressionist.colors/te_aa_no_areois/"> <img src="../../impressionist.colors/te_aa_no_areois/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../MexBrewer/Alacena/"> <img src="../../MexBrewer/Alacena/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../peRReo/wyy/"> <img src="../../peRReo/wyy/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../impressionist.colors/les_terrassiers/"> <img src="../../impressionist.colors/les_terrassiers/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../impressionist.colors/la_yole/"> <img src="../../impressionist.colors/la_yole/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ochRe/emu_woman_paired/"> <img src="../../ochRe/emu_woman_paired/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../impressionist.colors/lestaque_aux_toits_rouges/"> <img src="../../impressionist.colors/lestaque_aux_toits_rouges/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

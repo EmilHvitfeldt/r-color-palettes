@@ -20,7 +20,7 @@ categories:
 {{< fa brands github size=3x >}}
 **Github**
 
-[tyluRp/lisa](https://github.com/tyluRp/lisa)
+[tylerlittlefield/lisa](https://github.com/tylerlittlefield/lisa)
 :::
 
 ::: {.column width="50%"}
@@ -55,7 +55,13 @@ c("#3A488AFF", "#8785B2FF", "#DABD61FF", "#D95F30FF", "#BE3428FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../NineteenEightyR/sunset1/"> <img src="../../NineteenEightyR/sunset1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ltc/dora/"> <img src="../../ltc/dora/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../PNWColors/Sunset2/"> <img src="../../PNWColors/Sunset2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -70,11 +76,5 @@ c("#3A488AFF", "#8785B2FF", "#DABD61FF", "#D95F30FF", "#BE3428FF")
 <a href="../../fishualize/Antennarius_commerson/"> <img src="../../fishualize/Antennarius_commerson/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../PNWColors/Sunset/"> <img src="../../PNWColors/Sunset/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Pronotogrammus_martinicensis/"> <img src="../../fishualize/Pronotogrammus_martinicensis/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/Hokusai1/"> <img src="../../MetBrewer/Hokusai1/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/JamesRosenquist/"> <img src="../../lisa/JamesRosenquist/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

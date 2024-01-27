@@ -55,13 +55,17 @@ c("#240E31FF", "#CB6BCEFF", "#468892FF", "#74F3D3FF", "#751C6DFF", "#FDC067FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../werpals/provence/"> <img src="../../werpals/provence/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nationalparkcolors/GeneralGrant/"> <img src="../../nationalparkcolors/GeneralGrant/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../pals/tol/"> <img src="../../pals/tol/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../ghibli/LaputaMedium/"> <img src="../../ghibli/LaputaMedium/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../pals/tol/"> <img src="../../pals/tol/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X18/"> <img src="../../beyonce/X18/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -72,9 +76,5 @@ c("#240E31FF", "#CB6BCEFF", "#468892FF", "#74F3D3FF", "#751C6DFF", "#FDC067FF", 
 <a href="../../beyonce/X66/"> <img src="../../beyonce/X66/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../vapeplot/macplus/"> <img src="../../vapeplot/macplus/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../werpals/alice/"> <img src="../../werpals/alice/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/Manet/"> <img src="../../MetBrewer/Manet/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

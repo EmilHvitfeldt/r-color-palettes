@@ -55,6 +55,10 @@ c("#A2A098FF", "#5E6B7BFF", "#233D3FFF", "#85ADCCFF", "#426714FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../colRoz/salt_lake/"> <img src="../../colRoz/salt_lake/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../calecopal/bigsur2/"> <img src="../../calecopal/bigsur2/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -69,12 +73,8 @@ c("#A2A098FF", "#5E6B7BFF", "#233D3FFF", "#85ADCCFF", "#426714FF")
 </figure> <figure class="figure">
 <a href="../../vapeplot/seapunk/"> <img src="../../vapeplot/seapunk/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../vangogh/Landscape/"> <img src="../../vangogh/Landscape/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nord/baie_mouton/"> <img src="../../nord/baie_mouton/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../vapoRwave/seaPunk/"> <img src="../../vapoRwave/seaPunk/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X47/"> <img src="../../beyonce/X47/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../Manu/Kotare/"> <img src="../../Manu/Kotare/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

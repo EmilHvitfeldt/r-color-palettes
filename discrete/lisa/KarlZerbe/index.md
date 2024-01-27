@@ -20,7 +20,7 @@ categories:
 {{< fa brands github size=3x >}}
 **Github**
 
-[tyluRp/lisa](https://github.com/tyluRp/lisa)
+[tylerlittlefield/lisa](https://github.com/tylerlittlefield/lisa)
 :::
 
 ::: {.column width="50%"}
@@ -55,6 +55,14 @@ c("#46734FFF", "#CAAB6CFF", "#D0CCAFFF", "#617F97FF", "#9A352DFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../vangogh/Irises/"> <img src="../../vangogh/Irises/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../vangogh/SelfPortrait/"> <img src="../../vangogh/SelfPortrait/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/VincentvanGogh_2/"> <img src="../../lisa/VincentvanGogh_2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rockthemes/melloncollie/"> <img src="../../rockthemes/melloncollie/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -68,13 +76,5 @@ c("#46734FFF", "#CAAB6CFF", "#D0CCAFFF", "#617F97FF", "#9A352DFF")
 <a href="../../Manu/Kaka/"> <img src="../../Manu/Kaka/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/SouthDowns/"> <img src="../../NatParksPalettes/SouthDowns/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nationalparkcolors/ArcticGates/"> <img src="../../nationalparkcolors/ArcticGates/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../colRoz/c_decresii/"> <img src="../../colRoz/c_decresii/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Epinephelus_marginatus/"> <img src="../../fishualize/Epinephelus_marginatus/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../colRoz/k_tristis/"> <img src="../../colRoz/k_tristis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

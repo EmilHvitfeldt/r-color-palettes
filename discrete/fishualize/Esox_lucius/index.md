@@ -55,7 +55,13 @@ c("#E1E2DDFF", "#C6C7B6FF", "#BBA88AFF", "#935933FF", "#5C2C18FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/OttoDix_1/"> <img src="../../lisa/OttoDix_1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../tayloRswift/midnightsMahogany/"> <img src="../../tayloRswift/midnightsMahogany/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../calecopal/creek/"> <img src="../../calecopal/creek/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -65,16 +71,10 @@ c("#E1E2DDFF", "#C6C7B6FF", "#BBA88AFF", "#935933FF", "#5C2C18FF")
 </figure> <figure class="figure">
 <a href="../../lisa/PieterBruegel/"> <img src="../../lisa/PieterBruegel/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../vangogh/Shoes/"> <img src="../../vangogh/Shoes/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Oncorhynchus_mykiss/"> <img src="../../fishualize/Oncorhynchus_mykiss/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Zapteryx_brevirostris/"> <img src="../../fishualize/Zapteryx_brevirostris/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../IslamicArt/fes/"> <img src="../../IslamicArt/fes/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Anchoviella_lepidentostole/"> <img src="../../fishualize/Anchoviella_lepidentostole/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../impressionist.colors/paysage_tropical_avec_masureset_palmiers/"> <img src="../../impressionist.colors/paysage_tropical_avec_masureset_palmiers/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Mugil_liza/"> <img src="../../fishualize/Mugil_liza/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

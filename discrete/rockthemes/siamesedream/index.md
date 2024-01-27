@@ -55,6 +55,10 @@ c("#F0E9E0FF", "#2F1F16FF", "#A34D2CFF", "#CD8E40FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../beyonce/X24/"> <img src="../../beyonce/X24/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rockthemes/faithnomore/"> <img src="../../rockthemes/faithnomore/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -69,12 +73,8 @@ c("#F0E9E0FF", "#2F1F16FF", "#A34D2CFF", "#CD8E40FF")
 </figure> <figure class="figure">
 <a href="../../rockthemes/hellawaits/"> <img src="../../rockthemes/hellawaits/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/lycorea_hallia/"> <img src="../../ButterflyColors/lycorea_hallia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../calecopal/desert/"> <img src="../../calecopal/desert/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/ReneMagritte/"> <img src="../../lisa/ReneMagritte/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../colRoz/ngadju/"> <img src="../../colRoz/ngadju/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../NatParksPalettes/WindCave/"> <img src="../../NatParksPalettes/WindCave/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

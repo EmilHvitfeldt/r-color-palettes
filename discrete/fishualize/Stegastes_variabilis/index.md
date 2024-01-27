@@ -55,9 +55,15 @@ c("#4F22F2FF", "#173761FF", "#F8BB19FF", "#CAAF01FF", "#4A57AAFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Halichoeres_dimidiatus/"> <img src="../../fishualize/Halichoeres_dimidiatus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/VincentvanGogh/"> <img src="../../lisa/VincentvanGogh/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../waRhol/camo_87_3/"> <img src="../../waRhol/camo_87_3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Chromis_vanderbilti/"> <img src="../../fishualize/Chromis_vanderbilti/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -65,16 +71,10 @@ c("#4F22F2FF", "#173761FF", "#F8BB19FF", "#CAAF01FF", "#4A57AAFF")
 </figure> <figure class="figure">
 <a href="../../lisa/YvesKlein/"> <img src="../../lisa/YvesKlein/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nbapalettes/pacers_foundation/"> <img src="../../nbapalettes/pacers_foundation/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../PrettyCols/Bold/"> <img src="../../PrettyCols/Bold/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/mavericks_banner/"> <img src="../../nbapalettes/mavericks_banner/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Zebrasoma_xanthurum/"> <img src="../../fishualize/Zebrasoma_xanthurum/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Bodianus_rufus/"> <img src="../../fishualize/Bodianus_rufus/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../colRoz/desert_dusk/"> <img src="../../colRoz/desert_dusk/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Pomacanthus_imperator/"> <img src="../../fishualize/Pomacanthus_imperator/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../nbapalettes/pacers_foundation/"> <img src="../../nbapalettes/pacers_foundation/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

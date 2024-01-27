@@ -55,6 +55,10 @@ c("#3850A8FF", "#3A4FA8FF", "#3650A5FF", "#0068F7FF", "#0068F8FF", "#0367FBFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggthemes/excel_Violet_II/"> <img src="../../ggthemes/excel_Violet_II/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/pastels/"> <img src="../../ggprism/pastels/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#3850A8FF", "#3A4FA8FF", "#3650A5FF", "#0068F7FF", "#0068F8FF", "#0367FBFF", 
 <a href="../../Redmonder/qMSOPu2/"> <img src="../../Redmonder/qMSOPu2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/blue_material/"> <img src="../../ggsci/blue_material/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../colRoz/sky/"> <img src="../../colRoz/sky/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/excel_Red_Violet/"> <img src="../../ggthemes/excel_Red_Violet/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

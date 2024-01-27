@@ -55,6 +55,10 @@ c("#8A8CA4FF", "#D3EEF9FF", "#A0FFFEFF", "#70B7E1FF", "#5074A5FF", "#BFBBA1FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Sardinella_brasiliensis/"> <img src="../../fishualize/Sardinella_brasiliensis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSOBu2/"> <img src="../../Redmonder/qMSOBu2/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -69,12 +73,8 @@ c("#8A8CA4FF", "#D3EEF9FF", "#A0FFFEFF", "#70B7E1FF", "#5074A5FF", "#BFBBA1FF")
 </figure> <figure class="figure">
 <a href="../../tvthemes/Pearl/"> <img src="../../tvthemes/Pearl/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ltc/reading/"> <img src="../../ltc/reading/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nationalparkcolors/CraterLake/"> <img src="../../nationalparkcolors/CraterLake/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tvthemes/Opal/"> <img src="../../tvthemes/Opal/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/Nuriel_Stone/"> <img src="../../ggthemes/Nuriel_Stone/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Harengula_jaguana/"> <img src="../../fishualize/Harengula_jaguana/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

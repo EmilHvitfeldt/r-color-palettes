@@ -55,6 +55,10 @@ c("#89080AFF", "#C5AA73FF", "#FEDF25FF", "#C24841FF", "#8B5B45FF", "#000000FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nbapalettes/hawks_90s/"> <img src="../../nbapalettes/hawks_90s/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/celtics2/"> <img src="../../nbapalettes/celtics2/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#89080AFF", "#C5AA73FF", "#FEDF25FF", "#C24841FF", "#8B5B45FF", "#000000FF")
 <a href="../../palettetown/skitty/"> <img src="../../palettetown/skitty/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/wsj_colors6/"> <img src="../../ggthemes/wsj_colors6/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../feathers/spotted_pardalote/"> <img src="../../feathers/spotted_pardalote/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../peRReo/aventura/"> <img src="../../peRReo/aventura/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

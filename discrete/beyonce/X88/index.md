@@ -55,9 +55,15 @@ c("#332830FF", "#2D2429FF", "#544549FF", "#8F070FFF", "#90060EFF", "#E0B412FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../beyonce/X89/"> <img src="../../beyonce/X89/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/jazz_city/"> <img src="../../nbapalettes/jazz_city/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/Autumn/"> <img src="../../PrettyCols/Autumn/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X34/"> <img src="../../beyonce/X34/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -70,11 +76,5 @@ c("#332830FF", "#2D2429FF", "#544549FF", "#8F070FFF", "#90060EFF", "#E0B412FF", 
 <a href="../../ggprism/beer_and_ales/"> <img src="../../ggprism/beer_and_ales/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Nattier/"> <img src="../../MetBrewer/Nattier/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Anisotremus_virginicus/"> <img src="../../fishualize/Anisotremus_virginicus/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/MiltonAvery/"> <img src="../../lisa/MiltonAvery/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nord/red_mountain/"> <img src="../../nord/red_mountain/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

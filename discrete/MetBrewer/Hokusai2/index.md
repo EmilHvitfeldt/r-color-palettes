@@ -55,6 +55,10 @@ c("#ABC9C8FF", "#72AEB6FF", "#4692B0FF", "#2F70A1FF", "#134B73FF", "#0A3351FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../MetBrewer/Pissaro/"> <img src="../../MetBrewer/Pissaro/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rockthemes/coltrane/"> <img src="../../rockthemes/coltrane/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#ABC9C8FF", "#72AEB6FF", "#4692B0FF", "#2F70A1FF", "#134B73FF", "#0A3351FF")
 <a href="../../rtist/okeeffe/"> <img src="../../rtist/okeeffe/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../vapoRwave/jazzCup/"> <img src="../../vapoRwave/jazzCup/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/hornets_city2/"> <img src="../../nbapalettes/hornets_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../vapeplot/jazzcup/"> <img src="../../vapeplot/jazzcup/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

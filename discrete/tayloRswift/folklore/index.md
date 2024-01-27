@@ -55,13 +55,19 @@ c("#272727FF", "#5C5C5CFF", "#BABABAFF", "#F8F8F8FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../awtools/gpalette/"> <img src="../../awtools/gpalette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../trekcolors/borg/"> <img src="../../trekcolors/borg/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../tayloRswift/Red/"> <img src="../../tayloRswift/Red/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggsci/grey_material/"> <img src="../../ggsci/grey_material/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../tayloRswift/reputation/"> <img src="../../tayloRswift/reputation/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../tayloRswift/midnights/"> <img src="../../tayloRswift/midnights/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Alosa_fallax/"> <img src="../../fishualize/Alosa_fallax/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -70,11 +76,5 @@ c("#272727FF", "#5C5C5CFF", "#BABABAFF", "#F8F8F8FF")
 <a href="../../fishualize/Sander_lucioperca/"> <img src="../../fishualize/Sander_lucioperca/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/unown/"> <img src="../../palettetown/unown/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../futurevisions/pso/"> <img src="../../futurevisions/pso/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../colRoz/shark_bay/"> <img src="../../colRoz/shark_bay/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../NatParksPalettes/CapitolReef/"> <img src="../../NatParksPalettes/CapitolReef/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

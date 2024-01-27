@@ -55,6 +55,12 @@ c("#304890FF", "#7890A8FF", "#90A8C0FF", "#A8A8A8FF", "#C0C0A8FF", "#6A7E4FFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../vangogh/Landscape/"> <img src="../../vangogh/Landscape/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../beyonce/X47/"> <img src="../../beyonce/X47/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Manu/Kotare/"> <img src="../../Manu/Kotare/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -67,14 +73,8 @@ c("#304890FF", "#7890A8FF", "#90A8C0FF", "#A8A8A8FF", "#C0C0A8FF", "#6A7E4FFF", 
 </figure> <figure class="figure">
 <a href="../../Manu/Korora/"> <img src="../../Manu/Korora/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../MoMAColors/Levine2/"> <img src="../../MoMAColors/Levine2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/wobbuffet/"> <img src="../../palettetown/wobbuffet/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/poliwrath/"> <img src="../../palettetown/poliwrath/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../colRoz/salt_lake/"> <img src="../../colRoz/salt_lake/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../DresdenColor/deathmasks/"> <img src="../../DresdenColor/deathmasks/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nord/silver_mine/"> <img src="../../nord/silver_mine/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

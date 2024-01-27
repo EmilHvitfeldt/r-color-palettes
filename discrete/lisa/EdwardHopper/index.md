@@ -20,7 +20,7 @@ categories:
 {{< fa brands github size=3x >}}
 **Github**
 
-[tyluRp/lisa](https://github.com/tyluRp/lisa)
+[tylerlittlefield/lisa](https://github.com/tylerlittlefield/lisa)
 :::
 
 ::: {.column width="50%"}
@@ -55,6 +55,10 @@ c("#67161CFF", "#3F6148FF", "#DBD3A4FF", "#A4804CFF", "#4B5F80FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/Michelangelo/"> <img src="../../lisa/Michelangelo/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/EdouardManet/"> <img src="../../lisa/EdouardManet/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#67161CFF", "#3F6148FF", "#DBD3A4FF", "#A4804CFF", "#4B5F80FF")
 <a href="../../lisa/VincentvanGogh_2/"> <img src="../../lisa/VincentvanGogh_2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/GrandCanyon/"> <img src="../../NatParksPalettes/GrandCanyon/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/OttoDix/"> <img src="../../lisa/OttoDix/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/JoanMiro/"> <img src="../../lisa/JoanMiro/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

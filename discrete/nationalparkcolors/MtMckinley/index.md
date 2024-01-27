@@ -55,6 +55,10 @@ c("#D5AE63FF", "#6E6C81FF", "#F7ECD8FF", "#3F3939FF", "#93AD90FF", "#C9B793FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../calecopal/caqu/"> <img src="../../calecopal/caqu/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/SouthDowns/"> <img src="../../NatParksPalettes/SouthDowns/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -69,12 +73,8 @@ c("#D5AE63FF", "#6E6C81FF", "#F7ECD8FF", "#3F3939FF", "#93AD90FF", "#C9B793FF")
 </figure> <figure class="figure">
 <a href="../../nationalparkcolors/GreatBasin/"> <img src="../../nationalparkcolors/GreatBasin/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/doduo/"> <img src="../../palettetown/doduo/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../nationalparkcolors/CraterLake/"> <img src="../../nationalparkcolors/CraterLake/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../IslamicArt/jerusalem/"> <img src="../../IslamicArt/jerusalem/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../IslamicArt/alhambra/"> <img src="../../IslamicArt/alhambra/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../palettetown/doduo/"> <img src="../../palettetown/doduo/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

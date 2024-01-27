@@ -55,6 +55,10 @@ c("#B24422FF", "#C44D76FF", "#4457A5FF", "#13315FFF", "#B1A1CCFF", "#59386CFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../Manu/Takahe/"> <img src="../../Manu/Takahe/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Oncorhynchus_nerka/"> <img src="../../fishualize/Oncorhynchus_nerka/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -71,10 +75,6 @@ c("#B24422FF", "#C44D76FF", "#4457A5FF", "#13315FFF", "#B1A1CCFF", "#59386CFF", 
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Klimt/"> <img src="../../MetBrewer/Klimt/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../colRoz/salt_lake/"> <img src="../../colRoz/salt_lake/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X41/"> <img src="../../beyonce/X41/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Hypsoblennius_invemar/"> <img src="../../fishualize/Hypsoblennius_invemar/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../MoMAColors/Sidhu/"> <img src="../../MoMAColors/Sidhu/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

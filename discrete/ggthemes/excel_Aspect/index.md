@@ -55,9 +55,15 @@ c("#F07F09FF", "#9F2936FF", "#1B587CFF", "#4E8542FF", "#604878FF", "#C19859FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/startersDark/"> <img src="../../palettetown/startersDark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/pelicans_city/"> <img src="../../nbapalettes/pelicans_city/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../waRhol/bighorn_ram_83/"> <img src="../../waRhol/bighorn_ram_83/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Tiepolo/"> <img src="../../MetBrewer/Tiepolo/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -70,11 +76,5 @@ c("#F07F09FF", "#9F2936FF", "#1B587CFF", "#4E8542FF", "#604878FF", "#C19859FF")
 <a href="../../calecopal/superbloom3/"> <img src="../../calecopal/superbloom3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../PNWColors/Sunset2/"> <img src="../../PNWColors/Sunset2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/EdvardMunch_1/"> <img src="../../lisa/EdvardMunch_1/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Antennarius_commerson/"> <img src="../../fishualize/Antennarius_commerson/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nord/lake_superior/"> <img src="../../nord/lake_superior/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

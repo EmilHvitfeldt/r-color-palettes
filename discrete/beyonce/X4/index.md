@@ -55,6 +55,14 @@ c("#1F150DFF", "#2B190CFF", "#513B2CFF", "#9B4D44FF", "#893D37FF", "#3E1B17FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/fountainea_ryphea/"> <img src="../../ButterflyColors/fountainea_ryphea/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/chorinea_licursis/"> <img src="../../ButterflyColors/chorinea_licursis/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nbapalettes/blazers_city2/"> <img src="../../nbapalettes/blazers_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ghibli/TotoroDark/"> <img src="../../ghibli/TotoroDark/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -68,13 +76,5 @@ c("#1F150DFF", "#2B190CFF", "#513B2CFF", "#9B4D44FF", "#893D37FF", "#3E1B17FF")
 <a href="../../beyonce/X8/"> <img src="../../beyonce/X8/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ghibli/MononokeDark/"> <img src="../../ghibli/MononokeDark/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X124/"> <img src="../../beyonce/X124/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../calecopal/vermillion/"> <img src="../../calecopal/vermillion/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X26/"> <img src="../../beyonce/X26/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ghibli/KikiDark/"> <img src="../../ghibli/KikiDark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

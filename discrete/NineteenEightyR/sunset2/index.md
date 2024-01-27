@@ -55,26 +55,26 @@ c("#D99E4CFF", "#D65238FF", "#9E443FFF", "#422B3AFF", "#28212BFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MoMAColors/Alkalay1/"> <img src="../../MoMAColors/Alkalay1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/MaxBeckmann/"> <img src="../../lisa/MaxBeckmann/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Labrisomus_cricota/"> <img src="../../fishualize/Labrisomus_cricota/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/AmedeoModigliani/"> <img src="../../lisa/AmedeoModigliani/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../NatParksPalettes/BryceCanyon/"> <img src="../../NatParksPalettes/BryceCanyon/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../MexBrewer/Aurora/"> <img src="../../MexBrewer/Aurora/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nord/lake_superior/"> <img src="../../nord/lake_superior/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Epinephelus_striatus/"> <img src="../../fishualize/Epinephelus_striatus/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ButterflyColors/battus_polydamas/"> <img src="../../ButterflyColors/battus_polydamas/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../lisa/BarnettNewman/"> <img src="../../lisa/BarnettNewman/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../NatParksPalettes/BryceCanyon/"> <img src="../../NatParksPalettes/BryceCanyon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggprism/greenwash/"> <img src="../../ggprism/greenwash/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../NineteenEightyR/sunset3/"> <img src="../../NineteenEightyR/sunset3/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/Gauguin/"> <img src="../../MetBrewer/Gauguin/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Paranthias_furcifer/"> <img src="../../fishualize/Paranthias_furcifer/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ButterflyColors/catagramma_pygas/"> <img src="../../ButterflyColors/catagramma_pygas/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

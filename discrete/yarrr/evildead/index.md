@@ -55,6 +55,10 @@ c("#19180DFF", "#212510FF", "#2E100BFF", "#392E12FF", "#57512BFF", "#968E4CFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../colRoz/daintree/"> <img src="../../colRoz/daintree/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X42/"> <img src="../../beyonce/X42/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -67,14 +71,10 @@ c("#19180DFF", "#212510FF", "#2E100BFF", "#392E12FF", "#57512BFF", "#968E4CFF")
 </figure> <figure class="figure">
 <a href="../../ghibli/MononokeDark/"> <img src="../../ghibli/MononokeDark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/battus_polydamas/"> <img src="../../ButterflyColors/battus_polydamas/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../colRoz/c_australasiae/"> <img src="../../colRoz/c_australasiae/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Micropterus_punctulatus/"> <img src="../../fishualize/Micropterus_punctulatus/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/Nattier/"> <img src="../../MetBrewer/Nattier/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/ClaudeMonet/"> <img src="../../lisa/ClaudeMonet/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/DiegoVelazquez/"> <img src="../../lisa/DiegoVelazquez/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

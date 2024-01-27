@@ -55,6 +55,10 @@ c("#003DA5FF", "#2CCCD3FF", "#FFC72CFF", "#D50032FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../jcolors/default/"> <img src="../../jcolors/default/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../IslamicArt/samarqand2/"> <img src="../../IslamicArt/samarqand2/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#003DA5FF", "#2CCCD3FF", "#FFC72CFF", "#D50032FF")
 <a href="../../futurevisions/atomic_clock/"> <img src="../../futurevisions/atomic_clock/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/ClaesOldenburg/"> <img src="../../lisa/ClaesOldenburg/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../rtist/oldenburg/"> <img src="../../rtist/oldenburg/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../LaCroixColoR/PeachPear/"> <img src="../../LaCroixColoR/PeachPear/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

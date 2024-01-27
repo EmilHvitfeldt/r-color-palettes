@@ -55,6 +55,10 @@ c("#214DBEFF", "#2FD2F6FF", "#00F293FF", "#FEF500FF", "#FF7657FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Synchiropus_splendidus/"> <img src="../../fishualize/Synchiropus_splendidus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Stethojulis_bandanensis/"> <img src="../../fishualize/Stethojulis_bandanensis/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#214DBEFF", "#2FD2F6FF", "#00F293FF", "#FEF500FF", "#FF7657FF")
 <a href="../../ggthemes/excel_Slipstream/"> <img src="../../ggthemes/excel_Slipstream/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Coris_gaimard/"> <img src="../../fishualize/Coris_gaimard/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../LaCroixColoR/PommeBaya/"> <img src="../../LaCroixColoR/PommeBaya/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../RSkittleBrewer/original/"> <img src="../../RSkittleBrewer/original/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

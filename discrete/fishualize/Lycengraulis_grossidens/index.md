@@ -55,6 +55,10 @@ c("#C29315FF", "#B4945CFF", "#D3D1CFFF", "#D7EDF1FF", "#EDF9F9FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nbapalettes/spurs/"> <img src="../../nbapalettes/spurs/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../wesanderson/Royal2/"> <img src="../../wesanderson/Royal2/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#C29315FF", "#B4945CFF", "#D3D1CFFF", "#D7EDF1FF", "#EDF9F9FF")
 <a href="../../nationalparkcolors/MtRainier/"> <img src="../../nationalparkcolors/MtRainier/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../wesanderson/Moonrise3/"> <img src="../../wesanderson/Moonrise3/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/PaulKlee/"> <img src="../../lisa/PaulKlee/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Oncorhynchus_mykiss/"> <img src="../../fishualize/Oncorhynchus_mykiss/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

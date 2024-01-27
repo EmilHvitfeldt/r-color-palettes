@@ -55,6 +55,10 @@ c("#4E67C8FF", "#5ECCF3FF", "#A7EA52FF", "#5DCEAFFF", "#FF8021FF", "#F14124FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggthemes/excel_Droplet/"> <img src="../../ggthemes/excel_Droplet/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Atlas/"> <img src="../../ggthemes/excel_Atlas/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#4E67C8FF", "#5ECCF3FF", "#A7EA52FF", "#5DCEAFFF", "#FF8021FF", "#F14124FF")
 <a href="../../ggthemes/Classic_Green_Orange_6/"> <img src="../../ggthemes/Classic_Green_Orange_6/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../basetheme/deepblue/"> <img src="../../basetheme/deepblue/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Sparisoma_viride/"> <img src="../../fishualize/Sparisoma_viride/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../RColorBrewer/Spectral/"> <img src="../../RColorBrewer/Spectral/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

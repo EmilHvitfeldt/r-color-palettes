@@ -55,6 +55,10 @@ c("#3D79F3FF", "#E6352FFF", "#F9B90AFF", "#34A74BFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../suffrager/CarolMan/"> <img src="../../suffrager/CarolMan/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Egypt/"> <img src="../../MetBrewer/Egypt/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -65,16 +69,12 @@ c("#3D79F3FF", "#E6352FFF", "#F9B90AFF", "#34A74BFF")
 </figure> <figure class="figure">
 <a href="../../rtist/oldenburg/"> <img src="../../rtist/oldenburg/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Coris_gaimard/"> <img src="../../fishualize/Coris_gaimard/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../waRhol/camo_87_1/"> <img src="../../waRhol/camo_87_1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../vangogh/Chaise/"> <img src="../../vangogh/Chaise/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/Fun/"> <img src="../../PrettyCols/Fun/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/warriors_city2/"> <img src="../../nbapalettes/warriors_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../rockthemes/janelle/"> <img src="../../rockthemes/janelle/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../jcolors/pal2/"> <img src="../../jcolors/pal2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../rockthemes/zeppelin/"> <img src="../../rockthemes/zeppelin/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Epibulus_insidiator/"> <img src="../../fishualize/Epibulus_insidiator/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

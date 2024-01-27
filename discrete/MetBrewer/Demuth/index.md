@@ -55,9 +55,15 @@ c("#591C19FF", "#9B332BFF", "#B64F32FF", "#D39A2DFF", "#F7C267FF", "#B9B9B8FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../futurevisions/pegasi/"> <img src="../../futurevisions/pegasi/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Redon/"> <img src="../../MetBrewer/Redon/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MexBrewer/Atentado/"> <img src="../../MexBrewer/Atentado/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/Torres/"> <img src="../../NatParksPalettes/Torres/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -70,11 +76,5 @@ c("#591C19FF", "#9B332BFF", "#B64F32FF", "#D39A2DFF", "#F7C267FF", "#B9B9B8FF", 
 <a href="../../nord/red_mountain/"> <img src="../../nord/red_mountain/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/default_jco/"> <img src="../../ggsci/default_jco/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ghibli/PonyoMedium/"> <img src="../../ghibli/PonyoMedium/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../dutchmasters/milkmaid/"> <img src="../../dutchmasters/milkmaid/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/Tiepolo/"> <img src="../../MetBrewer/Tiepolo/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

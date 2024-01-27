@@ -55,6 +55,12 @@ c("#DBF4F8FF", "#11B2E8FF", "#CF2154FF", "#94FF7BFF", "#4D343AFF", "#A4A192FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MexBrewer/Casita1/"> <img src="../../MexBrewer/Casita1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../khroma/bright/"> <img src="../../khroma/bright/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../RColorBrewer/Accent/"> <img src="../../RColorBrewer/Accent/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -70,11 +76,5 @@ c("#DBF4F8FF", "#11B2E8FF", "#CF2154FF", "#94FF7BFF", "#4D343AFF", "#A4A192FF")
 <a href="../../tayloRswift/speakNowLive/"> <img src="../../tayloRswift/speakNowLive/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Ostorhinchus_angustatus/"> <img src="../../fishualize/Ostorhinchus_angustatus/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tayloRswift/lover/"> <img src="../../tayloRswift/lover/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tvthemes/rickAndMorty/"> <img src="../../tvthemes/rickAndMorty/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../peRReo/calle13/"> <img src="../../peRReo/calle13/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

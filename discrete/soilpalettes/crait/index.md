@@ -55,7 +55,13 @@ c("#F4F4F4FF", "#E9BBB8FF", "#DF837DFF", "#D44A41FF", "#C91105FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../beyonce/X44/"> <img src="../../beyonce/X44/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../waRhol/basquiat_85/"> <img src="../../waRhol/basquiat_85/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Epinephelus_fasciatus/"> <img src="../../fishualize/Epinephelus_fasciatus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -70,11 +76,5 @@ c("#F4F4F4FF", "#E9BBB8FF", "#DF837DFF", "#D44A41FF", "#C91105FF")
 <a href="../../PNWColors/Moth/"> <img src="../../PNWColors/Moth/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/JosefAlbers/"> <img src="../../lisa/JosefAlbers/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../Redmonder/sPBIOr/"> <img src="../../Redmonder/sPBIOr/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../trekcolors/iconian/"> <img src="../../trekcolors/iconian/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/Morgenstern/"> <img src="../../MetBrewer/Morgenstern/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

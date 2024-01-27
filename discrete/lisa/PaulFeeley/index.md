@@ -20,7 +20,7 @@ categories:
 {{< fa brands github size=3x >}}
 **Github**
 
-[tyluRp/lisa](https://github.com/tyluRp/lisa)
+[tylerlittlefield/lisa](https://github.com/tylerlittlefield/lisa)
 :::
 
 ::: {.column width="50%"}
@@ -55,6 +55,12 @@ c("#2C458DFF", "#E4DFD9FF", "#425B4FFF", "#EBAD30FF", "#BF2124FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/Fun/"> <img src="../../PrettyCols/Fun/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/LeeKrasner/"> <img src="../../lisa/LeeKrasner/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/EdwardHopper/"> <img src="../../lisa/EdwardHopper/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -70,11 +76,5 @@ c("#2C458DFF", "#E4DFD9FF", "#425B4FFF", "#EBAD30FF", "#BF2124FF")
 <a href="../../fishualize/Hypsoblennius_invemar/"> <img src="../../fishualize/Hypsoblennius_invemar/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/JoanMiro/"> <img src="../../lisa/JoanMiro/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/PietMondrian/"> <img src="../../lisa/PietMondrian/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../futurevisions/cancri/"> <img src="../../futurevisions/cancri/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../NatParksPalettes/KingsCanyon/"> <img src="../../NatParksPalettes/KingsCanyon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,6 +55,10 @@ c("#FFFF00FF", "#00FF00FF", "#F74ED6FF", "#FFFF00FF", "#00FF00FF", "#0000FFFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../colorBlindness/Blue2Green14Steps/"> <img src="../../colorBlindness/Blue2Green14Steps/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../dichromat/BluetoGreen_14/"> <img src="../../dichromat/BluetoGreen_14/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -71,10 +75,6 @@ c("#FFFF00FF", "#00FF00FF", "#F74ED6FF", "#FFFF00FF", "#00FF00FF", "#0000FFFF", 
 </figure> <figure class="figure">
 <a href="../../ggprism/stained_glass/"> <img src="../../ggprism/stained_glass/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Pomacanthus_imperator/"> <img src="../../fishualize/Pomacanthus_imperator/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../fishualize/Gomphosus_varius/"> <img src="../../fishualize/Gomphosus_varius/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Holacanthus_ciliaris/"> <img src="../../fishualize/Holacanthus_ciliaris/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

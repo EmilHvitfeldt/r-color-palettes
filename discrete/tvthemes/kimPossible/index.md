@@ -55,6 +55,10 @@ c("#FF8C00FF", "#024663FF", "#70D423FF", "#891604FF", "#02001FFF", "#9CF6F7FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettesForR/Android/"> <img src="../../palettesForR/Android/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../werpals/okavango/"> <img src="../../werpals/okavango/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -71,10 +75,6 @@ c("#FF8C00FF", "#024663FF", "#70D423FF", "#891604FF", "#02001FFF", "#9CF6F7FF", 
 </figure> <figure class="figure">
 <a href="../../tvthemes/Regular/"> <img src="../../tvthemes/Regular/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../pals/watlington/"> <img src="../../pals/watlington/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ochRe/healthy_reef/"> <img src="../../ochRe/healthy_reef/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tvthemes/spongeBob/"> <img src="../../tvthemes/spongeBob/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ggsci/aussie_flatui/"> <img src="../../ggsci/aussie_flatui/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,6 +55,10 @@ c("#008080FF", "#70A494FF", "#B4C8A8FF", "#F6EDBDFF", "#EDBB8AFF", "#DE8A5AFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../rcartocolor/Fall/"> <img src="../../rcartocolor/Fall/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/electabuzz/"> <img src="../../palettetown/electabuzz/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -65,16 +69,12 @@ c("#008080FF", "#70A494FF", "#B4C8A8FF", "#F6EDBDFF", "#EDBB8AFF", "#DE8A5AFF", 
 </figure> <figure class="figure">
 <a href="../../IslamicArt/fes/"> <img src="../../IslamicArt/fes/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../PNWColors/Mushroom/"> <img src="../../PNWColors/Mushroom/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../MoMAColors/ustwo/"> <img src="../../MoMAColors/ustwo/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nationalparkcolors/Badlands/"> <img src="../../nationalparkcolors/Badlands/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../PNWColors/Mushroom/"> <img src="../../PNWColors/Mushroom/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/uluru/"> <img src="../../colRoz/uluru/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../NatParksPalettes/SmokyMtns/"> <img src="../../NatParksPalettes/SmokyMtns/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MapPalettes/sunset/"> <img src="../../MapPalettes/sunset/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/magby/"> <img src="../../palettetown/magby/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../nationalparkcolors/Badlands/"> <img src="../../nationalparkcolors/Badlands/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

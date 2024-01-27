@@ -55,7 +55,13 @@ c("#020122FF", "#492AD7FF", "#A511DFFF", "#E3386AFF", "#F0BF0BFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Cirrhilabrus_tonozukai/"> <img src="../../fishualize/Cirrhilabrus_tonozukai/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../waRhol/camo_87_3/"> <img src="../../waRhol/camo_87_3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Variola_louti/"> <img src="../../fishualize/Variola_louti/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -70,11 +76,5 @@ c("#020122FF", "#492AD7FF", "#A511DFFF", "#E3386AFF", "#F0BF0BFF")
 <a href="../../ggprism/magma/"> <img src="../../ggprism/magma/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/nuggets_statement/"> <img src="../../nbapalettes/nuggets_statement/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Stegastes_variabilis/"> <img src="../../fishualize/Stegastes_variabilis/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/GretchenAlbrecht/"> <img src="../../lisa/GretchenAlbrecht/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../trekcolors/lcars_2379/"> <img src="../../trekcolors/lcars_2379/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

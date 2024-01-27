@@ -20,7 +20,7 @@ categories:
 {{< fa brands github size=3x >}}
 **Github**
 
-[tyluRp/lisa](https://github.com/tyluRp/lisa)
+[tylerlittlefield/lisa](https://github.com/tylerlittlefield/lisa)
 :::
 
 ::: {.column width="50%"}
@@ -55,7 +55,13 @@ c("#442327FF", "#C0BC98FF", "#A6885DFF", "#8A3230FF", "#973B2BFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/DiegoVelazquez/"> <img src="../../lisa/DiegoVelazquez/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/danaus_erippus/"> <img src="../../ButterflyColors/danaus_erippus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/MaxBeckmann/"> <img src="../../lisa/MaxBeckmann/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -65,16 +71,10 @@ c("#442327FF", "#C0BC98FF", "#A6885DFF", "#8A3230FF", "#973B2BFF")
 </figure> <figure class="figure">
 <a href="../../wesanderson/IsleofDogs2/"> <img src="../../wesanderson/IsleofDogs2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../colRoz/thylacine/"> <img src="../../colRoz/thylacine/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../tayloRswift/taylorRed/"> <img src="../../tayloRswift/taylorRed/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../colRoz/thylacine/"> <img src="../../colRoz/thylacine/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../beyonce/X69/"> <img src="../../beyonce/X69/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/MiltonAvery/"> <img src="../../lisa/MiltonAvery/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Epinephelus_striatus/"> <img src="../../fishualize/Epinephelus_striatus/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../NatParksPalettes/WindCave/"> <img src="../../NatParksPalettes/WindCave/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

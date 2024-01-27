@@ -55,6 +55,12 @@ c("#184860FF", "#486078FF", "#D8D8D8FF", "#484860FF", "#181830FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MexBrewer/Frida/"> <img src="../../MexBrewer/Frida/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/GeorgiaOKeeffe/"> <img src="../../lisa/GeorgiaOKeeffe/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rtist/okeeffe/"> <img src="../../rtist/okeeffe/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -70,11 +76,5 @@ c("#184860FF", "#486078FF", "#D8D8D8FF", "#484860FF", "#181830FF")
 <a href="../../severance/Dinner/"> <img src="../../severance/Dinner/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../severance/TheYouYouAre/"> <img src="../../severance/TheYouYouAre/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../yarrr/eternal/"> <img src="../../yarrr/eternal/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../futurevisions/pso/"> <img src="../../futurevisions/pso/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../trekcolors/ufp/"> <img src="../../trekcolors/ufp/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

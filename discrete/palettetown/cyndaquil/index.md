@@ -55,6 +55,10 @@ c("#F86000FF", "#F8E8A0FF", "#E0C868FF", "#405088FF", "#E80000FF", "#886020FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/quilava/"> <img src="../../palettetown/quilava/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/ledian/"> <img src="../../palettetown/ledian/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -69,12 +73,8 @@ c("#F86000FF", "#F8E8A0FF", "#E0C868FF", "#405088FF", "#E80000FF", "#886020FF", 
 </figure> <figure class="figure">
 <a href="../../ggthemr/sea/"> <img src="../../ggthemr/sea/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ochRe/olsen_seq/"> <img src="../../ochRe/olsen_seq/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../palettetown/ampharos/"> <img src="../../palettetown/ampharos/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/gloom/"> <img src="../../palettetown/gloom/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../miscpalettes/brightPastel/"> <img src="../../miscpalettes/brightPastel/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ochRe/olsen_seq/"> <img src="../../ochRe/olsen_seq/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,6 +55,14 @@ c("#D53288FF", "#DC8045FF", "#21B14BFF", "#008AC2FF", "#3F459BFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/Bold/"> <img src="../../PrettyCols/Bold/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../waRhol/bighorn_ram_83/"> <img src="../../waRhol/bighorn_ram_83/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggthemes/excel_Slice/"> <img src="../../ggthemes/excel_Slice/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../RSkittleBrewer/wildberry/"> <img src="../../RSkittleBrewer/wildberry/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -63,18 +71,10 @@ c("#D53288FF", "#DC8045FF", "#21B14BFF", "#008AC2FF", "#3F459BFF")
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Parallax/"> <img src="../../ggthemes/excel_Parallax/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../MoMAColors/Ohchi/"> <img src="../../MoMAColors/Ohchi/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggthemes/excel_Celestial/"> <img src="../../ggthemes/excel_Celestial/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../MetBrewer/Austria/"> <img src="../../MetBrewer/Austria/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/starterspairs/"> <img src="../../palettetown/starterspairs/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../awtools/spalette/"> <img src="../../awtools/spalette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggsci/default_nejm/"> <img src="../../ggsci/default_nejm/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../jcolors/default/"> <img src="../../jcolors/default/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemr/solarized/"> <img src="../../ggthemr/solarized/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../PrettyCols/Bright/"> <img src="../../PrettyCols/Bright/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

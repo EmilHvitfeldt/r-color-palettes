@@ -55,6 +55,10 @@ c("#110F0EFF", "#673821FF", "#BD9931FF", "#EEE436FF", "#E9E9DCFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../colRoz/p_mitchelli/"> <img src="../../colRoz/p_mitchelli/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/s_spinigerus/"> <img src="../../colRoz/s_spinigerus/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -67,14 +71,10 @@ c("#110F0EFF", "#673821FF", "#BD9931FF", "#EEE436FF", "#E9E9DCFF")
 </figure> <figure class="figure">
 <a href="../../fishualize/Neogobius_melanostomus/"> <img src="../../fishualize/Neogobius_melanostomus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Ostracion_cubicus/"> <img src="../../fishualize/Ostracion_cubicus/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../soilpalettes/rendoll/"> <img src="../../soilpalettes/rendoll/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../fishualize/Ostracion_cubicus/"> <img src="../../fishualize/Ostracion_cubicus/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../yarrr/ohbrother/"> <img src="../../yarrr/ohbrother/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X16/"> <img src="../../beyonce/X16/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../futurevisions/earth/"> <img src="../../futurevisions/earth/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

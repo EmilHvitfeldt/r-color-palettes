@@ -55,6 +55,10 @@ c("#D2FBD4FF", "#A5DBC2FF", "#7BBCB0FF", "#559C9EFF", "#3A7C89FF", "#235D72FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../rcartocolor/Mint/"> <img src="../../rcartocolor/Mint/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/BluGrn/"> <img src="../../rcartocolor/BluGrn/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#D2FBD4FF", "#A5DBC2FF", "#7BBCB0FF", "#559C9EFF", "#3A7C89FF", "#235D72FF", 
 <a href="../../rockthemes/coltrane/"> <img src="../../rockthemes/coltrane/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../trekcolors/romulan2/"> <img src="../../trekcolors/romulan2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../NatParksPalettes/Glacier/"> <img src="../../NatParksPalettes/Glacier/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../rcartocolor/Teal/"> <img src="../../rcartocolor/Teal/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

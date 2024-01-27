@@ -55,6 +55,10 @@ c("#670000FF", "#990000FF", "#CD0000FF", "#FE0000FF", "#FF9190FF", "#4D4D4DFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Labrisomus_cricota/"> <img src="../../fishualize/Labrisomus_cricota/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../calecopal/vermillion/"> <img src="../../calecopal/vermillion/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#670000FF", "#990000FF", "#CD0000FF", "#FE0000FF", "#FF9190FF", "#4D4D4DFF")
 <a href="../../fishualize/Acanthostracion_polygonius_y/"> <img src="../../fishualize/Acanthostracion_polygonius_y/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/mew/"> <img src="../../palettetown/mew/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/blazers_city2/"> <img src="../../nbapalettes/blazers_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Heretopriacanthus_cruentatus/"> <img src="../../fishualize/Heretopriacanthus_cruentatus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,6 +55,10 @@ c("#F7EDCAFF", "#F5DC9AFF", "#8EB155FF", "#497367FF", "#2B3F00FF", "#764000FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/mareep/"> <img src="../../palettetown/mareep/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemr/sea/"> <img src="../../ggthemr/sea/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -65,16 +69,12 @@ c("#F7EDCAFF", "#F5DC9AFF", "#8EB155FF", "#497367FF", "#2B3F00FF", "#764000FF", 
 </figure> <figure class="figure">
 <a href="../../tvthemes/kimPossible/"> <img src="../../tvthemes/kimPossible/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../MexBrewer/Revolucion/"> <img src="../../MexBrewer/Revolucion/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/chinchou/"> <img src="../../palettetown/chinchou/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Rhinecanthus_aculeatus/"> <img src="../../fishualize/Rhinecanthus_aculeatus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettesForR/Android/"> <img src="../../palettesForR/Android/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../peRReo/buenavista/"> <img src="../../peRReo/buenavista/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/jumpluff/"> <img src="../../palettetown/jumpluff/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../Redmonder/qMSOSlp/"> <img src="../../Redmonder/qMSOSlp/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

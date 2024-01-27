@@ -55,6 +55,10 @@ c("#33645FFF", "#9D1B1FFF", "#CEA0B5FF", "#F6F5F1FF", "#7B7987FF", "#1D2731FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../colRoz/i_lesueurii/"> <img src="../../colRoz/i_lesueurii/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/TheovanDoesburg/"> <img src="../../lisa/TheovanDoesburg/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -71,10 +75,6 @@ c("#33645FFF", "#9D1B1FFF", "#CEA0B5FF", "#F6F5F1FF", "#7B7987FF", "#1D2731FF")
 </figure> <figure class="figure">
 <a href="../../palettetown/rhyhorn/"> <img src="../../palettetown/rhyhorn/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../severance/HideAndSeek/"> <img src="../../severance/HideAndSeek/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/cloyster/"> <img src="../../palettetown/cloyster/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ghibli/SpiritedMedium/"> <img src="../../ghibli/SpiritedMedium/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../MoMAColors/Levine2/"> <img src="../../MoMAColors/Levine2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

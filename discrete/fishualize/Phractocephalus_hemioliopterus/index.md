@@ -55,11 +55,19 @@ c("#C11800FF", "#ED5903FF", "#E8B332FF", "#80695CFF", "#C5C7A7FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../waRhol/basquiat_85/"> <img src="../../waRhol/basquiat_85/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggthemes/excel_Retrospect/"> <img src="../../ggthemes/excel_Retrospect/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Orange/"> <img src="../../ggthemes/excel_Orange/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/flavolineata/"> <img src="../../colRoz/flavolineata/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../wesanderson/AsteroidCity1/"> <img src="../../wesanderson/AsteroidCity1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/SmokyMtns/"> <img src="../../NatParksPalettes/SmokyMtns/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -68,13 +76,5 @@ c("#C11800FF", "#ED5903FF", "#E8B332FF", "#80695CFF", "#C5C7A7FF")
 <a href="../../soilpalettes/bangor/"> <img src="../../soilpalettes/bangor/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/JohannJacobUlrich/"> <img src="../../lisa/JohannJacobUlrich/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/excel_Red/"> <img src="../../ggthemes/excel_Red/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../PNWColors/Mushroom/"> <img src="../../PNWColors/Mushroom/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../calecopal/dudleya/"> <img src="../../calecopal/dudleya/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../rcartocolor/Fall/"> <img src="../../rcartocolor/Fall/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

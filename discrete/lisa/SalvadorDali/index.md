@@ -20,7 +20,7 @@ categories:
 {{< fa brands github size=3x >}}
 **Github**
 
-[tyluRp/lisa](https://github.com/tyluRp/lisa)
+[tylerlittlefield/lisa](https://github.com/tylerlittlefield/lisa)
 :::
 
 ::: {.column width="50%"}
@@ -55,15 +55,19 @@ c("#40798CFF", "#BCA455FF", "#BFB37FFF", "#805730FF", "#514A2EFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/MaryCassatt/"> <img src="../../lisa/MaryCassatt/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/KarlZerbe/"> <img src="../../lisa/KarlZerbe/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Manu/Pepetuna/"> <img src="../../Manu/Pepetuna/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../NatParksPalettes/SouthDowns/"> <img src="../../NatParksPalettes/SouthDowns/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../lisa/Pierre_AugusteRenoir_1/"> <img src="../../lisa/Pierre_AugusteRenoir_1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../NatParksPalettes/SouthDowns/"> <img src="../../NatParksPalettes/SouthDowns/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../suffrager/chelsea/"> <img src="../../suffrager/chelsea/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -72,9 +76,5 @@ c("#40798CFF", "#BCA455FF", "#BFB37FFF", "#805730FF", "#514A2EFF")
 <a href="../../lisa/Michelangelo/"> <img src="../../lisa/Michelangelo/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/WassilyKandinsky/"> <img src="../../lisa/WassilyKandinsky/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../calecopal/grassdry/"> <img src="../../calecopal/grassdry/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/PaulCezanne/"> <img src="../../lisa/PaulCezanne/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

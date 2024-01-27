@@ -55,6 +55,10 @@ c("#252523FF", "#496161FF", "#4C2715FF", "#573C21FF", "#845736FF", "#9E7F60FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../beyonce/X124/"> <img src="../../beyonce/X124/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/pearl/"> <img src="../../ggprism/pearl/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#252523FF", "#496161FF", "#4C2715FF", "#573C21FF", "#845736FF", "#9E7F60FF")
 <a href="../../colRoz/m_oscellata/"> <img src="../../colRoz/m_oscellata/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nord/lake_superior/"> <img src="../../nord/lake_superior/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/JanvanEyck/"> <img src="../../lisa/JanvanEyck/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../NatParksPalettes/Halekala/"> <img src="../../NatParksPalettes/Halekala/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,6 +55,10 @@ c("#F5A507FF", "#AF9241FF", "#41917BFF", "#0464F9FF", "#27B6FDFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nbapalettes/pacers_foundation/"> <img src="../../nbapalettes/pacers_foundation/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/starterspairs/"> <img src="../../palettetown/starterspairs/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -63,18 +67,14 @@ c("#F5A507FF", "#AF9241FF", "#41917BFF", "#0464F9FF", "#27B6FDFF")
 </figure> <figure class="figure">
 <a href="../../fishualize/Epinephelus_lanceolatus/"> <img src="../../fishualize/Epinephelus_lanceolatus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../PrettyCols/Relax/"> <img src="../../PrettyCols/Relax/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Scarus_zelindae/"> <img src="../../fishualize/Scarus_zelindae/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../waRhol/bighorn_ram_83/"> <img src="../../waRhol/bighorn_ram_83/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/PabloPicasso_1/"> <img src="../../lisa/PabloPicasso_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rtist/picasso/"> <img src="../../rtist/picasso/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/excel_Organic/"> <img src="../../ggthemes/excel_Organic/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../NatParksPalettes/Yellowstone/"> <img src="../../NatParksPalettes/Yellowstone/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Etheostoma_spectabile/"> <img src="../../fishualize/Etheostoma_spectabile/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../calecopal/figmtn/"> <img src="../../calecopal/figmtn/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,6 +55,10 @@ c("#000000FF", "#0C0E24FF", "#171A45FF", "#274B84FF", "#1C519BFF", "#DC3141FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nbapalettes/suns_city/"> <img src="../../nbapalettes/suns_city/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/DeathValley/"> <img src="../../NatParksPalettes/DeathValley/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -67,14 +71,10 @@ c("#000000FF", "#0C0E24FF", "#171A45FF", "#274B84FF", "#1C519BFF", "#DC3141FF", 
 </figure> <figure class="figure">
 <a href="../../peRReo/badbunny2/"> <img src="../../peRReo/badbunny2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../MoMAColors/Alkalay1/"> <img src="../../MoMAColors/Alkalay1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../peRReo/ivyqueen/"> <img src="../../peRReo/ivyqueen/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/few_Dark/"> <img src="../../ggthemes/few_Dark/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/Tam/"> <img src="../../MetBrewer/Tam/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X81/"> <img src="../../beyonce/X81/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X61/"> <img src="../../beyonce/X61/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,6 +55,10 @@ c("#606372FF", "#79A8A4FF", "#B2AD8FFF", "#AD8082FF", "#DEC18CFF", "#92A185FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggthemes/excel_Crop/"> <img src="../../ggthemes/excel_Crop/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nord/algoma_forest/"> <img src="../../nord/algoma_forest/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -69,12 +73,8 @@ c("#606372FF", "#79A8A4FF", "#B2AD8FFF", "#AD8082FF", "#DEC18CFF", "#92A185FF")
 </figure> <figure class="figure">
 <a href="../../fishualize/Atherinella_brasiliensis/"> <img src="../../fishualize/Atherinella_brasiliensis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../vangogh/SelfPortrait/"> <img src="../../vangogh/SelfPortrait/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Oncorhynchus_tshawytscha/"> <img src="../../fishualize/Oncorhynchus_tshawytscha/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../rockthemes/melloncollie/"> <img src="../../rockthemes/melloncollie/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/excel_View/"> <img src="../../ggthemes/excel_View/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/KarlZerbe/"> <img src="../../lisa/KarlZerbe/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

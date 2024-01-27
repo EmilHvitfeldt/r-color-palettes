@@ -55,6 +55,10 @@ c("#212121FF", "#452711FF", "#CA5600FF", "#C17100FF", "#C17200FF", "#C97A00FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nbapalettes/jazz_city/"> <img src="../../nbapalettes/jazz_city/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X88/"> <img src="../../beyonce/X88/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -67,14 +71,10 @@ c("#212121FF", "#452711FF", "#CA5600FF", "#C17100FF", "#C17200FF", "#C97A00FF", 
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSORd/"> <img src="../../Redmonder/qMSORd/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../MoMAColors/Alkalay1/"> <img src="../../MoMAColors/Alkalay1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nbapalettes/supersonics_90s/"> <img src="../../nbapalettes/supersonics_90s/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X113/"> <img src="../../beyonce/X113/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../soilpalettes/paleustalf/"> <img src="../../soilpalettes/paleustalf/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/nuggets_city/"> <img src="../../nbapalettes/nuggets_city/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X102/"> <img src="../../beyonce/X102/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,15 +55,19 @@ c("#056CF2FF", "#0583F2FF", "#05AFF2FF", "#05C7F2FF", "#05DBF2FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Prionace_glauca/"> <img src="../../fishualize/Prionace_glauca/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Aluterus_scriptus/"> <img src="../../fishualize/Aluterus_scriptus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/light_blue_material/"> <img src="../../ggsci/light_blue_material/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../LaCroixColoR/Pure/"> <img src="../../LaCroixColoR/Pure/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../fishualize/Chlorurus_microrhinos/"> <img src="../../fishualize/Chlorurus_microrhinos/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../LaCroixColoR/Pure/"> <img src="../../LaCroixColoR/Pure/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../unikn/pal_seeblau/"> <img src="../../unikn/pal_seeblau/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -72,9 +76,5 @@ c("#056CF2FF", "#0583F2FF", "#05AFF2FF", "#05C7F2FF", "#05DBF2FF")
 <a href="../../unikn/pal_petrol/"> <img src="../../unikn/pal_petrol/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/sky/"> <img src="../../colRoz/sky/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../colorBlindness/LightBlue2DarkBlue10Steps/"> <img src="../../colorBlindness/LightBlue2DarkBlue10Steps/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../dichromat/LightBluetoDarkBlue_10/"> <img src="../../dichromat/LightBluetoDarkBlue_10/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

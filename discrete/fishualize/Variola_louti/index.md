@@ -55,6 +55,10 @@ c("#220FFBFF", "#3F184DFF", "#991520FF", "#FA3F2AFF", "#F9D419FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggprism/plasma/"> <img src="../../ggprism/plasma/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Gramma_loreto/"> <img src="../../fishualize/Gramma_loreto/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -65,16 +69,12 @@ c("#220FFBFF", "#3F184DFF", "#991520FF", "#FA3F2AFF", "#F9D419FF")
 </figure> <figure class="figure">
 <a href="../../ggprism/magma/"> <img src="../../ggprism/magma/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../MoMAColors/OKeeffe/"> <img src="../../MoMAColors/OKeeffe/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../waRhol/camo_87_3/"> <img src="../../waRhol/camo_87_3/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../NatParksPalettes/Volcanoes/"> <img src="../../NatParksPalettes/Volcanoes/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Johnson/"> <img src="../../MetBrewer/Johnson/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/nuggets_city2/"> <img src="../../nbapalettes/nuggets_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/nuggets_80s/"> <img src="../../nbapalettes/nuggets_80s/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/thunder/"> <img src="../../nbapalettes/thunder/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../trekcolors/lcars_2379/"> <img src="../../trekcolors/lcars_2379/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

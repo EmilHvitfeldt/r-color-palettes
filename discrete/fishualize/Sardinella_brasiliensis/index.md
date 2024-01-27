@@ -55,6 +55,10 @@ c("#798962FF", "#A9BDB5FF", "#8DA5BEFF", "#A1C7DCFF", "#D3EEFEFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ghibli/LaputaLight/"> <img src="../../ghibli/LaputaLight/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../soilpalettes/gley/"> <img src="../../soilpalettes/gley/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -69,12 +73,8 @@ c("#798962FF", "#A9BDB5FF", "#8DA5BEFF", "#A1C7DCFF", "#D3EEFEFF")
 </figure> <figure class="figure">
 <a href="../../DresdenColor/colddays/"> <img src="../../DresdenColor/colddays/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../Redmonder/sPBIGn/"> <img src="../../Redmonder/sPBIGn/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../nationalparkcolors/MtRainier/"> <img src="../../nationalparkcolors/MtRainier/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../rcartocolor/Mint/"> <img src="../../rcartocolor/Mint/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ghibli/YesterdayLight/"> <img src="../../ghibli/YesterdayLight/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../Redmonder/sPBIGn/"> <img src="../../Redmonder/sPBIGn/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

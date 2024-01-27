@@ -55,6 +55,10 @@ c("#040403FF", "#423A31FF", "#6E5D54FF", "#684E2DFF", "#BEA26CFF", "#F5DEB6FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../wesanderson/IsleofDogs2/"> <img src="../../wesanderson/IsleofDogs2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/GiorgiodeChirico/"> <img src="../../lisa/GiorgiodeChirico/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -65,16 +69,12 @@ c("#040403FF", "#423A31FF", "#6E5D54FF", "#684E2DFF", "#BEA26CFF", "#F5DEB6FF")
 </figure> <figure class="figure">
 <a href="../../soilpalettes/vitrixerand/"> <img src="../../soilpalettes/vitrixerand/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../MexBrewer/Tierra/"> <img src="../../MexBrewer/Tierra/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../colRoz/desert_flood/"> <img src="../../colRoz/desert_flood/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/LorserFeitelson/"> <img src="../../lisa/LorserFeitelson/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X34/"> <img src="../../beyonce/X34/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/MiltonAvery/"> <img src="../../lisa/MiltonAvery/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X103/"> <img src="../../beyonce/X103/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../colRoz/e_kingii/"> <img src="../../colRoz/e_kingii/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,7 +55,13 @@ c("#85BEDCFF", "#3A383FFF", "#A6B0BBFF", "#CCBBCDFF", "#647588FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../Redmonder/qMSOPu/"> <img src="../../Redmonder/qMSOPu/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../vangogh/Landscape/"> <img src="../../vangogh/Landscape/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../musculusColors/Bmsurface/"> <img src="../../musculusColors/Bmsurface/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -63,18 +69,12 @@ c("#85BEDCFF", "#3A383FFF", "#A6B0BBFF", "#CCBBCDFF", "#647588FF")
 </figure> <figure class="figure">
 <a href="../../Manu/Kereru/"> <img src="../../Manu/Kereru/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nord/baie_mouton/"> <img src="../../nord/baie_mouton/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../severance/Half/"> <img src="../../severance/Half/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nord/baie_mouton/"> <img src="../../nord/baie_mouton/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Mycteroperca_bonaci/"> <img src="../../fishualize/Mycteroperca_bonaci/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/muk/"> <img src="../../palettetown/muk/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Opisthonema_oglinum/"> <img src="../../fishualize/Opisthonema_oglinum/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/wobbuffet/"> <img src="../../palettetown/wobbuffet/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../calecopal/lupinus/"> <img src="../../calecopal/lupinus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

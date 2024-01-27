@@ -55,11 +55,17 @@ c("#F8D000FF", "#E86850FF", "#98D048FF", "#684000FF", "#B870A0FF", "#A02000FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/PaulGauguin/"> <img src="../../lisa/PaulGauguin/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/whitei/"> <img src="../../colRoz/whitei/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nationalparkcolors/Saguaro/"> <img src="../../nationalparkcolors/Saguaro/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MoMAColors/vonHeyl/"> <img src="../../MoMAColors/vonHeyl/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../RColorBrewer/Dark2/"> <img src="../../RColorBrewer/Dark2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -70,11 +76,5 @@ c("#F8D000FF", "#E86850FF", "#98D048FF", "#684000FF", "#B870A0FF", "#A02000FF")
 <a href="../../RSkittleBrewer/smarties/"> <img src="../../RSkittleBrewer/smarties/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../yarrr/xmen/"> <img src="../../yarrr/xmen/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Koumansetta_rainfordi/"> <img src="../../fishualize/Koumansetta_rainfordi/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/few_Medium/"> <img src="../../ggthemes/few_Medium/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../LaCroixColoR/PinaFraise/"> <img src="../../LaCroixColoR/PinaFraise/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

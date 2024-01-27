@@ -55,6 +55,10 @@ c("#6699CCFF", "#87CEFAFF", "#FF9933FF", "#4169E1FF", "#87CEFAFF", "#FF6600FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggprism/wool_muffler/"> <img src="../../ggprism/wool_muffler/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/wool_muffler2/"> <img src="../../ggprism/wool_muffler2/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#6699CCFF", "#87CEFAFF", "#FF9933FF", "#4169E1FF", "#87CEFAFF", "#FF6600FF", 
 <a href="../../MetBrewer/OKeeffe1/"> <img src="../../MetBrewer/OKeeffe1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../khroma/BuRd/"> <img src="../../khroma/BuRd/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/mudkip/"> <img src="../../palettetown/mudkip/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tvthemes/Day/"> <img src="../../tvthemes/Day/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

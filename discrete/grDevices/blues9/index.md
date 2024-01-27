@@ -55,15 +55,19 @@ c("#F7FBFFFF", "#DEEBF7FF", "#C6DBEFFF", "#9ECAE1FF", "#6BAED6FF", "#4292C6FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../RColorBrewer/Blues/"> <img src="../../RColorBrewer/Blues/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../RColorBrewer/PuBu/"> <img src="../../RColorBrewer/PuBu/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../RColorBrewer/PuBuGn/"> <img src="../../RColorBrewer/PuBuGn/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggsci/blue_material/"> <img src="../../ggsci/blue_material/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X43/"> <img src="../../beyonce/X43/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../RColorBrewer/PuBuGn/"> <img src="../../RColorBrewer/PuBuGn/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../LaCroixColoR/Pure/"> <img src="../../LaCroixColoR/Pure/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -72,9 +76,5 @@ c("#F7FBFFFF", "#DEEBF7FF", "#C6DBEFFF", "#9ECAE1FF", "#6BAED6FF", "#4292C6FF", 
 <a href="../../RColorBrewer/BuPu/"> <img src="../../RColorBrewer/BuPu/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/Glacier/"> <img src="../../NatParksPalettes/Glacier/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../rcartocolor/DarkMint/"> <img src="../../rcartocolor/DarkMint/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggsci/light_blue_material/"> <img src="../../ggsci/light_blue_material/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,6 +55,10 @@ c("#709890FF", "#486870FF", "#284840FF", "#A81048FF", "#F890B8FF", "#E85890FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/arbok/"> <img src="../../palettetown/arbok/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/ekans/"> <img src="../../palettetown/ekans/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -67,14 +71,10 @@ c("#709890FF", "#486870FF", "#284840FF", "#A81048FF", "#F890B8FF", "#E85890FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/machoke/"> <img src="../../palettetown/machoke/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../MetBrewer/Signac/"> <img src="../../MetBrewer/Signac/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../palettetown/qwilfish/"> <img src="../../palettetown/qwilfish/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../MetBrewer/Signac/"> <img src="../../MetBrewer/Signac/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/koffing/"> <img src="../../palettetown/koffing/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/nidorino/"> <img src="../../palettetown/nidorino/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/stata_s2color/"> <img src="../../ggthemes/stata_s2color/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

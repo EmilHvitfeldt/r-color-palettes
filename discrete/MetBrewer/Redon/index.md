@@ -55,6 +55,10 @@ c("#5B859EFF", "#1E395FFF", "#75884BFF", "#1E5A46FF", "#DF8D71FF", "#AF4F2FFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../MetBrewer/Demuth/"> <img src="../../MetBrewer/Demuth/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Renoir/"> <img src="../../MetBrewer/Renoir/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -71,10 +75,6 @@ c("#5B859EFF", "#1E395FFF", "#75884BFF", "#1E5A46FF", "#DF8D71FF", "#AF4F2FFF", 
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Cross/"> <img src="../../MetBrewer/Cross/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../MetBrewer/Signac/"> <img src="../../MetBrewer/Signac/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../impressionist.colors/te_aa_no_areois/"> <img src="../../impressionist.colors/te_aa_no_areois/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemr/light/"> <img src="../../ggthemr/light/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../MexBrewer/Atentado/"> <img src="../../MexBrewer/Atentado/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

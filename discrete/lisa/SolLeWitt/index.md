@@ -20,7 +20,7 @@ categories:
 {{< fa brands github size=3x >}}
 **Github**
 
-[tyluRp/lisa](https://github.com/tyluRp/lisa)
+[tylerlittlefield/lisa](https://github.com/tylerlittlefield/lisa)
 :::
 
 ::: {.column width="50%"}
@@ -55,6 +55,10 @@ c("#0A71B6FF", "#F9C40AFF", "#190506FF", "#EB5432FF", "#EAF2F0FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Parupeneus_insularis/"> <img src="../../fishualize/Parupeneus_insularis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/RoyLichtenstein_1/"> <img src="../../lisa/RoyLichtenstein_1/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -71,10 +75,6 @@ c("#0A71B6FF", "#F9C40AFF", "#190506FF", "#EB5432FF", "#EAF2F0FF")
 </figure> <figure class="figure">
 <a href="../../rtist/oldenburg/"> <img src="../../rtist/oldenburg/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Epibulus_insidiator/"> <img src="../../fishualize/Epibulus_insidiator/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../LaCroixColoR/MelonPomelo/"> <img src="../../LaCroixColoR/MelonPomelo/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Pseudocheilinus_tetrataenia/"> <img src="../../fishualize/Pseudocheilinus_tetrataenia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../PrettyCols/Fun/"> <img src="../../PrettyCols/Fun/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

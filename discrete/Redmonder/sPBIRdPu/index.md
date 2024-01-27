@@ -55,26 +55,26 @@ c("#FEC0BFFF", "#E9AFB1FF", "#D39DA3FF", "#BE8C94FF", "#A97B86FF", "#936978FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../rcartocolor/Burg/"> <img src="../../rcartocolor/Burg/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../unikn/pal_bordeaux/"> <img src="../../unikn/pal_bordeaux/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/Dusk/"> <img src="../../tvthemes/Dusk/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../MapPalettes/bruiser/"> <img src="../../MapPalettes/bruiser/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../MexBrewer/Ronda/"> <img src="../../MexBrewer/Ronda/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/Magenta/"> <img src="../../rcartocolor/Magenta/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MapPalettes/bruiser/"> <img src="../../MapPalettes/bruiser/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Labrisomus_cricota/"> <img src="../../fishualize/Labrisomus_cricota/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../PNWColors/Starfish/"> <img src="../../PNWColors/Starfish/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../yarrr/usualsuspects/"> <img src="../../yarrr/usualsuspects/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../Redmonder/sPBIRd/"> <img src="../../Redmonder/sPBIRd/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../feathers/galah/"> <img src="../../feathers/galah/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../rcartocolor/PurpOr/"> <img src="../../rcartocolor/PurpOr/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

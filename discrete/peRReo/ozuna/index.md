@@ -55,6 +55,10 @@ c("#7E0734FF", "#04AAB3FF", "#0F3645FF", "#603A79FF", "#A0405DFF", "#246B82FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../rcartocolor/Safe/"> <img src="../../rcartocolor/Safe/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../unikn/pal_unikn_pref/"> <img src="../../unikn/pal_unikn_pref/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#7E0734FF", "#04AAB3FF", "#0F3645FF", "#603A79FF", "#A0405DFF", "#246B82FF", 
 <a href="../../ghibli/LaputaMedium/"> <img src="../../ghibli/LaputaMedium/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/default_jco/"> <img src="../../ggsci/default_jco/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../severance/TheYouYouAre/"> <img src="../../severance/TheYouYouAre/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X18/"> <img src="../../beyonce/X18/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

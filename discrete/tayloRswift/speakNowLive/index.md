@@ -55,13 +55,17 @@ c("#FCE178FF", "#969696FF", "#871D20FF", "#090708FF", "#FAFAF9FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Ostorhinchus_angustatus/"> <img src="../../fishualize/Ostorhinchus_angustatus/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../tvthemes/Topaz/"> <img src="../../tvthemes/Topaz/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Ostorhinchus_angustatus/"> <img src="../../fishualize/Ostorhinchus_angustatus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/JacksonPollock/"> <img src="../../lisa/JacksonPollock/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rtist/pollock/"> <img src="../../rtist/pollock/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../tvthemes/Topaz/"> <img src="../../tvthemes/Topaz/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/HelenFrankenthaler/"> <img src="../../lisa/HelenFrankenthaler/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -72,9 +76,5 @@ c("#FCE178FF", "#969696FF", "#871D20FF", "#090708FF", "#FAFAF9FF")
 <a href="../../ggsci/signature_substitutions_cosmic/"> <img src="../../ggsci/signature_substitutions_cosmic/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/SolLeWitt/"> <img src="../../lisa/SolLeWitt/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Neogobius_melanostomus/"> <img src="../../fishualize/Neogobius_melanostomus/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/furret/"> <img src="../../palettetown/furret/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

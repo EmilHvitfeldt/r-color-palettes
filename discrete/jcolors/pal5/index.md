@@ -27,7 +27,7 @@ categories:
 {{< fa brands r-project size=3x >}}
 **CRAN**
 
-[jcolors](https://CRAN.R-project.org/package=jcolors)
+Not on CRAN
 :::
 :::
 
@@ -55,7 +55,13 @@ c("#628395FF", "#C5D86DFF", "#DB2763FF", "#17377AFF", "#FC471EFF", "#55DDE0FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/MarcChagall/"> <img src="../../lisa/MarcChagall/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ltc/expevo/"> <img src="../../ltc/expevo/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../LaCroixColoR/PassionFruit/"> <img src="../../LaCroixColoR/PassionFruit/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +75,6 @@ c("#628395FF", "#C5D86DFF", "#DB2763FF", "#17377AFF", "#FC471EFF", "#55DDE0FF")
 </figure> <figure class="figure">
 <a href="../../Redmonder/qPBI/"> <img src="../../Redmonder/qPBI/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggthemes/excel_Office_2007_2010/"> <img src="../../ggthemes/excel_Office_2007_2010/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggsci/default_locuszoom/"> <img src="../../ggsci/default_locuszoom/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/excel_Celestial/"> <img src="../../ggthemes/excel_Celestial/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../rockthemes/nodoubt/"> <img src="../../rockthemes/nodoubt/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ggsci/default_frontiers/"> <img src="../../ggsci/default_frontiers/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,7 +55,13 @@ c("#76069AFF", "#AD07E3FF", "#F74ED6FF", "#B856D7FF", "#DE8BF9FF", "#F71480FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../miscpalettes/berry/"> <img src="../../miscpalettes/berry/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MoMAColors/Flash/"> <img src="../../MoMAColors/Flash/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Red_Violet/"> <img src="../../ggthemes/excel_Red_Violet/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -70,11 +76,5 @@ c("#76069AFF", "#AD07E3FF", "#F74ED6FF", "#B856D7FF", "#DE8BF9FF", "#F71480FF", 
 <a href="../../vapoRwave/sunSet/"> <img src="../../vapoRwave/sunSet/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/Magenta/"> <img src="../../rcartocolor/Magenta/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../vapeplot/sunset/"> <img src="../../vapeplot/sunset/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/ditto/"> <img src="../../palettetown/ditto/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/excel_Gallery/"> <img src="../../ggthemes/excel_Gallery/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

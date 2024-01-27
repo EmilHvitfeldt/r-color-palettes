@@ -27,7 +27,7 @@ categories:
 {{< fa brands r-project size=3x >}}
 **CRAN**
 
-[jcolors](https://CRAN.R-project.org/package=jcolors)
+Not on CRAN
 :::
 :::
 
@@ -55,6 +55,10 @@ c("#202547FF", "#43444AFF", "#5F654AFF", "#7B8948FF", "#97B043FF", "#B2D736FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../impressionist.colors/la_sieste/"> <img src="../../impressionist.colors/la_sieste/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/cradily/"> <img src="../../palettetown/cradily/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#202547FF", "#43444AFF", "#5F654AFF", "#7B8948FF", "#97B043FF", "#B2D736FF", 
 <a href="../../palettetown/treecko/"> <img src="../../palettetown/treecko/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/caterpie/"> <img src="../../palettetown/caterpie/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/oddish/"> <img src="../../palettetown/oddish/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../LaCroixColoR/Tangerine/"> <img src="../../LaCroixColoR/Tangerine/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

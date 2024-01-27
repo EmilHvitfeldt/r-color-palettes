@@ -55,6 +55,10 @@ c("#1D4289FF", "#C8102EFF", "#B9975BFF", "#89734CFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../colRoz/m_horridus/"> <img src="../../colRoz/m_horridus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Aspect/"> <img src="../../ggthemes/excel_Aspect/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#1D4289FF", "#C8102EFF", "#B9975BFF", "#89734CFF")
 <a href="../../lisa/JacobLawrence/"> <img src="../../lisa/JacobLawrence/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/MaxBeckmann/"> <img src="../../lisa/MaxBeckmann/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../werpals/when_i_was_your_age/"> <img src="../../werpals/when_i_was_your_age/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../NatParksPalettes/Saguaro/"> <img src="../../NatParksPalettes/Saguaro/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,6 +55,10 @@ c("#CDD2CCFF", "#F2DCC4FF", "#E6C2A2FF", "#E5A488FF", "#FF8460FF", "#BCBDB7FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../Redmonder/qMSOYlOr/"> <img src="../../Redmonder/qMSOYlOr/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/exeggcute/"> <img src="../../palettetown/exeggcute/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#CDD2CCFF", "#F2DCC4FF", "#E6C2A2FF", "#E5A488FF", "#FF8460FF", "#BCBDB7FF", 
 <a href="../../palettetown/kingler/"> <img src="../../palettetown/kingler/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSOOr/"> <img src="../../Redmonder/qMSOOr/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../IslamicArt/fes/"> <img src="../../IslamicArt/fes/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/fearow/"> <img src="../../palettetown/fearow/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

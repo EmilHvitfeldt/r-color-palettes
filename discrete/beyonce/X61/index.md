@@ -55,7 +55,13 @@ c("#221C3EFF", "#383562FF", "#424071FF", "#424072FF", "#575EAEFF", "#585FAFFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../impressionist.colors/te_aa_no_areois/"> <img src="../../impressionist.colors/te_aa_no_areois/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MexBrewer/Alacena/"> <img src="../../MexBrewer/Alacena/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X76/"> <img src="../../beyonce/X76/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -70,11 +76,5 @@ c("#221C3EFF", "#383562FF", "#424071FF", "#424072FF", "#575EAEFF", "#585FAFFF", 
 <a href="../../MetBrewer/Renoir/"> <img src="../../MetBrewer/Renoir/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ochRe/emu_woman_paired/"> <img src="../../ochRe/emu_woman_paired/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../impressionist.colors/les_peupliers/"> <img src="../../impressionist.colors/les_peupliers/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../impressionist.colors/les_nympheas/"> <img src="../../impressionist.colors/les_nympheas/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/Manet/"> <img src="../../MetBrewer/Manet/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

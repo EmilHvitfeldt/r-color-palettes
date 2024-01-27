@@ -55,6 +55,10 @@ c("#DF9ED4FF", "#C93F55FF", "#EACC62FF", "#469D76FF", "#3C4B99FF", "#924099FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/WassilyKandinsky_2/"> <img src="../../lisa/WassilyKandinsky_2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../khroma/muted/"> <img src="../../khroma/muted/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -63,18 +67,14 @@ c("#DF9ED4FF", "#C93F55FF", "#EACC62FF", "#469D76FF", "#3C4B99FF", "#924099FF")
 </figure> <figure class="figure">
 <a href="../../lisa/JamesRosenquist/"> <img src="../../lisa/JamesRosenquist/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../PrettyCols/Joyful/"> <img src="../../PrettyCols/Joyful/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../werpals/alice/"> <img src="../../werpals/alice/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/SmokyQuartz/"> <img src="../../tvthemes/SmokyQuartz/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../MetBrewer/Thomas/"> <img src="../../MetBrewer/Thomas/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../vapoRwave/hyperBubble/"> <img src="../../vapoRwave/hyperBubble/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../DresdenColor/briefcases/"> <img src="../../DresdenColor/briefcases/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../Manu/Hoiho/"> <img src="../../Manu/Hoiho/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/GustavKlimt/"> <img src="../../lisa/GustavKlimt/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../MetBrewer/Thomas/"> <img src="../../MetBrewer/Thomas/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,6 +55,10 @@ c("#852942FF", "#FA41CAFF", "#F599A6FF", "#ECE976FF", "#44B05BFF", "#96BDE4FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../beyonce/X18/"> <img src="../../beyonce/X18/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../LaCroixColoR/PassionFruit/"> <img src="../../LaCroixColoR/PassionFruit/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -67,14 +71,10 @@ c("#852942FF", "#FA41CAFF", "#F599A6FF", "#ECE976FF", "#44B05BFF", "#96BDE4FF", 
 </figure> <figure class="figure">
 <a href="../../pals/tol/"> <img src="../../pals/tol/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../PrettyCols/Light/"> <img src="../../PrettyCols/Light/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/Bold/"> <img src="../../PrettyCols/Bold/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../yarrr/pony/"> <img src="../../yarrr/pony/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../jcolors/pal6/"> <img src="../../jcolors/pal6/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Bodianus_rufus/"> <img src="../../fishualize/Bodianus_rufus/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tvthemes/rickAndMorty/"> <img src="../../tvthemes/rickAndMorty/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/Austria/"> <img src="../../MetBrewer/Austria/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

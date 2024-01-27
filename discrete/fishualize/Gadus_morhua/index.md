@@ -55,6 +55,10 @@ c("#5D784CFF", "#ADDAB3FF", "#778E3FFF", "#B1F0EEFF", "#6E927DFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../Redmonder/qMSOGnYl/"> <img src="../../Redmonder/qMSOGnYl/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Parablennius_pilicornis/"> <img src="../../fishualize/Parablennius_pilicornis/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#5D784CFF", "#ADDAB3FF", "#778E3FFF", "#B1F0EEFF", "#6E927DFF")
 <a href="../../palettetown/graveler/"> <img src="../../palettetown/graveler/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/sPBIYlGn/"> <img src="../../Redmonder/sPBIYlGn/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../PNWColors/Anemone/"> <img src="../../PNWColors/Anemone/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/geodude/"> <img src="../../palettetown/geodude/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

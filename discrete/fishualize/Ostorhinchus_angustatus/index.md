@@ -55,6 +55,10 @@ c("#FBFCEBFF", "#F0E990FF", "#DB9CABFF", "#6C402CFF", "#291E15FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../tayloRswift/speakNowLive/"> <img src="../../tayloRswift/speakNowLive/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../calecopal/coastaldune2/"> <img src="../../calecopal/coastaldune2/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#FBFCEBFF", "#F0E990FF", "#DB9CABFF", "#6C402CFF", "#291E15FF")
 <a href="../../ggthemr/grass/"> <img src="../../ggthemr/grass/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/HelenFrankenthaler/"> <img src="../../lisa/HelenFrankenthaler/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggsci/signature_substitutions_cosmic/"> <img src="../../ggsci/signature_substitutions_cosmic/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X127/"> <img src="../../beyonce/X127/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

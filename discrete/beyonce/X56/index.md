@@ -55,7 +55,13 @@ c("#19172CFF", "#A20226FF", "#818392FF", "#AAB0BEFF", "#E3EAF4FF", "#FFFFFFFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/rhyhorn/"> <img src="../../palettetown/rhyhorn/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/RedBlues/"> <img src="../../PrettyCols/RedBlues/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X92/"> <img src="../../beyonce/X92/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -70,11 +76,5 @@ c("#19172CFF", "#A20226FF", "#818392FF", "#AAB0BEFF", "#E3EAF4FF", "#FFFFFFFF")
 <a href="../../nbapalettes/wizards_earned/"> <img src="../../nbapalettes/wizards_earned/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/cascoon/"> <img src="../../palettetown/cascoon/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tvthemes/Spinel/"> <img src="../../tvthemes/Spinel/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X11/"> <img src="../../beyonce/X11/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/tangela/"> <img src="../../palettetown/tangela/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,6 +55,10 @@ c("#AC5A42FF", "#865C1EFF", "#BCAF49FF", "#746D28FF", "#3E3C19FF", "#191C0CFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../DresdenColor/turncoat/"> <img src="../../DresdenColor/turncoat/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/Rembrandt/"> <img src="../../lisa/Rembrandt/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -67,14 +71,10 @@ c("#AC5A42FF", "#865C1EFF", "#BCAF49FF", "#746D28FF", "#3E3C19FF", "#191C0CFF")
 </figure> <figure class="figure">
 <a href="../../fishualize/Pterois_volitans/"> <img src="../../fishualize/Pterois_volitans/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/smyrna_blomfidiana/"> <img src="../../ButterflyColors/smyrna_blomfidiana/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../colRoz/m_horridus2/"> <img src="../../colRoz/m_horridus2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../DresdenColor/sidejobs/"> <img src="../../DresdenColor/sidejobs/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../colRoz/a_conica/"> <img src="../../colRoz/a_conica/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../wesanderson/Cavalcanti1/"> <img src="../../wesanderson/Cavalcanti1/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../DresdenColor/bloodrites/"> <img src="../../DresdenColor/bloodrites/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,15 +55,19 @@ c("#E0A858FF", "#504848FF", "#F87850FF", "#383030FF", "#F8E8A0FF", "#282020FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/beedrill/"> <img src="../../palettetown/beedrill/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/sneasel/"> <img src="../../palettetown/sneasel/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/lapras/"> <img src="../../palettetown/lapras/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/pidgeotto/"> <img src="../../palettetown/pidgeotto/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../palettetown/feebas/"> <img src="../../palettetown/feebas/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/pidgeotto/"> <img src="../../palettetown/pidgeotto/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/duskull/"> <img src="../../palettetown/duskull/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -71,10 +75,6 @@ c("#E0A858FF", "#504848FF", "#F87850FF", "#383030FF", "#F8E8A0FF", "#282020FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/primeape/"> <img src="../../palettetown/primeape/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/houndour/"> <img src="../../palettetown/houndour/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../palettetown/dodrio/"> <img src="../../palettetown/dodrio/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/noctowl/"> <img src="../../palettetown/noctowl/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

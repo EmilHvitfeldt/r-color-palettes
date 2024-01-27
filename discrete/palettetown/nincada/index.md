@@ -55,26 +55,26 @@ c("#E0D0D0FF", "#585050FF", "#988878FF", "#B0A890FF", "#C8B8B0FF", "#787060FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/doduo/"> <img src="../../palettetown/doduo/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../impressionist.colors/un_dimanche_apres_midi_a_l_ile_de_la_grande_jatte/"> <img src="../../impressionist.colors/un_dimanche_apres_midi_a_l_ile_de_la_grande_jatte/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ochRe/winmar/"> <img src="../../ochRe/winmar/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../palettetown/snorlax/"> <img src="../../palettetown/snorlax/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../dutchmasters/little_street/"> <img src="../../dutchmasters/little_street/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/snorlax/"> <img src="../../palettetown/snorlax/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../impressionist.colors/dans_la_serre/"> <img src="../../impressionist.colors/dans_la_serre/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ochRe/winmar/"> <img src="../../ochRe/winmar/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/feebas/"> <img src="../../palettetown/feebas/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/hitmonlee/"> <img src="../../palettetown/hitmonlee/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/cubone/"> <img src="../../palettetown/cubone/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/nuzleaf/"> <img src="../../palettetown/nuzleaf/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../impressionist.colors/paysage_tropical_avec_masureset_palmiers/"> <img src="../../impressionist.colors/paysage_tropical_avec_masureset_palmiers/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,11 +55,19 @@ c("#4D004DFF", "#660066FF", "#800080FF", "#BA3241FF", "#F46404FF", "#ED9A2DFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MoMAColors/OKeeffe/"> <img src="../../MoMAColors/OKeeffe/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../MetBrewer/Tam/"> <img src="../../MetBrewer/Tam/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/starmie/"> <img src="../../palettetown/starmie/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../jcolors/pal7/"> <img src="../../jcolors/pal7/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ltc/heatmap/"> <img src="../../ltc/heatmap/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../RSkittleBrewer/smarties/"> <img src="../../RSkittleBrewer/smarties/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,14 +75,6 @@ c("#4D004DFF", "#660066FF", "#800080FF", "#BA3241FF", "#F46404FF", "#ED9A2DFF", 
 </figure> <figure class="figure">
 <a href="../../ggprism/inferno/"> <img src="../../ggprism/inferno/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../beyonce/X115/"> <img src="../../beyonce/X115/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/Navajo/"> <img src="../../MetBrewer/Navajo/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/Renoir/"> <img src="../../MetBrewer/Renoir/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../peRReo/badbunny2/"> <img src="../../peRReo/badbunny2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/Archambault/"> <img src="../../MetBrewer/Archambault/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../MexBrewer/Huida/"> <img src="../../MexBrewer/Huida/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

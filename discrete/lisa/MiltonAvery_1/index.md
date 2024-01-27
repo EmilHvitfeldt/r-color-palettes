@@ -20,7 +20,7 @@ categories:
 {{< fa brands github size=3x >}}
 **Github**
 
-[tyluRp/lisa](https://github.com/tyluRp/lisa)
+[tylerlittlefield/lisa](https://github.com/tylerlittlefield/lisa)
 :::
 
 ::: {.column width="50%"}
@@ -55,6 +55,10 @@ c("#E2CACDFF", "#2E7CA8FF", "#F1C061FF", "#DA7338FF", "#741D13FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../rtist/raphael/"> <img src="../../rtist/raphael/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nationalparkcolors/DeathValley/"> <img src="../../nationalparkcolors/DeathValley/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -67,14 +71,10 @@ c("#E2CACDFF", "#2E7CA8FF", "#F1C061FF", "#DA7338FF", "#741D13FF")
 </figure> <figure class="figure">
 <a href="../../lisa/ReneMagritte/"> <img src="../../lisa/ReneMagritte/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../lisa/EdvardMunch_1/"> <img src="../../lisa/EdvardMunch_1/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../colRoz/grandis/"> <img src="../../colRoz/grandis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Pseudocheilinus_tetrataenia/"> <img src="../../fishualize/Pseudocheilinus_tetrataenia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../lisa/EdvardMunch_1/"> <img src="../../lisa/EdvardMunch_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../rockthemes/californication/"> <img src="../../rockthemes/californication/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../colRoz/flavolineata/"> <img src="../../colRoz/flavolineata/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../PrettyCols/Fun/"> <img src="../../PrettyCols/Fun/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

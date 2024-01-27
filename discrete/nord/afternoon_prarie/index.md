@@ -55,6 +55,10 @@ c("#486090FF", "#6078A8FF", "#7890A8FF", "#90A8C0FF", "#F0D8C0FF", "#D6BBCFFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../IslamicArt/samarqand/"> <img src="../../IslamicArt/samarqand/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/dewgong/"> <img src="../../palettetown/dewgong/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -63,6 +67,8 @@ c("#486090FF", "#6078A8FF", "#7890A8FF", "#90A8C0FF", "#F0D8C0FF", "#D6BBCFFF", 
 </figure> <figure class="figure">
 <a href="../../ghibli/YesterdayLight/"> <img src="../../ghibli/YesterdayLight/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ltc/reading/"> <img src="../../ltc/reading/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../Redmonder/sPBIBu/"> <img src="../../Redmonder/sPBIBu/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Opisthonema_oglinum/"> <img src="../../fishualize/Opisthonema_oglinum/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -70,11 +76,5 @@ c("#486090FF", "#6078A8FF", "#7890A8FF", "#90A8C0FF", "#F0D8C0FF", "#D6BBCFFF", 
 <a href="../../ghibli/LaputaLight/"> <img src="../../ghibli/LaputaLight/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../musculusColors/Bmpoop/"> <img src="../../musculusColors/Bmpoop/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../calecopal/collinsia/"> <img src="../../calecopal/collinsia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../musculusColors/Bmsurface/"> <img src="../../musculusColors/Bmsurface/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../IslamicArt/konya/"> <img src="../../IslamicArt/konya/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

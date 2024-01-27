@@ -55,6 +55,10 @@ c("#090D10FF", "#0D1321FF", "#1F1935FF", "#2F2C49FF", "#574A5EFF", "#5A6D73FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ghibli/SpiritedDark/"> <img src="../../ghibli/SpiritedDark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ghibli/YesterdayDark/"> <img src="../../ghibli/YesterdayDark/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#090D10FF", "#0D1321FF", "#1F1935FF", "#2F2C49FF", "#574A5EFF", "#5A6D73FF", 
 <a href="../../ghibli/MarnieDark1/"> <img src="../../ghibli/MarnieDark1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X68/"> <img src="../../beyonce/X68/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X31/"> <img src="../../beyonce/X31/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggprism/waves/"> <img src="../../ggprism/waves/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

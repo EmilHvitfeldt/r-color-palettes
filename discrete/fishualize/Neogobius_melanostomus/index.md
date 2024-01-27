@@ -55,6 +55,10 @@ c("#64CCFCFF", "#EDE27BFF", "#BB904EFF", "#825841FF", "#1A0202FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Etheostoma_barrenense/"> <img src="../../fishualize/Etheostoma_barrenense/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Lepomis_megalotis/"> <img src="../../fishualize/Lepomis_megalotis/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -63,18 +67,14 @@ c("#64CCFCFF", "#EDE27BFF", "#BB904EFF", "#825841FF", "#1A0202FF")
 </figure> <figure class="figure">
 <a href="../../fishualize/Acanthurus_triostegus/"> <img src="../../fishualize/Acanthurus_triostegus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../vangogh/StarryNight/"> <img src="../../vangogh/StarryNight/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Histiophryne_psychedelica/"> <img src="../../fishualize/Histiophryne_psychedelica/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/RoyLichtenstein_1/"> <img src="../../lisa/RoyLichtenstein_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../colRoz/p_mitchelli/"> <img src="../../colRoz/p_mitchelli/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../fishualize/Chaetodon_ephippium/"> <img src="../../fishualize/Chaetodon_ephippium/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../wesanderson/Cavalcanti1/"> <img src="../../wesanderson/Cavalcanti1/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Hypoplectrus_puella/"> <img src="../../fishualize/Hypoplectrus_puella/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Koumansetta_rainfordi/"> <img src="../../fishualize/Koumansetta_rainfordi/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../colRoz/p_mitchelli/"> <img src="../../colRoz/p_mitchelli/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,6 +55,10 @@ c("#FFCA08FF", "#F8931DFF", "#CE8D3EFF", "#EC7016FF", "#E64823FF", "#9C6A6AFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggthemes/excel_Red/"> <img src="../../ggthemes/excel_Red/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/beer_and_ales/"> <img src="../../ggprism/beer_and_ales/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#FFCA08FF", "#F8931DFF", "#CE8D3EFF", "#EC7016FF", "#E64823FF", "#9C6A6AFF")
 <a href="../../rcartocolor/OrYel/"> <img src="../../rcartocolor/OrYel/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Retrospect/"> <img src="../../ggthemes/excel_Retrospect/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/excel_Orange/"> <img src="../../ggthemes/excel_Orange/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/Tara/"> <img src="../../MetBrewer/Tara/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

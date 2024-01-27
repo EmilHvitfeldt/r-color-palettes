@@ -55,6 +55,10 @@ c("#3870A0FF", "#284878FF", "#80D0D0FF", "#50A8B0FF", "#B0E8F0FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../rcartocolor/Teal/"> <img src="../../rcartocolor/Teal/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../musculusColors/Bmlunge/"> <img src="../../musculusColors/Bmlunge/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -69,12 +73,8 @@ c("#3870A0FF", "#284878FF", "#80D0D0FF", "#50A8B0FF", "#B0E8F0FF")
 </figure> <figure class="figure">
 <a href="../../LaCroixColoR/Pure/"> <img src="../../LaCroixColoR/Pure/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../MetBrewer/Pissaro/"> <img src="../../MetBrewer/Pissaro/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../rockthemes/coltrane/"> <img src="../../rockthemes/coltrane/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../beyonce/X43/"> <img src="../../beyonce/X43/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../unikn/pal_petrol/"> <img src="../../unikn/pal_petrol/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../rockthemes/coltrane/"> <img src="../../rockthemes/coltrane/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

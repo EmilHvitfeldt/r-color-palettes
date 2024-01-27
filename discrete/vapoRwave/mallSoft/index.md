@@ -55,26 +55,26 @@ c("#7FD4C1FF", "#30BFDDFF", "#8690FFFF", "#ACD0F4FF", "#F7C0BBFF", "#FBCFF3FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../vapeplot/mallsoft/"> <img src="../../vapeplot/mallsoft/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../DresdenColor/colddays/"> <img src="../../DresdenColor/colddays/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NineteenEightyR/miami2/"> <img src="../../NineteenEightyR/miami2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../tvthemes/Pearl/"> <img src="../../tvthemes/Pearl/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Thalassoma_noronhanum/"> <img src="../../fishualize/Thalassoma_noronhanum/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../tvthemes/Pearl/"> <img src="../../tvthemes/Pearl/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ltc/gaby/"> <img src="../../ltc/gaby/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../trekcolors/lcars_nx01/"> <img src="../../trekcolors/lcars_nx01/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Sardinella_brasiliensis/"> <img src="../../fishualize/Sardinella_brasiliensis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../PNWColors/Sailboat/"> <img src="../../PNWColors/Sailboat/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tvthemes/Opal/"> <img src="../../tvthemes/Opal/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nationalparkcolors/Zion/"> <img src="../../nationalparkcolors/Zion/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../rcartocolor/TealRose/"> <img src="../../rcartocolor/TealRose/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

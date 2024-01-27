@@ -55,6 +55,10 @@ c("#005281FF", "#000008FF", "#0096CBFF", "#D2D904FF", "#F28705FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../feathers/bee_eater/"> <img src="../../feathers/bee_eater/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Scarus_tricolor/"> <img src="../../fishualize/Scarus_tricolor/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#005281FF", "#000008FF", "#0096CBFF", "#D2D904FF", "#F28705FF")
 <a href="../../ggthemes/excel_Slice/"> <img src="../../ggthemes/excel_Slice/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Chromis_vanderbilti/"> <img src="../../fishualize/Chromis_vanderbilti/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/Lakota/"> <img src="../../MetBrewer/Lakota/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../jcolors/pal2/"> <img src="../../jcolors/pal2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

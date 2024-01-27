@@ -55,11 +55,19 @@ c("#5B1414FF", "#AD722CFF", "#1A6384FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nbapalettes/pelicans/"> <img src="../../nbapalettes/pelicans/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ltc/trio4/"> <img src="../../ltc/trio4/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/bulls_city/"> <img src="../../nbapalettes/bulls_city/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/warriors_city/"> <img src="../../nbapalettes/warriors_city/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../khroma/highcontrast/"> <img src="../../khroma/highcontrast/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/cavaliers_90s/"> <img src="../../nbapalettes/cavaliers_90s/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -68,13 +76,5 @@ c("#5B1414FF", "#AD722CFF", "#1A6384FF")
 <a href="../../nbapalettes/celtics/"> <img src="../../nbapalettes/celtics/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/rockets_city/"> <img src="../../nbapalettes/rockets_city/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/wsj_dem_rep/"> <img src="../../ggthemes/wsj_dem_rep/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/hawks_retro/"> <img src="../../nbapalettes/hawks_retro/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/bucks_00s/"> <img src="../../nbapalettes/bucks_00s/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/suns_retro/"> <img src="../../nbapalettes/suns_retro/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

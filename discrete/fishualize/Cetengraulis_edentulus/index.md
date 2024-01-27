@@ -55,6 +55,10 @@ c("#806607FF", "#807A50FF", "#5C6560FF", "#9BA59DFF", "#A6AEA6FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../beyonce/X54/"> <img src="../../beyonce/X54/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/PaulCezanne/"> <img src="../../lisa/PaulCezanne/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#806607FF", "#807A50FF", "#5C6560FF", "#9BA59DFF", "#A6AEA6FF")
 <a href="../../ggprism/quiet/"> <img src="../../ggprism/quiet/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X3/"> <img src="../../beyonce/X3/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X55/"> <img src="../../beyonce/X55/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/PieterBruegel/"> <img src="../../lisa/PieterBruegel/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,6 +55,10 @@ c("#2C5234FF", "#00843DFF", "#6CC24AFF", "#DE7C00FF", "#010101FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nbapalettes/celtics_champ/"> <img src="../../nbapalettes/celtics_champ/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rtist/davinci/"> <img src="../../rtist/davinci/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -65,16 +69,12 @@ c("#2C5234FF", "#00843DFF", "#6CC24AFF", "#DE7C00FF", "#010101FF")
 </figure> <figure class="figure">
 <a href="../../wesanderson/Cavalcanti1/"> <img src="../../wesanderson/Cavalcanti1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../DresdenColor/bloodrites/"> <img src="../../DresdenColor/bloodrites/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../lisa/Jean_MichelBasquiat_1/"> <img src="../../lisa/Jean_MichelBasquiat_1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../DresdenColor/bloodrites/"> <img src="../../DresdenColor/bloodrites/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../DresdenColor/provenguilty/"> <img src="../../DresdenColor/provenguilty/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Halichoeres_garnoti/"> <img src="../../fishualize/Halichoeres_garnoti/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../colRoz/xantho/"> <img src="../../colRoz/xantho/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Aulostomus_chinensis/"> <img src="../../fishualize/Aulostomus_chinensis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

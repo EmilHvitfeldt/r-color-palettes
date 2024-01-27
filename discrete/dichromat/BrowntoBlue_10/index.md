@@ -55,6 +55,10 @@ c("#663000FF", "#996136FF", "#CC9B7AFF", "#D9AF98FF", "#F2DACEFF", "#CCFDFFFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../colorBlindness/Brown2Blue10Steps/"> <img src="../../colorBlindness/Brown2Blue10Steps/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../dichromat/BluetoDarkOrange_12/"> <img src="../../dichromat/BluetoDarkOrange_12/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#663000FF", "#996136FF", "#CC9B7AFF", "#D9AF98FF", "#F2DACEFF", "#CCFDFFFF", 
 <a href="../../werpals/mountcook/"> <img src="../../werpals/mountcook/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Homer1/"> <img src="../../MetBrewer/Homer1/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../unikn/pal_unikn_light/"> <img src="../../unikn/pal_unikn_light/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemr/carrot/"> <img src="../../ggthemr/carrot/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

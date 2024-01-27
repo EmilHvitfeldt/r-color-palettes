@@ -55,6 +55,10 @@ c("#1D4A79FF", "#794C23FF", "#6B7444FF", "#6089B5FF", "#BF9785FF", "#275E4DFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../NatParksPalettes/GrandCanyon/"> <img src="../../NatParksPalettes/GrandCanyon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Oncorhynchus_gorbuscha/"> <img src="../../fishualize/Oncorhynchus_gorbuscha/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#1D4A79FF", "#794C23FF", "#6B7444FF", "#6089B5FF", "#BF9785FF", "#275E4DFF", 
 <a href="../../Manu/Putangitangi/"> <img src="../../Manu/Putangitangi/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/k_tristis/"> <img src="../../colRoz/k_tristis/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../NatParksPalettes/Torres/"> <img src="../../NatParksPalettes/Torres/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Antennarius_commerson/"> <img src="../../fishualize/Antennarius_commerson/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

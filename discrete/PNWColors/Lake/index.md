@@ -55,6 +55,10 @@ c("#362904FF", "#54450FFF", "#45681EFF", "#4A9152FF", "#64A8A8FF", "#85B6CEFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../tayloRswift/taylorSwift/"> <img src="../../tayloRswift/taylorSwift/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../RColorBrewer/PuBuGn/"> <img src="../../RColorBrewer/PuBuGn/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -65,16 +69,12 @@ c("#362904FF", "#54450FFF", "#45681EFF", "#4A9152FF", "#64A8A8FF", "#85B6CEFF", 
 </figure> <figure class="figure">
 <a href="../../ggsci/teal_material/"> <img src="../../ggsci/teal_material/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../PrettyCols/TealGreens/"> <img src="../../PrettyCols/TealGreens/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nbapalettes/bucks_earned/"> <img src="../../nbapalettes/bucks_earned/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../PrettyCols/Teals/"> <img src="../../PrettyCols/Teals/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Thalassoma_hardwicke/"> <img src="../../fishualize/Thalassoma_hardwicke/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../RColorBrewer/BrBG/"> <img src="../../RColorBrewer/BrBG/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../RColorBrewer/GnBu/"> <img src="../../RColorBrewer/GnBu/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/igglybuff/"> <img src="../../palettetown/igglybuff/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../Redmonder/sPBIGn/"> <img src="../../Redmonder/sPBIGn/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

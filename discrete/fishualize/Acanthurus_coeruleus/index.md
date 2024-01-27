@@ -55,6 +55,10 @@ c("#0476D9FF", "#01260EFF", "#618C03FF", "#BFB304FF", "#A68B03FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../feathers/bee_eater/"> <img src="../../feathers/bee_eater/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/Everglades/"> <img src="../../NatParksPalettes/Everglades/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#0476D9FF", "#01260EFF", "#618C03FF", "#BFB304FF", "#A68B03FF")
 <a href="../../fishualize/Holacanthus_ciliaris/"> <img src="../../fishualize/Holacanthus_ciliaris/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Antennarius_multiocellatus/"> <img src="../../fishualize/Antennarius_multiocellatus/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Halichoeres_garnoti/"> <img src="../../fishualize/Halichoeres_garnoti/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../LaCroixColoR/Lemon/"> <img src="../../LaCroixColoR/Lemon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

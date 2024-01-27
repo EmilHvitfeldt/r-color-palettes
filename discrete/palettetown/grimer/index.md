@@ -55,13 +55,15 @@ c("#C098B0FF", "#905898FF", "#583070FF", "#E0B8D8FF", "#F8F8F8FF", "#E8D8E8FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/muk/"> <img src="../../palettetown/muk/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/cloyster/"> <img src="../../palettetown/cloyster/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../trekcolors/ufp/"> <img src="../../trekcolors/ufp/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/poliwrath/"> <img src="../../palettetown/poliwrath/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSOPu/"> <img src="../../Redmonder/qMSOPu/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -74,7 +76,5 @@ c("#C098B0FF", "#905898FF", "#583070FF", "#E0B8D8FF", "#F8F8F8FF", "#E8D8E8FF", 
 <a href="../../MetBrewer/Monet/"> <img src="../../MetBrewer/Monet/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../musculusColors/Bmsurface/"> <img src="../../musculusColors/Bmsurface/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/aerodactyl/"> <img src="../../palettetown/aerodactyl/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

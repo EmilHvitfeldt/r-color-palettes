@@ -55,7 +55,13 @@ c("#504848FF", "#383030FF", "#887878FF", "#B0A0A0FF", "#F8F8F8FF", "#E8A050FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/houndour/"> <img src="../../palettetown/houndour/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MexBrewer/Vendedora/"> <img src="../../MexBrewer/Vendedora/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/umbreon/"> <img src="../../palettetown/umbreon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -70,11 +76,5 @@ c("#504848FF", "#383030FF", "#887878FF", "#B0A0A0FF", "#F8F8F8FF", "#E8A050FF", 
 <a href="../../palettetown/spearow/"> <img src="../../palettetown/spearow/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../impressionist.colors/chanteuse_de_cafe_concert/"> <img src="../../impressionist.colors/chanteuse_de_cafe_concert/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../trekcolors/iconian/"> <img src="../../trekcolors/iconian/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/beedrill/"> <img src="../../palettetown/beedrill/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X79/"> <img src="../../beyonce/X79/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

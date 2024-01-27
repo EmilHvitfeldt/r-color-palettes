@@ -55,11 +55,17 @@ c("#E7298AFF", "#72BCD4FF", "#E41A1CFF", "#FCF40EFF", "#49F149FF", "#F16913FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../tvthemes/bigHero6/"> <img src="../../tvthemes/bigHero6/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ochRe/healthy_reef/"> <img src="../../ochRe/healthy_reef/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colorblindr/OkabeIto_black/"> <img src="../../colorblindr/OkabeIto_black/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../khroma/okabeitoblack/"> <img src="../../khroma/okabeitoblack/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/gravityFalls/"> <img src="../../tvthemes/gravityFalls/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -70,11 +76,5 @@ c("#E7298AFF", "#72BCD4FF", "#E41A1CFF", "#FCF40EFF", "#49F149FF", "#F16913FF", 
 <a href="../../ggsci/springfield_simpsons/"> <img src="../../ggsci/springfield_simpsons/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/yanma/"> <img src="../../palettetown/yanma/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tidyquant/tq_green/"> <img src="../../tidyquant/tq_green/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../werpals/benagil/"> <img src="../../werpals/benagil/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemr/sea/"> <img src="../../ggthemr/sea/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

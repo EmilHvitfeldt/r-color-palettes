@@ -55,6 +55,10 @@ c("#211747FF", "#FFA400FF", "#CB6015FF", "#A9431EFF", "#B1B3B3FF", "#5B6770FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../tvthemes/attackOnTitan/"> <img src="../../tvthemes/attackOnTitan/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/default_uchicago/"> <img src="../../ggsci/default_uchicago/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -65,16 +69,12 @@ c("#211747FF", "#FFA400FF", "#CB6015FF", "#A9431EFF", "#B1B3B3FF", "#5B6770FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/nosepass/"> <img src="../../palettetown/nosepass/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ltc/hat/"> <img src="../../ltc/hat/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ltc/ten_colors/"> <img src="../../ltc/ten_colors/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Centropyge_loricula/"> <img src="../../fishualize/Centropyge_loricula/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/wsj_colors6/"> <img src="../../ggthemes/wsj_colors6/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemr/grape/"> <img src="../../ggthemr/grape/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tvthemes/FireNation/"> <img src="../../tvthemes/FireNation/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemr/light/"> <img src="../../ggthemr/light/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tvthemes/Sunstone/"> <img src="../../tvthemes/Sunstone/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

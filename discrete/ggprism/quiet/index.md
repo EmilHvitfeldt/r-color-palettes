@@ -55,6 +55,10 @@ c("#006666FF", "#999966FF", "#999966FF", "#336666FF", "#6C6935FF", "#CCCC99FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggprism/quiet2/"> <img src="../../ggprism/quiet2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../calecopal/sierra2/"> <img src="../../calecopal/sierra2/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -63,6 +67,8 @@ c("#006666FF", "#999966FF", "#999966FF", "#336666FF", "#6C6935FF", "#CCCC99FF", 
 </figure> <figure class="figure">
 <a href="../../fishualize/Cetengraulis_edentulus/"> <img src="../../fishualize/Cetengraulis_edentulus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../MoMAColors/Dali/"> <img src="../../MoMAColors/Dali/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../peRReo/rosalia/"> <img src="../../peRReo/rosalia/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/omanyte/"> <img src="../../palettetown/omanyte/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -70,11 +76,5 @@ c("#006666FF", "#999966FF", "#999966FF", "#336666FF", "#6C6935FF", "#CCCC99FF", 
 <a href="../../impressionist.colors/danseuses_a_la_barre/"> <img src="../../impressionist.colors/danseuses_a_la_barre/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/sandshrew/"> <img src="../../palettetown/sandshrew/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../calecopal/seagrass/"> <img src="../../calecopal/seagrass/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../Redmonder/qMSOGn/"> <img src="../../Redmonder/qMSOGn/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ochRe/jumping_frog/"> <img src="../../ochRe/jumping_frog/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

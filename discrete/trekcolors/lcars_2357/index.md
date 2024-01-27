@@ -55,6 +55,10 @@ c("#FFFF99FF", "#FFCC99FF", "#FFCC66FF", "#FF9933FF", "#664466FF", "#CC99CCFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../basetheme/brutal/"> <img src="../../basetheme/brutal/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Epinephelus_lanceolatus/"> <img src="../../fishualize/Epinephelus_lanceolatus/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#FFFF99FF", "#FFCC99FF", "#FFCC66FF", "#FF9933FF", "#664466FF", "#CC99CCFF", 
 <a href="../../ggthemes/few_Medium/"> <img src="../../ggthemes/few_Medium/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../feathers/rose_crowned_fruit_dove/"> <img src="../../feathers/rose_crowned_fruit_dove/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Rhinecanthus_assasi/"> <img src="../../fishualize/Rhinecanthus_assasi/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tidyquant/tq_dark/"> <img src="../../tidyquant/tq_dark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

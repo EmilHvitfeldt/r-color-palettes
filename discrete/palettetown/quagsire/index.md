@@ -55,6 +55,10 @@ c("#60A0E0FF", "#A8C8E8FF", "#4888C8FF", "#385898FF", "#204060FF", "#103040FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../Redmonder/qMSOBuWarm/"> <img src="../../Redmonder/qMSOBuWarm/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/Flourite/"> <img src="../../tvthemes/Flourite/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -63,6 +67,8 @@ c("#60A0E0FF", "#A8C8E8FF", "#4888C8FF", "#385898FF", "#204060FF", "#103040FF", 
 </figure> <figure class="figure">
 <a href="../../severance/Dinner/"> <img src="../../severance/Dinner/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../MexBrewer/Frida/"> <img src="../../MexBrewer/Frida/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../MetBrewer/Hokusai2/"> <img src="../../MetBrewer/Hokusai2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/dragonair/"> <img src="../../palettetown/dragonair/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -70,11 +76,5 @@ c("#60A0E0FF", "#A8C8E8FF", "#4888C8FF", "#385898FF", "#204060FF", "#103040FF", 
 <a href="../../tvthemes/WaterTribe/"> <img src="../../tvthemes/WaterTribe/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../peRReo/planb/"> <img src="../../peRReo/planb/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../miscpalettes/waterfall/"> <img src="../../miscpalettes/waterfall/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/wynaut/"> <img src="../../palettetown/wynaut/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/wooper/"> <img src="../../palettetown/wooper/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

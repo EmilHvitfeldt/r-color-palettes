@@ -55,7 +55,15 @@ c("#A5300FFF", "#D55816FF", "#E19825FF", "#B19C7DFF", "#7F5F52FF", "#B27D49FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hylephila_phyleus/"> <img src="../../ButterflyColors/hylephila_phyleus/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggthemes/excel_Yellow_Orange/"> <img src="../../ggthemes/excel_Yellow_Orange/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/junonia_evarete/"> <img src="../../ButterflyColors/junonia_evarete/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../calecopal/dudleya/"> <img src="../../calecopal/dudleya/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -63,18 +71,10 @@ c("#A5300FFF", "#D55816FF", "#E19825FF", "#B19C7DFF", "#7F5F52FF", "#B27D49FF")
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Orange/"> <img src="../../ggthemes/excel_Orange/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/brassolis_sophorae/"> <img src="../../ButterflyColors/brassolis_sophorae/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Phractocephalus_hemioliopterus/"> <img src="../../fishualize/Phractocephalus_hemioliopterus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Pleuronectes_platessa/"> <img src="../../fishualize/Pleuronectes_platessa/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggprism/beer_and_ales/"> <img src="../../ggprism/beer_and_ales/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/JohannJacobUlrich/"> <img src="../../lisa/JohannJacobUlrich/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/excel_Wood_Type/"> <img src="../../ggthemes/excel_Wood_Type/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/excel_Orange_Red/"> <img src="../../ggthemes/excel_Orange_Red/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../Redmonder/qMSORd/"> <img src="../../Redmonder/qMSORd/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

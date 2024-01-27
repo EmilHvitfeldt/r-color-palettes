@@ -55,6 +55,10 @@ c("#7E8C69FF", "#E7A655FF", "#E59D7FFF", "#E38377FF", "#6D4847FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Barbus_barbus/"> <img src="../../fishualize/Barbus_barbus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Red/"> <img src="../../ggthemes/excel_Red/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#7E8C69FF", "#E7A655FF", "#E59D7FFF", "#E38377FF", "#6D4847FF")
 <a href="../../lisa/PaulCezanne/"> <img src="../../lisa/PaulCezanne/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/BryceCanyon/"> <img src="../../NatParksPalettes/BryceCanyon/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/spinda/"> <img src="../../palettetown/spinda/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../Redmonder/qMSOYlOr/"> <img src="../../Redmonder/qMSOYlOr/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

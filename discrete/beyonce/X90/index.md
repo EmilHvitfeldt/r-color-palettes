@@ -55,6 +55,10 @@ c("#795998FF", "#7D4D7FFF", "#954C84FF", "#AD5A88FF", "#D05F95FF", "#DAA7ABFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../MetBrewer/Cassatt1/"> <img src="../../MetBrewer/Cassatt1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/Classic_Purple_Gray_12/"> <img src="../../ggthemes/Classic_Purple_Gray_12/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#795998FF", "#7D4D7FFF", "#954C84FF", "#AD5A88FF", "#D05F95FF", "#DAA7ABFF", 
 <a href="../../palettetown/metang/"> <img src="../../palettetown/metang/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X60/"> <img src="../../beyonce/X60/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/muk/"> <img src="../../palettetown/muk/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X49/"> <img src="../../beyonce/X49/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

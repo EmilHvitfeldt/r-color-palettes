@@ -55,6 +55,10 @@ c("#070604FF", "#F9E211FF", "#797A87FF", "#A8ACADFF", "#D6CBB5FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../tvthemes/Greyjoy/"> <img src="../../tvthemes/Greyjoy/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/n_violacea/"> <img src="../../colRoz/n_violacea/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#070604FF", "#F9E211FF", "#797A87FF", "#A8ACADFF", "#D6CBB5FF")
 <a href="../../calecopal/buow/"> <img src="../../calecopal/buow/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Chaetodontoplus_conspicillatus/"> <img src="../../fishualize/Chaetodontoplus_conspicillatus/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/jolteon/"> <img src="../../palettetown/jolteon/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X10/"> <img src="../../beyonce/X10/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

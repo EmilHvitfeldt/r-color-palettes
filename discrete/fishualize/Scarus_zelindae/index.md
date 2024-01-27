@@ -55,7 +55,15 @@ c("#009690FF", "#68A66DFF", "#725475FF", "#BF8C60FF", "#009AB8FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../calecopal/bixby/"> <img src="../../calecopal/bixby/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../vangogh/Irises/"> <img src="../../vangogh/Irises/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ltc/minou/"> <img src="../../ltc/minou/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/k_tristis/"> <img src="../../colRoz/k_tristis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -68,13 +76,5 @@ c("#009690FF", "#68A66DFF", "#725475FF", "#BF8C60FF", "#009AB8FF")
 <a href="../../NatParksPalettes/Yellowstone/"> <img src="../../NatParksPalettes/Yellowstone/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Badge/"> <img src="../../ggthemes/excel_Badge/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Taeniura_lymma/"> <img src="../../fishualize/Taeniura_lymma/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nationalparkcolors/SmokyMountains/"> <img src="../../nationalparkcolors/SmokyMountains/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Thalassoma_noronhanum/"> <img src="../../fishualize/Thalassoma_noronhanum/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggsci/default_jama/"> <img src="../../ggsci/default_jama/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

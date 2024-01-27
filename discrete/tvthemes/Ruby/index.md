@@ -55,11 +55,17 @@ c("#D81E4AFF", "#332027FF", "#751048FF", "#000000FF", "#F8DB73FF", "#F4826AFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nationalparkcolors/Hawaii/"> <img src="../../nationalparkcolors/Hawaii/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X30/"> <img src="../../beyonce/X30/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/AndyWarhol_1/"> <img src="../../lisa/AndyWarhol_1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MoMAColors/Exter/"> <img src="../../MoMAColors/Exter/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/few_Dark/"> <img src="../../ggthemes/few_Dark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -70,11 +76,5 @@ c("#D81E4AFF", "#332027FF", "#751048FF", "#000000FF", "#F8DB73FF", "#F4826AFF")
 <a href="../../nbapalettes/heat_dark/"> <img src="../../nbapalettes/heat_dark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/Sunstone/"> <img src="../../tvthemes/Sunstone/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../futurevisions/mars/"> <img src="../../futurevisions/mars/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../peRReo/badbunny2/"> <img src="../../peRReo/badbunny2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../NatParksPalettes/Volcanoes/"> <img src="../../NatParksPalettes/Volcanoes/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

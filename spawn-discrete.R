@@ -13,8 +13,6 @@ pals$novelty <- if_else(pals$novelty, "Novelty - Yes", "Novelty - No")
 pals$type_cat <- paste0('Type - ', pals$type)
 pals$package_cat <- paste0('Package - ', pals$package)
 
-pals <- pals[-822, ]
-
 # Some of the palettes are TOO big
 pals <- pals |>
   filter(length <= 20)

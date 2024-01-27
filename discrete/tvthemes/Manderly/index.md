@@ -55,7 +55,13 @@ c("#40E0D0FF", "#808080FF", "#00FF00FF", "#282828FF", "#015202FF", "#195953FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../beyonce/X127/"> <img src="../../beyonce/X127/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/TealGreens/"> <img src="../../PrettyCols/TealGreens/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/ivysaur/"> <img src="../../palettetown/ivysaur/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -70,11 +76,5 @@ c("#40E0D0FF", "#808080FF", "#00FF00FF", "#282828FF", "#015202FF", "#195953FF", 
 <a href="../../calecopal/lake/"> <img src="../../calecopal/lake/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/celebi/"> <img src="../../palettetown/celebi/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemr/grass/"> <img src="../../ggthemr/grass/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/shuppet/"> <img src="../../palettetown/shuppet/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../peRReo/buenavista/"> <img src="../../peRReo/buenavista/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,11 +55,17 @@ c("#18422EFF", "#436660FF", "#879669FF", "#AEC3A2FF", "#D2D2D2FF", "#B4B4C3FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../impressionist.colors/la_chanson_du_chien/"> <img src="../../impressionist.colors/la_chanson_du_chien/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/cloyster/"> <img src="../../palettetown/cloyster/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Cassatt2/"> <img src="../../MetBrewer/Cassatt2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MexBrewer/Frida/"> <img src="../../MexBrewer/Frida/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../impressionist.colors/fleurs_dans_un_vase_de_cristal/"> <img src="../../impressionist.colors/fleurs_dans_un_vase_de_cristal/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -70,11 +76,5 @@ c("#18422EFF", "#436660FF", "#879669FF", "#AEC3A2FF", "#D2D2D2FF", "#B4B4C3FF", 
 <a href="../../palettetown/gligar/"> <img src="../../palettetown/gligar/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/wynaut/"> <img src="../../palettetown/wynaut/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../trekcolors/ufp/"> <img src="../../trekcolors/ufp/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ochRe/emu_woman_paired/"> <img src="../../ochRe/emu_woman_paired/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/golbat/"> <img src="../../palettetown/golbat/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

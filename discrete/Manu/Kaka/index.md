@@ -55,6 +55,10 @@ c("#A7473AFF", "#4B5F6CFF", "#B09B37FF", "#955F47FF", "#A8B9CBFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/JacobLawrence/"> <img src="../../lisa/JacobLawrence/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ghibli/PonyoMedium/"> <img src="../../ghibli/PonyoMedium/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -69,12 +73,8 @@ c("#A7473AFF", "#4B5F6CFF", "#B09B37FF", "#955F47FF", "#A8B9CBFF")
 </figure> <figure class="figure">
 <a href="../../Manu/Kotare/"> <img src="../../Manu/Kotare/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../MexBrewer/Alacena/"> <img src="../../MexBrewer/Alacena/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../rockthemes/swift/"> <img src="../../rockthemes/swift/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../rockthemes/harvey/"> <img src="../../rockthemes/harvey/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ochRe/parliament/"> <img src="../../ochRe/parliament/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nord/halifax_harbor/"> <img src="../../nord/halifax_harbor/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,6 +55,10 @@ c("#1B0100FF", "#835809FF", "#FCC838FF", "#655A24FF", "#FCF45CFF", "#B88D15FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Antennarius_multiocellatus/"> <img src="../../fishualize/Antennarius_multiocellatus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../soilpalettes/natrudoll/"> <img src="../../soilpalettes/natrudoll/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#1B0100FF", "#835809FF", "#FCC838FF", "#655A24FF", "#FCF45CFF", "#B88D15FF", 
 <a href="../../tvthemes/Martell/"> <img src="../../tvthemes/Martell/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X86/"> <img src="../../beyonce/X86/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/hoppip/"> <img src="../../palettetown/hoppip/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tvthemes/EarthKingdom/"> <img src="../../tvthemes/EarthKingdom/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

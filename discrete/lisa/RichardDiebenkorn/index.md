@@ -20,7 +20,7 @@ categories:
 {{< fa brands github size=3x >}}
 **Github**
 
-[tyluRp/lisa](https://github.com/tyluRp/lisa)
+[tylerlittlefield/lisa](https://github.com/tylerlittlefield/lisa)
 :::
 
 ::: {.column width="50%"}
@@ -55,7 +55,13 @@ c("#2677A5FF", "#639BC1FF", "#639BC1FF", "#90A74AFF", "#5D8722FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../rcartocolor/BluGrn/"> <img src="../../rcartocolor/BluGrn/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../vangogh/StarryRhone/"> <img src="../../vangogh/StarryRhone/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/Emrld/"> <img src="../../rcartocolor/Emrld/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,14 +73,8 @@ c("#2677A5FF", "#639BC1FF", "#639BC1FF", "#90A74AFF", "#5D8722FF")
 </figure> <figure class="figure">
 <a href="../../ochRe/jumping_frog/"> <img src="../../ochRe/jumping_frog/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggthemes/excel_Integral/"> <img src="../../ggthemes/excel_Integral/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../ggthemes/excel_Savon/"> <img src="../../ggthemes/excel_Savon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggthemes/excel_Blue_II/"> <img src="../../ggthemes/excel_Blue_II/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../rcartocolor/ag_GrnYl/"> <img src="../../rcartocolor/ag_GrnYl/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../calecopal/bigsur2/"> <img src="../../calecopal/bigsur2/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ggthemes/excel_Integral/"> <img src="../../ggthemes/excel_Integral/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

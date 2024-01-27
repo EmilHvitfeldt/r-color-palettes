@@ -55,6 +55,10 @@ c("#E28928FF", "#C464AAFF", "#7C43A9FF", "#001847FF", "#0646CFFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Cirrhilabrus_tonozukai/"> <img src="../../fishualize/Cirrhilabrus_tonozukai/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../vapoRwave/newRetro/"> <img src="../../vapoRwave/newRetro/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#E28928FF", "#C464AAFF", "#7C43A9FF", "#001847FF", "#0646CFFF")
 <a href="../../MapPalettes/bruiser/"> <img src="../../MapPalettes/bruiser/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/PaulKlee_1/"> <img src="../../lisa/PaulKlee_1/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../calecopal/superbloom3/"> <img src="../../calecopal/superbloom3/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/JacobLawrence_1/"> <img src="../../lisa/JacobLawrence_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

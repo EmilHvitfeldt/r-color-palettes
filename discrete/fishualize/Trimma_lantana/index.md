@@ -55,11 +55,17 @@ c("#4AB2B8FF", "#EDBA36FF", "#F6871FFF", "#ED1C24FF", "#791214FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../wesanderson/Darjeeling1/"> <img src="../../wesanderson/Darjeeling1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../DresdenColor/skingame/"> <img src="../../DresdenColor/skingame/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Parablennius_marmoreus/"> <img src="../../fishualize/Parablennius_marmoreus/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MoMAColors/ustwo/"> <img src="../../MoMAColors/ustwo/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../yarrr/nemo/"> <img src="../../yarrr/nemo/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,14 +73,8 @@ c("#4AB2B8FF", "#EDBA36FF", "#F6871FFF", "#ED1C24FF", "#791214FF")
 </figure> <figure class="figure">
 <a href="../../fishualize/Phractocephalus_hemioliopterus/"> <img src="../../fishualize/Phractocephalus_hemioliopterus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../wesanderson/AsteroidCity1/"> <img src="../../wesanderson/AsteroidCity1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Pseudocheilinus_tetrataenia/"> <img src="../../fishualize/Pseudocheilinus_tetrataenia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X58/"> <img src="../../beyonce/X58/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../wesanderson/FantasticFox1/"> <img src="../../wesanderson/FantasticFox1/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../calecopal/kelp1/"> <img src="../../calecopal/kelp1/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tvthemes/CrazyLaceAgate/"> <img src="../../tvthemes/CrazyLaceAgate/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

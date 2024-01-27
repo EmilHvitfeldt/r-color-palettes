@@ -55,6 +55,10 @@ c("#B0A870FF", "#807848FF", "#585020FF", "#E0E0B0FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Paralabrax_clathratus/"> <img src="../../fishualize/Paralabrax_clathratus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/JohnQuidor/"> <img src="../../lisa/JohnQuidor/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#B0A870FF", "#807848FF", "#585020FF", "#E0E0B0FF")
 <a href="../../fishualize/Micropterus_punctulatus/"> <img src="../../fishualize/Micropterus_punctulatus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tayloRswift/fearless/"> <img src="../../tayloRswift/fearless/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../colRoz/c_kingii/"> <img src="../../colRoz/c_kingii/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/graveler/"> <img src="../../palettetown/graveler/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

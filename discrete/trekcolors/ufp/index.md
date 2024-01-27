@@ -55,6 +55,10 @@ c("#E4E4E4FF", "#CBCBD6FF", "#B3B2C9FF", "#9A9ABCFF", "#8281AFFF", "#6968A2FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../trekcolors/andorian/"> <img src="../../trekcolors/andorian/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/grimer/"> <img src="../../palettetown/grimer/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#E4E4E4FF", "#CBCBD6FF", "#B3B2C9FF", "#9A9ABCFF", "#8281AFFF", "#6968A2FF", 
 <a href="../../tvthemes/Night/"> <img src="../../tvthemes/Night/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSOPu/"> <img src="../../Redmonder/qMSOPu/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../musculusColors/Bmsurface/"> <img src="../../musculusColors/Bmsurface/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/cloyster/"> <img src="../../palettetown/cloyster/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

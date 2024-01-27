@@ -55,6 +55,10 @@ c("#488828FF", "#304820FF", "#307090FF", "#78D048FF", "#60B830FF", "#D0A838FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/celebi/"> <img src="../../palettetown/celebi/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../impressionist.colors/korenveld_onder_onweerslucht/"> <img src="../../impressionist.colors/korenveld_onder_onweerslucht/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -65,16 +69,12 @@ c("#488828FF", "#304820FF", "#307090FF", "#78D048FF", "#60B830FF", "#D0A838FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/mareep/"> <img src="../../palettetown/mareep/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggprism/ocean3/"> <img src="../../ggprism/ocean3/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../palettetown/jolteon/"> <img src="../../palettetown/jolteon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../tvthemes/Tyrell/"> <img src="../../tvthemes/Tyrell/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ggprism/ocean3/"> <img src="../../ggprism/ocean3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/ivysaur/"> <img src="../../palettetown/ivysaur/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/bayleef/"> <img src="../../palettetown/bayleef/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/exeggutor/"> <img src="../../palettetown/exeggutor/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../tvthemes/Tyrell/"> <img src="../../tvthemes/Tyrell/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,9 +55,15 @@ c("#272729FF", "#A92624FF", "#C3BBAAFF", "#5B2127FF", "#5D6F73FF", "#AC9F89FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../impressionist.colors/la_chanson_du_chien/"> <img src="../../impressionist.colors/la_chanson_du_chien/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../impressionist.colors/bouilloire_et_fruits/"> <img src="../../impressionist.colors/bouilloire_et_fruits/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MoMAColors/Picabia/"> <img src="../../MoMAColors/Picabia/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/Antique/"> <img src="../../rcartocolor/Antique/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -65,16 +71,10 @@ c("#272729FF", "#A92624FF", "#C3BBAAFF", "#5B2127FF", "#5D6F73FF", "#AC9F89FF", 
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Demuth/"> <img src="../../MetBrewer/Demuth/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../MoMAColors/Levine1/"> <img src="../../MoMAColors/Levine1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MexBrewer/Alacena/"> <img src="../../MexBrewer/Alacena/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../feathers/oriole/"> <img src="../../feathers/oriole/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../impressionist.colors/te_aa_no_areois/"> <img src="../../impressionist.colors/te_aa_no_areois/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../yarrr/usualsuspects/"> <img src="../../yarrr/usualsuspects/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../NatParksPalettes/Torres/"> <img src="../../NatParksPalettes/Torres/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../impressionist.colors/fleurs_dans_un_vase_de_cristal/"> <img src="../../impressionist.colors/fleurs_dans_un_vase_de_cristal/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tayloRswift/taylor1989/"> <img src="../../tayloRswift/taylor1989/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

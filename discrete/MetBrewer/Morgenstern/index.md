@@ -55,6 +55,10 @@ c("#98768EFF", "#B08BA5FF", "#C7A2B6FF", "#DFBBC8FF", "#FFC680FF", "#FFB178FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../trekcolors/lcars_2369/"> <img src="../../trekcolors/lcars_2369/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/RedOr/"> <img src="../../rcartocolor/RedOr/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -67,14 +71,10 @@ c("#98768EFF", "#B08BA5FF", "#C7A2B6FF", "#DFBBC8FF", "#FFC680FF", "#FFB178FF", 
 </figure> <figure class="figure">
 <a href="../../lisa/JohnSingerSargent_2/"> <img src="../../lisa/JohnSingerSargent_2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggthemes/Winter/"> <img src="../../ggthemes/Winter/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../PNWColors/Sunset/"> <img src="../../PNWColors/Sunset/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ggthemes/Winter/"> <img src="../../ggthemes/Winter/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../calecopal/dudleya/"> <img src="../../calecopal/dudleya/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Xyrichthys_novacula/"> <img src="../../fishualize/Xyrichthys_novacula/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tvthemes/Day/"> <img src="../../tvthemes/Day/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

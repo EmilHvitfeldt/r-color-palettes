@@ -20,7 +20,7 @@ categories:
 {{< fa brands github size=3x >}}
 **Github**
 
-[tyluRp/lisa](https://github.com/tyluRp/lisa)
+[tylerlittlefield/lisa](https://github.com/tylerlittlefield/lisa)
 :::
 
 ::: {.column width="50%"}
@@ -55,6 +55,12 @@ c("#E0DBC8FF", "#C9BE90FF", "#76684BFF", "#CDAB7EFF", "#3C2B23FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../tayloRswift/midnightsMahogany/"> <img src="../../tayloRswift/midnightsMahogany/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Esox_lucius/"> <img src="../../fishualize/Esox_lucius/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Zapteryx_brevirostris/"> <img src="../../fishualize/Zapteryx_brevirostris/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -63,18 +69,12 @@ c("#E0DBC8FF", "#C9BE90FF", "#76684BFF", "#CDAB7EFF", "#3C2B23FF")
 </figure> <figure class="figure">
 <a href="../../calecopal/creek/"> <img src="../../calecopal/creek/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../impressionist.colors/paysage_tropical_avec_masureset_palmiers/"> <img src="../../impressionist.colors/paysage_tropical_avec_masureset_palmiers/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../tayloRswift/Red/"> <img src="../../tayloRswift/Red/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/pinsir/"> <img src="../../palettetown/pinsir/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../impressionist.colors/paysage_tropical_avec_masureset_palmiers/"> <img src="../../impressionist.colors/paysage_tropical_avec_masureset_palmiers/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../calecopal/buow/"> <img src="../../calecopal/buow/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../beyonce/X39/"> <img src="../../beyonce/X39/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tayloRswift/fearless/"> <img src="../../tayloRswift/fearless/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../calecopal/desert/"> <img src="../../calecopal/desert/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/LeonardodaVinci/"> <img src="../../lisa/LeonardodaVinci/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../palettetown/pinsir/"> <img src="../../palettetown/pinsir/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

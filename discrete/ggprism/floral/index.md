@@ -55,6 +55,10 @@ c("#285291FF", "#4F2B8EFF", "#91188EFF", "#539027FF", "#0D405BFF", "#34274DFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggprism/summer/"> <img src="../../ggprism/summer/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../peRReo/eminem/"> <img src="../../peRReo/eminem/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -67,14 +71,10 @@ c("#285291FF", "#4F2B8EFF", "#91188EFF", "#539027FF", "#0D405BFF", "#34274DFF", 
 </figure> <figure class="figure">
 <a href="../../nbapalettes/mavericks/"> <img src="../../nbapalettes/mavericks/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../MexBrewer/Casita3/"> <img src="../../MexBrewer/Casita3/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../feathers/cassowary/"> <img src="../../feathers/cassowary/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettesForR/Cool/"> <img src="../../palettesForR/Cool/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/kings_alt/"> <img src="../../nbapalettes/kings_alt/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../trekcolors/starfleet2/"> <img src="../../trekcolors/starfleet2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tvthemes/Dark/"> <img src="../../tvthemes/Dark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

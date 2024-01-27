@@ -55,6 +55,10 @@ c("#C8C8C8FF", "#BDBDBDFF", "#B2B2B2FF", "#A7A7A7FF", "#9C9C9CFF", "#919191FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../trekcolors/borg/"> <img src="../../trekcolors/borg/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/shades_of_gray/"> <img src="../../ggprism/shades_of_gray/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -71,10 +75,6 @@ c("#C8C8C8FF", "#BDBDBDFF", "#B2B2B2FF", "#A7A7A7FF", "#9C9C9CFF", "#919191FF", 
 </figure> <figure class="figure">
 <a href="../../Redmonder/sPBIGy2/"> <img src="../../Redmonder/sPBIGy2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggthemes/excel_Grayscale/"> <img src="../../ggthemes/excel_Grayscale/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../Redmonder/sPBIPu/"> <img src="../../Redmonder/sPBIPu/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../IslamicArt/fes2/"> <img src="../../IslamicArt/fes2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,13 +55,17 @@ c("#603050FF", "#905090FF", "#B070B0FF", "#586060FF", "#F8F8F8FF", "#D090D0FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/gengar/"> <img src="../../palettetown/gengar/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/venonat/"> <img src="../../palettetown/venonat/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/venomoth/"> <img src="../../palettetown/venomoth/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../Redmonder/dPBIPuOr/"> <img src="../../Redmonder/dPBIPuOr/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/venomoth/"> <img src="../../palettetown/venomoth/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/mr_mime/"> <img src="../../palettetown/mr_mime/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -72,9 +76,5 @@ c("#603050FF", "#905090FF", "#B070B0FF", "#586060FF", "#F8F8F8FF", "#D090D0FF", 
 <a href="../../palettetown/nidorino/"> <img src="../../palettetown/nidorino/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/butterfree/"> <img src="../../palettetown/butterfree/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/latias/"> <img src="../../palettetown/latias/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../impressionist.colors/un_dimanche_apres_midi_a_l_ile_de_la_grande_jatte/"> <img src="../../impressionist.colors/un_dimanche_apres_midi_a_l_ile_de_la_grande_jatte/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

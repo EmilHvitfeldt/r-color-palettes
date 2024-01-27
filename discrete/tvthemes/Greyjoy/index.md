@@ -55,6 +55,10 @@ c("#000000FF", "#708090FF", "#D4CDB1FF", "#DCDCDCFF", "#F7DC27FF", "#808080FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../Manu/Hihi/"> <img src="../../Manu/Hihi/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/seadra/"> <img src="../../palettetown/seadra/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#000000FF", "#708090FF", "#D4CDB1FF", "#DCDCDCFF", "#F7DC27FF", "#808080FF")
 <a href="../../colRoz/n_levis/"> <img src="../../colRoz/n_levis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/heracross/"> <img src="../../palettetown/heracross/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/JoanMiro/"> <img src="../../lisa/JoanMiro/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../calecopal/caqu/"> <img src="../../calecopal/caqu/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,6 +55,10 @@ c("#1D457FFF", "#61599DFF", "#C36377FF", "#EB7F54FF", "#F2AF4AFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/JacobLawrence_1/"> <img src="../../lisa/JacobLawrence_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/DeathValley/"> <img src="../../NatParksPalettes/DeathValley/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -71,10 +75,6 @@ c("#1D457FFF", "#61599DFF", "#C36377FF", "#EB7F54FF", "#F2AF4AFF")
 </figure> <figure class="figure">
 <a href="../../NineteenEightyR/sunset1/"> <img src="../../NineteenEightyR/sunset1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../lisa/EdvardMunch/"> <img src="../../lisa/EdvardMunch/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Paranthias_furcifer/"> <img src="../../fishualize/Paranthias_furcifer/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../calecopal/superbloom3/"> <img src="../../calecopal/superbloom3/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ltc/dora/"> <img src="../../ltc/dora/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

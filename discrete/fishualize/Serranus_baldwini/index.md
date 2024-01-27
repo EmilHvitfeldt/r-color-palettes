@@ -55,6 +55,10 @@ c("#048ABFFF", "#474F3EFF", "#F2B705FF", "#A64F03FF", "#BF3030FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../calecopal/kelp1/"> <img src="../../calecopal/kelp1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/EdvardMunch_1/"> <img src="../../lisa/EdvardMunch_1/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -71,10 +75,6 @@ c("#048ABFFF", "#474F3EFF", "#F2B705FF", "#A64F03FF", "#BF3030FF")
 </figure> <figure class="figure">
 <a href="../../lisa/ReneMagritte/"> <img src="../../lisa/ReneMagritte/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../soilpalettes/paleustalf/"> <img src="../../soilpalettes/paleustalf/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../nbapalettes/supersonics_90s/"> <img src="../../nbapalettes/supersonics_90s/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../Manu/Pohutukawa/"> <img src="../../Manu/Pohutukawa/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

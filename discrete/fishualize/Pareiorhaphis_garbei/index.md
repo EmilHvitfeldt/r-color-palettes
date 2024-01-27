@@ -55,26 +55,26 @@ c("#49351CFF", "#624D1EFF", "#A13601FF", "#C67E22FF", "#BA8D55FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Pleuronectes_platessa/"> <img src="../../fishualize/Pleuronectes_platessa/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Peru2/"> <img src="../../MetBrewer/Peru2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/marpesia_petreus/"> <img src="../../ButterflyColors/marpesia_petreus/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Dermatolepis_inermis/"> <img src="../../fishualize/Dermatolepis_inermis/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hylephila_phyleus/"> <img src="../../ButterflyColors/hylephila_phyleus/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../vangogh/Bedroom/"> <img src="../../vangogh/Bedroom/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X102/"> <img src="../../beyonce/X102/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../soilpalettes/bangor/"> <img src="../../soilpalettes/bangor/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Gauguin/"> <img src="../../MetBrewer/Gauguin/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/excel_Red/"> <img src="../../ggthemes/excel_Red/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Hexagrammos_lagocephalus/"> <img src="../../fishualize/Hexagrammos_lagocephalus/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/supersonics_90s/"> <img src="../../nbapalettes/supersonics_90s/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../yarrr/rat/"> <img src="../../yarrr/rat/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/excel_Red_Orange/"> <img src="../../ggthemes/excel_Red_Orange/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

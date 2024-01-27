@@ -55,6 +55,10 @@ c("#041E42FF", "#041E42FF", "#FFCD00FF", "#E4002BFF", "#FF6720FF", "#0032A0FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nord/victory_bonds/"> <img src="../../nord/victory_bonds/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/GretchenAlbrecht/"> <img src="../../lisa/GretchenAlbrecht/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#041E42FF", "#041E42FF", "#FFCD00FF", "#E4002BFF", "#FF6720FF", "#0032A0FF", 
 <a href="../../ggprism/candy_bright/"> <img src="../../ggprism/candy_bright/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Variola_louti/"> <img src="../../fishualize/Variola_louti/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/blazers_city/"> <img src="../../nbapalettes/blazers_city/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../trekcolors/enara/"> <img src="../../trekcolors/enara/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

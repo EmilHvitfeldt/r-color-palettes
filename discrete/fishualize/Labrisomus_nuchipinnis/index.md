@@ -55,6 +55,10 @@ c("#8C8303FF", "#F2B705FF", "#D96704FF", "#592B02FF", "#F24405FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Dermatolepis_inermis/"> <img src="../../fishualize/Dermatolepis_inermis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../calecopal/eschscholzia/"> <img src="../../calecopal/eschscholzia/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -67,14 +71,10 @@ c("#8C8303FF", "#F2B705FF", "#D96704FF", "#592B02FF", "#F24405FF")
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Red_Orange/"> <img src="../../ggthemes/excel_Red_Orange/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../MexBrewer/Taurus1/"> <img src="../../MexBrewer/Taurus1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Hexagrammos_lagocephalus/"> <img src="../../fishualize/Hexagrammos_lagocephalus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../werpals/halong/"> <img src="../../werpals/halong/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettesForR/Warm/"> <img src="../../palettesForR/Warm/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Holocentrus_adscensionis/"> <img src="../../fishualize/Holocentrus_adscensionis/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/swinub/"> <img src="../../palettetown/swinub/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

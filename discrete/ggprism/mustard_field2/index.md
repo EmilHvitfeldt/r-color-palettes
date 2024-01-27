@@ -55,6 +55,10 @@ c("#C0B57BFF", "#8C7D37FF", "#C0C000FF", "#C5944EFF", "#918751FF", "#FFC080FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggprism/mustard_field/"> <img src="../../ggprism/mustard_field/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/sPBIYl/"> <img src="../../Redmonder/sPBIYl/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -63,18 +67,14 @@ c("#C0B57BFF", "#8C7D37FF", "#C0C000FF", "#C5944EFF", "#918751FF", "#FFC080FF", 
 </figure> <figure class="figure">
 <a href="../../colRoz/c_kingii/"> <img src="../../colRoz/c_kingii/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../MoMAColors/Avedon/"> <img src="../../MoMAColors/Avedon/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/psyduck/"> <img src="../../palettetown/psyduck/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/abra/"> <img src="../../palettetown/abra/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../waRhol/skull_76_1/"> <img src="../../waRhol/skull_76_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/RemediosVaro/"> <img src="../../lisa/RemediosVaro/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../beyonce/X23/"> <img src="../../beyonce/X23/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Chormis_multilineata/"> <img src="../../fishualize/Chormis_multilineata/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/eevee/"> <img src="../../palettetown/eevee/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tayloRswift/fearless/"> <img src="../../tayloRswift/fearless/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../palettetown/abra/"> <img src="../../palettetown/abra/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

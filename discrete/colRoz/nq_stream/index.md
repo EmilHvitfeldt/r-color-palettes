@@ -55,6 +55,10 @@ c("#808314FF", "#DCDB43FF", "#C5DFF4FF", "#323526FF", "#534C2EFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../wesanderson/Moonrise1/"> <img src="../../wesanderson/Moonrise1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Prognathodes_guyanensis/"> <img src="../../fishualize/Prognathodes_guyanensis/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -63,18 +67,14 @@ c("#808314FF", "#DCDB43FF", "#C5DFF4FF", "#323526FF", "#534C2EFF")
 </figure> <figure class="figure">
 <a href="../../colRoz/p_mitchelli/"> <img src="../../colRoz/p_mitchelli/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../lisa/JohnSingerSargent_1/"> <img src="../../lisa/JohnSingerSargent_1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../DresdenColor/provenguilty/"> <img src="../../DresdenColor/provenguilty/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../lisa/JohnSingerSargent_1/"> <img src="../../lisa/JohnSingerSargent_1/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../MoMAColors/Liu/"> <img src="../../MoMAColors/Liu/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../wesanderson/Cavalcanti1/"> <img src="../../wesanderson/Cavalcanti1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tayloRswift/taylorSwift/"> <img src="../../tayloRswift/taylorSwift/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Ostorhinchus_angustatus/"> <img src="../../fishualize/Ostorhinchus_angustatus/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/SandySkoglund/"> <img src="../../lisa/SandySkoglund/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/HelenFrankenthaler/"> <img src="../../lisa/HelenFrankenthaler/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

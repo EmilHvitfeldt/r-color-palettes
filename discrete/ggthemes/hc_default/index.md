@@ -55,6 +55,10 @@ c("#7CB5ECFF", "#434348FF", "#90ED7DFF", "#F7A35CFF", "#8085E9FF", "#F15C80FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggthemes/hc_darkunica/"> <img src="../../ggthemes/hc_darkunica/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../IslamicArt/shiraz/"> <img src="../../IslamicArt/shiraz/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#7CB5ECFF", "#434348FF", "#90ED7DFF", "#F7A35CFF", "#8085E9FF", "#F15C80FF", 
 <a href="../../yarrr/info2/"> <img src="../../yarrr/info2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../basetheme/brutal/"> <img src="../../basetheme/brutal/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X66/"> <img src="../../beyonce/X66/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggsci/schwifty_rickandmorty/"> <img src="../../ggsci/schwifty_rickandmorty/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

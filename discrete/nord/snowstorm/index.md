@@ -55,6 +55,10 @@ c("#D8DEE9FF", "#E5E9F0FF", "#ECEFF4FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nord/rocky_mountain/"> <img src="../../nord/rocky_mountain/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ghibli/SpiritedLight/"> <img src="../../ghibli/SpiritedLight/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#D8DEE9FF", "#E5E9F0FF", "#ECEFF4FF")
 <a href="../../ghibli/TotoroLight/"> <img src="../../ghibli/TotoroLight/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X50/"> <img src="../../beyonce/X50/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Ginglymostoma_cirratum/"> <img src="../../fishualize/Ginglymostoma_cirratum/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../RColorBrewer/Pastel1/"> <img src="../../RColorBrewer/Pastel1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

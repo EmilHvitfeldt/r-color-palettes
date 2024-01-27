@@ -55,13 +55,15 @@ c("#4898B8FF", "#68B8D8FF", "#98D0E8FF", "#207090FF", "#284850FF", "#505050FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/remoraid/"> <img src="../../palettetown/remoraid/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/dragonair/"> <img src="../../palettetown/dragonair/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/poliwhirl/"> <img src="../../palettetown/poliwhirl/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/poliwrath/"> <img src="../../palettetown/poliwrath/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSOBuGn/"> <img src="../../Redmonder/qMSOBuGn/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -74,7 +76,5 @@ c("#4898B8FF", "#68B8D8FF", "#98D0E8FF", "#207090FF", "#284850FF", "#505050FF", 
 <a href="../../DresdenColor/deathmasks/"> <img src="../../DresdenColor/deathmasks/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Manu/Korora/"> <img src="../../Manu/Korora/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../trekcolors/andorian/"> <img src="../../trekcolors/andorian/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

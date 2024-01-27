@@ -55,6 +55,10 @@ c("#222255FF", "#225555FF", "#225522FF", "#666633FF", "#663333FF", "#555555FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ghibli/PonyoDark/"> <img src="../../ghibli/PonyoDark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/JanvanEyck/"> <img src="../../lisa/JanvanEyck/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -67,14 +71,10 @@ c("#222255FF", "#225555FF", "#225522FF", "#666633FF", "#663333FF", "#555555FF")
 </figure> <figure class="figure">
 <a href="../../ghibli/SpiritedDark/"> <img src="../../ghibli/SpiritedDark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggprism/pearl/"> <img src="../../ggprism/pearl/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../ghibli/YesterdayDark/"> <img src="../../ghibli/YesterdayDark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ggprism/pearl/"> <img src="../../ggprism/pearl/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../colRoz/d_novae/"> <img src="../../colRoz/d_novae/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ghibli/LaputaDark/"> <img src="../../ghibli/LaputaDark/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ghibli/MarnieDark1/"> <img src="../../ghibli/MarnieDark1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,6 +55,10 @@ c("#1DF964FF", "#15BA4BFF", "#0E7C32FF", "#073E18FF", "#000000FF", "#10263FFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nbapalettes/mavericks_city/"> <img src="../../nbapalettes/mavericks_city/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/Denali/"> <img src="../../NatParksPalettes/Denali/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -71,10 +75,6 @@ c("#1DF964FF", "#15BA4BFF", "#0E7C32FF", "#073E18FF", "#000000FF", "#10263FFF", 
 </figure> <figure class="figure">
 <a href="../../Manu/Gloomy_Nudi/"> <img src="../../Manu/Gloomy_Nudi/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../MapPalettes/green_machine/"> <img src="../../MapPalettes/green_machine/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../fishualize/Gomphosus_varius/"> <img src="../../fishualize/Gomphosus_varius/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/wsj_black_green/"> <img src="../../ggthemes/wsj_black_green/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

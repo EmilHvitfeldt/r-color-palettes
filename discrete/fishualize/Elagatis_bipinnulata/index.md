@@ -55,6 +55,10 @@ c("#1A91EBFF", "#144C69FF", "#07868CFF", "#49A85FFF", "#81E74AFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../MapPalettes/green_machine/"> <img src="../../MapPalettes/green_machine/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../LaCroixColoR/Lime/"> <img src="../../LaCroixColoR/Lime/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#1A91EBFF", "#144C69FF", "#07868CFF", "#49A85FFF", "#81E74AFF")
 <a href="../../ggprism/viridis/"> <img src="../../ggprism/viridis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Hokusai3/"> <img src="../../MetBrewer/Hokusai3/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/excel_Blue/"> <img src="../../ggthemes/excel_Blue/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X22/"> <img src="../../beyonce/X22/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

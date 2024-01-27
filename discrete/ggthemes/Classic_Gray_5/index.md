@@ -55,6 +55,10 @@ c("#60636AFF", "#A5ACAFFF", "#414451FF", "#8F8782FF", "#CFCFCFFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../unikn/pal_grau/"> <img src="../../unikn/pal_grau/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/Seattle_Grays/"> <img src="../../ggthemes/Seattle_Grays/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#60636AFF", "#A5ACAFFF", "#414451FF", "#8F8782FF", "#CFCFCFFF")
 <a href="../../calecopal/casj/"> <img src="../../calecopal/casj/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../musculusColors/ErFluke/"> <img src="../../musculusColors/ErFluke/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../Redmonder/sPBIGy1/"> <img src="../../Redmonder/sPBIGy1/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../musculusColors/ErMole/"> <img src="../../musculusColors/ErMole/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

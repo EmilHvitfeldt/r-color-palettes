@@ -55,6 +55,12 @@ c("#DD4F5EFF", "#A5C360FF", "#F7E693FF", "#E48A9CFF", "#3F9250FF", "#E2995EFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MoMAColors/Klein/"> <img src="../../MoMAColors/Klein/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../RColorBrewer/Accent/"> <img src="../../RColorBrewer/Accent/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSO12/"> <img src="../../Redmonder/qMSO12/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -70,11 +76,5 @@ c("#DD4F5EFF", "#A5C360FF", "#F7E693FF", "#E48A9CFF", "#3F9250FF", "#E2995EFF", 
 <a href="../../RColorBrewer/Paired/"> <img src="../../RColorBrewer/Paired/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../basetheme/dark/"> <img src="../../basetheme/dark/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../peRReo/buenavista/"> <img src="../../peRReo/buenavista/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemr/earth/"> <img src="../../ggthemr/earth/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemr/flat_dark/"> <img src="../../ggthemr/flat_dark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,6 +55,10 @@ c("#466D53FF", "#83CDC0FF", "#D3A3A1FF", "#A79CA5FF", "#FBEAD6FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../beyonce/X129/"> <img src="../../beyonce/X129/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X35/"> <img src="../../beyonce/X35/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -67,14 +71,10 @@ c("#466D53FF", "#83CDC0FF", "#D3A3A1FF", "#A79CA5FF", "#FBEAD6FF")
 </figure> <figure class="figure">
 <a href="../../nationalparkcolors/BryceCanyon/"> <img src="../../nationalparkcolors/BryceCanyon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../wesanderson/FrenchDispatch/"> <img src="../../wesanderson/FrenchDispatch/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggthemes/excel_Crop/"> <img src="../../ggthemes/excel_Crop/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X9/"> <img src="../../beyonce/X9/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ghibli/KikiLight/"> <img src="../../ghibli/KikiLight/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../rcartocolor/Earth/"> <img src="../../rcartocolor/Earth/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/SalvadorDali_1/"> <img src="../../lisa/SalvadorDali_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

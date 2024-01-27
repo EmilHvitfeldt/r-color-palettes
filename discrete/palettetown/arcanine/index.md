@@ -55,6 +55,10 @@ c("#F0B868FF", "#F8F090FF", "#C05030FF", "#A86020FF", "#F8F0A8FF", "#601000FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/spearow/"> <img src="../../palettetown/spearow/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/ampharos/"> <img src="../../palettetown/ampharos/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#F0B868FF", "#F8F090FF", "#C05030FF", "#A86020FF", "#F8F0A8FF", "#601000FF", 
 <a href="../../palettetown/weedle/"> <img src="../../palettetown/weedle/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/charizard/"> <img src="../../palettetown/charizard/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/entei/"> <img src="../../palettetown/entei/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/beedrill/"> <img src="../../palettetown/beedrill/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,6 +55,10 @@ c("#003542FF", "#00766EFF", "#008A82FF", "#DDE0D0FF", "#D4B798FF", "#B58052FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ghibli/MarnieMedium1/"> <img src="../../ghibli/MarnieMedium1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X40/"> <img src="../../beyonce/X40/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -69,12 +73,8 @@ c("#003542FF", "#00766EFF", "#008A82FF", "#DDE0D0FF", "#D4B798FF", "#B58052FF")
 </figure> <figure class="figure">
 <a href="../../lisa/JohannesVermeer_1/"> <img src="../../lisa/JohannesVermeer_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/starterspairs/"> <img src="../../palettetown/starterspairs/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../lisa/GiorgiodeChirico_1/"> <img src="../../lisa/GiorgiodeChirico_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Etheostoma_spectabile/"> <img src="../../fishualize/Etheostoma_spectabile/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X2/"> <img src="../../beyonce/X2/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ltc/heatmap/"> <img src="../../ltc/heatmap/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

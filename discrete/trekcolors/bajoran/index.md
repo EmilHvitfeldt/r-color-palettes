@@ -55,7 +55,13 @@ c("#C00000FF", "#7A6424FF", "#323C34FF", "#4838A8FF", "#E6D56EFF", "#A8B5A9FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/LeeKrasner/"> <img src="../../lisa/LeeKrasner/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MoMAColors/Ohchi/"> <img src="../../MoMAColors/Ohchi/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/ClaesOldenburg/"> <img src="../../lisa/ClaesOldenburg/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -70,11 +76,5 @@ c("#C00000FF", "#7A6424FF", "#323C34FF", "#4838A8FF", "#E6D56EFF", "#A8B5A9FF")
 <a href="../../lisa/PaulFeeley/"> <img src="../../lisa/PaulFeeley/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../LaCroixColoR/MurePepino/"> <img src="../../LaCroixColoR/MurePepino/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/mavericks_banner/"> <img src="../../nbapalettes/mavericks_banner/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/MarcChagall/"> <img src="../../lisa/MarcChagall/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/JoanMiro/"> <img src="../../lisa/JoanMiro/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

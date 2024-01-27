@@ -55,11 +55,17 @@ c("#5F4690FF", "#1D6996FF", "#38A6A5FF", "#0F8554FF", "#73AF48FF", "#EDAD08FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../rcartocolor/Bold/"> <img src="../../rcartocolor/Bold/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/Vivid/"> <img src="../../rcartocolor/Vivid/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../DresdenColor/paired/"> <img src="../../DresdenColor/paired/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggsci/default_flatui/"> <img src="../../ggsci/default_flatui/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/hallmarks_light_cosmic/"> <img src="../../ggsci/hallmarks_light_cosmic/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +75,6 @@ c("#5F4690FF", "#1D6996FF", "#38A6A5FF", "#0F8554FF", "#73AF48FF", "#EDAD08FF", 
 </figure> <figure class="figure">
 <a href="../../awtools/bpalette/"> <img src="../../awtools/bpalette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../yarrr/info2/"> <img src="../../yarrr/info2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemr/flat/"> <img src="../../ggthemr/flat/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/Cross/"> <img src="../../MetBrewer/Cross/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/Redon/"> <img src="../../MetBrewer/Redon/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../MoMAColors/Klein/"> <img src="../../MoMAColors/Klein/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,6 +55,10 @@ c("#000000FF", "#4E1005FF", "#A1200DFF", "#E13217FF", "#C4CFD1FF", "#E7EBEEFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Lutjanus_sebae/"> <img src="../../fishualize/Lutjanus_sebae/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X46/"> <img src="../../beyonce/X46/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#000000FF", "#4E1005FF", "#A1200DFF", "#E13217FF", "#C4CFD1FF", "#E7EBEEFF")
 <a href="../../peRReo/shakira/"> <img src="../../peRReo/shakira/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X92/"> <img src="../../beyonce/X92/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X107/"> <img src="../../beyonce/X107/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/wizards_earned/"> <img src="../../nbapalettes/wizards_earned/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

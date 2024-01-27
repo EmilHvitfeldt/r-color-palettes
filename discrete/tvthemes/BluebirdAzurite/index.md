@@ -55,6 +55,10 @@ c("#0B8EF8FF", "#B5D6F5FF", "#681A15FF", "#043CB2FF", "#DC5750FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../LaCroixColoR/CranRaspberry/"> <img src="../../LaCroixColoR/CranRaspberry/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../suffrager/hanwell/"> <img src="../../suffrager/hanwell/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -71,10 +75,6 @@ c("#0B8EF8FF", "#B5D6F5FF", "#681A15FF", "#043CB2FF", "#DC5750FF")
 </figure> <figure class="figure">
 <a href="../../ggprism/prism_light/"> <img src="../../ggprism/prism_light/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../vapoRwave/avanti/"> <img src="../../vapoRwave/avanti/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../LaCroixColoR/Coconut/"> <img src="../../LaCroixColoR/Coconut/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../LaCroixColoR/Pamplemousse/"> <img src="../../LaCroixColoR/Pamplemousse/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../MoMAColors/Palermo/"> <img src="../../MoMAColors/Palermo/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

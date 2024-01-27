@@ -55,13 +55,19 @@ c("#402733FF", "#8F6052FF", "#2F6349FF", "#AE2B47FF", "#7BC17DFF", "#68D8F2FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../MetBrewer/Signac/"> <img src="../../MetBrewer/Signac/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MoMAColors/Klein/"> <img src="../../MoMAColors/Klein/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../peRReo/calle13/"> <img src="../../peRReo/calle13/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/misdreavus/"> <img src="../../palettetown/misdreavus/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../rcartocolor/Vivid/"> <img src="../../rcartocolor/Vivid/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/misdreavus/"> <img src="../../palettetown/misdreavus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/hc_default/"> <img src="../../ggthemes/hc_default/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -70,11 +76,5 @@ c("#402733FF", "#8F6052FF", "#2F6349FF", "#AE2B47FF", "#7BC17DFF", "#68D8F2FF", 
 <a href="../../palettetown/sneasel/"> <img src="../../palettetown/sneasel/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/springfield_simpsons/"> <img src="../../ggsci/springfield_simpsons/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/swampert/"> <img src="../../palettetown/swampert/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../rcartocolor/Bold/"> <img src="../../rcartocolor/Bold/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../peRReo/shakira/"> <img src="../../peRReo/shakira/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

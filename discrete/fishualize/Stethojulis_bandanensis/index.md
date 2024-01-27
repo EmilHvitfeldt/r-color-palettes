@@ -55,6 +55,10 @@ c("#00486DFF", "#00E5E5FF", "#58F37EFF", "#FFE74FFF", "#FC4902FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Minilabrus_striatus/"> <img src="../../fishualize/Minilabrus_striatus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Cirrhilabrus_solorensis/"> <img src="../../fishualize/Cirrhilabrus_solorensis/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#00486DFF", "#00E5E5FF", "#58F37EFF", "#FFE74FFF", "#FC4902FF")
 <a href="../../LaCroixColoR/KeyLime/"> <img src="../../LaCroixColoR/KeyLime/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../futurevisions/atomic_clock/"> <img src="../../futurevisions/atomic_clock/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../feathers/bee_eater/"> <img src="../../feathers/bee_eater/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Holacanthus_ciliaris/"> <img src="../../fishualize/Holacanthus_ciliaris/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

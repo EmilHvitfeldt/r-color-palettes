@@ -55,26 +55,26 @@ c("#DB3D06FF", "#FCD723FF", "#8EB035FF", "#7DB3E2FF", "#3D3E52FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../feathers/eastern_rosella/"> <img src="../../feathers/eastern_rosella/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../LaCroixColoR/CeriseLimon/"> <img src="../../LaCroixColoR/CeriseLimon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/bucks_city2/"> <img src="../../nbapalettes/bucks_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../fishualize/Pseudocheilinus_tetrataenia/"> <img src="../../fishualize/Pseudocheilinus_tetrataenia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../jcolors/pal9/"> <img src="../../jcolors/pal9/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Pseudocheilinus_tetrataenia/"> <img src="../../fishualize/Pseudocheilinus_tetrataenia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../fishualize/Ctenochaetus_strigosus/"> <img src="../../fishualize/Ctenochaetus_strigosus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/ClaesOldenburg/"> <img src="../../lisa/ClaesOldenburg/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rtist/oldenburg/"> <img src="../../rtist/oldenburg/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Etheostoma_spectabile/"> <img src="../../fishualize/Etheostoma_spectabile/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ochRe/lorikeet/"> <img src="../../ochRe/lorikeet/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Coris_gaimard/"> <img src="../../fishualize/Coris_gaimard/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../NatParksPalettes/Charmonix/"> <img src="../../NatParksPalettes/Charmonix/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

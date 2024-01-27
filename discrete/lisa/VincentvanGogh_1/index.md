@@ -20,7 +20,7 @@ categories:
 {{< fa brands github size=3x >}}
 **Github**
 
-[tyluRp/lisa](https://github.com/tyluRp/lisa)
+[tylerlittlefield/lisa](https://github.com/tylerlittlefield/lisa)
 :::
 
 ::: {.column width="50%"}
@@ -55,11 +55,15 @@ c("#FBDC30FF", "#A7A651FF", "#E0BA7AFF", "#9BA7B0FF", "#5A5F80FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Haemulon_squamipinna/"> <img src="../../fishualize/Haemulon_squamipinna/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../peRReo/rosalia/"> <img src="../../peRReo/rosalia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../ggthemes/excel_Paper/"> <img src="../../ggthemes/excel_Paper/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../peRReo/rosalia/"> <img src="../../peRReo/rosalia/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/SouthDowns/"> <img src="../../NatParksPalettes/SouthDowns/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -72,9 +76,5 @@ c("#FBDC30FF", "#A7A651FF", "#E0BA7AFF", "#9BA7B0FF", "#5A5F80FF")
 <a href="../../calecopal/sierra2/"> <img src="../../calecopal/sierra2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/PabloPicasso_1/"> <img src="../../lisa/PabloPicasso_1/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../rtist/picasso/"> <img src="../../rtist/picasso/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/WassilyKandinsky/"> <img src="../../lisa/WassilyKandinsky/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

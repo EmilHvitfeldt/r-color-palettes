@@ -55,7 +55,13 @@ c("#F9FBE7FF", "#F0F4C3FF", "#E6EE9CFF", "#DCE775FF", "#D4E157FF", "#CDDC39FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggsci/light_green_material/"> <img src="../../ggsci/light_green_material/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/Yellows/"> <img src="../../PrettyCols/Yellows/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Prognathodes_brasiliensis/"> <img src="../../fishualize/Prognathodes_brasiliensis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -65,16 +71,10 @@ c("#F9FBE7FF", "#F0F4C3FF", "#E6EE9CFF", "#DCE775FF", "#D4E157FF", "#CDDC39FF", 
 </figure> <figure class="figure">
 <a href="../../ggprism/mustard_field/"> <img src="../../ggprism/mustard_field/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../waRhol/skull_76_1/"> <img src="../../waRhol/skull_76_1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggsci/yellow_material/"> <img src="../../ggsci/yellow_material/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/mustard_field2/"> <img src="../../ggprism/mustard_field2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/cacturne/"> <img src="../../palettetown/cacturne/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../colRoz/c_kingii/"> <img src="../../colRoz/c_kingii/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggsci/green_material/"> <img src="../../ggsci/green_material/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../RColorBrewer/YlGn/"> <img src="../../RColorBrewer/YlGn/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

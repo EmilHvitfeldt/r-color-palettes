@@ -55,6 +55,10 @@ c("#59C7EBFF", "#CCEEF9FF", "#FFB8ACFF", "#FEE2DDFF", "#0AA398FF", "#71D1CCFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nationalparkcolors/MtRainier/"> <img src="../../nationalparkcolors/MtRainier/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colorBlindness/Blue2Gray8Steps/"> <img src="../../colorBlindness/Blue2Gray8Steps/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#59C7EBFF", "#CCEEF9FF", "#FFB8ACFF", "#FEE2DDFF", "#0AA398FF", "#71D1CCFF", 
 <a href="../../dichromat/BrowntoBlue_10/"> <img src="../../dichromat/BrowntoBlue_10/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colorBlindness/Brown2Blue10Steps/"> <img src="../../colorBlindness/Brown2Blue10Steps/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X35/"> <img src="../../beyonce/X35/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X129/"> <img src="../../beyonce/X129/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

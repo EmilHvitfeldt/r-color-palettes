@@ -55,9 +55,15 @@ c("#D76E9AFF", "#A1ACC8FF", "#AD3C36FF", "#332627FF", "#EACACFFF", "#AA6B77FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../tvthemes/Dusk/"> <img src="../../tvthemes/Dusk/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/gastly/"> <img src="../../palettetown/gastly/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MoMAColors/Picasso/"> <img src="../../MoMAColors/Picasso/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../calecopal/calochortus/"> <img src="../../calecopal/calochortus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -70,11 +76,5 @@ c("#D76E9AFF", "#A1ACC8FF", "#AD3C36FF", "#332627FF", "#EACACFFF", "#AA6B77FF")
 <a href="../../beyonce/X57/"> <img src="../../beyonce/X57/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/corsola/"> <img src="../../palettetown/corsola/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ochRe/galah/"> <img src="../../ochRe/galah/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Lutjanus_sebae/"> <img src="../../fishualize/Lutjanus_sebae/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../DresdenColor/ghoststory/"> <img src="../../DresdenColor/ghoststory/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

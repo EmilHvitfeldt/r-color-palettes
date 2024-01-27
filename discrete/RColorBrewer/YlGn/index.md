@@ -55,6 +55,10 @@ c("#FFFFE5FF", "#F7FCB9FF", "#D9F0A3FF", "#ADDD8EFF", "#78C679FF", "#41AB5DFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../RColorBrewer/Greens/"> <img src="../../RColorBrewer/Greens/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/Peridot/"> <img src="../../tvthemes/Peridot/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#FFFFE5FF", "#F7FCB9FF", "#D9F0A3FF", "#ADDD8EFF", "#78C679FF", "#41AB5DFF", 
 <a href="../../tvthemes/EarthKingdom/"> <img src="../../tvthemes/EarthKingdom/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/light_green_material/"> <img src="../../ggsci/light_green_material/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/VanGogh3/"> <img src="../../MetBrewer/VanGogh3/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/excel_Green_Yellow/"> <img src="../../ggthemes/excel_Green_Yellow/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

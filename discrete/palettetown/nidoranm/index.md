@@ -55,9 +55,15 @@ c("#B860B8FF", "#E098D0FF", "#802880FF", "#F8D0F8FF", "#006040FF", "#00A070FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/granbull/"> <img src="../../palettetown/granbull/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/nidorino/"> <img src="../../palettetown/nidorino/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/RedBlues/"> <img src="../../PrettyCols/RedBlues/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/haunter/"> <img src="../../palettetown/haunter/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -70,11 +76,5 @@ c("#B860B8FF", "#E098D0FF", "#802880FF", "#F8D0F8FF", "#006040FF", "#00A070FF", 
 <a href="../../palettetown/nidoranf/"> <img src="../../palettetown/nidoranf/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../werpals/provence/"> <img src="../../werpals/provence/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/togetic/"> <img src="../../palettetown/togetic/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/Classic_Purple_Gray_12/"> <img src="../../ggthemes/Classic_Purple_Gray_12/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/aerodactyl/"> <img src="../../palettetown/aerodactyl/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

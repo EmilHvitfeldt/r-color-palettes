@@ -55,6 +55,10 @@ c("#2C69B0FF", "#F02720FF", "#AC613CFF", "#6BA3D6FF", "#EA6B73FF", "#E9C39BFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../colRoz/c_brevi/"> <img src="../../colRoz/c_brevi/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rockthemes/californication/"> <img src="../../rockthemes/californication/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#2C69B0FF", "#F02720FF", "#AC613CFF", "#6BA3D6FF", "#EA6B73FF", "#E9C39BFF")
 <a href="../../colRoz/grandis/"> <img src="../../colRoz/grandis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Epinephelus_fasciatus/"> <img src="../../fishualize/Epinephelus_fasciatus/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Pronotogrammus_martinicensis/"> <img src="../../fishualize/Pronotogrammus_martinicensis/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/Classic_Blue_Red_12/"> <img src="../../ggthemes/Classic_Blue_Red_12/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,6 +55,10 @@ c("#80F2B3FF", "#6DC393FF", "#5B9374FF", "#486555FF", "#363636FF", "#346062FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../rcartocolor/DarkMint/"> <img src="../../rcartocolor/DarkMint/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../miscpalettes/seaGreen/"> <img src="../../miscpalettes/seaGreen/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -65,16 +69,12 @@ c("#80F2B3FF", "#6DC393FF", "#5B9374FF", "#486555FF", "#363636FF", "#346062FF", 
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/Banff/"> <img src="../../NatParksPalettes/Banff/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../rcartocolor/Emrld/"> <img src="../../rcartocolor/Emrld/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../rcartocolor/BluGrn/"> <img src="../../rcartocolor/BluGrn/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../rcartocolor/Emrld/"> <img src="../../rcartocolor/Emrld/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Integral/"> <img src="../../ggthemes/excel_Integral/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Savon/"> <img src="../../ggthemes/excel_Savon/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/excel_Blue_II/"> <img src="../../ggthemes/excel_Blue_II/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../rockthemes/coltrane/"> <img src="../../rockthemes/coltrane/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

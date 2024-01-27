@@ -55,6 +55,10 @@ c("#2CB11BFF", "#95C65CFF", "#BDDE9BFF", "#1BB6AFFF", "#0076C0FF", "#172869FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggthemes/excel_Blue/"> <img src="../../ggthemes/excel_Blue/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MapPalettes/green_machine/"> <img src="../../MapPalettes/green_machine/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#2CB11BFF", "#95C65CFF", "#BDDE9BFF", "#1BB6AFFF", "#0076C0FF", "#172869FF")
 <a href="../../fishualize/Elagatis_bipinnulata/"> <img src="../../fishualize/Elagatis_bipinnulata/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/ag_GrnYl/"> <img src="../../rcartocolor/ag_GrnYl/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../NatParksPalettes/Denali/"> <img src="../../NatParksPalettes/Denali/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../RColorBrewer/YlGnBu/"> <img src="../../RColorBrewer/YlGnBu/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

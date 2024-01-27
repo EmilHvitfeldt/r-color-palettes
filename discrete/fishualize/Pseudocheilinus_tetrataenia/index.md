@@ -55,6 +55,10 @@ c("#EE4F42FF", "#FBAD20FF", "#AF9D32FF", "#94C5EAFF", "#373142FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../wesanderson/Rushmore/"> <img src="../../wesanderson/Rushmore/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../wesanderson/Rushmore1/"> <img src="../../wesanderson/Rushmore1/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -65,16 +69,12 @@ c("#EE4F42FF", "#FBAD20FF", "#AF9D32FF", "#94C5EAFF", "#373142FF")
 </figure> <figure class="figure">
 <a href="../../fishualize/Koumansetta_rainfordi/"> <img src="../../fishualize/Koumansetta_rainfordi/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ochRe/olsen_qual/"> <img src="../../ochRe/olsen_qual/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../rtist/raphael/"> <img src="../../rtist/raphael/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ochRe/olsen_qual/"> <img src="../../ochRe/olsen_qual/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MoMAColors/vonHeyl/"> <img src="../../MoMAColors/vonHeyl/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../LaCroixColoR/Apricot/"> <img src="../../LaCroixColoR/Apricot/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/MiltonAvery_1/"> <img src="../../lisa/MiltonAvery_1/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/JohannesVermeer_1/"> <img src="../../lisa/JohannesVermeer_1/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/RoyLichtenstein_2/"> <img src="../../lisa/RoyLichtenstein_2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

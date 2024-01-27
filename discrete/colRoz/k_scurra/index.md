@@ -55,11 +55,17 @@ c("#44290CFF", "#8A6026FF", "#BC9B7CFF", "#4D6706FF", "#6F9703FF", "#ABC035FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../MetBrewer/Homer2/"> <img src="../../MetBrewer/Homer2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../colRoz/xantho/"> <img src="../../colRoz/xantho/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Facet/"> <img src="../../ggthemes/excel_Facet/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../colRoz/xantho/"> <img src="../../colRoz/xantho/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../vangogh/Bedroom/"> <img src="../../vangogh/Bedroom/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/abra/"> <img src="../../palettetown/abra/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -70,11 +76,5 @@ c("#44290CFF", "#8A6026FF", "#BC9B7CFF", "#4D6706FF", "#6F9703FF", "#ABC035FF")
 <a href="../../colRoz/a_westwoodi/"> <img src="../../colRoz/a_westwoodi/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Antennarius_multiocellatus/"> <img src="../../fishualize/Antennarius_multiocellatus/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../calecopal/oak/"> <img src="../../calecopal/oak/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/RemediosVaro/"> <img src="../../lisa/RemediosVaro/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/excel_Wisp/"> <img src="../../ggthemes/excel_Wisp/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

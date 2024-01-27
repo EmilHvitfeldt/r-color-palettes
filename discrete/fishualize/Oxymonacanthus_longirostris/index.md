@@ -55,7 +55,15 @@ c("#15110BFF", "#4A7B80FF", "#7AC7DBFF", "#E4C041FF", "#D9822FFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Epibulus_insidiator/"> <img src="../../fishualize/Epibulus_insidiator/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../vangogh/StarryNight/"> <img src="../../vangogh/StarryNight/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ltc/crbhits/"> <img src="../../ltc/crbhits/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Epinephelus_lanceolatus/"> <img src="../../fishualize/Epinephelus_lanceolatus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -65,16 +73,8 @@ c("#15110BFF", "#4A7B80FF", "#7AC7DBFF", "#E4C041FF", "#D9822FFF")
 </figure> <figure class="figure">
 <a href="../../fishualize/Naso_lituratus/"> <img src="../../fishualize/Naso_lituratus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ghibli/MarnieMedium1/"> <img src="../../ghibli/MarnieMedium1/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../MoMAColors/Smith/"> <img src="../../MoMAColors/Smith/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Chaetodon_larvatus/"> <img src="../../fishualize/Chaetodon_larvatus/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../colRoz/n_levis/"> <img src="../../colRoz/n_levis/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../feathers/rose_crowned_fruit_dove/"> <img src="../../feathers/rose_crowned_fruit_dove/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/EdwardHopper/"> <img src="../../lisa/EdwardHopper/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../colRoz/spinifex/"> <img src="../../colRoz/spinifex/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ltc/alger/"> <img src="../../ltc/alger/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

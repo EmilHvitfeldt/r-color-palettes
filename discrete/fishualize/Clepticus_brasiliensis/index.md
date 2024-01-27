@@ -55,6 +55,10 @@ c("#A6036DFF", "#D9A404FF", "#BF6B04FF", "#A62103FF", "#A07DAFFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../NatParksPalettes/DeathValley/"> <img src="../../NatParksPalettes/DeathValley/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/c_brevi/"> <img src="../../colRoz/c_brevi/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -71,10 +75,6 @@ c("#A6036DFF", "#D9A404FF", "#BF6B04FF", "#A62103FF", "#A07DAFFF")
 </figure> <figure class="figure">
 <a href="../../awtools/spalette/"> <img src="../../awtools/spalette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../NineteenEightyR/sunset1/"> <img src="../../NineteenEightyR/sunset1/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/grizzlies/"> <img src="../../nbapalettes/grizzlies/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/Juarez/"> <img src="../../MetBrewer/Juarez/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ltc/dora/"> <img src="../../ltc/dora/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

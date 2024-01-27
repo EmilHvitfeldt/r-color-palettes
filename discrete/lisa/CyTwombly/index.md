@@ -20,7 +20,7 @@ categories:
 {{< fa brands github size=3x >}}
 **Github**
 
-[tyluRp/lisa](https://github.com/tyluRp/lisa)
+[tylerlittlefield/lisa](https://github.com/tylerlittlefield/lisa)
 :::
 
 ::: {.column width="50%"}
@@ -55,6 +55,12 @@ c("#F2788FFF", "#F591EAFF", "#F0C333FF", "#F5C2AFFF", "#F23B3FFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../waRhol/marilyn_67/"> <img src="../../waRhol/marilyn_67/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../rcartocolor/PinkYl/"> <img src="../../rcartocolor/PinkYl/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../trekcolors/lcars_2369/"> <img src="../../trekcolors/lcars_2369/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -65,16 +71,10 @@ c("#F2788FFF", "#F591EAFF", "#F0C333FF", "#F5C2AFFF", "#F23B3FFF")
 </figure> <figure class="figure">
 <a href="../../rtist/warhol/"> <img src="../../rtist/warhol/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Nemateleotris_magnifica/"> <img src="../../fishualize/Nemateleotris_magnifica/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../rcartocolor/RedOr/"> <img src="../../rcartocolor/RedOr/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Epinephelus_fasciatus/"> <img src="../../fishualize/Epinephelus_fasciatus/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../fishualize/Nemateleotris_magnifica/"> <img src="../../fishualize/Nemateleotris_magnifica/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../PNWColors/Spring/"> <img src="../../PNWColors/Spring/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../rcartocolor/OrYel/"> <img src="../../rcartocolor/OrYel/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../wesanderson/GrandBudapest1/"> <img src="../../wesanderson/GrandBudapest1/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ltc/sylvie/"> <img src="../../ltc/sylvie/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

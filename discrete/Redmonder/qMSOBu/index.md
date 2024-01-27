@@ -55,6 +55,10 @@ c("#DBEFF9FF", "#17406DFF", "#0F6FC6FF", "#009DD9FF", "#0BD0D9FF", "#10CF9BFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../rcartocolor/BluYl/"> <img src="../../rcartocolor/BluYl/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../werpals/lakelouise/"> <img src="../../werpals/lakelouise/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#DBEFF9FF", "#17406DFF", "#0F6FC6FF", "#009DD9FF", "#0BD0D9FF", "#10CF9BFF", 
 <a href="../../fishualize/Chlorurus_spilurus/"> <img src="../../fishualize/Chlorurus_spilurus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Blue/"> <img src="../../ggthemes/excel_Blue/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../NatParksPalettes/Denali/"> <img src="../../NatParksPalettes/Denali/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../rcartocolor/DarkMint/"> <img src="../../rcartocolor/DarkMint/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

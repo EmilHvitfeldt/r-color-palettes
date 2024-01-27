@@ -55,11 +55,17 @@ c("#053E21FF", "#FEFF91FF", "#92D895FF", "#74AC64FF", "#CCC42CFF", "#92F96AFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../RColorBrewer/YlGn/"> <img src="../../RColorBrewer/YlGn/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../RColorBrewer/Greens/"> <img src="../../RColorBrewer/Greens/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/cacturne/"> <img src="../../palettetown/cacturne/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MoMAColors/Alkalay2/"> <img src="../../MoMAColors/Alkalay2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/EarthKingdom/"> <img src="../../tvthemes/EarthKingdom/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -70,11 +76,5 @@ c("#053E21FF", "#FEFF91FF", "#92D895FF", "#74AC64FF", "#CCC42CFF", "#92F96AFF", 
 <a href="../../Redmonder/qMSOGn/"> <img src="../../Redmonder/qMSOGn/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Scarus_ghobban/"> <img src="../../fishualize/Scarus_ghobban/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/SandySkoglund/"> <img src="../../lisa/SandySkoglund/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggsci/light_green_material/"> <img src="../../ggsci/light_green_material/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggsci/green_material/"> <img src="../../ggsci/green_material/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

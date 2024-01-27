@@ -55,15 +55,19 @@ c("#DCC8BAFF", "#DCD6C5FF", "#B4AA98FF", "#D7DCE4FF", "#444239FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/SalvadorDali_1/"> <img src="../../lisa/SalvadorDali_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Mugil_liza/"> <img src="../../fishualize/Mugil_liza/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/onix/"> <img src="../../palettetown/onix/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/pinsir/"> <img src="../../palettetown/pinsir/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../lisa/PaulKlee/"> <img src="../../lisa/PaulKlee/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/pinsir/"> <img src="../../palettetown/pinsir/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../calecopal/creek/"> <img src="../../calecopal/creek/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -72,9 +76,5 @@ c("#DCC8BAFF", "#DCD6C5FF", "#B4AA98FF", "#D7DCE4FF", "#444239FF")
 <a href="../../colRoz/shark_bay/"> <img src="../../colRoz/shark_bay/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/unown/"> <img src="../../palettetown/unown/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nationalparkcolors/MtMckinley/"> <img src="../../nationalparkcolors/MtMckinley/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X35/"> <img src="../../beyonce/X35/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

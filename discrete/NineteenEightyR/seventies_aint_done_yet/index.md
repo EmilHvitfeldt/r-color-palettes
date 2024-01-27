@@ -55,6 +55,10 @@ c("#FEDF37FF", "#FCA811FF", "#D25117FF", "#8A4C19FF", "#573420FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Hexagrammos_lagocephalus/"> <img src="../../fishualize/Hexagrammos_lagocephalus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Dermatolepis_inermis/"> <img src="../../fishualize/Dermatolepis_inermis/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -71,10 +75,6 @@ c("#FEDF37FF", "#FCA811FF", "#D25117FF", "#8A4C19FF", "#573420FF")
 </figure> <figure class="figure">
 <a href="../../colRoz/v_acanthurus/"> <img src="../../colRoz/v_acanthurus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../tvthemes/Martell/"> <img src="../../tvthemes/Martell/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Labrisomus_nuchipinnis/"> <img src="../../fishualize/Labrisomus_nuchipinnis/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../colRoz/flavolineata/"> <img src="../../colRoz/flavolineata/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../MexBrewer/Taurus1/"> <img src="../../MexBrewer/Taurus1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

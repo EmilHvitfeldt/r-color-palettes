@@ -20,7 +20,7 @@ categories:
 {{< fa brands github size=3x >}}
 **Github**
 
-[tyluRp/lisa](https://github.com/tyluRp/lisa)
+[tylerlittlefield/lisa](https://github.com/tylerlittlefield/lisa)
 :::
 
 ::: {.column width="50%"}
@@ -55,6 +55,10 @@ c("#2992BFFF", "#4CBED9FF", "#292C17FF", "#F9F6EFFF", "#F0742AFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/GiorgiodeChirico/"> <img src="../../lisa/GiorgiodeChirico/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../futurevisions/grand_tour/"> <img src="../../futurevisions/grand_tour/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#2992BFFF", "#4CBED9FF", "#292C17FF", "#F9F6EFFF", "#F0742AFF")
 <a href="../../fishualize/Oxymonacanthus_longirostris/"> <img src="../../fishualize/Oxymonacanthus_longirostris/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/RoyLichtenstein_2/"> <img src="../../lisa/RoyLichtenstein_2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/grizzlies_europe/"> <img src="../../nbapalettes/grizzlies_europe/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X2/"> <img src="../../beyonce/X2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,6 +55,10 @@ c("#F6A21DFF", "#9BAFB5FF", "#C96731FF", "#9CA383FF", "#87795DFF", "#A0988CFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../calecopal/chaparral1/"> <img src="../../calecopal/chaparral1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/FernandoBotero/"> <img src="../../lisa/FernandoBotero/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#F6A21DFF", "#9BAFB5FF", "#C96731FF", "#9CA383FF", "#87795DFF", "#A0988CFF")
 <a href="../../ggthemes/excel_Crop/"> <img src="../../ggthemes/excel_Crop/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/JohnSingerSargent_2/"> <img src="../../lisa/JohnSingerSargent_2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../IslamicArt/istanbul3/"> <img src="../../IslamicArt/istanbul3/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/excel_Yellow_Orange/"> <img src="../../ggthemes/excel_Yellow_Orange/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

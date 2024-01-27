@@ -55,6 +55,10 @@ c("#010101FF", "#373A36FF", "#FFC72CFF", "#582C83FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../colRoz/desert_dusk/"> <img src="../../colRoz/desert_dusk/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/starry/"> <img src="../../ggprism/starry/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#010101FF", "#373A36FF", "#FFC72CFF", "#582C83FF")
 <a href="../../trekcolors/enara2/"> <img src="../../trekcolors/enara2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/mavericks_banner/"> <img src="../../nbapalettes/mavericks_banner/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/pelicans_pride/"> <img src="../../nbapalettes/pelicans_pride/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/timberwolves_classic/"> <img src="../../nbapalettes/timberwolves_classic/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

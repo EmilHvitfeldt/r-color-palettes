@@ -55,7 +55,13 @@ c("#F1CECCFF", "#F4A647FF", "#65D1B2FF", "#4E8672FF", "#5B4A4CFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../calecopal/superbloom1/"> <img src="../../calecopal/superbloom1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MoMAColors/Smith/"> <img src="../../MoMAColors/Smith/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nationalparkcolors/Everglades/"> <img src="../../nationalparkcolors/Everglades/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -70,11 +76,5 @@ c("#F1CECCFF", "#F4A647FF", "#65D1B2FF", "#4E8672FF", "#5B4A4CFF")
 <a href="../../Manu/Takapu/"> <img src="../../Manu/Takapu/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nationalparkcolors/MtMckinley/"> <img src="../../nationalparkcolors/MtMckinley/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nationalparkcolors/CraterLake/"> <img src="../../nationalparkcolors/CraterLake/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/excel_Headlines/"> <img src="../../ggthemes/excel_Headlines/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggsci/light_uchicago/"> <img src="../../ggsci/light_uchicago/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

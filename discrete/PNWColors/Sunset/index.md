@@ -55,6 +55,10 @@ c("#41476BFF", "#675478FF", "#9E6374FF", "#C67B6FFF", "#DE9B71FF", "#EFBC82FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ghibli/PonyoMedium/"> <img src="../../ghibli/PonyoMedium/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../trekcolors/lcars_first_contact/"> <img src="../../trekcolors/lcars_first_contact/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -69,12 +73,8 @@ c("#41476BFF", "#675478FF", "#9E6374FF", "#C67B6FFF", "#DE9B71FF", "#EFBC82FF", 
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Hokusai1/"> <img src="../../MetBrewer/Hokusai1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../lisa/OskarSchlemmer/"> <img src="../../lisa/OskarSchlemmer/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../lisa/JamesJean/"> <img src="../../lisa/JamesJean/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../NatParksPalettes/KingsCanyon/"> <img src="../../NatParksPalettes/KingsCanyon/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nationalparkcolors/ArcticGates/"> <img src="../../nationalparkcolors/ArcticGates/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../lisa/OskarSchlemmer/"> <img src="../../lisa/OskarSchlemmer/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

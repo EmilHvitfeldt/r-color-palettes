@@ -55,6 +55,10 @@ c("#516959FF", "#7B9EA4FF", "#889B76FF", "#6E7A30FF", "#C5B968FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nord/algoma_forest/"> <img src="../../nord/algoma_forest/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../calecopal/seagrass/"> <img src="../../calecopal/seagrass/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#516959FF", "#7B9EA4FF", "#889B76FF", "#6E7A30FF", "#C5B968FF")
 <a href="../../lisa/PaulCezanne/"> <img src="../../lisa/PaulCezanne/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Feathered/"> <img src="../../ggthemes/excel_Feathered/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/ClaudeMonet_2/"> <img src="../../lisa/ClaudeMonet_2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../rcartocolor/Earth/"> <img src="../../rcartocolor/Earth/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

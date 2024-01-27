@@ -55,6 +55,10 @@ c("#08173AFF", "#012F53FF", "#016D83FF", "#02A0A2FF", "#AC9679FF", "#E9DEB4FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ghibli/MarnieMedium1/"> <img src="../../ghibli/MarnieMedium1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/hornets_believe/"> <img src="../../nbapalettes/hornets_believe/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -65,16 +69,12 @@ c("#08173AFF", "#012F53FF", "#016D83FF", "#02A0A2FF", "#AC9679FF", "#E9DEB4FF")
 </figure> <figure class="figure">
 <a href="../../colRoz/desert_dusk/"> <img src="../../colRoz/desert_dusk/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../MoMAColors/VanGogh/"> <img src="../../MoMAColors/VanGogh/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ghibli/YesterdayMedium/"> <img src="../../ghibli/YesterdayMedium/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../vangogh/StarryRhone/"> <img src="../../vangogh/StarryRhone/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../beyonce/X115/"> <img src="../../beyonce/X115/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/grizzlies_europe/"> <img src="../../nbapalettes/grizzlies_europe/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../LaCroixColoR/Coconut/"> <img src="../../LaCroixColoR/Coconut/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../severance/TheYouYouAre/"> <img src="../../severance/TheYouYouAre/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/Manet/"> <img src="../../MetBrewer/Manet/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

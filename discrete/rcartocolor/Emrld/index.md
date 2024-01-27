@@ -55,6 +55,10 @@ c("#D3F2A3FF", "#97E196FF", "#6CC08BFF", "#4C9B82FF", "#217A79FF", "#105965FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../rcartocolor/BluYl/"> <img src="../../rcartocolor/BluYl/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/ag_GrnYl/"> <img src="../../rcartocolor/ag_GrnYl/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#D3F2A3FF", "#97E196FF", "#6CC08BFF", "#4C9B82FF", "#217A79FF", "#105965FF", 
 <a href="../../LaCroixColoR/Lime/"> <img src="../../LaCroixColoR/Lime/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Hokusai3/"> <img src="../../MetBrewer/Hokusai3/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Elagatis_bipinnulata/"> <img src="../../fishualize/Elagatis_bipinnulata/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../RColorBrewer/GnBu/"> <img src="../../RColorBrewer/GnBu/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

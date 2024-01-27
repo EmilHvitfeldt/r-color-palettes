@@ -55,6 +55,10 @@ c("#643833FF", "#714531FF", "#F29E5AFF", "#C3736DFF", "#EB5088FF", "#DA6992FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../rcartocolor/BurgYl/"> <img src="../../rcartocolor/BurgYl/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../trekcolors/lcars_first_contact/"> <img src="../../trekcolors/lcars_first_contact/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#643833FF", "#714531FF", "#F29E5AFF", "#C3736DFF", "#EB5088FF", "#DA6992FF", 
 <a href="../../colRoz/c_brevi/"> <img src="../../colRoz/c_brevi/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/BrwnYl/"> <img src="../../rcartocolor/BrwnYl/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/shellder/"> <img src="../../palettetown/shellder/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../rcartocolor/SunsetDark/"> <img src="../../rcartocolor/SunsetDark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

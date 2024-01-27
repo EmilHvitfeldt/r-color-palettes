@@ -55,6 +55,10 @@ c("#4B644BFF", "#647D4BFF", "#E1E1E1FF", "#7D96AFFF", "#647D96FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../calecopal/lupinus/"> <img src="../../calecopal/lupinus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nationalparkcolors/GrandTeton/"> <img src="../../nationalparkcolors/GrandTeton/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -71,10 +75,6 @@ c("#4B644BFF", "#647D4BFF", "#E1E1E1FF", "#7D96AFFF", "#647D96FF")
 </figure> <figure class="figure">
 <a href="../../colRoz/shark_bay/"> <img src="../../colRoz/shark_bay/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../musculusColors/Bmsurface/"> <img src="../../musculusColors/Bmsurface/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/Monet/"> <img src="../../MetBrewer/Monet/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/VanGogh1/"> <img src="../../MetBrewer/VanGogh1/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../vangogh/Landscape/"> <img src="../../vangogh/Landscape/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

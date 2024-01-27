@@ -55,6 +55,10 @@ c("#CCCCFFFF", "#99CCFFFF", "#6699CCFF", "#666699FF", "#9370DBFF", "#6699CCFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../Redmonder/qMSOBuWarm/"> <img src="../../Redmonder/qMSOBuWarm/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/Purp/"> <img src="../../rcartocolor/Purp/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#CCCCFFFF", "#99CCFFFF", "#6699CCFF", "#666699FF", "#9370DBFF", "#6699CCFF", 
 <a href="../../palettetown/mewtwo/"> <img src="../../palettetown/mewtwo/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSORdPu/"> <img src="../../Redmonder/qMSORdPu/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/excel_Blue_Warm/"> <img src="../../ggthemes/excel_Blue_Warm/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/Purple_Pink_Gray/"> <img src="../../ggthemes/Purple_Pink_Gray/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

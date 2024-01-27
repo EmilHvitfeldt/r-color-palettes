@@ -55,6 +55,10 @@ c("#1F1A10FF", "#493823FF", "#9E6E27FF", "#C47E2AFF", "#FDB958FF", "#FCE3A8FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../beyonce/X16/"> <img src="../../beyonce/X16/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../soilpalettes/natrudoll/"> <img src="../../soilpalettes/natrudoll/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#1F1A10FF", "#493823FF", "#9E6E27FF", "#C47E2AFF", "#FDB958FF", "#FCE3A8FF")
 <a href="../../PNWColors/Mushroom/"> <img src="../../PNWColors/Mushroom/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X59/"> <img src="../../beyonce/X59/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Zapteryx_brevirostris/"> <img src="../../fishualize/Zapteryx_brevirostris/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/FridaKahlo/"> <img src="../../lisa/FridaKahlo/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

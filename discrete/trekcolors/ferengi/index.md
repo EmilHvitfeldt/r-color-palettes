@@ -55,6 +55,12 @@ c("#00740EFF", "#399043FF", "#72AC79FF", "#ABC8AEFF", "#E4E4E4FF", "#DDC5B7FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/anteos_clorinde/"> <img src="../../ButterflyColors/anteos_clorinde/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../rcartocolor/Fall/"> <img src="../../rcartocolor/Fall/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../IslamicArt/fes/"> <img src="../../IslamicArt/fes/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -63,18 +69,12 @@ c("#00740EFF", "#399043FF", "#72AC79FF", "#ABC8AEFF", "#E4E4E4FF", "#DDC5B7FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/larvitar/"> <img src="../../palettetown/larvitar/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/eevee/"> <img src="../../palettetown/eevee/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../rcartocolor/Geyser/"> <img src="../../rcartocolor/Geyser/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/eevee/"> <img src="../../palettetown/eevee/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Manu/Titipounamu/"> <img src="../../Manu/Titipounamu/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/krabby/"> <img src="../../palettetown/krabby/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../palettetown/seedot/"> <img src="../../palettetown/seedot/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/shedinja/"> <img src="../../palettetown/shedinja/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../miscpalettes/beach/"> <img src="../../miscpalettes/beach/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

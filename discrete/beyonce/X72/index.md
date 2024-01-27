@@ -55,6 +55,10 @@ c("#00B5E4FF", "#649D72FF", "#F1E436FF", "#F3E338FF", "#C25337FF", "#E80F18FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/parasect/"> <img src="../../palettetown/parasect/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/magcargo/"> <img src="../../palettetown/magcargo/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -69,12 +73,8 @@ c("#00B5E4FF", "#649D72FF", "#F1E436FF", "#F3E338FF", "#C25337FF", "#E80F18FF", 
 </figure> <figure class="figure">
 <a href="../../tvthemes/parksAndRec/"> <img src="../../tvthemes/parksAndRec/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/slowking/"> <img src="../../palettetown/slowking/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../Redmonder/qMSOYl/"> <img src="../../Redmonder/qMSOYl/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSORdOr/"> <img src="../../Redmonder/qMSORdOr/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/dugtrio/"> <img src="../../palettetown/dugtrio/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,6 +55,10 @@ c("#343530FF", "#636051FF", "#A0A384FF", "#A3BECFFF", "#93B9ACFF", "#BDD6C3FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/SalvadorDali_1/"> <img src="../../lisa/SalvadorDali_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Mugil_liza/"> <img src="../../fishualize/Mugil_liza/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -65,16 +69,12 @@ c("#343530FF", "#636051FF", "#A0A384FF", "#A3BECFFF", "#93B9ACFF", "#BDD6C3FF")
 </figure> <figure class="figure">
 <a href="../../calecopal/creek/"> <img src="../../calecopal/creek/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/astraptes_fulgerator/"> <img src="../../ButterflyColors/astraptes_fulgerator/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../IslamicArt/fes2/"> <img src="../../IslamicArt/fes2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../awtools/gpalette/"> <img src="../../awtools/gpalette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X35/"> <img src="../../beyonce/X35/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X3/"> <img src="../../beyonce/X3/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nord/silver_mine/"> <img src="../../nord/silver_mine/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/onix/"> <img src="../../palettetown/onix/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

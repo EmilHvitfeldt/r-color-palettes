@@ -55,6 +55,10 @@ c("#55A0FBFF", "#F74ED6FF", "#5757F9FF", "#C8DEF9FF", "#DE8BF9FF", "#05BE78FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggsci/blue_material/"> <img src="../../ggsci/blue_material/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colorBlindness/LightBlue2DarkBlue10Steps/"> <img src="../../colorBlindness/LightBlue2DarkBlue10Steps/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -65,16 +69,12 @@ c("#55A0FBFF", "#F74ED6FF", "#5757F9FF", "#C8DEF9FF", "#DE8BF9FF", "#05BE78FF", 
 </figure> <figure class="figure">
 <a href="../../RColorBrewer/RdPu/"> <img src="../../RColorBrewer/RdPu/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../LaCroixColoR/Berry/"> <img src="../../LaCroixColoR/Berry/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../grDevices/blues9/"> <img src="../../grDevices/blues9/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../RColorBrewer/Blues/"> <img src="../../RColorBrewer/Blues/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../LaCroixColoR/Berry/"> <img src="../../LaCroixColoR/Berry/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../tvthemes/Flourite/"> <img src="../../tvthemes/Flourite/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tvthemes/RoseQuartz/"> <img src="../../tvthemes/RoseQuartz/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggsci/light_blue_material/"> <img src="../../ggsci/light_blue_material/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

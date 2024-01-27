@@ -55,11 +55,17 @@ c("#000000FF", "#A0A0A4FF", "#808080FF", "#A0A0A4FF", "#606060FF", "#A0A0A4FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../miscpalettes/grayscale/"> <img src="../../miscpalettes/grayscale/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../trekcolors/borg/"> <img src="../../trekcolors/borg/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/black_and_white/"> <img src="../../ggprism/black_and_white/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MexBrewer/Taurus2/"> <img src="../../MexBrewer/Taurus2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Grayscale/"> <img src="../../ggthemes/excel_Grayscale/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -70,11 +76,5 @@ c("#000000FF", "#A0A0A4FF", "#808080FF", "#A0A0A4FF", "#606060FF", "#A0A0A4FF", 
 <a href="../../ggthemes/Classic_Gray_5/"> <img src="../../ggthemes/Classic_Gray_5/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X3/"> <img src="../../beyonce/X3/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../Redmonder/sPBIGy2/"> <img src="../../Redmonder/sPBIGy2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../Redmonder/sPBIGy1/"> <img src="../../Redmonder/sPBIGy1/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../Redmonder/sPBIPu/"> <img src="../../Redmonder/sPBIPu/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

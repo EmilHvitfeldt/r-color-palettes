@@ -20,7 +20,7 @@ categories:
 {{< fa brands github size=3x >}}
 **Github**
 
-[tyluRp/lisa](https://github.com/tyluRp/lisa)
+[tylerlittlefield/lisa](https://github.com/tylerlittlefield/lisa)
 :::
 
 ::: {.column width="50%"}
@@ -55,6 +55,10 @@ c("#2C6AA5FF", "#D9AE2CFF", "#DDC655FF", "#D88C27FF", "#64894DFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggthemes/excel_Organic/"> <img src="../../ggthemes/excel_Organic/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/JasperJohns/"> <img src="../../lisa/JasperJohns/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -63,18 +67,14 @@ c("#2C6AA5FF", "#D9AE2CFF", "#DDC655FF", "#D88C27FF", "#64894DFF")
 </figure> <figure class="figure">
 <a href="../../calecopal/superbloom2/"> <img src="../../calecopal/superbloom2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../lisa/WassilyKandinsky/"> <img src="../../lisa/WassilyKandinsky/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../lisa/JackBush/"> <img src="../../lisa/JackBush/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../lisa/WassilyKandinsky/"> <img src="../../lisa/WassilyKandinsky/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Myrichthys_ocellatus/"> <img src="../../fishualize/Myrichthys_ocellatus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/JackYoungerman/"> <img src="../../lisa/JackYoungerman/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../beyonce/X39/"> <img src="../../beyonce/X39/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../NatParksPalettes/SouthDowns/"> <img src="../../NatParksPalettes/SouthDowns/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ochRe/lorikeet/"> <img src="../../ochRe/lorikeet/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../vangogh/CafeDeNuit/"> <img src="../../vangogh/CafeDeNuit/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

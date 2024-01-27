@@ -55,6 +55,10 @@ c("#BB281EFF", "#D56936FF", "#87D7EBFF", "#42B8D7FF", "#16879CFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../MetBrewer/Peru1/"> <img src="../../MetBrewer/Peru1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X2/"> <img src="../../beyonce/X2/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#BB281EFF", "#D56936FF", "#87D7EBFF", "#42B8D7FF", "#16879CFF")
 <a href="../../yarrr/cars/"> <img src="../../yarrr/cars/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/GiorgiodeChirico_1/"> <img src="../../lisa/GiorgiodeChirico_1/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Hypsoblennius_invemar/"> <img src="../../fishualize/Hypsoblennius_invemar/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/Nizami/"> <img src="../../MetBrewer/Nizami/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

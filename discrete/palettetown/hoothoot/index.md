@@ -55,6 +55,10 @@ c("#786810FF", "#A89820FF", "#D8D058FF", "#F0F8B8FF", "#505050FF", "#E07828FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/raticate/"> <img src="../../palettetown/raticate/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/exeggutor/"> <img src="../../palettetown/exeggutor/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -69,12 +73,8 @@ c("#786810FF", "#A89820FF", "#D8D058FF", "#F0F8B8FF", "#505050FF", "#E07828FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/stantler/"> <img src="../../palettetown/stantler/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/golem/"> <img src="../../palettetown/golem/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../palettetown/seedot/"> <img src="../../palettetown/seedot/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/politoed/"> <img src="../../palettetown/politoed/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/sandslash/"> <img src="../../palettetown/sandslash/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../palettetown/golem/"> <img src="../../palettetown/golem/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

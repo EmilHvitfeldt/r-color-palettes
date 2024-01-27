@@ -55,6 +55,10 @@ c("#000000FF", "#004949FF", "#009292FF", "#FF6DB6FF", "#FFB6DBFF", "#490092FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../awtools/bpalette/"> <img src="../../awtools/bpalette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../pals/watlington/"> <img src="../../pals/watlington/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#000000FF", "#004949FF", "#009292FF", "#FF6DB6FF", "#FFB6DBFF", "#490092FF", 
 <a href="../../palettesForR/Android/"> <img src="../../palettesForR/Android/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/roselia/"> <img src="../../palettetown/roselia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tidyquant/tq_green/"> <img src="../../tidyquant/tq_green/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tvthemes/kimPossible/"> <img src="../../tvthemes/kimPossible/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

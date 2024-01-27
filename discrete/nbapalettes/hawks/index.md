@@ -55,6 +55,10 @@ c("#C8102EFF", "#FDB927FF", "#9EA2A2FF", "#000000FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nbapalettes/hawks_90s/"> <img src="../../nbapalettes/hawks_90s/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/Lannister/"> <img src="../../tvthemes/Lannister/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -65,16 +69,12 @@ c("#C8102EFF", "#FDB927FF", "#9EA2A2FF", "#000000FF")
 </figure> <figure class="figure">
 <a href="../../colorblindr/OkabeIto_black/"> <img src="../../colorblindr/OkabeIto_black/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../khroma/okabeitoblack/"> <img src="../../khroma/okabeitoblack/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nbapalettes/celtics2/"> <img src="../../nbapalettes/celtics2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Centropyge_loricula/"> <img src="../../fishualize/Centropyge_loricula/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../tvthemes/attackOnTitan/"> <img src="../../tvthemes/attackOnTitan/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../nbapalettes/suns/"> <img src="../../nbapalettes/suns/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../wesanderson/Darjeeling2/"> <img src="../../wesanderson/Darjeeling2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/clippers/"> <img src="../../nbapalettes/clippers/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

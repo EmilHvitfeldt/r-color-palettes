@@ -55,6 +55,10 @@ c("#FAD510FF", "#CB2314FF", "#273046FF", "#354823FF", "#1E1E1EFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/PavelTchelitchew/"> <img src="../../lisa/PavelTchelitchew/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/pacers_venue/"> <img src="../../nbapalettes/pacers_venue/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#FAD510FF", "#CB2314FF", "#273046FF", "#354823FF", "#1E1E1EFF")
 <a href="../../nbapalettes/heat_military/"> <img src="../../nbapalettes/heat_military/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/Ruby/"> <img src="../../tvthemes/Ruby/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../rtist/davinci/"> <img src="../../rtist/davinci/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/supersonics_holiday/"> <img src="../../nbapalettes/supersonics_holiday/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

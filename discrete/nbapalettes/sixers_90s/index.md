@@ -55,6 +55,10 @@ c("#010101FF", "#8D9093FF", "#D50032FF", "#896C4CFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../tvthemes/Rutile/"> <img src="../../tvthemes/Rutile/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/rockets_90s/"> <img src="../../nbapalettes/rockets_90s/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#010101FF", "#8D9093FF", "#D50032FF", "#896C4CFF")
 <a href="../../tayloRswift/taylorRed/"> <img src="../../tayloRswift/taylorRed/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/wizards_earned/"> <img src="../../nbapalettes/wizards_earned/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/thunder_city/"> <img src="../../nbapalettes/thunder_city/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/Masaccio/"> <img src="../../lisa/Masaccio/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

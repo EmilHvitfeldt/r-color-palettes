@@ -55,6 +55,10 @@ c("#F2CB05FF", "#F2B705FF", "#D98E04FF", "#D57326FF", "#8C310FFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../calecopal/eschscholzia/"> <img src="../../calecopal/eschscholzia/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Chormis_multilineata/"> <img src="../../fishualize/Chormis_multilineata/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -65,16 +69,12 @@ c("#F2CB05FF", "#F2B705FF", "#D98E04FF", "#D57326FF", "#8C310FFF")
 </figure> <figure class="figure">
 <a href="../../NineteenEightyR/seventies_aint_done_yet/"> <img src="../../NineteenEightyR/seventies_aint_done_yet/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../vangogh/Bedroom/"> <img src="../../vangogh/Bedroom/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggprism/flames/"> <img src="../../ggprism/flames/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Homer2/"> <img src="../../MetBrewer/Homer2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X59/"> <img src="../../beyonce/X59/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/swinub/"> <img src="../../palettetown/swinub/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/excel_Red_Orange/"> <img src="../../ggthemes/excel_Red_Orange/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../calecopal/canary/"> <img src="../../calecopal/canary/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

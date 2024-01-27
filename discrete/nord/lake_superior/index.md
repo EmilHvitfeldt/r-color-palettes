@@ -55,6 +55,10 @@ c("#7D4B19FF", "#C89664FF", "#C87D4BFF", "#4B647DFF", "#324B64FF", "#19324BFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../colRoz/m_horridus/"> <img src="../../colRoz/m_horridus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/Masaccio/"> <img src="../../lisa/Masaccio/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#7D4B19FF", "#C89664FF", "#C87D4BFF", "#4B647DFF", "#324B64FF", "#19324BFF")
 <a href="../../NatParksPalettes/GrandCanyon/"> <img src="../../NatParksPalettes/GrandCanyon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X1/"> <img src="../../beyonce/X1/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/excel_Aspect/"> <img src="../../ggthemes/excel_Aspect/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../yarrr/usualsuspects/"> <img src="../../yarrr/usualsuspects/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

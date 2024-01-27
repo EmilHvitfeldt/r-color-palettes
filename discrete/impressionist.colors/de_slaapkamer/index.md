@@ -55,26 +55,26 @@ c("#2D3C2DFF", "#4B5A4BFF", "#5A6978FF", "#879696FF", "#96A596FF", "#A5A55AFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../impressionist.colors/la_yole/"> <img src="../../impressionist.colors/la_yole/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MoMAColors/Dali/"> <img src="../../MoMAColors/Dali/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../impressionist.colors/la_recolte_des_foins_eragny/"> <img src="../../impressionist.colors/la_recolte_des_foins_eragny/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../impressionist.colors/lestaque_aux_toits_rouges/"> <img src="../../impressionist.colors/lestaque_aux_toits_rouges/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../impressionist.colors/les_nympheas/"> <img src="../../impressionist.colors/les_nympheas/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../impressionist.colors/les_terrassiers/"> <img src="../../impressionist.colors/les_terrassiers/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../impressionist.colors/les_nympheas/"> <img src="../../impressionist.colors/les_nympheas/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../impressionist.colors/dans_la_serre/"> <img src="../../impressionist.colors/dans_la_serre/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../impressionist.colors/bouilloire_et_fruits/"> <img src="../../impressionist.colors/bouilloire_et_fruits/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/Antique/"> <img src="../../rcartocolor/Antique/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../NatParksPalettes/Torres/"> <img src="../../NatParksPalettes/Torres/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../IslamicArt/damascus/"> <img src="../../IslamicArt/damascus/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../IslamicArt/cordoba/"> <img src="../../IslamicArt/cordoba/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

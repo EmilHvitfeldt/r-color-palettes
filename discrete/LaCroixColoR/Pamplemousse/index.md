@@ -55,6 +55,10 @@ c("#EA7580FF", "#F6A1A5FF", "#F8CD9CFF", "#1BB6AFFF", "#088BBEFF", "#172869FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../LaCroixColoR/CranRaspberry/"> <img src="../../LaCroixColoR/CranRaspberry/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X2/"> <img src="../../beyonce/X2/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#EA7580FF", "#F6A1A5FF", "#F8CD9CFF", "#1BB6AFFF", "#088BBEFF", "#172869FF")
 <a href="../../tvthemes/Steven/"> <img src="../../tvthemes/Steven/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../vapeplot/macplus/"> <img src="../../vapeplot/macplus/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../vapoRwave/macPlus/"> <img src="../../vapoRwave/macPlus/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/Manet/"> <img src="../../MetBrewer/Manet/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

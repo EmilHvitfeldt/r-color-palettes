@@ -55,6 +55,10 @@ c("#0050B5FF", "#0C2340FF", "#8D9093FF", "#010101FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nbapalettes/mavericks_alt/"> <img src="../../nbapalettes/mavericks_alt/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/sixers/"> <img src="../../nbapalettes/sixers/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -62,8 +66,6 @@ c("#0050B5FF", "#0C2340FF", "#8D9093FF", "#010101FF")
 <a href="../../nbapalettes/kings_alt/"> <img src="../../nbapalettes/kings_alt/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/raptors_original/"> <img src="../../nbapalettes/raptors_original/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/magic_city2/"> <img src="../../nbapalettes/magic_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/jazz_retro/"> <img src="../../nbapalettes/jazz_retro/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -74,7 +76,5 @@ c("#0050B5FF", "#0C2340FF", "#8D9093FF", "#010101FF")
 <a href="../../ggprism/waves/"> <img src="../../ggprism/waves/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/rockets/"> <img src="../../nbapalettes/rockets/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../severance/Hell/"> <img src="../../severance/Hell/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

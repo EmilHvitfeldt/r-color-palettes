@@ -55,6 +55,10 @@ c("#FFDBA5FF", "#FAB455FF", "#F28023FF", "#A5683CFF", "#B4450EFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Cephalopholis_fulva/"> <img src="../../fishualize/Cephalopholis_fulva/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/OKeeffe2/"> <img src="../../MetBrewer/OKeeffe2/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#FFDBA5FF", "#FAB455FF", "#F28023FF", "#A5683CFF", "#B4450EFF")
 <a href="../../fishualize/Cantherhines_macrocerus/"> <img src="../../fishualize/Cantherhines_macrocerus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Tara/"> <img src="../../MetBrewer/Tara/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../RColorBrewer/Oranges/"> <img src="../../RColorBrewer/Oranges/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Phractocephalus_hemioliopterus/"> <img src="../../fishualize/Phractocephalus_hemioliopterus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,6 +55,10 @@ c("#000000FF", "#000002FF", "#010000FF", "#000100FF", "#000004FF", "#7F1845FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../colorBlindness/paletteMartin/"> <img src="../../colorBlindness/paletteMartin/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X96/"> <img src="../../beyonce/X96/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -71,10 +75,6 @@ c("#000000FF", "#000002FF", "#010000FF", "#000100FF", "#000004FF", "#7F1845FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/roselia/"> <img src="../../palettetown/roselia/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nbapalettes/suns_city/"> <img src="../../nbapalettes/suns_city/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X64/"> <img src="../../beyonce/X64/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/nuggets_city2/"> <img src="../../nbapalettes/nuggets_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../PrettyCols/PurpleGreens/"> <img src="../../PrettyCols/PurpleGreens/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

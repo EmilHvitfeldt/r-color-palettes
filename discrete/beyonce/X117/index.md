@@ -55,6 +55,10 @@ c("#51301FFF", "#85512CFF", "#B2713BFF", "#B27139FF", "#B26F38FF", "#B37039FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../impressionist.colors/paysage_tropical_avec_masureset_palmiers/"> <img src="../../impressionist.colors/paysage_tropical_avec_masureset_palmiers/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X69/"> <img src="../../beyonce/X69/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -65,16 +69,12 @@ c("#51301FFF", "#85512CFF", "#B2713BFF", "#B27139FF", "#B26F38FF", "#B37039FF", 
 </figure> <figure class="figure">
 <a href="../../beyonce/X86/"> <img src="../../beyonce/X86/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/brassolis_sophorae/"> <img src="../../ButterflyColors/brassolis_sophorae/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggprism/beer_and_ales/"> <img src="../../ggprism/beer_and_ales/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../MexBrewer/Ofrenda/"> <img src="../../MexBrewer/Ofrenda/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../IslamicArt/fes/"> <img src="../../IslamicArt/fes/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/marowak/"> <img src="../../palettetown/marowak/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/lunatone/"> <img src="../../palettetown/lunatone/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/OKeeffe2/"> <img src="../../MetBrewer/OKeeffe2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nord/moose_pond/"> <img src="../../nord/moose_pond/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

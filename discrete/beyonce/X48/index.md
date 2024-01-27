@@ -55,6 +55,10 @@ c("#341D39FF", "#562034FF", "#84254FFF", "#BA2271FF", "#CD3A95FF", "#DBD553FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../beyonce/X41/"> <img src="../../beyonce/X41/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X30/"> <img src="../../beyonce/X30/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#341D39FF", "#562034FF", "#84254FFF", "#BA2271FF", "#CD3A95FF", "#DBD553FF")
 <a href="../../rockthemes/facelift/"> <img src="../../rockthemes/facelift/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rockthemes/deelite/"> <img src="../../rockthemes/deelite/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Cirrhilabrus_tonozukai/"> <img src="../../fishualize/Cirrhilabrus_tonozukai/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/Thomas/"> <img src="../../MetBrewer/Thomas/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

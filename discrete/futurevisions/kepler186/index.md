@@ -55,6 +55,10 @@ c("#803233FF", "#ED3F39FF", "#E46844FF", "#DC876CFF", "#FEFEFEFF", "#ADD0B5FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/mr_mime/"> <img src="../../palettetown/mr_mime/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/gengar/"> <img src="../../palettetown/gengar/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -69,12 +73,8 @@ c("#803233FF", "#ED3F39FF", "#E46844FF", "#DC876CFF", "#FEFEFEFF", "#ADD0B5FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/venonat/"> <img src="../../palettetown/venonat/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ggsci/flattastic_flatui/"> <img src="../../ggsci/flattastic_flatui/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/nosepass/"> <img src="../../palettetown/nosepass/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/corsola/"> <img src="../../palettetown/corsola/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/shellder/"> <img src="../../palettetown/shellder/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/haunter/"> <img src="../../palettetown/haunter/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

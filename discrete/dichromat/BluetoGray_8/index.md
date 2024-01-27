@@ -55,6 +55,10 @@ c("#0099CCFF", "#66E6FFFF", "#99FFFFFF", "#CCFFFFFF", "#E6E6E6FF", "#999999FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../colorBlindness/Blue2Gray8Steps/"> <img src="../../colorBlindness/Blue2Gray8Steps/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../werpals/mountcook/"> <img src="../../werpals/mountcook/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#0099CCFF", "#66E6FFFF", "#99FFFFFF", "#CCFFFFFF", "#E6E6E6FF", "#999999FF", 
 <a href="../../DresdenColor/colddays/"> <img src="../../DresdenColor/colddays/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/tyranitar/"> <img src="../../palettetown/tyranitar/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../Redmonder/dPBIRdGn/"> <img src="../../Redmonder/dPBIRdGn/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X129/"> <img src="../../beyonce/X129/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

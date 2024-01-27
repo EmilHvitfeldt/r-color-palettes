@@ -55,6 +55,10 @@ c("#B71E42FF", "#DE478EFF", "#BC72F0FF", "#795FAFFF", "#586EA6FF", "#6892A0FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../beyonce/X51/"> <img src="../../beyonce/X51/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/PurpOr/"> <img src="../../rcartocolor/PurpOr/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#B71E42FF", "#DE478EFF", "#BC72F0FF", "#795FAFFF", "#586EA6FF", "#6892A0FF")
 <a href="../../rockthemes/muse/"> <img src="../../rockthemes/muse/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/pastels/"> <img src="../../ggprism/pastels/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MapPalettes/tealberry_pie/"> <img src="../../MapPalettes/tealberry_pie/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Sparisoma_tuyupiranga_m/"> <img src="../../fishualize/Sparisoma_tuyupiranga_m/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

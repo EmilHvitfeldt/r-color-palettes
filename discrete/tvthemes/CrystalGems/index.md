@@ -55,6 +55,10 @@ c("#FC5C64FF", "#0E0723FF", "#FC7CF1FF", "#6DEDDDFF", "#C0AED9FF", "#146C94FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../tvthemes/Garnet/"> <img src="../../tvthemes/Garnet/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/Safe/"> <img src="../../rcartocolor/Safe/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -69,12 +73,8 @@ c("#FC5C64FF", "#0E0723FF", "#FC7CF1FF", "#6DEDDDFF", "#C0AED9FF", "#146C94FF", 
 </figure> <figure class="figure">
 <a href="../../tvthemes/Bismuth/"> <img src="../../tvthemes/Bismuth/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ggsci/aussie_flatui/"> <img src="../../ggsci/aussie_flatui/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../tvthemes/gravityFalls/"> <img src="../../tvthemes/gravityFalls/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../peRReo/karolg/"> <img src="../../peRReo/karolg/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/espeon/"> <img src="../../palettetown/espeon/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tvthemes/Dark/"> <img src="../../tvthemes/Dark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,6 +55,10 @@ c("#CCDDFFFF", "#5599FFFF", "#3366FFFF", "#0011EEFF", "#000088FF", "#BBAA55FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../DresdenColor/briefcases/"> <img src="../../DresdenColor/briefcases/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../pals/tol/"> <img src="../../pals/tol/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -63,6 +67,8 @@ c("#CCDDFFFF", "#5599FFFF", "#3366FFFF", "#0011EEFF", "#000088FF", "#BBAA55FF", 
 </figure> <figure class="figure">
 <a href="../../tvthemes/Steven/"> <img src="../../tvthemes/Steven/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../waRhol/camo_87_3/"> <img src="../../waRhol/camo_87_3/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggprism/prism_dark2/"> <img src="../../ggprism/prism_dark2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/prism_light/"> <img src="../../ggprism/prism_light/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -70,11 +76,5 @@ c("#CCDDFFFF", "#5599FFFF", "#3366FFFF", "#0011EEFF", "#000088FF", "#BBAA55FF", 
 <a href="../../rcartocolor/ag_Sunset/"> <img src="../../rcartocolor/ag_Sunset/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../LaCroixColoR/Pamplemousse/"> <img src="../../LaCroixColoR/Pamplemousse/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tvthemes/BluebirdAzurite/"> <img src="../../tvthemes/BluebirdAzurite/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/PerArnoldi/"> <img src="../../lisa/PerArnoldi/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggprism/magma/"> <img src="../../ggprism/magma/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

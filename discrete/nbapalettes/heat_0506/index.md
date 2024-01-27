@@ -55,6 +55,10 @@ c("#D40F7DFF", "#E35205FF", "#000000FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nbapalettes/bulls/"> <img src="../../nbapalettes/bulls/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/heat/"> <img src="../../nbapalettes/heat/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -67,14 +71,10 @@ c("#D40F7DFF", "#E35205FF", "#000000FF")
 </figure> <figure class="figure">
 <a href="../../trekcolors/starfleet2/"> <img src="../../trekcolors/starfleet2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nbapalettes/raptors_statement/"> <img src="../../nbapalettes/raptors_statement/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../nbapalettes/cavaliers/"> <img src="../../nbapalettes/cavaliers/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nbapalettes/cavaliers_retro/"> <img src="../../nbapalettes/cavaliers_retro/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../nbapalettes/raptors_statement/"> <img src="../../nbapalettes/raptors_statement/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Centropyge_loricula/"> <img src="../../fishualize/Centropyge_loricula/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/blazers_statement/"> <img src="../../nbapalettes/blazers_statement/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,6 +55,10 @@ c("#66ADD9FF", "#D9B504FF", "#D96725FF", "#544691FF", "#D52220FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../MetBrewer/Nizami/"> <img src="../../MetBrewer/Nizami/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/EdvardMunch/"> <img src="../../lisa/EdvardMunch/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -71,10 +75,6 @@ c("#66ADD9FF", "#D9B504FF", "#D96725FF", "#544691FF", "#D52220FF")
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Archambault/"> <img src="../../MetBrewer/Archambault/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../tvthemes/CrazyLaceAgate/"> <img src="../../tvthemes/CrazyLaceAgate/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../yarrr/appletv/"> <img src="../../yarrr/appletv/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Lampris_guttatus/"> <img src="../../fishualize/Lampris_guttatus/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../MoMAColors/OKeeffe/"> <img src="../../MoMAColors/OKeeffe/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -1,1 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="768" height="144" class="svglite" viewBox="0 0 576 108"><defs><style></style></defs><rect width="100%" height="100%" style="stroke:none;fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"/><defs><clipPath id="cpMC4wMHw1NzYuMDB8MC4wMHwxMDguMDA="><path d="M0 0h576v108H0z" style="fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"/></clipPath></defs><g clip-path="url(#cpMC4wMHw1NzYuMDB8MC4wMHwxMDguMDA=)"><path d="M26.18 4.91h43.64v98.18H26.18z" style="stroke-width:.21;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;fill:#1e2d1e;stroke-miterlimit:10"/><path d="M69.82 4.91h43.64v98.18H69.82z" style="stroke-width:.21;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;fill:#3c695a;stroke-miterlimit:10"/><path d="M113.45 4.91h43.64v98.18h-43.64z" style="stroke-width:.21;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;fill:#78a596;stroke-miterlimit:10"/><path d="M157.09 4.91h43.64v98.18h-43.64z" style="stroke-width:.21;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;fill:#b4c3b4;stroke-miterlimit:10"/><path d="M200.73 4.91h43.64v98.18h-43.64z" style="stroke-width:.21;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;fill:#788769;stroke-miterlimit:10"/><path d="M244.36 4.91H288v98.18h-43.64z" style="stroke-width:.21;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;fill:#5a5a2d;stroke-miterlimit:10"/><path d="M288 4.91h43.64v98.18H288z" style="stroke-width:.21;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;fill:#4b4b1e;stroke-miterlimit:10"/><path d="M331.64 4.91h43.64v98.18h-43.64z" style="stroke-width:.21;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;fill:#69693c;stroke-miterlimit:10"/><path d="M375.27 4.91h43.64v98.18h-43.64z" style="stroke-width:.21;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;fill:#a5965a;stroke-miterlimit:10"/><path d="M418.91 4.91h43.64v98.18h-43.64z" style="stroke-width:.21;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;fill:#a5872d;stroke-miterlimit:10"/><path d="M462.55 4.91h43.64v98.18h-43.64z" style="stroke-width:.21;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;fill:#87690f;stroke-miterlimit:10"/><path d="M506.18 4.91h43.64v98.18h-43.64z" style="stroke-width:.21;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;fill:#b4780f;stroke-miterlimit:10"/></g></svg>
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='576.00pt' height='108.00pt' viewBox='0 0 576.00 108.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: none;'/>
+<defs>
+  <clipPath id='cpMC4wMHw1NzYuMDB8MC4wMHwxMDguMDA='>
+    <rect x='0.00' y='0.00' width='576.00' height='108.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHwxMDguMDA=)'>
+<rect x='26.18' y='4.91' width='43.64' height='98.18' style='stroke-width: 0.21; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #1E2D1E;' />
+<rect x='69.82' y='4.91' width='43.64' height='98.18' style='stroke-width: 0.21; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3C695A;' />
+<rect x='113.45' y='4.91' width='43.64' height='98.18' style='stroke-width: 0.21; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #78A596;' />
+<rect x='157.09' y='4.91' width='43.64' height='98.18' style='stroke-width: 0.21; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #B4C3B4;' />
+<rect x='200.73' y='4.91' width='43.64' height='98.18' style='stroke-width: 0.21; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #788769;' />
+<rect x='244.36' y='4.91' width='43.64' height='98.18' style='stroke-width: 0.21; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #5A5A2D;' />
+<rect x='288.00' y='4.91' width='43.64' height='98.18' style='stroke-width: 0.21; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #4B4B1E;' />
+<rect x='331.64' y='4.91' width='43.64' height='98.18' style='stroke-width: 0.21; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #69693C;' />
+<rect x='375.27' y='4.91' width='43.64' height='98.18' style='stroke-width: 0.21; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #A5965A;' />
+<rect x='418.91' y='4.91' width='43.64' height='98.18' style='stroke-width: 0.21; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #A5872D;' />
+<rect x='462.55' y='4.91' width='43.64' height='98.18' style='stroke-width: 0.21; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #87690F;' />
+<rect x='506.18' y='4.91' width='43.64' height='98.18' style='stroke-width: 0.21; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #B4780F;' />
+</g>
+</svg>

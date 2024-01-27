@@ -55,6 +55,10 @@ c("#8C2B0EFF", "#C5692DFF", "#FEB359FF", "#132F5BFF", "#435F90FF", "#68434EFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../PNWColors/Sunset2/"> <img src="../../PNWColors/Sunset2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Paranthias_furcifer/"> <img src="../../fishualize/Paranthias_furcifer/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -69,12 +73,8 @@ c("#8C2B0EFF", "#C5692DFF", "#FEB359FF", "#132F5BFF", "#435F90FF", "#68434EFF", 
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Java/"> <img src="../../MetBrewer/Java/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../PrettyCols/Lively/"> <img src="../../PrettyCols/Lively/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../werpals/when_i_was_your_age/"> <img src="../../werpals/when_i_was_your_age/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Clepticus_brasiliensis/"> <img src="../../fishualize/Clepticus_brasiliensis/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../colRoz/c_brevi/"> <img src="../../colRoz/c_brevi/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../jcolors/pal4/"> <img src="../../jcolors/pal4/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

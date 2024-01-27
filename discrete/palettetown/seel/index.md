@@ -55,6 +55,10 @@ c("#E0E0F0FF", "#C0C8E8FF", "#405080FF", "#98A0B8FF", "#D0B080FF", "#F8F8C0FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/snorlax/"> <img src="../../palettetown/snorlax/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/nidoqueen/"> <img src="../../palettetown/nidoqueen/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -63,18 +67,14 @@ c("#E0E0F0FF", "#C0C8E8FF", "#405080FF", "#98A0B8FF", "#D0B080FF", "#F8F8C0FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/butterfree/"> <img src="../../palettetown/butterfree/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/kingdra/"> <img src="../../palettetown/kingdra/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../palettetown/blastoise/"> <img src="../../palettetown/blastoise/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/kingdra/"> <img src="../../palettetown/kingdra/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/rhydon/"> <img src="../../palettetown/rhydon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../vapoRwave/floralShoppe/"> <img src="../../vapoRwave/floralShoppe/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/kirlia/"> <img src="../../palettetown/kirlia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/hitmontop/"> <img src="../../palettetown/hitmontop/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/latias/"> <img src="../../palettetown/latias/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

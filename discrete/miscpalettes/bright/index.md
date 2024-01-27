@@ -55,6 +55,10 @@ c("#008000FF", "#0000FFFF", "#800080FF", "#00FF00FF", "#FF00FFFF", "#008080FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggthemes/stata_s1rcolor/"> <img src="../../ggthemes/stata_s1rcolor/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/stata_s1color/"> <img src="../../ggthemes/stata_s1color/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -67,14 +71,10 @@ c("#008000FF", "#0000FFFF", "#800080FF", "#00FF00FF", "#FF00FFFF", "#008080FF", 
 </figure> <figure class="figure">
 <a href="../../miscpalettes/excel/"> <img src="../../miscpalettes/excel/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ggsci/aussie_flatui/"> <img src="../../ggsci/aussie_flatui/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../tidyquant/tq_dark/"> <img src="../../tidyquant/tq_dark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../awtools/bpalette/"> <img src="../../awtools/bpalette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tidyquant/tq_green/"> <img src="../../tidyquant/tq_green/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../pals/watlington/"> <img src="../../pals/watlington/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../basetheme/ink/"> <img src="../../basetheme/ink/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

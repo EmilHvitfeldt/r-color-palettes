@@ -55,6 +55,10 @@ c("#A0D0A0FF", "#70A070FF", "#385038FF", "#C0E8C0FF", "#4898E0FF", "#F8F8F8FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/hitmontop/"> <img src="../../palettetown/hitmontop/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/heracross/"> <img src="../../palettetown/heracross/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -69,12 +73,8 @@ c("#A0D0A0FF", "#70A070FF", "#385038FF", "#C0E8C0FF", "#4898E0FF", "#F8F8F8FF", 
 </figure> <figure class="figure">
 <a href="../../ggthemes/stata_economist/"> <img src="../../ggthemes/stata_economist/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../MetBrewer/Derain/"> <img src="../../MetBrewer/Derain/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../Redmonder/dPBIPuGn/"> <img src="../../Redmonder/dPBIPuGn/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nationalparkcolors/GreatBasin/"> <img src="../../nationalparkcolors/GreatBasin/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/lugia/"> <img src="../../palettetown/lugia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../MetBrewer/Derain/"> <img src="../../MetBrewer/Derain/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

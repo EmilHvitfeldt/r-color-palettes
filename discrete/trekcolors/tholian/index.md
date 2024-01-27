@@ -55,6 +55,12 @@ c("#5E0000FF", "#A73933FF", "#F07266FF", "#E8A9A3FF", "#E1E1E1FF", "#D9D3BEFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MexBrewer/Vendedora/"> <img src="../../MexBrewer/Vendedora/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/pidgey/"> <img src="../../palettetown/pidgey/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/umbreon/"> <img src="../../palettetown/umbreon/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -70,11 +76,5 @@ c("#5E0000FF", "#A73933FF", "#F07266FF", "#E8A9A3FF", "#E1E1E1FF", "#D9D3BEFF", 
 <a href="../../MetBrewer/Paquin/"> <img src="../../MetBrewer/Paquin/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/ngadju/"> <img src="../../colRoz/ngadju/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/pichu/"> <img src="../../palettetown/pichu/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X79/"> <img src="../../beyonce/X79/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/lickitung/"> <img src="../../palettetown/lickitung/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

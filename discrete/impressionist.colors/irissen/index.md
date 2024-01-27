@@ -55,9 +55,17 @@ c("#C3962DFF", "#F0D24BFF", "#E1D25AFF", "#C3B45AFF", "#96A569FF", "#87965AFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../beyonce/X82/"> <img src="../../beyonce/X82/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../impressionist.colors/la_recolte_des_foins_eragny/"> <img src="../../impressionist.colors/la_recolte_des_foins_eragny/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MoMAColors/Dali/"> <img src="../../MoMAColors/Dali/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/Summer/"> <img src="../../PrettyCols/Summer/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../impressionist.colors/korenveld_onder_onweerslucht/"> <img src="../../impressionist.colors/korenveld_onder_onweerslucht/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -68,13 +76,5 @@ c("#C3962DFF", "#F0D24BFF", "#E1D25AFF", "#C3B45AFF", "#96A569FF", "#87965AFF", 
 <a href="../../dutchmasters/milkmaid/"> <img src="../../dutchmasters/milkmaid/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../impressionist.colors/dans_la_serre/"> <img src="../../impressionist.colors/dans_la_serre/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../PNWColors/Cascades/"> <img src="../../PNWColors/Cascades/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/mareep/"> <img src="../../palettetown/mareep/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/lotad/"> <img src="../../palettetown/lotad/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../peRReo/rosalia/"> <img src="../../peRReo/rosalia/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,6 +55,10 @@ c("#030504FF", "#F4DD9BFF", "#811D08FF", "#1E1507FF", "#252823FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nbapalettes/pacers_venue/"> <img src="../../nbapalettes/pacers_venue/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../wesanderson/BottleRocket2/"> <img src="../../wesanderson/BottleRocket2/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -69,12 +73,8 @@ c("#030504FF", "#F4DD9BFF", "#811D08FF", "#1E1507FF", "#252823FF")
 </figure> <figure class="figure">
 <a href="../../lisa/Rembrandt/"> <img src="../../lisa/Rembrandt/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../DresdenColor/changes/"> <img src="../../DresdenColor/changes/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../nbapalettes/heat_military/"> <img src="../../nbapalettes/heat_military/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Aulostomus_chinensis/"> <img src="../../fishualize/Aulostomus_chinensis/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../feathers/spotted_pardalote/"> <img src="../../feathers/spotted_pardalote/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../DresdenColor/changes/"> <img src="../../DresdenColor/changes/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

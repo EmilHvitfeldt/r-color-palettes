@@ -55,6 +55,10 @@ c("#D1B88BFF", "#ECD8A1FF", "#E4CC79FF", "#DDB400FF", "#D57B4BFF", "#AA4812FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../IslamicArt/shiraz2/"> <img src="../../IslamicArt/shiraz2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/light_uchicago/"> <img src="../../ggsci/light_uchicago/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#D1B88BFF", "#ECD8A1FF", "#E4CC79FF", "#DDB400FF", "#D57B4BFF", "#AA4812FF", 
 <a href="../../IslamicArt/istanbul2/"> <img src="../../IslamicArt/istanbul2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../impressionist.colors/le_dejeuner_des_canotiers/"> <img src="../../impressionist.colors/le_dejeuner_des_canotiers/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemr/light/"> <img src="../../ggthemr/light/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/blastoise/"> <img src="../../palettetown/blastoise/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

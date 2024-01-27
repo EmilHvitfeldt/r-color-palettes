@@ -55,6 +55,10 @@ c("#E8EAF6FF", "#C5CAE9FF", "#9FA8DAFF", "#7986CBFF", "#5C6BC0FF", "#3F51B5FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggsci/deep_purple_material/"> <img src="../../ggsci/deep_purple_material/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSOPu2/"> <img src="../../Redmonder/qMSOPu2/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#E8EAF6FF", "#C5CAE9FF", "#9FA8DAFF", "#7986CBFF", "#5C6BC0FF", "#3F51B5FF", 
 <a href="../../severance/Dinner/"> <img src="../../severance/Dinner/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../unikn/pal_karpfenblau/"> <img src="../../unikn/pal_karpfenblau/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/dragonair/"> <img src="../../palettetown/dragonair/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../calecopal/sbchannel/"> <img src="../../calecopal/sbchannel/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

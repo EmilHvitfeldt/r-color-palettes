@@ -55,6 +55,10 @@ c("#87CEEBFF", "#32CD32FF", "#BA55D3FF", "#F08080FF", "#4682B4FF", "#9ACD32FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettesForR/Pastels/"> <img src="../../palettesForR/Pastels/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/Classic_20/"> <img src="../../ggthemes/Classic_20/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#87CEEBFF", "#32CD32FF", "#BA55D3FF", "#F08080FF", "#4682B4FF", "#9ACD32FF", 
 <a href="../../basetheme/dark/"> <img src="../../basetheme/dark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../trekcolors/lcars_alt/"> <img src="../../trekcolors/lcars_alt/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../basetheme/minimal/"> <img src="../../basetheme/minimal/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../basetheme/void/"> <img src="../../basetheme/void/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

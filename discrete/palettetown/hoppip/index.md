@@ -55,6 +55,10 @@ c("#F86050FF", "#80E038FF", "#40A020FF", "#206010FF", "#D04010FF", "#60C838FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../RColorBrewer/RdYlGn/"> <img src="../../RColorBrewer/RdYlGn/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/Traffic/"> <img src="../../ggthemes/Traffic/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -69,12 +73,8 @@ c("#F86050FF", "#80E038FF", "#40A020FF", "#206010FF", "#D04010FF", "#60C838FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/sunflora/"> <img src="../../palettetown/sunflora/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../khroma/incandescent/"> <img src="../../khroma/incandescent/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../MetBrewer/Homer2/"> <img src="../../MetBrewer/Homer2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Antennarius_multiocellatus/"> <img src="../../fishualize/Antennarius_multiocellatus/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/excel_Facet/"> <img src="../../ggthemes/excel_Facet/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/cradily/"> <img src="../../palettetown/cradily/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

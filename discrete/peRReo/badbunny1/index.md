@@ -55,15 +55,19 @@ c("#0D6BA6FF", "#A9D1E9FF", "#FD9247FF", "#6C4191FF", "#0B92B4FF", "#8B4E66FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../MetBrewer/Moreau/"> <img src="../../MetBrewer/Moreau/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../peRReo/karolg/"> <img src="../../peRReo/karolg/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../peRReo/rauw/"> <img src="../../peRReo/rauw/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggprism/prism_light2/"> <img src="../../ggprism/prism_light2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../ggprism/prism_dark/"> <img src="../../ggprism/prism_dark/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggprism/prism_light2/"> <img src="../../ggprism/prism_light2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/planetexpress_futurama/"> <img src="../../ggsci/planetexpress_futurama/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -72,9 +76,5 @@ c("#0D6BA6FF", "#A9D1E9FF", "#FD9247FF", "#6C4191FF", "#0B92B4FF", "#8B4E66FF", 
 <a href="../../werpals/uyuni/"> <img src="../../werpals/uyuni/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../peRReo/planb/"> <img src="../../peRReo/planb/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../Redmonder/qMSOAsp/"> <img src="../../Redmonder/qMSOAsp/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/marill/"> <img src="../../palettetown/marill/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

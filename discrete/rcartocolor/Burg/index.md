@@ -55,6 +55,10 @@ c("#FFC6C4FF", "#F4A3A8FF", "#E38191FF", "#CC607DFF", "#AD466CFF", "#8B3058FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../Redmonder/sPBIRdPu/"> <img src="../../Redmonder/sPBIRdPu/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/pink_material/"> <img src="../../ggsci/pink_material/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#FFC6C4FF", "#F4A3A8FF", "#E38191FF", "#CC607DFF", "#AD466CFF", "#8B3058FF", 
 <a href="../../beyonce/X27/"> <img src="../../beyonce/X27/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../vapoRwave/sunSet/"> <img src="../../vapoRwave/sunSet/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MapPalettes/bruiser/"> <img src="../../MapPalettes/bruiser/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../rcartocolor/PurpOr/"> <img src="../../rcartocolor/PurpOr/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

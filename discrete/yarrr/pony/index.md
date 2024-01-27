@@ -55,6 +55,10 @@ c("#EB5291FF", "#FBBB68FF", "#F5BACFFF", "#9DDAF5FF", "#6351A0FF", "#ECF1F4FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../unikn/pal_unikn_pref/"> <img src="../../unikn/pal_unikn_pref/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../trekcolors/lcars_2357/"> <img src="../../trekcolors/lcars_2357/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -65,16 +69,12 @@ c("#EB5291FF", "#FBBB68FF", "#F5BACFFF", "#9DDAF5FF", "#6351A0FF", "#ECF1F4FF", 
 </figure> <figure class="figure">
 <a href="../../tidyquant/tq_green/"> <img src="../../tidyquant/tq_green/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ggsci/flattastic_flatui/"> <img src="../../ggsci/flattastic_flatui/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../werpals/provence/"> <img src="../../werpals/provence/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../vapoRwave/vapoRwave/"> <img src="../../vapoRwave/vapoRwave/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/chinchou/"> <img src="../../palettetown/chinchou/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../futurevisions/kepler16b/"> <img src="../../futurevisions/kepler16b/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tvthemes/Opal/"> <img src="../../tvthemes/Opal/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/wartortle/"> <img src="../../palettetown/wartortle/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

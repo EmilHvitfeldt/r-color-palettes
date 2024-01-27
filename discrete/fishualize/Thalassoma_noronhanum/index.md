@@ -55,6 +55,10 @@ c("#84D4E9FF", "#04C4D9FF", "#04D9C4FF", "#A77848FF", "#AC5E91FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Scarus_zelindae/"> <img src="../../fishualize/Scarus_zelindae/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../trekcolors/lcars_29c/"> <img src="../../trekcolors/lcars_29c/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -67,14 +71,10 @@ c("#84D4E9FF", "#04C4D9FF", "#04D9C4FF", "#A77848FF", "#AC5E91FF")
 </figure> <figure class="figure">
 <a href="../../vapoRwave/mallSoft/"> <img src="../../vapoRwave/mallSoft/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ltc/gaby/"> <img src="../../ltc/gaby/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../tvthemes/Pearl/"> <img src="../../tvthemes/Pearl/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/Banff/"> <img src="../../NatParksPalettes/Banff/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/Nuriel_Stone/"> <img src="../../ggthemes/Nuriel_Stone/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X129/"> <img src="../../beyonce/X129/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Taeniura_lymma/"> <img src="../../fishualize/Taeniura_lymma/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

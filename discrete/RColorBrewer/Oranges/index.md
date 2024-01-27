@@ -55,6 +55,10 @@ c("#FFF5EBFF", "#FEE6CEFF", "#FDD0A2FF", "#FDAE6BFF", "#FD8D3CFF", "#F16913FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../RColorBrewer/OrRd/"> <img src="../../RColorBrewer/OrRd/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../RColorBrewer/YlOrBr/"> <img src="../../RColorBrewer/YlOrBr/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#FFF5EBFF", "#FEE6CEFF", "#FDD0A2FF", "#FDAE6BFF", "#FD8D3CFF", "#F16913FF", 
 <a href="../../calecopal/canary/"> <img src="../../calecopal/canary/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/orange_material/"> <img src="../../ggsci/orange_material/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/excel_Red_Orange/"> <img src="../../ggthemes/excel_Red_Orange/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../rcartocolor/Peach/"> <img src="../../rcartocolor/Peach/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

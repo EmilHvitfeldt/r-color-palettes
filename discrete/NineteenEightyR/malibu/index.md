@@ -55,26 +55,26 @@ c("#FF4E86FF", "#FF9E44FF", "#FDFD31FF", "#85FD4EFF", "#4ED5FFFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../RSkittleBrewer/tropical/"> <img src="../../RSkittleBrewer/tropical/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Sparisoma_viride/"> <img src="../../fishualize/Sparisoma_viride/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../PrettyCols/Neon/"> <img src="../../PrettyCols/Neon/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Scarus_hoefleri/"> <img src="../../fishualize/Scarus_hoefleri/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Vapor_Trail/"> <img src="../../ggthemes/excel_Vapor_Trail/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../waRhol/skull_86/"> <img src="../../waRhol/skull_86/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Minilabrus_striatus/"> <img src="../../fishualize/Minilabrus_striatus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colorBlindness/Blue2Orange8Steps/"> <img src="../../colorBlindness/Blue2Orange8Steps/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../dichromat/BluetoOrange_8/"> <img src="../../dichromat/BluetoOrange_8/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/BillyApple/"> <img src="../../lisa/BillyApple/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Cirrhilabrus_solorensis/"> <img src="../../fishualize/Cirrhilabrus_solorensis/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/excel_Slipstream/"> <img src="../../ggthemes/excel_Slipstream/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../LaCroixColoR/PommeBaya/"> <img src="../../LaCroixColoR/PommeBaya/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

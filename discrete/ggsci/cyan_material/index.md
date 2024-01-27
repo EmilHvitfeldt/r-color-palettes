@@ -55,26 +55,26 @@ c("#E0F7FAFF", "#B2EBF2FF", "#80DEEAFF", "#4DD0E1FF", "#26C6DAFF", "#00BCD4FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggsci/teal_material/"> <img src="../../ggsci/teal_material/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/Teals/"> <img src="../../PrettyCols/Teals/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/light_blue_material/"> <img src="../../ggsci/light_blue_material/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../unikn/pal_seeblau/"> <img src="../../unikn/pal_seeblau/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../miscpalettes/seaGreen/"> <img src="../../miscpalettes/seaGreen/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../NatParksPalettes/Glacier/"> <img src="../../NatParksPalettes/Glacier/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../miscpalettes/seaGreen/"> <img src="../../miscpalettes/seaGreen/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/sPBIGn/"> <img src="../../Redmonder/sPBIGn/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NineteenEightyR/youngturqs/"> <img src="../../NineteenEightyR/youngturqs/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../musculusColors/Bmlunge/"> <img src="../../musculusColors/Bmlunge/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../RColorBrewer/PuBuGn/"> <img src="../../RColorBrewer/PuBuGn/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../LaCroixColoR/Pure/"> <img src="../../LaCroixColoR/Pure/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../RColorBrewer/GnBu/"> <img src="../../RColorBrewer/GnBu/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

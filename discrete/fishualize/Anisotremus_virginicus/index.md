@@ -55,6 +55,10 @@ c("#0487D9FF", "#BFA004FF", "#A6681CFF", "#3B3217FF", "#553A19FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../werpals/small_world/"> <img src="../../werpals/small_world/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Degas/"> <img src="../../MetBrewer/Degas/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -65,16 +69,12 @@ c("#0487D9FF", "#BFA004FF", "#A6681CFF", "#3B3217FF", "#553A19FF")
 </figure> <figure class="figure">
 <a href="../../DresdenColor/summerknight/"> <img src="../../DresdenColor/summerknight/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../MoMAColors/Abbott/"> <img src="../../MoMAColors/Abbott/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../rtist/davinci/"> <img src="../../rtist/davinci/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Nattier/"> <img src="../../MetBrewer/Nattier/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../Manu/Pohutukawa/"> <img src="../../Manu/Pohutukawa/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../lisa/PavelTchelitchew/"> <img src="../../lisa/PavelTchelitchew/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/Lakota/"> <img src="../../MetBrewer/Lakota/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../NatParksPalettes/Saguaro/"> <img src="../../NatParksPalettes/Saguaro/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

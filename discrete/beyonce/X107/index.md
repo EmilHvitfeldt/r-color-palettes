@@ -55,6 +55,10 @@ c("#242424FF", "#37253DFF", "#852851FF", "#E10131FF", "#F6F4F5FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../futurevisions/enceladus/"> <img src="../../futurevisions/enceladus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/pistons/"> <img src="../../nbapalettes/pistons/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#242424FF", "#37253DFF", "#852851FF", "#E10131FF", "#F6F4F5FF")
 <a href="../../beyonce/X130/"> <img src="../../beyonce/X130/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/Sardonyx/"> <img src="../../tvthemes/Sardonyx/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../DresdenColor/briefcases/"> <img src="../../DresdenColor/briefcases/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X123/"> <img src="../../beyonce/X123/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

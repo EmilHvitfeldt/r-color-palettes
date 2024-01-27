@@ -55,6 +55,10 @@ c("#F8F8F8FF", "#D8D8E0FF", "#E87840FF", "#606068FF", "#F8C078FF", "#888890FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/electrode/"> <img src="../../palettetown/electrode/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/wigglytuff/"> <img src="../../palettetown/wigglytuff/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#F8F8F8FF", "#D8D8E0FF", "#E87840FF", "#606068FF", "#F8C078FF", "#888890FF", 
 <a href="../../palettetown/snubbull/"> <img src="../../palettetown/snubbull/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/masquerain/"> <img src="../../palettetown/masquerain/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X75/"> <img src="../../beyonce/X75/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../RColorBrewer/RdGy/"> <img src="../../RColorBrewer/RdGy/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,6 +55,10 @@ c("#C0A878FF", "#D0C080FF", "#A89868FF", "#E0D090FF", "#887050FF", "#F8E8A0FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../impressionist.colors/chanteuse_de_cafe_concert/"> <img src="../../impressionist.colors/chanteuse_de_cafe_concert/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/spinda/"> <img src="../../palettetown/spinda/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#C0A878FF", "#D0C080FF", "#A89868FF", "#E0D090FF", "#887050FF", "#F8E8A0FF", 
 <a href="../../palettetown/hitmonchan/"> <img src="../../palettetown/hitmonchan/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X69/"> <img src="../../beyonce/X69/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/houndour/"> <img src="../../palettetown/houndour/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/houndoom/"> <img src="../../palettetown/houndoom/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,6 +55,10 @@ c("#009B9EFF", "#42B7B9FF", "#A7D3D4FF", "#F1F1F1FF", "#E4C1D9FF", "#D691C1FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../beyonce/X101/"> <img src="../../beyonce/X101/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/dPBIPuGn/"> <img src="../../Redmonder/dPBIPuGn/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#009B9EFF", "#42B7B9FF", "#A7D3D4FF", "#F1F1F1FF", "#E4C1D9FF", "#D691C1FF", 
 <a href="../../Redmonder/qMSOBuGn/"> <img src="../../Redmonder/qMSOBuGn/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X129/"> <img src="../../beyonce/X129/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../PNWColors/Shuksan/"> <img src="../../PNWColors/Shuksan/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Harengula_jaguana/"> <img src="../../fishualize/Harengula_jaguana/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

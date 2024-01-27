@@ -20,7 +20,7 @@ categories:
 {{< fa brands github size=3x >}}
 **Github**
 
-[tyluRp/lisa](https://github.com/tyluRp/lisa)
+[tylerlittlefield/lisa](https://github.com/tylerlittlefield/lisa)
 :::
 
 ::: {.column width="50%"}
@@ -55,6 +55,10 @@ c("#4B6892FF", "#F9E583FF", "#FED43FFF", "#F6BD28FF", "#BE4C46FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/Pierre_AugusteRenoir/"> <img src="../../lisa/Pierre_AugusteRenoir/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/RobertDelaunay/"> <img src="../../lisa/RobertDelaunay/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#4B6892FF", "#F9E583FF", "#FED43FFF", "#F6BD28FF", "#BE4C46FF")
 <a href="../../lisa/RobertDelaunay_1/"> <img src="../../lisa/RobertDelaunay_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../wesanderson/Zissou1/"> <img src="../../wesanderson/Zissou1/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/FrancescoXanto/"> <img src="../../lisa/FrancescoXanto/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../NatParksPalettes/Charmonix/"> <img src="../../NatParksPalettes/Charmonix/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

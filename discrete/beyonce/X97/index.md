@@ -55,6 +55,10 @@ c("#01199DFF", "#02189FFF", "#001A9BFF", "#00199CFF", "#01179EFF", "#0001DFFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../colorBlindness/Blue2DarkRed18Steps/"> <img src="../../colorBlindness/Blue2DarkRed18Steps/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../dichromat/DarkRedtoBlue_18/"> <img src="../../dichromat/DarkRedtoBlue_18/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#01199DFF", "#02189FFF", "#001A9BFF", "#00199CFF", "#01179EFF", "#0001DFFF", 
 <a href="../../MetBrewer/Manet/"> <img src="../../MetBrewer/Manet/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colorBlindness/Blue2DarkRed12Steps/"> <img src="../../colorBlindness/Blue2DarkRed12Steps/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../dichromat/DarkRedtoBlue_12/"> <img src="../../dichromat/DarkRedtoBlue_12/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/gdoc/"> <img src="../../ggthemes/gdoc/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

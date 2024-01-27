@@ -55,7 +55,13 @@ c("#E6A0C4FF", "#C6CDF7FF", "#D8A499FF", "#7294D4FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../PNWColors/Spring/"> <img src="../../PNWColors/Spring/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ltc/mterese/"> <img src="../../ltc/mterese/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Cassatt1/"> <img src="../../MetBrewer/Cassatt1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -63,18 +69,12 @@ c("#E6A0C4FF", "#C6CDF7FF", "#D8A499FF", "#7294D4FF")
 </figure> <figure class="figure">
 <a href="../../fishualize/Xyrichthys_novacula/"> <img src="../../fishualize/Xyrichthys_novacula/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ltc/sylvie/"> <img src="../../ltc/sylvie/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/JohnSingerSargent_2/"> <img src="../../lisa/JohnSingerSargent_2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/JeffKoons/"> <img src="../../lisa/JeffKoons/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/NewKingdom/"> <img src="../../MetBrewer/NewKingdom/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Harengula_jaguana/"> <img src="../../fishualize/Harengula_jaguana/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/JosefAlbers/"> <img src="../../lisa/JosefAlbers/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../vapeplot/mallsoft/"> <img src="../../vapeplot/mallsoft/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../vapoRwave/mallSoft/"> <img src="../../vapoRwave/mallSoft/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

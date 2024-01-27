@@ -55,6 +55,12 @@ c("#FECA00FF", "#D36328FF", "#CB0300FF", "#B4B9B3FF", "#424847FF", "#000100FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MoMAColors/vonHeyl/"> <img src="../../MoMAColors/vonHeyl/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Salvelinus_fontinalis/"> <img src="../../fishualize/Salvelinus_fontinalis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../DresdenColor/smallfavor/"> <img src="../../DresdenColor/smallfavor/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -70,11 +76,5 @@ c("#FECA00FF", "#D36328FF", "#CB0300FF", "#B4B9B3FF", "#424847FF", "#000100FF")
 <a href="../../fishualize/Pterois_volitans/"> <img src="../../fishualize/Pterois_volitans/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../DresdenColor/changes/"> <img src="../../DresdenColor/changes/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../futurevisions/mars/"> <img src="../../futurevisions/mars/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../werpals/small_world/"> <img src="../../werpals/small_world/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../dutchmasters/staalmeesters/"> <img src="../../dutchmasters/staalmeesters/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

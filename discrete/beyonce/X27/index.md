@@ -55,6 +55,12 @@ c("#2B1F6BFF", "#531F67FF", "#71195AFF", "#994C9CFF", "#DB829BFF", "#FBB5B7FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MoMAColors/Flash/"> <img src="../../MoMAColors/Flash/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../beyonce/X14/"> <img src="../../beyonce/X14/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/Magenta/"> <img src="../../rcartocolor/Magenta/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -69,12 +75,6 @@ c("#2B1F6BFF", "#531F67FF", "#71195AFF", "#994C9CFF", "#DB829BFF", "#FBB5B7FF")
 </figure> <figure class="figure">
 <a href="../../PNWColors/Starfish/"> <img src="../../PNWColors/Starfish/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../vapeplot/sunset/"> <img src="../../vapeplot/sunset/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../unikn/pal_bordeaux/"> <img src="../../unikn/pal_bordeaux/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Clepticus_parrae/"> <img src="../../fishualize/Clepticus_parrae/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../vapoRwave/sunSet/"> <img src="../../vapoRwave/sunSet/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

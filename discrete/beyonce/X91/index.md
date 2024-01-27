@@ -55,6 +55,14 @@ c("#29192CFF", "#48122BFF", "#7F002FFF", "#CF0073FF", "#DB0096FF", "#E9006EFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/Pinks/"> <img src="../../PrettyCols/Pinks/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/chorinea_licursis/"> <img src="../../ButterflyColors/chorinea_licursis/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../beyonce/X120/"> <img src="../../beyonce/X120/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NineteenEightyR/hotpink/"> <img src="../../NineteenEightyR/hotpink/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -67,14 +75,6 @@ c("#29192CFF", "#48122BFF", "#7F002FFF", "#CF0073FF", "#DB0096FF", "#E9006EFF")
 </figure> <figure class="figure">
 <a href="../../nbapalettes/blazers_city2/"> <img src="../../nbapalettes/blazers_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../NineteenEightyR/cobra/"> <img src="../../NineteenEightyR/cobra/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X14/"> <img src="../../beyonce/X14/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X4/"> <img src="../../beyonce/X4/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../unikn/pal_bordeaux/"> <img src="../../unikn/pal_bordeaux/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggprism/purple_passion/"> <img src="../../ggprism/purple_passion/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ButterflyColors/fountainea_ryphea/"> <img src="../../ButterflyColors/fountainea_ryphea/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

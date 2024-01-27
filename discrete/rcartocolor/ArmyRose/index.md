@@ -55,6 +55,10 @@ c("#798234FF", "#A3AD62FF", "#D0D3A2FF", "#FDFBE4FF", "#F0C6C3FF", "#DF91A3FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../NineteenEightyR/sonny/"> <img src="../../NineteenEightyR/sonny/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/RobertDelaunay_1/"> <img src="../../lisa/RobertDelaunay_1/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -67,14 +71,10 @@ c("#798234FF", "#A3AD62FF", "#D0D3A2FF", "#FDFBE4FF", "#F0C6C3FF", "#DF91A3FF", 
 </figure> <figure class="figure">
 <a href="../../wesanderson/Royal2/"> <img src="../../wesanderson/Royal2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../wesanderson/Chevalier1/"> <img src="../../wesanderson/Chevalier1/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../wesanderson/Moonrise3/"> <img src="../../wesanderson/Moonrise3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Chaetodon_sedentarius/"> <img src="../../fishualize/Chaetodon_sedentarius/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../rcartocolor/Temps/"> <img src="../../rcartocolor/Temps/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../Redmonder/qMSOPap/"> <img src="../../Redmonder/qMSOPap/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../wesanderson/Chevalier1/"> <img src="../../wesanderson/Chevalier1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

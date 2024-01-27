@@ -55,6 +55,10 @@ c("#08221CFF", "#113719FF", "#36611BFF", "#72972FFF", "#A4B77DFF", "#CDC597FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../colRoz/l_boydii/"> <img src="../../colRoz/l_boydii/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/VanGogh3/"> <img src="../../MetBrewer/VanGogh3/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -63,6 +67,8 @@ c("#08221CFF", "#113719FF", "#36611BFF", "#72972FFF", "#A4B77DFF", "#CDC597FF")
 </figure> <figure class="figure">
 <a href="../../ochRe/jumping_frog/"> <img src="../../ochRe/jumping_frog/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../MoMAColors/Alkalay2/"> <img src="../../MoMAColors/Alkalay2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Micropterus_punctulatus/"> <img src="../../fishualize/Micropterus_punctulatus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../calecopal/redwood1/"> <img src="../../calecopal/redwood1/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -70,11 +76,5 @@ c("#08221CFF", "#113719FF", "#36611BFF", "#72972FFF", "#A4B77DFF", "#CDC597FF")
 <a href="../../colRoz/k_scurra/"> <img src="../../colRoz/k_scurra/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../calecopal/agriculture/"> <img src="../../calecopal/agriculture/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X22/"> <img src="../../beyonce/X22/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../colRoz/c_australasiae/"> <img src="../../colRoz/c_australasiae/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tvthemes/EarthKingdom/"> <img src="../../tvthemes/EarthKingdom/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

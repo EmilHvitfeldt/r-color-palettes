@@ -55,11 +55,15 @@ c("#112AC6FF", "#539BE2FF", "#161066FF", "#40234CFF", "#073F93FF", "#2C6CCCFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../beyonce/X15/"> <img src="../../beyonce/X15/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Acanthurus_chirurgus/"> <img src="../../fishualize/Acanthurus_chirurgus/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../colRoz/physalia/"> <img src="../../colRoz/physalia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Acanthurus_chirurgus/"> <img src="../../fishualize/Acanthurus_chirurgus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X13/"> <img src="../../beyonce/X13/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -72,9 +76,5 @@ c("#112AC6FF", "#539BE2FF", "#161066FF", "#40234CFF", "#073F93FF", "#2C6CCCFF", 
 <a href="../../beyonce/X31/"> <img src="../../beyonce/X31/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/mavericks/"> <img src="../../nbapalettes/mavericks/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../calecopal/sbchannel/"> <img src="../../calecopal/sbchannel/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/mavericks_alt/"> <img src="../../nbapalettes/mavericks_alt/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

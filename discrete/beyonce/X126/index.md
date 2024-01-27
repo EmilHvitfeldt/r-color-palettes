@@ -55,6 +55,10 @@ c("#484D53FF", "#737A82FF", "#A67B6BFF", "#DABFACFF", "#E7DDD3FF", "#D47DD2FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../MetBrewer/Cassatt1/"> <img src="../../MetBrewer/Cassatt1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ochRe/parliament/"> <img src="../../ochRe/parliament/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -71,10 +75,6 @@ c("#484D53FF", "#737A82FF", "#A67B6BFF", "#DABFACFF", "#E7DDD3FF", "#D47DD2FF")
 </figure> <figure class="figure">
 <a href="../../musculusColors/Bmpoop/"> <img src="../../musculusColors/Bmpoop/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Mycteroperca_bonaci/"> <img src="../../fishualize/Mycteroperca_bonaci/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../calecopal/collinsia/"> <img src="../../calecopal/collinsia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X90/"> <img src="../../beyonce/X90/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../MoMAColors/Picabia/"> <img src="../../MoMAColors/Picabia/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

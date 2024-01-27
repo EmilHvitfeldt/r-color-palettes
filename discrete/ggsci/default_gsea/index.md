@@ -55,6 +55,10 @@ c("#4500ADFF", "#2700D1FF", "#6B58EFFF", "#8888FFFF", "#C7C1FFFF", "#D5D5FFFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../RColorBrewer/RdPu/"> <img src="../../RColorBrewer/RdPu/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/prism_dark2/"> <img src="../../ggprism/prism_dark2/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -63,18 +67,14 @@ c("#4500ADFF", "#2700D1FF", "#6B58EFFF", "#8888FFFF", "#C7C1FFFF", "#D5D5FFFF", 
 </figure> <figure class="figure">
 <a href="../../tvthemes/BluebirdAzurite/"> <img src="../../tvthemes/BluebirdAzurite/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../LaCroixColoR/CranRaspberry/"> <img src="../../LaCroixColoR/CranRaspberry/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggprism/prism_dark/"> <img src="../../ggprism/prism_dark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/prism_light2/"> <img src="../../ggprism/prism_light2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../LaCroixColoR/CranRaspberry/"> <img src="../../LaCroixColoR/CranRaspberry/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../rcartocolor/ag_Sunset/"> <img src="../../rcartocolor/ag_Sunset/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../vapoRwave/avanti/"> <img src="../../vapoRwave/avanti/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../trekcolors/lcars_2379/"> <img src="../../trekcolors/lcars_2379/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggsci/pink_material/"> <img src="../../ggsci/pink_material/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,6 +55,10 @@ c("#83992AFF", "#3C9770FF", "#44709DFF", "#A23C33FF", "#D97828FF", "#DEB340FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/RobertDelaunay/"> <img src="../../lisa/RobertDelaunay/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/GeneDavis/"> <img src="../../lisa/GeneDavis/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -65,16 +69,12 @@ c("#83992AFF", "#3C9770FF", "#44709DFF", "#A23C33FF", "#D97828FF", "#DEB340FF")
 </figure> <figure class="figure">
 <a href="../../rtist/picasso/"> <img src="../../rtist/picasso/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../vangogh/Chaise/"> <img src="../../vangogh/Chaise/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/JackYoungerman/"> <img src="../../lisa/JackYoungerman/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Tiepolo/"> <img src="../../MetBrewer/Tiepolo/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/VincentvanGogh_2/"> <img src="../../lisa/VincentvanGogh_2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/Hokusai1/"> <img src="../../MetBrewer/Hokusai1/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/Egypt/"> <img src="../../MetBrewer/Egypt/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/M_C_Escher/"> <img src="../../lisa/M_C_Escher/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

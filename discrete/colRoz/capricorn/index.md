@@ -55,6 +55,10 @@ c("#2F2E0FFF", "#8D7046FF", "#67331EFF", "#844522FF", "#2A61A2FF", "#619DC1FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../beyonce/X1/"> <img src="../../beyonce/X1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/Masaccio/"> <img src="../../lisa/Masaccio/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#2F2E0FFF", "#8D7046FF", "#67331EFF", "#844522FF", "#2A61A2FF", "#619DC1FF")
 <a href="../../colRoz/m_horridus/"> <img src="../../colRoz/m_horridus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Veronese/"> <img src="../../MetBrewer/Veronese/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X6/"> <img src="../../beyonce/X6/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../colRoz/d_novae/"> <img src="../../colRoz/d_novae/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

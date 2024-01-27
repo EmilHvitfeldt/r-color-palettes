@@ -55,6 +55,10 @@ c("#A56B47FF", "#C79982FF", "#0D8EDAFF", "#23ADEDFF", "#6BC6F5FF", "#EFEFEFFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../MapPalettes/sunset/"> <img src="../../MapPalettes/sunset/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X129/"> <img src="../../beyonce/X129/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -63,18 +67,14 @@ c("#A56B47FF", "#C79982FF", "#0D8EDAFF", "#23ADEDFF", "#6BC6F5FF", "#EFEFEFFF")
 </figure> <figure class="figure">
 <a href="../../nationalparkcolors/MtRainier/"> <img src="../../nationalparkcolors/MtRainier/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../beyonce/X55/"> <img src="../../beyonce/X55/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../vangogh/SelfPortrait/"> <img src="../../vangogh/SelfPortrait/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/TealRose/"> <img src="../../rcartocolor/TealRose/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../beyonce/X55/"> <img src="../../beyonce/X55/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Xyrichthys_novacula/"> <img src="../../fishualize/Xyrichthys_novacula/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/pupitar/"> <img src="../../palettetown/pupitar/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/JosefAlbers/"> <img src="../../lisa/JosefAlbers/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X35/"> <img src="../../beyonce/X35/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ochRe/williams_pilbara/"> <img src="../../ochRe/williams_pilbara/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

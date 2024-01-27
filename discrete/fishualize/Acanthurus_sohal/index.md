@@ -55,7 +55,13 @@ c("#E96C0CFF", "#CDEE40FF", "#8BD4F7FF", "#1927DDFF", "#0D0006FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/RoyLichtenstein/"> <img src="../../lisa/RoyLichtenstein/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MexBrewer/Casita2/"> <img src="../../MexBrewer/Casita2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../jcolors/pal2/"> <img src="../../jcolors/pal2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -70,11 +76,5 @@ c("#E96C0CFF", "#CDEE40FF", "#8BD4F7FF", "#1927DDFF", "#0D0006FF")
 <a href="../../jcolors/rainbow/"> <img src="../../jcolors/rainbow/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Lakota/"> <img src="../../MetBrewer/Lakota/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../jcolors/default/"> <img src="../../jcolors/default/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Pomacanthus_paru/"> <img src="../../fishualize/Pomacanthus_paru/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../awtools/spalette/"> <img src="../../awtools/spalette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

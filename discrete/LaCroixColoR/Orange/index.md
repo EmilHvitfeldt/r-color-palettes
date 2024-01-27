@@ -55,7 +55,13 @@ c("#EF7C12FF", "#FCA315FF", "#F4B95AFF", "#1BB6AFFF", "#088BBEFF", "#172869FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../MetBrewer/Navajo/"> <img src="../../MetBrewer/Navajo/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ltc/heatmap/"> <img src="../../ltc/heatmap/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../LaCroixColoR/PeachPear/"> <img src="../../LaCroixColoR/PeachPear/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -70,11 +76,5 @@ c("#EF7C12FF", "#FCA315FF", "#F4B95AFF", "#1BB6AFFF", "#088BBEFF", "#172869FF")
 <a href="../../LaCroixColoR/Coconut/"> <img src="../../LaCroixColoR/Coconut/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Taeniura_lymma/"> <img src="../../fishualize/Taeniura_lymma/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../jcolors/pal7/"> <img src="../../jcolors/pal7/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/Hiroshige/"> <img src="../../MetBrewer/Hiroshige/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Hamulon_plumieri/"> <img src="../../fishualize/Hamulon_plumieri/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

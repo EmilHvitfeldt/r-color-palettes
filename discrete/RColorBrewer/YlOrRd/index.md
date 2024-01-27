@@ -55,6 +55,10 @@ c("#FFFFCCFF", "#FFEDA0FF", "#FED976FF", "#FEB24CFF", "#FD8D3CFF", "#FC4E2AFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../RColorBrewer/OrRd/"> <img src="../../RColorBrewer/OrRd/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../RColorBrewer/YlOrBr/"> <img src="../../RColorBrewer/YlOrBr/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -69,12 +73,8 @@ c("#FFFFCCFF", "#FFEDA0FF", "#FED976FF", "#FEB24CFF", "#FD8D3CFF", "#FC4E2AFF", 
 </figure> <figure class="figure">
 <a href="../../yarrr/southpark/"> <img src="../../yarrr/southpark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../MexBrewer/Taurus1/"> <img src="../../MexBrewer/Taurus1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../DresdenColor/skingame/"> <img src="../../DresdenColor/skingame/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../soilpalettes/podzol/"> <img src="../../soilpalettes/podzol/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X59/"> <img src="../../beyonce/X59/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/staryu/"> <img src="../../palettetown/staryu/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

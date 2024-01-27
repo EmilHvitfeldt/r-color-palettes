@@ -55,6 +55,10 @@ c("#0FB2D3FF", "#026779FF", "#368000FF", "#3D6334FF", "#6D5A18FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../NatParksPalettes/Everglades/"> <img src="../../NatParksPalettes/Everglades/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Balistes_vetula/"> <img src="../../fishualize/Balistes_vetula/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -63,18 +67,14 @@ c("#0FB2D3FF", "#026779FF", "#368000FF", "#3D6334FF", "#6D5A18FF")
 </figure> <figure class="figure">
 <a href="../../fishualize/Acanthostracion_polygonius/"> <img src="../../fishualize/Acanthostracion_polygonius/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../lisa/RichardDiebenkorn/"> <img src="../../lisa/RichardDiebenkorn/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Scarus_zelindae/"> <img src="../../fishualize/Scarus_zelindae/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../lisa/RichardDiebenkorn/"> <img src="../../lisa/RichardDiebenkorn/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../vangogh/StarryRhone/"> <img src="../../vangogh/StarryRhone/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/wsj_black_green/"> <img src="../../ggthemes/wsj_black_green/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Elagatis_bipinnulata/"> <img src="../../fishualize/Elagatis_bipinnulata/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../LaCroixColoR/Lime/"> <img src="../../LaCroixColoR/Lime/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/excel_Blue/"> <img src="../../ggthemes/excel_Blue/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/Tsimshian/"> <img src="../../MetBrewer/Tsimshian/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

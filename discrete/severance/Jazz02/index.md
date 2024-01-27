@@ -55,6 +55,10 @@ c("#6B8C81FF", "#0E171EFF", "#BD9A5AFF", "#3E2423FF", "#8797A7FF", "#393F3BFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../calecopal/sierra1/"> <img src="../../calecopal/sierra1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Pillement/"> <img src="../../MetBrewer/Pillement/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#6B8C81FF", "#0E171EFF", "#BD9A5AFF", "#3E2423FF", "#8797A7FF", "#393F3BFF")
 <a href="../../ghibli/TotoroMedium/"> <img src="../../ghibli/TotoroMedium/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../werpals/cinderella/"> <img src="../../werpals/cinderella/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../calecopal/grasswet/"> <img src="../../calecopal/grasswet/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../colRoz/v_viatica/"> <img src="../../colRoz/v_viatica/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

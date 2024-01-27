@@ -55,6 +55,10 @@ c("#99CB38FF", "#63A537FF", "#37A76FFF", "#44C1A3FF", "#4EB3CFFF", "#51C3F9FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggthemes/excel_Green/"> <img src="../../ggthemes/excel_Green/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSOGnYl/"> <img src="../../Redmonder/qMSOGnYl/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -71,10 +75,6 @@ c("#99CB38FF", "#63A537FF", "#37A76FFF", "#44C1A3FF", "#4EB3CFFF", "#51C3F9FF")
 </figure> <figure class="figure">
 <a href="../../nationalparkcolors/Voyageurs/"> <img src="../../nationalparkcolors/Voyageurs/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Gadus_morhua/"> <img src="../../fishualize/Gadus_morhua/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../rcartocolor/ag_GrnYl/"> <img src="../../rcartocolor/ag_GrnYl/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggprism/evergreen/"> <img src="../../ggprism/evergreen/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,6 +55,12 @@ c("#769370FF", "#BDB2A7FF", "#F1C646FF", "#6E687EFF", "#F17236FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../wesanderson/AsteroidCity3/"> <img src="../../wesanderson/AsteroidCity3/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggthemes/excel_Badge/"> <img src="../../ggthemes/excel_Badge/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/M_C_Escher/"> <img src="../../lisa/M_C_Escher/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -63,18 +69,12 @@ c("#769370FF", "#BDB2A7FF", "#F1C646FF", "#6E687EFF", "#F17236FF")
 </figure> <figure class="figure">
 <a href="../../colRoz/desert_sunset/"> <img src="../../colRoz/desert_sunset/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggthemes/excel_Paper/"> <img src="../../ggthemes/excel_Paper/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../lisa/JackYoungerman/"> <img src="../../lisa/JackYoungerman/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggthemes/excel_Paper/"> <img src="../../ggthemes/excel_Paper/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSOMrq/"> <img src="../../Redmonder/qMSOMrq/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/PabloPicasso_1/"> <img src="../../lisa/PabloPicasso_1/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../rtist/picasso/"> <img src="../../rtist/picasso/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/WinslowHomer/"> <img src="../../lisa/WinslowHomer/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/excel_Office_Theme/"> <img src="../../ggthemes/excel_Office_Theme/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

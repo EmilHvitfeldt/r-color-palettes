@@ -55,6 +55,10 @@ c("#1C144DFF", "#1A154DFF", "#1D164CFF", "#1A174EFF", "#393593FF", "#373894FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../beyonce/X76/"> <img src="../../beyonce/X76/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../peRReo/ivyqueen/"> <img src="../../peRReo/ivyqueen/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -67,14 +71,10 @@ c("#1C144DFF", "#1A154DFF", "#1D164CFF", "#1A174EFF", "#393593FF", "#373894FF", 
 </figure> <figure class="figure">
 <a href="../../peRReo/natti/"> <img src="../../peRReo/natti/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../MetBrewer/Troy/"> <img src="../../MetBrewer/Troy/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../MoMAColors/Panton/"> <img src="../../MoMAColors/Panton/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/suns_city/"> <img src="../../nbapalettes/suns_city/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../NatParksPalettes/DeathValley/"> <img src="../../NatParksPalettes/DeathValley/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X14/"> <img src="../../beyonce/X14/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Clepticus_parrae/"> <img src="../../fishualize/Clepticus_parrae/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../MetBrewer/Troy/"> <img src="../../MetBrewer/Troy/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

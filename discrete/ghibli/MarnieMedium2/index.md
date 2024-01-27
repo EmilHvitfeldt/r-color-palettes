@@ -55,6 +55,10 @@ c("#1D271CFF", "#274637FF", "#2C715FFF", "#44A57CFF", "#819A7AFF", "#58A449FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../werpals/monet/"> <img src="../../werpals/monet/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ochRe/jumping_frog/"> <img src="../../ochRe/jumping_frog/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#1D271CFF", "#274637FF", "#2C715FFF", "#44A57CFF", "#819A7AFF", "#58A449FF", 
 <a href="../../Redmonder/qMSOGnYl/"> <img src="../../Redmonder/qMSOGnYl/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSOGn/"> <img src="../../Redmonder/qMSOGn/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/RichardDiebenkorn/"> <img src="../../lisa/RichardDiebenkorn/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../yarrr/ohbrother/"> <img src="../../yarrr/ohbrother/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

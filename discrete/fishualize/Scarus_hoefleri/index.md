@@ -55,6 +55,10 @@ c("#D2372CFF", "#F3800AFF", "#DFC137FF", "#00D174FF", "#0499EAFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggthemes/excel_Vapor_Trail/"> <img src="../../ggthemes/excel_Vapor_Trail/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../wesanderson/Darjeeling1/"> <img src="../../wesanderson/Darjeeling1/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -63,18 +67,14 @@ c("#D2372CFF", "#F3800AFF", "#DFC137FF", "#00D174FF", "#0499EAFF")
 </figure> <figure class="figure">
 <a href="../../fishualize/Lepomis_megalotis/"> <img src="../../fishualize/Lepomis_megalotis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../yarrr/espresso/"> <img src="../../yarrr/espresso/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../MetBrewer/Egypt/"> <img src="../../MetBrewer/Egypt/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../yarrr/espresso/"> <img src="../../yarrr/espresso/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../vangogh/Chaise/"> <img src="../../vangogh/Chaise/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/JackBush/"> <img src="../../lisa/JackBush/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../PNWColors/Bay/"> <img src="../../PNWColors/Bay/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/JackYoungerman/"> <img src="../../lisa/JackYoungerman/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/RobertDelaunay/"> <img src="../../lisa/RobertDelaunay/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../wesanderson/FantasticFox1/"> <img src="../../wesanderson/FantasticFox1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

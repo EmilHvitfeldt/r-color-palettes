@@ -55,6 +55,10 @@ c("#393B79FF", "#637939FF", "#8C6D31FF", "#843C39FF", "#7B4173FF", "#5254A3FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggthemes/manyeys/"> <img src="../../ggthemes/manyeys/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/Hue_Circle/"> <img src="../../ggthemes/Hue_Circle/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -69,12 +73,8 @@ c("#393B79FF", "#637939FF", "#8C6D31FF", "#843C39FF", "#7B4173FF", "#5254A3FF", 
 </figure> <figure class="figure">
 <a href="../../rcartocolor/Vivid/"> <img src="../../rcartocolor/Vivid/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ggsci/flattastic_flatui/"> <img src="../../ggsci/flattastic_flatui/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../MetBrewer/Renoir/"> <img src="../../MetBrewer/Renoir/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/rattata/"> <img src="../../palettetown/rattata/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../impressionist.colors/un_dimanche_apres_midi_a_l_ile_de_la_grande_jatte/"> <img src="../../impressionist.colors/un_dimanche_apres_midi_a_l_ile_de_la_grande_jatte/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/Classic_Cyclic/"> <img src="../../ggthemes/Classic_Cyclic/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

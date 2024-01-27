@@ -55,6 +55,12 @@ c("#65150BFF", "#961F1FFF", "#C0431FFF", "#F19425FF", "#C59349FF", "#533D14FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/marpesia_petreus/"> <img src="../../ButterflyColors/marpesia_petreus/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../rockthemes/alice/"> <img src="../../rockthemes/alice/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Gauguin/"> <img src="../../MetBrewer/Gauguin/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -65,16 +71,10 @@ c("#65150BFF", "#961F1FFF", "#C0431FFF", "#F19425FF", "#C59349FF", "#533D14FF")
 </figure> <figure class="figure">
 <a href="../../nbapalettes/supersonics_90s/"> <img src="../../nbapalettes/supersonics_90s/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../MexBrewer/Taurus1/"> <img src="../../MexBrewer/Taurus1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Pareiorhaphis_garbei/"> <img src="../../fishualize/Pareiorhaphis_garbei/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../miscpalettes/chocolate/"> <img src="../../miscpalettes/chocolate/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Dermatolepis_inermis/"> <img src="../../fishualize/Dermatolepis_inermis/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Pleuronectes_platessa/"> <img src="../../fishualize/Pleuronectes_platessa/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../colRoz/v_pilbarensis/"> <img src="../../colRoz/v_pilbarensis/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/nuggets_city/"> <img src="../../nbapalettes/nuggets_city/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ButterflyColors/smyrna_blomfidiana/"> <img src="../../ButterflyColors/smyrna_blomfidiana/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

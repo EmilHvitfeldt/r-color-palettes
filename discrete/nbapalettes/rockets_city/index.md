@@ -55,6 +55,10 @@ c("#0C2340FF", "#418FDEFF", "#BA0C2FFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nbapalettes/hawks_retro/"> <img src="../../nbapalettes/hawks_retro/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/clippers_retro/"> <img src="../../nbapalettes/clippers_retro/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -69,12 +73,8 @@ c("#0C2340FF", "#418FDEFF", "#BA0C2FFF")
 </figure> <figure class="figure">
 <a href="../../nbapalettes/sixers_retro/"> <img src="../../nbapalettes/sixers_retro/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nbapalettes/raptors_statement/"> <img src="../../nbapalettes/raptors_statement/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../nbapalettes/pelicans/"> <img src="../../nbapalettes/pelicans/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nbapalettes/knicks_retro/"> <img src="../../nbapalettes/knicks_retro/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/magic/"> <img src="../../nbapalettes/magic/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../nbapalettes/raptors_statement/"> <img src="../../nbapalettes/raptors_statement/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

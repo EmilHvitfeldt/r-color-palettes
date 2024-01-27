@@ -55,6 +55,10 @@ c("#2F86FFFF", "#EBAB16FF", "#DE0012FF", "#22C408FF", "#FECDAAFF", "#F14809FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../yarrr/espresso/"> <img src="../../yarrr/espresso/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/Charmonix/"> <img src="../../NatParksPalettes/Charmonix/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -65,16 +69,12 @@ c("#2F86FFFF", "#EBAB16FF", "#DE0012FF", "#22C408FF", "#FECDAAFF", "#F14809FF")
 </figure> <figure class="figure">
 <a href="../../lisa/PaulGauguin/"> <img src="../../lisa/PaulGauguin/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../MoMAColors/OKeeffe/"> <img src="../../MoMAColors/OKeeffe/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../PNWColors/Bay/"> <img src="../../PNWColors/Bay/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Scarus_hoefleri/"> <img src="../../fishualize/Scarus_hoefleri/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../soilpalettes/podzol/"> <img src="../../soilpalettes/podzol/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/Traffic/"> <img src="../../ggthemes/Traffic/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/Navajo/"> <img src="../../MetBrewer/Navajo/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../LaCroixColoR/KiwiSandia/"> <img src="../../LaCroixColoR/KiwiSandia/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

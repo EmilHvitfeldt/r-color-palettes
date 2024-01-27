@@ -55,6 +55,10 @@ c("#010101FF", "#FFB81CFF", "#DA291CFF", "#004C97FF", "#418FDEFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/KazimirMalevich/"> <img src="../../lisa/KazimirMalevich/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/nuggets_city2/"> <img src="../../nbapalettes/nuggets_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -63,6 +67,8 @@ c("#010101FF", "#FFB81CFF", "#DA291CFF", "#004C97FF", "#418FDEFF")
 </figure> <figure class="figure">
 <a href="../../fishualize/Pseudochromis_aldabraensis/"> <img src="../../fishualize/Pseudochromis_aldabraensis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../PrettyCols/Lively/"> <img src="../../PrettyCols/Lively/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nbapalettes/knicks_city/"> <img src="../../nbapalettes/knicks_city/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ghibli/MononokeMedium/"> <img src="../../ghibli/MononokeMedium/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -70,11 +76,5 @@ c("#010101FF", "#FFB81CFF", "#DA291CFF", "#004C97FF", "#418FDEFF")
 <a href="../../nbapalettes/timberwolves_classic/"> <img src="../../nbapalettes/timberwolves_classic/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/Volcanoes/"> <img src="../../NatParksPalettes/Volcanoes/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/few_Dark/"> <img src="../../ggthemes/few_Dark/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../colRoz/desert_dusk/"> <img src="../../colRoz/desert_dusk/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X78/"> <img src="../../beyonce/X78/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

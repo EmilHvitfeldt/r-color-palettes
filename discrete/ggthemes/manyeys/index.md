@@ -55,6 +55,10 @@ c("#9C9EDEFF", "#7375B5FF", "#4A5584FF", "#CEDB9CFF", "#B5CF6BFF", "#8CA252FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggsci/category20b_d3/"> <img src="../../ggsci/category20b_d3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Signac/"> <img src="../../MetBrewer/Signac/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -65,16 +69,12 @@ c("#9C9EDEFF", "#7375B5FF", "#4A5584FF", "#CEDB9CFF", "#B5CF6BFF", "#8CA252FF", 
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Redon/"> <img src="../../MetBrewer/Redon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../IslamicArt/shiraz2/"> <img src="../../IslamicArt/shiraz2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../impressionist.colors/un_dimanche_apres_midi_a_l_ile_de_la_grande_jatte/"> <img src="../../impressionist.colors/un_dimanche_apres_midi_a_l_ile_de_la_grande_jatte/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../IslamicArt/shiraz2/"> <img src="../../IslamicArt/shiraz2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/Tableau_20/"> <img src="../../ggthemes/Tableau_20/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../DresdenColor/paired/"> <img src="../../DresdenColor/paired/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/rattata/"> <img src="../../palettetown/rattata/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../rcartocolor/Vivid/"> <img src="../../rcartocolor/Vivid/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ggsci/flattastic_flatui/"> <img src="../../ggsci/flattastic_flatui/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

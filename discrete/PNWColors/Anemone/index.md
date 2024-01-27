@@ -55,6 +55,10 @@ c("#009474FF", "#11C2B5FF", "#72E1E1FF", "#F1F4EEFF", "#EFDDCFFF", "#DCBE9BFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../wesanderson/Moonrise3/"> <img src="../../wesanderson/Moonrise3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nationalparkcolors/Yellowstone/"> <img src="../../nationalparkcolors/Yellowstone/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#009474FF", "#11C2B5FF", "#72E1E1FF", "#F1F4EEFF", "#EFDDCFFF", "#DCBE9BFF", 
 <a href="../../trekcolors/ferengi/"> <img src="../../trekcolors/ferengi/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X54/"> <img src="../../beyonce/X54/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../dichromat/BrowntoBlue_10/"> <img src="../../dichromat/BrowntoBlue_10/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../colorBlindness/Brown2Blue10Steps/"> <img src="../../colorBlindness/Brown2Blue10Steps/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

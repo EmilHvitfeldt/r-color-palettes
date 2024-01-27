@@ -55,6 +55,10 @@ c("#E7E6E6FF", "#44546AFF", "#5B9BD5FF", "#ED7D31FF", "#A5A5A5FF", "#FFC000FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggthemr/earth/"> <img src="../../ggthemr/earth/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSO12/"> <img src="../../Redmonder/qMSO12/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#E7E6E6FF", "#44546AFF", "#5B9BD5FF", "#ED7D31FF", "#A5A5A5FF", "#FFC000FF", 
 <a href="../../werpals/jozi/"> <img src="../../werpals/jozi/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/Tableau_10/"> <img src="../../ggthemes/Tableau_10/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../awtools/mpalette/"> <img src="../../awtools/mpalette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/kirlia/"> <img src="../../palettetown/kirlia/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

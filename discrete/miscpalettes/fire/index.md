@@ -55,6 +55,10 @@ c("#FFD700FF", "#FF0000FF", "#FF1493FF", "#DC143CFF", "#FF8C00FF", "#FF00FFFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../yarrr/basel/"> <img src="../../yarrr/basel/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../RSkittleBrewer/smarties/"> <img src="../../RSkittleBrewer/smarties/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -65,16 +69,12 @@ c("#FFD700FF", "#FF0000FF", "#FF1493FF", "#DC143CFF", "#FF8C00FF", "#FF00FFFF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/starmie/"> <img src="../../palettetown/starmie/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggthemes/Classic_Cyclic/"> <img src="../../ggthemes/Classic_Cyclic/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../ggprism/stained_glass/"> <img src="../../ggprism/stained_glass/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggthemes/Classic_Cyclic/"> <img src="../../ggthemes/Classic_Cyclic/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/gdoc/"> <img src="../../ggthemes/gdoc/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Atlas/"> <img src="../../ggthemes/excel_Atlas/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/teamrocket/"> <img src="../../palettetown/teamrocket/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Callanthias_australis/"> <img src="../../fishualize/Callanthias_australis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

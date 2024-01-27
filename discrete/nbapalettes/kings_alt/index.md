@@ -55,6 +55,10 @@ c("#753BBDFF", "#8D9093FF", "#010101FF", "#003DA5FF", "#D50032FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nbapalettes/sixers/"> <img src="../../nbapalettes/sixers/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/raptors_original/"> <img src="../../nbapalettes/raptors_original/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#753BBDFF", "#8D9093FF", "#010101FF", "#003DA5FF", "#D50032FF")
 <a href="../../nbapalettes/jazz_retro/"> <img src="../../nbapalettes/jazz_retro/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X37/"> <img src="../../beyonce/X37/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/clippers_city/"> <img src="../../nbapalettes/clippers_city/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../colRoz/c_azureus/"> <img src="../../colRoz/c_azureus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

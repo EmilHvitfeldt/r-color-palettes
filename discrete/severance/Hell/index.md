@@ -55,6 +55,10 @@ c("#9BAAAFFF", "#11304FFF", "#989B6CFF", "#3F4738FF", "#195972FF", "#4D251DFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../colRoz/i_lesueurii/"> <img src="../../colRoz/i_lesueurii/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Manu/Korimako/"> <img src="../../Manu/Korimako/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -65,16 +69,12 @@ c("#9BAAAFFF", "#11304FFF", "#989B6CFF", "#3F4738FF", "#195972FF", "#4D251DFF")
 </figure> <figure class="figure">
 <a href="../../futurevisions/hd/"> <img src="../../futurevisions/hd/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Oncorhynchus_nerka/"> <img src="../../fishualize/Oncorhynchus_nerka/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../futurevisions/jupiter/"> <img src="../../futurevisions/jupiter/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Oncorhynchus_nerka/"> <img src="../../fishualize/Oncorhynchus_nerka/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Manu/Kereru_orig/"> <img src="../../Manu/Kereru_orig/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../NatParksPalettes/RockyMtn/"> <img src="../../NatParksPalettes/RockyMtn/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../calecopal/sierra1/"> <img src="../../calecopal/sierra1/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/Pillement/"> <img src="../../MetBrewer/Pillement/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,6 +55,10 @@ c("#FB771DFF", "#FEFB0FFF", "#8BEB83FF", "#04C4F8FF", "#1914CEFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Cirrhilabrus_solorensis/"> <img src="../../fishualize/Cirrhilabrus_solorensis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Holacanthus_ciliaris/"> <img src="../../fishualize/Holacanthus_ciliaris/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -63,6 +67,8 @@ c("#FB771DFF", "#FEFB0FFF", "#8BEB83FF", "#04C4F8FF", "#1914CEFF")
 </figure> <figure class="figure">
 <a href="../../jcolors/pal3/"> <img src="../../jcolors/pal3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../MoMAColors/Budnitz/"> <img src="../../MoMAColors/Budnitz/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../LaCroixColoR/PommeBaya/"> <img src="../../LaCroixColoR/PommeBaya/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Stethojulis_bandanensis/"> <img src="../../fishualize/Stethojulis_bandanensis/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -70,11 +76,5 @@ c("#FB771DFF", "#FEFB0FFF", "#8BEB83FF", "#04C4F8FF", "#1914CEFF")
 <a href="../../jcolors/default/"> <img src="../../jcolors/default/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../jcolors/pal2/"> <img src="../../jcolors/pal2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/BillyApple/"> <img src="../../lisa/BillyApple/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/excel_Slipstream/"> <img src="../../ggthemes/excel_Slipstream/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../LaCroixColoR/Lemon/"> <img src="../../LaCroixColoR/Lemon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

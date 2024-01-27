@@ -55,6 +55,10 @@ c("#07646DFF", "#45837FFF", "#699896FF", "#E394BBFF", "#DE6DA7FF", "#D4419EFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../MapPalettes/tealberry_pie/"> <img src="../../MapPalettes/tealberry_pie/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../LaCroixColoR/Berry/"> <img src="../../LaCroixColoR/Berry/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#07646DFF", "#45837FFF", "#699896FF", "#E394BBFF", "#DE6DA7FF", "#D4419EFF")
 <a href="../../beyonce/X49/"> <img src="../../beyonce/X49/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Scarus_globiceps/"> <img src="../../fishualize/Scarus_globiceps/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/hornets2/"> <img src="../../nbapalettes/hornets2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tvthemes/RoseQuartz/"> <img src="../../tvthemes/RoseQuartz/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

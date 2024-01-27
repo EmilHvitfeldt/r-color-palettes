@@ -55,6 +55,10 @@ c("#B0D070FF", "#584848FF", "#C0F890FF", "#809080FF", "#98B098FF", "#C05030FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../impressionist.colors/la_sieste/"> <img src="../../impressionist.colors/la_sieste/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/camerupt/"> <img src="../../palettetown/camerupt/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -69,12 +73,8 @@ c("#B0D070FF", "#584848FF", "#C0F890FF", "#809080FF", "#98B098FF", "#C05030FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/koffing/"> <img src="../../palettetown/koffing/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/shiftry/"> <img src="../../palettetown/shiftry/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../palettetown/xatu/"> <img src="../../palettetown/xatu/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/beedrill/"> <img src="../../palettetown/beedrill/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/flygon/"> <img src="../../palettetown/flygon/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../palettetown/shiftry/"> <img src="../../palettetown/shiftry/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

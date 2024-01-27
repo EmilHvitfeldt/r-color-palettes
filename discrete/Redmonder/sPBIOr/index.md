@@ -55,6 +55,10 @@ c("#FDF5F1FF", "#EDE0D9FF", "#DECBC2FF", "#CEB5AAFF", "#BEA092FF", "#AE8B7AFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../beyonce/X55/"> <img src="../../beyonce/X55/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/sPBIRd/"> <img src="../../Redmonder/sPBIRd/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#FDF5F1FF", "#EDE0D9FF", "#DECBC2FF", "#CEB5AAFF", "#BEA092FF", "#AE8B7AFF", 
 <a href="../../miscpalettes/beach/"> <img src="../../miscpalettes/beach/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Esox_lucius/"> <img src="../../fishualize/Esox_lucius/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../impressionist.colors/chanteuse_de_cafe_concert/"> <img src="../../impressionist.colors/chanteuse_de_cafe_concert/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X50/"> <img src="../../beyonce/X50/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

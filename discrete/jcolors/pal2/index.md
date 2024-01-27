@@ -27,7 +27,7 @@ categories:
 {{< fa brands r-project size=3x >}}
 **CRAN**
 
-[jcolors](https://CRAN.R-project.org/package=jcolors)
+Not on CRAN
 :::
 :::
 
@@ -55,11 +55,17 @@ c("#3E71A8FF", "#CEFF1AFF", "#870E75FF", "#FE6900FF", "#0BB19FFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Coris_gaimard/"> <img src="../../fishualize/Coris_gaimard/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../jcolors/pal3/"> <img src="../../jcolors/pal3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../jcolors/default/"> <img src="../../jcolors/default/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../vangogh/StarryNight/"> <img src="../../vangogh/StarryNight/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Cirrhilabrus_solorensis/"> <img src="../../fishualize/Cirrhilabrus_solorensis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -70,11 +76,5 @@ c("#3E71A8FF", "#CEFF1AFF", "#870E75FF", "#FE6900FF", "#0BB19FFF")
 <a href="../../RSkittleBrewer/original/"> <img src="../../RSkittleBrewer/original/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/BillyApple/"> <img src="../../lisa/BillyApple/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../yarrr/google/"> <img src="../../yarrr/google/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../basetheme/deepblue/"> <img src="../../basetheme/deepblue/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../futurevisions/atomic_clock/"> <img src="../../futurevisions/atomic_clock/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

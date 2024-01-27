@@ -55,6 +55,10 @@ c("#BDE9C9FF", "#25282AFF", "#C6AA76FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../futurevisions/atomic_blue/"> <img src="../../futurevisions/atomic_blue/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/pacers/"> <img src="../../nbapalettes/pacers/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -67,14 +71,10 @@ c("#BDE9C9FF", "#25282AFF", "#C6AA76FF")
 </figure> <figure class="figure">
 <a href="../../nbapalettes/hawks_statement/"> <img src="../../nbapalettes/hawks_statement/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../impressionist.colors/pres_du_lac/"> <img src="../../impressionist.colors/pres_du_lac/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../wesanderson/Darjeeling2/"> <img src="../../wesanderson/Darjeeling2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../impressionist.colors/pres_du_lac/"> <img src="../../impressionist.colors/pres_du_lac/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/castform/"> <img src="../../palettetown/castform/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/bulls_city/"> <img src="../../nbapalettes/bulls_city/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/bucks_00s/"> <img src="../../nbapalettes/bucks_00s/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

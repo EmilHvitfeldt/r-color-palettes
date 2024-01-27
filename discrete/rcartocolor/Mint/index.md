@@ -55,6 +55,10 @@ c("#E4F1E1FF", "#B4D9CCFF", "#89C0B6FF", "#63A6A0FF", "#448C8AFF", "#287274FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../Redmonder/sPBIGn/"> <img src="../../Redmonder/sPBIGn/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/DarkMint/"> <img src="../../rcartocolor/DarkMint/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -63,6 +67,8 @@ c("#E4F1E1FF", "#B4D9CCFF", "#89C0B6FF", "#63A6A0FF", "#448C8AFF", "#287274FF", 
 </figure> <figure class="figure">
 <a href="../../rcartocolor/BluGrn/"> <img src="../../rcartocolor/BluGrn/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../PrettyCols/Teals/"> <img src="../../PrettyCols/Teals/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../rcartocolor/Teal/"> <img src="../../rcartocolor/Teal/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSOBu2/"> <img src="../../Redmonder/qMSOBu2/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -70,11 +76,5 @@ c("#E4F1E1FF", "#B4D9CCFF", "#89C0B6FF", "#63A6A0FF", "#448C8AFF", "#287274FF", 
 <a href="../../miscpalettes/seaGreen/"> <img src="../../miscpalettes/seaGreen/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/pineco/"> <img src="../../palettetown/pineco/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../RColorBrewer/GnBu/"> <img src="../../RColorBrewer/GnBu/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../trekcolors/romulan2/"> <img src="../../trekcolors/romulan2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Sardinella_brasiliensis/"> <img src="../../fishualize/Sardinella_brasiliensis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

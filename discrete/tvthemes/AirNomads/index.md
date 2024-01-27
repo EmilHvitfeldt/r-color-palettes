@@ -55,9 +55,17 @@ c("#FF9933FF", "#C24841FF", "#FFFF33FF", "#8B5B45FF", "#87AFD1FF", "#EEB05AFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggthemes/Summer/"> <img src="../../ggthemes/Summer/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../wesanderson/Zissou1Continuous/"> <img src="../../wesanderson/Zissou1Continuous/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggthemes/Classic_Traffic_Light/"> <img src="../../ggthemes/Classic_Traffic_Light/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MoMAColors/ustwo/"> <img src="../../MoMAColors/ustwo/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/M_C_Escher/"> <img src="../../lisa/M_C_Escher/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -68,13 +76,5 @@ c("#FF9933FF", "#C24841FF", "#FFFF33FF", "#8B5B45FF", "#87AFD1FF", "#EEB05AFF", 
 <a href="../../fishualize/Salmo_salar/"> <img src="../../fishualize/Salmo_salar/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../vapoRwave/jwz/"> <img src="../../vapoRwave/jwz/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/JackYoungerman/"> <img src="../../lisa/JackYoungerman/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/Traffic/"> <img src="../../ggthemes/Traffic/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../wesanderson/FantasticFox1/"> <img src="../../wesanderson/FantasticFox1/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../rcartocolor/Geyser/"> <img src="../../rcartocolor/Geyser/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

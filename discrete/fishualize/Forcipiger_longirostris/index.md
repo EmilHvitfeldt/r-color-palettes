@@ -55,6 +55,10 @@ c("#E3B01DFF", "#FEFB29FF", "#BBD84EFF", "#AFE8FCFF", "#696C8FFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../tvthemes/Tyrell/"> <img src="../../tvthemes/Tyrell/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Isfahan2/"> <img src="../../MetBrewer/Isfahan2/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#E3B01DFF", "#FEFB29FF", "#BBD84EFF", "#AFE8FCFF", "#696C8FFF")
 <a href="../../khroma/light/"> <img src="../../khroma/light/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/spring2/"> <img src="../../ggprism/spring2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Myrichthys_ocellatus/"> <img src="../../fishualize/Myrichthys_ocellatus/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/excel_Madison/"> <img src="../../ggthemes/excel_Madison/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

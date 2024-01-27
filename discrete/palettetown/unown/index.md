@@ -55,6 +55,10 @@ c("#707070FF", "#505050FF", "#F8F8F8FF", "#D8D8D8FF", "#A0A0A0FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/onix/"> <img src="../../palettetown/onix/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Grayscale/"> <img src="../../ggthemes/excel_Grayscale/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#707070FF", "#505050FF", "#F8F8F8FF", "#D8D8D8FF", "#A0A0A0FF")
 <a href="../../fishualize/Mugil_liza/"> <img src="../../fishualize/Mugil_liza/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/grey_material/"> <img src="../../ggsci/grey_material/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nationalparkcolors/GrandTeton/"> <img src="../../nationalparkcolors/GrandTeton/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../calecopal/coastaldune1/"> <img src="../../calecopal/coastaldune1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

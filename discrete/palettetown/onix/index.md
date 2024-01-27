@@ -55,6 +55,10 @@ c("#807878FF", "#B8B0B0FF", "#D8D0D0FF", "#504848FF", "#F0E8E8FF", "#F8F8F8FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/unown/"> <img src="../../palettetown/unown/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../musculusColors/ErFluke/"> <img src="../../musculusColors/ErFluke/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -71,10 +75,6 @@ c("#807878FF", "#B8B0B0FF", "#D8D0D0FF", "#504848FF", "#F0E8E8FF", "#F8F8F8FF")
 </figure> <figure class="figure">
 <a href="../../fishualize/Atherinella_brasiliensis/"> <img src="../../fishualize/Atherinella_brasiliensis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggsci/grey_material/"> <img src="../../ggsci/grey_material/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../palettetown/dewgong/"> <img src="../../palettetown/dewgong/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../awtools/gpalette/"> <img src="../../awtools/gpalette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

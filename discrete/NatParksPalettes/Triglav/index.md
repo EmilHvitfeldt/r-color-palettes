@@ -55,7 +55,15 @@ c("#386EC2FF", "#B5B5B2FF", "#990006FF", "#625D0AFF", "#B9741FFF", "#213958FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../Redmonder/qMSOAsp/"> <img src="../../Redmonder/qMSOAsp/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ltc/pantone23/"> <img src="../../ltc/pantone23/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ltc/minou/"> <img src="../../ltc/minou/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../werpals/small_world/"> <img src="../../werpals/small_world/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -65,16 +73,8 @@ c("#386EC2FF", "#B5B5B2FF", "#990006FF", "#625D0AFF", "#B9741FFF", "#213958FF")
 </figure> <figure class="figure">
 <a href="../../nbapalettes/pistons_90s/"> <img src="../../nbapalettes/pistons_90s/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../lisa/HilmaafKlint/"> <img src="../../lisa/HilmaafKlint/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../PrettyCols/TangerineBlues/"> <img src="../../PrettyCols/TangerineBlues/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nbapalettes/knicks_holiday/"> <img src="../../nbapalettes/knicks_holiday/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/startersDark/"> <img src="../../palettetown/startersDark/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../NatParksPalettes/GrandCanyon/"> <img src="../../NatParksPalettes/GrandCanyon/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/Moreau/"> <img src="../../MetBrewer/Moreau/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggsci/default_jco/"> <img src="../../ggsci/default_jco/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../waRhol/skull_77/"> <img src="../../waRhol/skull_77/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

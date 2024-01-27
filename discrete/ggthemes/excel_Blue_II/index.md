@@ -55,6 +55,10 @@ c("#1CADE4FF", "#2683C6FF", "#27CED7FF", "#42BA97FF", "#3E8853FF", "#62A39FFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggthemes/excel_Integral/"> <img src="../../ggthemes/excel_Integral/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Savon/"> <img src="../../ggthemes/excel_Savon/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -67,14 +71,10 @@ c("#1CADE4FF", "#2683C6FF", "#27CED7FF", "#42BA97FF", "#3E8853FF", "#62A39FFF")
 </figure> <figure class="figure">
 <a href="../../palettetown/pineco/"> <img src="../../palettetown/pineco/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../NatParksPalettes/Banff/"> <img src="../../NatParksPalettes/Banff/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../fishualize/Parablennius_pilicornis/"> <img src="../../fishualize/Parablennius_pilicornis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../NatParksPalettes/Banff/"> <img src="../../NatParksPalettes/Banff/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../musculusColors/Bmlunge/"> <img src="../../musculusColors/Bmlunge/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../Redmonder/qMSOBu2/"> <img src="../../Redmonder/qMSOBu2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../rcartocolor/Mint/"> <img src="../../rcartocolor/Mint/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

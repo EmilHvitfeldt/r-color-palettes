@@ -55,6 +55,10 @@ c("#041E42FF", "#69B3E7FF", "#C8102EFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nbapalettes/rockets_city/"> <img src="../../nbapalettes/rockets_city/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/clippers_retro/"> <img src="../../nbapalettes/clippers_retro/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#041E42FF", "#69B3E7FF", "#C8102EFF")
 <a href="../../ggthemes/wsj_red_green/"> <img src="../../ggthemes/wsj_red_green/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/warriors_city/"> <img src="../../nbapalettes/warriors_city/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../futurevisions/atomic_red/"> <img src="../../futurevisions/atomic_red/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/cavaliers_retro/"> <img src="../../nbapalettes/cavaliers_retro/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

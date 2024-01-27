@@ -55,6 +55,10 @@ c("#005A00FF", "#099963FF", "#00C000FF", "#008000FF", "#05BE78FF", "#099963FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggthemes/excel_Green/"> <img src="../../ggthemes/excel_Green/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Green_Yellow/"> <img src="../../ggthemes/excel_Green_Yellow/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -71,10 +75,6 @@ c("#005A00FF", "#099963FF", "#00C000FF", "#008000FF", "#05BE78FF", "#099963FF", 
 </figure> <figure class="figure">
 <a href="../../fishualize/Parablennius_pilicornis/"> <img src="../../fishualize/Parablennius_pilicornis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../rcartocolor/TealGrn/"> <img src="../../rcartocolor/TealGrn/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../rcartocolor/ag_GrnYl/"> <img src="../../rcartocolor/ag_GrnYl/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../LaCroixColoR/Lime/"> <img src="../../LaCroixColoR/Lime/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

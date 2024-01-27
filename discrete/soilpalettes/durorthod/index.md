@@ -55,6 +55,10 @@ c("#2C0C00FF", "#803C15FF", "#C6782CFF", "#FFA91DFF", "#FFF3ADFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../soilpalettes/natrudoll/"> <img src="../../soilpalettes/natrudoll/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X16/"> <img src="../../beyonce/X16/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -63,6 +67,8 @@ c("#2C0C00FF", "#803C15FF", "#C6782CFF", "#FFA91DFF", "#FFF3ADFF")
 </figure> <figure class="figure">
 <a href="../../soilpalettes/podzol/"> <img src="../../soilpalettes/podzol/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../MexBrewer/Naturaleza/"> <img src="../../MexBrewer/Naturaleza/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../colRoz/a_westwoodi/"> <img src="../../colRoz/a_westwoodi/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Greek/"> <img src="../../MetBrewer/Greek/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -70,11 +76,5 @@ c("#2C0C00FF", "#803C15FF", "#C6782CFF", "#FFA91DFF", "#FFF3ADFF")
 <a href="../../colRoz/a_ramsayi/"> <img src="../../colRoz/a_ramsayi/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../werpals/halong/"> <img src="../../werpals/halong/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Antennarius_multiocellatus/"> <img src="../../fishualize/Antennarius_multiocellatus/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../NineteenEightyR/seventies_aint_done_yet/"> <img src="../../NineteenEightyR/seventies_aint_done_yet/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X86/"> <img src="../../beyonce/X86/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

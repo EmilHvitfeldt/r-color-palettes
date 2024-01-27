@@ -55,6 +55,10 @@ c("#6D62AFFF", "#163885FF", "#41DEFFFF", "#A9FC21FF", "#107E68FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../NatParksPalettes/Denali/"> <img src="../../NatParksPalettes/Denali/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/viridis/"> <img src="../../ggprism/viridis/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#6D62AFFF", "#163885FF", "#41DEFFFF", "#A9FC21FF", "#107E68FF")
 <a href="../../LaCroixColoR/Lime/"> <img src="../../LaCroixColoR/Lime/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MapPalettes/green_machine/"> <img src="../../MapPalettes/green_machine/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../RColorBrewer/YlGnBu/"> <img src="../../RColorBrewer/YlGnBu/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Pomacanthus_xanthometopon/"> <img src="../../fishualize/Pomacanthus_xanthometopon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

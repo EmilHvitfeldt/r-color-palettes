@@ -55,6 +55,10 @@ c("#94B6D2FF", "#DD8047FF", "#A5AB81FF", "#D8B25CFF", "#7BA79DFF", "#968C8CFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../Redmonder/qMSOMed/"> <img src="../../Redmonder/qMSOMed/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../calecopal/chaparral1/"> <img src="../../calecopal/chaparral1/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -65,16 +69,12 @@ c("#94B6D2FF", "#DD8047FF", "#A5AB81FF", "#D8B25CFF", "#7BA79DFF", "#968C8CFF")
 </figure> <figure class="figure">
 <a href="../../lisa/FernandoBotero/"> <img src="../../lisa/FernandoBotero/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../lisa/J_M_W_Turner/"> <img src="../../lisa/J_M_W_Turner/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../nationalparkcolors/BryceCanyon/"> <img src="../../nationalparkcolors/BryceCanyon/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../lisa/J_M_W_Turner/"> <img src="../../lisa/J_M_W_Turner/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/JeffKoons/"> <img src="../../lisa/JeffKoons/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../lisa/SandroBotticelli/"> <img src="../../lisa/SandroBotticelli/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../ggthemes/excel_Parcel/"> <img src="../../ggthemes/excel_Parcel/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../calecopal/arbutus/"> <img src="../../calecopal/arbutus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

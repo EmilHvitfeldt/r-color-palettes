@@ -55,6 +55,10 @@ c("#325756FF", "#7D9FC2FF", "#C582B2FF", "#51806AFF", "#4D5F8EFF", "#A092B7FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../NatParksPalettes/Yosemite/"> <img src="../../NatParksPalettes/Yosemite/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Manu/Kereru_orig/"> <img src="../../Manu/Kereru_orig/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#325756FF", "#7D9FC2FF", "#C582B2FF", "#51806AFF", "#4D5F8EFF", "#A092B7FF")
 <a href="../../palettetown/muk/"> <img src="../../palettetown/muk/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../musculusColors/ErMole/"> <img src="../../musculusColors/ErMole/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/excel_Violet/"> <img src="../../ggthemes/excel_Violet/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/excel_Blue_Warm/"> <img src="../../ggthemes/excel_Blue_Warm/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

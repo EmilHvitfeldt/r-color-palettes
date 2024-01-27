@@ -55,6 +55,10 @@ c("#BEBEBEFF", "#C8C8C8FF", "#DCD2C8FF", "#D2C8C8FF", "#BEBEC8FF", "#B4B4BEFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ghibli/TotoroLight/"> <img src="../../ghibli/TotoroLight/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Ginglymostoma_cirratum/"> <img src="../../fishualize/Ginglymostoma_cirratum/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#BEBEBEFF", "#C8C8C8FF", "#DCD2C8FF", "#D2C8C8FF", "#BEBEC8FF", "#B4B4BEFF")
 <a href="../../ghibli/MarnieLight2/"> <img src="../../ghibli/MarnieLight2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../musculusColors/ErFluke/"> <img src="../../musculusColors/ErFluke/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/AlbrechtDurer/"> <img src="../../lisa/AlbrechtDurer/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ghibli/PonyoLight/"> <img src="../../ghibli/PonyoLight/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

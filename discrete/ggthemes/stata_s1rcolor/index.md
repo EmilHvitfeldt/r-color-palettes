@@ -55,6 +55,10 @@ c("#FFFF00FF", "#00FF00FF", "#0080FFFF", "#FF00FFFF", "#FF7F00FF", "#FF0000FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../miscpalettes/bright/"> <img src="../../miscpalettes/bright/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/stata_s1color/"> <img src="../../ggthemes/stata_s1color/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -65,16 +69,12 @@ c("#FFFF00FF", "#00FF00FF", "#0080FFFF", "#FF00FFFF", "#FF7F00FF", "#FF0000FF", 
 </figure> <figure class="figure">
 <a href="../../ggprism/stained_glass2/"> <img src="../../ggprism/stained_glass2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggprism/stained_glass/"> <img src="../../ggprism/stained_glass/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../tidyquant/tq_green/"> <img src="../../tidyquant/tq_green/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggprism/stained_glass/"> <img src="../../ggprism/stained_glass/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/colors/"> <img src="../../ggprism/colors/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/schwifty_rickandmorty/"> <img src="../../ggsci/schwifty_rickandmorty/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../RColorBrewer/Paired/"> <img src="../../RColorBrewer/Paired/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../miscpalettes/pastel/"> <img src="../../miscpalettes/pastel/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

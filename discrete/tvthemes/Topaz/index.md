@@ -55,6 +55,10 @@ c("#F5E848FF", "#732C05FF", "#DB870CFF", "#290404FF", "#909090FF", "#FFFFFFFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Chaetodon_ephippium/"> <img src="../../fishualize/Chaetodon_ephippium/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Chaetodon_larvatus/"> <img src="../../fishualize/Chaetodon_larvatus/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#F5E848FF", "#732C05FF", "#DB870CFF", "#290404FF", "#909090FF", "#FFFFFFFF")
 <a href="../../lisa/SandroBotticelli_1/"> <img src="../../lisa/SandroBotticelli_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tayloRswift/speakNowLive/"> <img src="../../tayloRswift/speakNowLive/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../colRoz/s_spinigerus/"> <img src="../../colRoz/s_spinigerus/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/furret/"> <img src="../../palettetown/furret/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

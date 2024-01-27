@@ -55,6 +55,10 @@ c("#FF9C00FF", "#F7BD5AFF", "#FFCC99FF", "#FFFF33FF", "#FFFF9CFF", "#CD6363FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../miscpalettes/pastel/"> <img src="../../miscpalettes/pastel/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../LaCroixColoR/paired/"> <img src="../../LaCroixColoR/paired/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -63,18 +67,14 @@ c("#FF9C00FF", "#F7BD5AFF", "#FFCC99FF", "#FFFF33FF", "#FFFF9CFF", "#CD6363FF", 
 </figure> <figure class="figure">
 <a href="../../ggthemes/Tableau_20/"> <img src="../../ggthemes/Tableau_20/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../RColorBrewer/Spectral/"> <img src="../../RColorBrewer/Spectral/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../RColorBrewer/Paired/"> <img src="../../RColorBrewer/Paired/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../RColorBrewer/Spectral/"> <img src="../../RColorBrewer/Spectral/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/Classic_20/"> <img src="../../ggthemes/Classic_20/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/category20_d3/"> <img src="../../ggsci/category20_d3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../RColorBrewer/Set3/"> <img src="../../RColorBrewer/Set3/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/kingdra/"> <img src="../../palettetown/kingdra/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/feraligatr/"> <img src="../../palettetown/feraligatr/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

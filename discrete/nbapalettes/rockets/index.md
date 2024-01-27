@@ -55,9 +55,15 @@ c("#BA0C2FFF", "#9EA2A2FF", "#373A36FF", "#010101FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nbapalettes/bobcats_original/"> <img src="../../nbapalettes/bobcats_original/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/raptors_europe/"> <img src="../../nbapalettes/raptors_europe/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/stalachtis_phlegia_susanna/"> <img src="../../ButterflyColors/stalachtis_phlegia_susanna/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/heat_military/"> <img src="../../nbapalettes/heat_military/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -70,11 +76,5 @@ c("#BA0C2FFF", "#9EA2A2FF", "#373A36FF", "#010101FF")
 <a href="../../Manu/Tui/"> <img src="../../Manu/Tui/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/knicks_holiday/"> <img src="../../nbapalettes/knicks_holiday/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/mavericks/"> <img src="../../nbapalettes/mavericks/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../futurevisions/jupiter/"> <img src="../../futurevisions/jupiter/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../severance/Hell/"> <img src="../../severance/Hell/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

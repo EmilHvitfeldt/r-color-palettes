@@ -55,6 +55,10 @@ c("#3C2726FF", "#767D6DFF", "#6D723AFF", "#33511CFF", "#3A6722FF", "#547F47FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../calecopal/redwood1/"> <img src="../../calecopal/redwood1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/a_conica/"> <img src="../../colRoz/a_conica/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -65,16 +69,12 @@ c("#3C2726FF", "#767D6DFF", "#6D723AFF", "#33511CFF", "#3A6722FF", "#547F47FF")
 </figure> <figure class="figure">
 <a href="../../werpals/monet/"> <img src="../../werpals/monet/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/dynamine_postverta/"> <img src="../../ButterflyColors/dynamine_postverta/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ochRe/jumping_frog/"> <img src="../../ochRe/jumping_frog/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X42/"> <img src="../../beyonce/X42/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ghibli/MarnieMedium2/"> <img src="../../ghibli/MarnieMedium2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggprism/earth_tones/"> <img src="../../ggprism/earth_tones/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/ClaudeMonet/"> <img src="../../lisa/ClaudeMonet/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ghibli/MarnieDark2/"> <img src="../../ghibli/MarnieDark2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

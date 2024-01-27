@@ -55,6 +55,10 @@ c("#2A8F27FF", "#95C08BFF", "#F1F1F1FF", "#FFBEFEFF", "#FF8B26FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../MapPalettes/sunset/"> <img src="../../MapPalettes/sunset/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../khroma/light/"> <img src="../../khroma/light/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -67,14 +71,10 @@ c("#2A8F27FF", "#95C08BFF", "#F1F1F1FF", "#FFBEFEFF", "#FF8B26FF")
 </figure> <figure class="figure">
 <a href="../../nationalparkcolors/Zion/"> <img src="../../nationalparkcolors/Zion/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../lisa/MarcelDuchamp/"> <img src="../../lisa/MarcelDuchamp/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ButterflyColors/anteos_clorinde/"> <img src="../../ButterflyColors/anteos_clorinde/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../waRhol/camo_87_5/"> <img src="../../waRhol/camo_87_5/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSOPap/"> <img src="../../Redmonder/qMSOPap/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../RColorBrewer/Set2/"> <img src="../../RColorBrewer/Set2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../colRoz/desert_sunset/"> <img src="../../colRoz/desert_sunset/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/few_Light/"> <img src="../../ggthemes/few_Light/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

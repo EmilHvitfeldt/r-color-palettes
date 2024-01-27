@@ -55,6 +55,10 @@ c("#05BFCBFF", "#107C88FF", "#0293BEFF", "#A192CEFF", "#D87CAFFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../MapPalettes/tealberry_pie/"> <img src="../../MapPalettes/tealberry_pie/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../LaCroixColoR/Berry/"> <img src="../../LaCroixColoR/Berry/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -71,10 +75,6 @@ c("#05BFCBFF", "#107C88FF", "#0293BEFF", "#A192CEFF", "#D87CAFFF")
 </figure> <figure class="figure">
 <a href="../../nbapalettes/hornets_city2/"> <img src="../../nbapalettes/hornets_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../rockthemes/coltrane/"> <img src="../../rockthemes/coltrane/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Thalassoma_noronhanum/"> <img src="../../fishualize/Thalassoma_noronhanum/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../Redmonder/qMSOBuWarm/"> <img src="../../Redmonder/qMSOBuWarm/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../PrettyCols/Teals/"> <img src="../../PrettyCols/Teals/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

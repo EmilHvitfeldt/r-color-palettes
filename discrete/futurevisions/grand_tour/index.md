@@ -55,6 +55,10 @@ c("#418D87FF", "#2B5E3DFF", "#73224EFF", "#AD2E37FF", "#E37D41FF", "#E9A144FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../futurevisions/cancri/"> <img src="../../futurevisions/cancri/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/RoyLichtenstein_2/"> <img src="../../lisa/RoyLichtenstein_2/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#418D87FF", "#2B5E3DFF", "#73224EFF", "#AD2E37FF", "#E37D41FF", "#E9A144FF", 
 <a href="../../NatParksPalettes/Acadia/"> <img src="../../NatParksPalettes/Acadia/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../PNWColors/Sunset/"> <img src="../../PNWColors/Sunset/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../rockthemes/californication/"> <img src="../../rockthemes/californication/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/OKeeffe1/"> <img src="../../MetBrewer/OKeeffe1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

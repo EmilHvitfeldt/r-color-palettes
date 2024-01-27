@@ -55,6 +55,10 @@ c("#38A088FF", "#282828FF", "#304078FF", "#80E8D0FF", "#106850FF", "#60C8B0FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/whiscash/"> <img src="../../palettetown/whiscash/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/hitmontop/"> <img src="../../palettetown/hitmontop/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#38A088FF", "#282828FF", "#304078FF", "#80E8D0FF", "#106850FF", "#60C8B0FF", 
 <a href="../../palettetown/heracross/"> <img src="../../palettetown/heracross/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/tyranitar/"> <img src="../../palettetown/tyranitar/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/walrein/"> <img src="../../palettetown/walrein/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/stata_economist/"> <img src="../../ggthemes/stata_economist/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

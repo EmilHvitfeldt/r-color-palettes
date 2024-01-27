@@ -55,6 +55,10 @@ c("#B3E2CDFF", "#FDCDACFF", "#CBD5E8FF", "#F4CAE4FF", "#E6F5C9FF", "#FFF2AEFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../RColorBrewer/Pastel1/"> <img src="../../RColorBrewer/Pastel1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../khroma/pale/"> <img src="../../khroma/pale/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -69,12 +73,8 @@ c("#B3E2CDFF", "#FDCDACFF", "#CBD5E8FF", "#F4CAE4FF", "#E6F5C9FF", "#FFF2AEFF", 
 </figure> <figure class="figure">
 <a href="../../ghibli/PonyoLight/"> <img src="../../ghibli/PonyoLight/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Lycengraulis_grossidens/"> <img src="../../fishualize/Lycengraulis_grossidens/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ltc/paloma/"> <img src="../../ltc/paloma/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../wesanderson/Moonrise3/"> <img src="../../wesanderson/Moonrise3/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ghibli/MarnieLight1/"> <img src="../../ghibli/MarnieLight1/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ghibli/MarnieLight2/"> <img src="../../ghibli/MarnieLight2/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ltc/olga/"> <img src="../../ltc/olga/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

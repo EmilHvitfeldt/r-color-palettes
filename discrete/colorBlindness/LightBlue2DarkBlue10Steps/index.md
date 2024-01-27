@@ -55,6 +55,10 @@ c("#E5FFFFFF", "#CCFAFFFF", "#B2F2FFFF", "#99E5FFFF", "#7FD4FFFF", "#65BFFFFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../dichromat/LightBluetoDarkBlue_10/"> <img src="../../dichromat/LightBluetoDarkBlue_10/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/blue_material/"> <img src="../../ggsci/blue_material/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#E5FFFFFF", "#CCFAFFFF", "#B2F2FFFF", "#99E5FFFF", "#7FD4FFFF", "#65BFFFFF", 
 <a href="../../unikn/pal_seeblau/"> <img src="../../unikn/pal_seeblau/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/cyan_material/"> <img src="../../ggsci/cyan_material/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Halichoeres_brasiliensis/"> <img src="../../fishualize/Halichoeres_brasiliensis/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Prionace_glauca/"> <img src="../../fishualize/Prionace_glauca/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

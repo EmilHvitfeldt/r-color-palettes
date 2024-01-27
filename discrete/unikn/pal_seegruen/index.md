@@ -55,6 +55,10 @@ c("#71D1CCFF", "#54BFB7FF", "#0AA398FF", "#0A9086FF", "#067E79FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggthemes/excel_Integral/"> <img src="../../ggthemes/excel_Integral/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Savon/"> <img src="../../ggthemes/excel_Savon/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -65,16 +69,12 @@ c("#71D1CCFF", "#54BFB7FF", "#0AA398FF", "#0A9086FF", "#067E79FF")
 </figure> <figure class="figure">
 <a href="../../fishualize/Parablennius_pilicornis/"> <img src="../../fishualize/Parablennius_pilicornis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../unikn/pal_seeblau/"> <img src="../../unikn/pal_seeblau/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../PrettyCols/Teals/"> <img src="../../PrettyCols/Teals/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggsci/cyan_material/"> <img src="../../ggsci/cyan_material/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../unikn/pal_seeblau/"> <img src="../../unikn/pal_seeblau/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/TealGrn/"> <img src="../../rcartocolor/TealGrn/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../miscpalettes/seaGreen/"> <img src="../../miscpalettes/seaGreen/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../unikn/pal_petrol/"> <img src="../../unikn/pal_petrol/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../rcartocolor/Mint/"> <img src="../../rcartocolor/Mint/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ggsci/cyan_material/"> <img src="../../ggsci/cyan_material/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

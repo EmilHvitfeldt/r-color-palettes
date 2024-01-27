@@ -55,6 +55,10 @@ c("#8C8D86FF", "#E6C069FF", "#897B61FF", "#8DAB8EFF", "#77A2BBFF", "#E28394FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggthemes/excel_Feathered/"> <img src="../../ggthemes/excel_Feathered/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../calecopal/chaparral1/"> <img src="../../calecopal/chaparral1/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#8C8D86FF", "#E6C069FF", "#897B61FF", "#8DAB8EFF", "#77A2BBFF", "#E28394FF")
 <a href="../../ggthemes/excel_Paper/"> <img src="../../ggthemes/excel_Paper/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/PaulCezanne/"> <img src="../../lisa/PaulCezanne/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/excel_Median/"> <img src="../../ggthemes/excel_Median/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ghibli/MononokeLight/"> <img src="../../ghibli/MononokeLight/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

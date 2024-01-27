@@ -55,6 +55,10 @@ c("#48448EFF", "#8CCC58FF", "#FC4D97FF", "#B82578FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../rockthemes/facelift/"> <img src="../../rockthemes/facelift/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../vapoRwave/hyperBubble/"> <img src="../../vapoRwave/hyperBubble/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -63,18 +67,14 @@ c("#48448EFF", "#8CCC58FF", "#FC4D97FF", "#B82578FF")
 </figure> <figure class="figure">
 <a href="../../RSkittleBrewer/wildberry/"> <img src="../../RSkittleBrewer/wildberry/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../waRhol/camo_87_3/"> <img src="../../waRhol/camo_87_3/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MoMAColors/Ohchi/"> <img src="../../MoMAColors/Ohchi/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../beyonce/X18/"> <img src="../../beyonce/X18/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Klimt/"> <img src="../../MetBrewer/Klimt/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../DresdenColor/briefcases/"> <img src="../../DresdenColor/briefcases/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../trekcolors/dominion/"> <img src="../../trekcolors/dominion/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../LaCroixColoR/MurePepino/"> <img src="../../LaCroixColoR/MurePepino/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Cirrhilabrus_tonozukai/"> <img src="../../fishualize/Cirrhilabrus_tonozukai/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/Thomas/"> <img src="../../MetBrewer/Thomas/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

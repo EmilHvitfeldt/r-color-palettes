@@ -55,6 +55,10 @@ c("#903030FF", "#D84860FF", "#F0A8C0FF", "#FFFFFFFF", "#A8A8A8FF", "#787878FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/blissey/"> <img src="../../palettetown/blissey/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tayloRswift/taylor1989/"> <img src="../../tayloRswift/taylor1989/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -63,6 +67,8 @@ c("#903030FF", "#D84860FF", "#F0A8C0FF", "#FFFFFFFF", "#A8A8A8FF", "#787878FF")
 </figure> <figure class="figure">
 <a href="../../palettetown/corsola/"> <img src="../../palettetown/corsola/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../tayloRswift/midnightsBloodMoon/"> <img src="../../tayloRswift/midnightsBloodMoon/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../Redmonder/sPBIRd/"> <img src="../../Redmonder/sPBIRd/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSOOrRd/"> <img src="../../Redmonder/qMSOOrRd/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -70,11 +76,5 @@ c("#903030FF", "#D84860FF", "#F0A8C0FF", "#FFFFFFFF", "#A8A8A8FF", "#787878FF")
 <a href="../../calecopal/calochortus/"> <img src="../../calecopal/calochortus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X44/"> <img src="../../beyonce/X44/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../soilpalettes/crait/"> <img src="../../soilpalettes/crait/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nationalparkcolors/ArcticGates/"> <img src="../../nationalparkcolors/ArcticGates/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../feathers/oriole/"> <img src="../../feathers/oriole/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

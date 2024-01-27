@@ -55,6 +55,10 @@ c("#331900FF", "#662F00FF", "#996035FF", "#CC9B7AFF", "#D8AF97FF", "#F2DACDFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../dichromat/BrowntoBlue_12/"> <img src="../../dichromat/BrowntoBlue_12/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colorBlindness/Brown2Blue10Steps/"> <img src="../../colorBlindness/Brown2Blue10Steps/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -65,16 +69,12 @@ c("#331900FF", "#662F00FF", "#996035FF", "#CC9B7AFF", "#D8AF97FF", "#F2DACDFF", 
 </figure> <figure class="figure">
 <a href="../../Redmonder/dPBIRdGn/"> <img src="../../Redmonder/dPBIRdGn/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ltc/heatmap/"> <img src="../../ltc/heatmap/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../werpals/bryce/"> <img src="../../werpals/bryce/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../RColorBrewer/BrBG/"> <img src="../../RColorBrewer/BrBG/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../beyonce/X75/"> <img src="../../beyonce/X75/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X33/"> <img src="../../beyonce/X33/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../colorBlindness/Blue2DarkOrange12Steps/"> <img src="../../colorBlindness/Blue2DarkOrange12Steps/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../dichromat/BluetoDarkOrange_12/"> <img src="../../dichromat/BluetoDarkOrange_12/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../MexBrewer/Revolucion/"> <img src="../../MexBrewer/Revolucion/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

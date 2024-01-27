@@ -55,6 +55,10 @@ c("#FF8000FF", "#B8860BFF", "#C04000FF", "#6B8E23FF", "#CD853FFF", "#C0C000FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../tvthemes/parksAndRec/"> <img src="../../tvthemes/parksAndRec/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/ho_oh/"> <img src="../../palettetown/ho_oh/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -65,16 +69,12 @@ c("#FF8000FF", "#B8860BFF", "#C04000FF", "#6B8E23FF", "#CD853FFF", "#C0C000FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/weepinbell/"> <img src="../../palettetown/weepinbell/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/moltres/"> <img src="../../palettetown/moltres/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../impressionist.colors/la_sieste/"> <img src="../../impressionist.colors/la_sieste/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/moltres/"> <img src="../../palettetown/moltres/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/Traffic/"> <img src="../../ggthemes/Traffic/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/charmander/"> <img src="../../palettetown/charmander/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/bellsprout/"> <img src="../../palettetown/bellsprout/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/smeargle/"> <img src="../../palettetown/smeargle/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

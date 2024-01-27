@@ -55,6 +55,10 @@ c("#003DA5FF", "#FFFFFFFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggsci/alternating_igv/"> <img src="../../ggsci/alternating_igv/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../futurevisions/atomic_red/"> <img src="../../futurevisions/atomic_red/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#003DA5FF", "#FFFFFFFF")
 <a href="../../nbapalettes/knicks/"> <img src="../../nbapalettes/knicks/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/bucks_00s/"> <img src="../../nbapalettes/bucks_00s/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/hornets_city/"> <img src="../../nbapalettes/hornets_city/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/wsj_red_green/"> <img src="../../ggthemes/wsj_red_green/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

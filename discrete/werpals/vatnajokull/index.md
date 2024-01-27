@@ -55,6 +55,10 @@ c("#FEFEFEFF", "#D7E8F8FF", "#9AC5E8FF", "#00F7FFFF", "#00C6FFFF", "#0090FFFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../tvthemes/WaterTribe/"> <img src="../../tvthemes/WaterTribe/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/dragonair/"> <img src="../../palettetown/dragonair/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#FEFEFEFF", "#D7E8F8FF", "#9AC5E8FF", "#00F7FFFF", "#00C6FFFF", "#0090FFFF", 
 <a href="../../RColorBrewer/Blues/"> <img src="../../RColorBrewer/Blues/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/gligar/"> <img src="../../palettetown/gligar/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tvthemes/Arryn/"> <img src="../../tvthemes/Arryn/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tvthemes/Sapphire/"> <img src="../../tvthemes/Sapphire/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

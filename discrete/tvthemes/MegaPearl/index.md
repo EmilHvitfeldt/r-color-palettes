@@ -55,6 +55,10 @@ c("#DF84A8FF", "#F6FFA7FF", "#F9D078FF", "#FFD1EFFF", "#EEB0A1FF", "#FA7A91FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../RColorBrewer/Pastel1/"> <img src="../../RColorBrewer/Pastel1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/Classic_10_Light/"> <img src="../../ggthemes/Classic_10_Light/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -69,12 +73,8 @@ c("#DF84A8FF", "#F6FFA7FF", "#F9D078FF", "#FFD1EFFF", "#EEB0A1FF", "#FA7A91FF", 
 </figure> <figure class="figure">
 <a href="../../RColorBrewer/Pastel2/"> <img src="../../RColorBrewer/Pastel2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../khroma/pale/"> <img src="../../khroma/pale/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ltc/paloma/"> <img src="../../ltc/paloma/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../yarrr/ipod/"> <img src="../../yarrr/ipod/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../RColorBrewer/Set2/"> <img src="../../RColorBrewer/Set2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../NineteenEightyR/sonny/"> <img src="../../NineteenEightyR/sonny/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ltc/mterese/"> <img src="../../ltc/mterese/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

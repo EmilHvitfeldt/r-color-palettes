@@ -55,6 +55,10 @@ c("#0B3DD5FF", "#4F8EBEFF", "#50725EFF", "#E0F7C4FF", "#F4DD06FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Acanthurus_olivaceus/"> <img src="../../fishualize/Acanthurus_olivaceus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../RColorBrewer/YlGnBu/"> <img src="../../RColorBrewer/YlGnBu/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#0B3DD5FF", "#4F8EBEFF", "#50725EFF", "#E0F7C4FF", "#F4DD06FF")
 <a href="../../nbapalettes/pacers_foundation/"> <img src="../../nbapalettes/pacers_foundation/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Zebrasoma_velifer/"> <img src="../../fishualize/Zebrasoma_velifer/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Chlorurus_spilurus/"> <img src="../../fishualize/Chlorurus_spilurus/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/VincentvanGogh/"> <img src="../../lisa/VincentvanGogh/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

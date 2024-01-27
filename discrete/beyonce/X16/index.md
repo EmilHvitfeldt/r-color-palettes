@@ -55,6 +55,10 @@ c("#110D03FF", "#3B2611FF", "#9A703FFF", "#BF9539FF", "#E8C163FF", "#FFE4BFFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../colRoz/a_plagiata/"> <img src="../../colRoz/a_plagiata/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../soilpalettes/natrudoll/"> <img src="../../soilpalettes/natrudoll/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -67,14 +71,10 @@ c("#110D03FF", "#3B2611FF", "#9A703FFF", "#BF9539FF", "#E8C163FF", "#FFE4BFFF")
 </figure> <figure class="figure">
 <a href="../../beyonce/X86/"> <img src="../../beyonce/X86/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../MexBrewer/Naturaleza/"> <img src="../../MexBrewer/Naturaleza/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/FridaKahlo/"> <img src="../../lisa/FridaKahlo/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../calecopal/desert/"> <img src="../../calecopal/desert/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Ostracion_cubicus/"> <img src="../../fishualize/Ostracion_cubicus/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../soilpalettes/podzol/"> <img src="../../soilpalettes/podzol/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Acanthurus_triostegus/"> <img src="../../fishualize/Acanthurus_triostegus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

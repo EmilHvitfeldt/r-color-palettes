@@ -55,6 +55,10 @@ c("#99CCFFFF", "#CCCCFFFF", "#FFD700FF", "#00CCCCFF", "#00CCCCFF", "#FF99FFFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggprism/warm_pastels/"> <img src="../../ggprism/warm_pastels/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colorBlindness/Blue2Orange8Steps/"> <img src="../../colorBlindness/Blue2Orange8Steps/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -65,16 +69,12 @@ c("#99CCFFFF", "#CCCCFFFF", "#FFD700FF", "#00CCCCFF", "#00CCCCFF", "#FF99FFFF", 
 </figure> <figure class="figure">
 <a href="../../dichromat/BrowntoBlue_10/"> <img src="../../dichromat/BrowntoBlue_10/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../waRhol/marilyn_green_62/"> <img src="../../waRhol/marilyn_green_62/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../NineteenEightyR/miami2/"> <img src="../../NineteenEightyR/miami2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../dichromat/BluetoDarkOrange_12/"> <img src="../../dichromat/BluetoDarkOrange_12/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/Pearl/"> <img src="../../tvthemes/Pearl/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../colorBlindness/Blue2DarkOrange12Steps/"> <img src="../../colorBlindness/Blue2DarkOrange12Steps/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/Homer1/"> <img src="../../MetBrewer/Homer1/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/Summer/"> <img src="../../ggthemes/Summer/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

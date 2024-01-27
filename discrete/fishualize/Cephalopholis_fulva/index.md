@@ -55,9 +55,15 @@ c("#CE803FFF", "#EDC695FF", "#FFCF9AFF", "#B15A00FF", "#ED9256FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../calecopal/canary/"> <img src="../../calecopal/canary/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Holocentrus_adscensionis/"> <img src="../../fishualize/Holocentrus_adscensionis/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/Tangerines/"> <img src="../../PrettyCols/Tangerines/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/OKeeffe2/"> <img src="../../MetBrewer/OKeeffe2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -70,11 +76,5 @@ c("#CE803FFF", "#EDC695FF", "#FFCF9AFF", "#B15A00FF", "#ED9256FF")
 <a href="../../lisa/MarkRothko/"> <img src="../../lisa/MarkRothko/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/Peach/"> <img src="../../rcartocolor/Peach/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Cantherhines_macrocerus/"> <img src="../../fishualize/Cantherhines_macrocerus/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/JohannJacobUlrich/"> <img src="../../lisa/JohannJacobUlrich/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X23/"> <img src="../../beyonce/X23/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,6 +55,10 @@ c("#FF0000FF", "#FF8D1AFF", "#FFD700FF", "#B20000FF", "#CC6600FF", "#FFFF66FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../trekcolors/klingon/"> <img src="../../trekcolors/klingon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/Lannister/"> <img src="../../tvthemes/Lannister/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#FF0000FF", "#FF8D1AFF", "#FFD700FF", "#B20000FF", "#CC6600FF", "#FFFF66FF", 
 <a href="../../palettetown/skitty/"> <img src="../../palettetown/skitty/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../DresdenColor/changes/"> <img src="../../DresdenColor/changes/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/sentret/"> <img src="../../palettetown/sentret/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Aulostomus_chinensis/"> <img src="../../fishualize/Aulostomus_chinensis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

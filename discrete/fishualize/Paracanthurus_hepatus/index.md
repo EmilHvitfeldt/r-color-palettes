@@ -55,6 +55,12 @@ c("#782E00FF", "#DED324FF", "#6099FDFF", "#2E3BF8FF", "#061135FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MexBrewer/Casita2/"> <img src="../../MexBrewer/Casita2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/RoyLichtenstein/"> <img src="../../lisa/RoyLichtenstein/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Pomacanthus_imperator/"> <img src="../../fishualize/Pomacanthus_imperator/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -69,12 +75,6 @@ c("#782E00FF", "#DED324FF", "#6099FDFF", "#2E3BF8FF", "#061135FF")
 </figure> <figure class="figure">
 <a href="../../fishualize/Acanthurus_leucosternon/"> <img src="../../fishualize/Acanthurus_leucosternon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Variola_louti/"> <img src="../../fishualize/Variola_louti/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../fishualize/Acanthurus_sohal/"> <img src="../../fishualize/Acanthurus_sohal/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/Austria/"> <img src="../../MetBrewer/Austria/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Cephalopholis_argus/"> <img src="../../fishualize/Cephalopholis_argus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,6 +55,10 @@ c("#C8C8C8FF", "#F8F8F8FF", "#E0E0E0FF", "#404040FF", "#808080FF", "#000000FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/torkoal/"> <img src="../../palettetown/torkoal/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/slakoth/"> <img src="../../palettetown/slakoth/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#C8C8C8FF", "#F8F8F8FF", "#E0E0E0FF", "#404040FF", "#808080FF", "#000000FF", 
 <a href="../../RColorBrewer/RdGy/"> <img src="../../RColorBrewer/RdGy/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/dusclops/"> <img src="../../palettetown/dusclops/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/lairon/"> <img src="../../palettetown/lairon/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../impressionist.colors/vahine_no_te_tiare/"> <img src="../../impressionist.colors/vahine_no_te_tiare/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

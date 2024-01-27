@@ -55,6 +55,12 @@ c("#40004BFF", "#762A83FF", "#9970ABFF", "#C2A5CFFF", "#E7D4E8FF", "#F7F7F7FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/PurpleGreens/"> <img src="../../PrettyCols/PurpleGreens/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/regice/"> <img src="../../palettetown/regice/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/nidoking/"> <img src="../../palettetown/nidoking/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -69,12 +75,6 @@ c("#40004BFF", "#762A83FF", "#9970ABFF", "#C2A5CFFF", "#E7D4E8FF", "#F7F7F7FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/roselia/"> <img src="../../palettetown/roselia/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/seadra/"> <img src="../../palettetown/seadra/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../trekcolors/dominion/"> <img src="../../trekcolors/dominion/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../Redmonder/dPBIPuGn/"> <img src="../../Redmonder/dPBIPuGn/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/tyranitar/"> <img src="../../palettetown/tyranitar/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../PrettyCols/PinkGreens/"> <img src="../../PrettyCols/PinkGreens/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

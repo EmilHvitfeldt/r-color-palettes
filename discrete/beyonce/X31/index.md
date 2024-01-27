@@ -55,6 +55,10 @@ c("#020113FF", "#1B143CFF", "#431534FF", "#5F2E4CFF", "#717F9AFF", "#4F4D72FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ghibli/KikiDark/"> <img src="../../ghibli/KikiDark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X13/"> <img src="../../beyonce/X13/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -69,12 +73,8 @@ c("#020113FF", "#1B143CFF", "#431534FF", "#5F2E4CFF", "#717F9AFF", "#4F4D72FF")
 </figure> <figure class="figure">
 <a href="../../beyonce/X15/"> <img src="../../beyonce/X15/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ghibli/YesterdayDark/"> <img src="../../ghibli/YesterdayDark/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../ghibli/LaputaDark/"> <img src="../../ghibli/LaputaDark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../yarrr/eternal/"> <img src="../../yarrr/eternal/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggprism/waves/"> <img src="../../ggprism/waves/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ghibli/YesterdayDark/"> <img src="../../ghibli/YesterdayDark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

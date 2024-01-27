@@ -55,6 +55,10 @@ c("#FCE4ECFF", "#F8BBD0FF", "#F48FB1FF", "#F06292FF", "#EC407AFF", "#E91E63FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../rcartocolor/Burg/"> <img src="../../rcartocolor/Burg/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/Magenta/"> <img src="../../rcartocolor/Magenta/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -71,10 +75,6 @@ c("#FCE4ECFF", "#F8BBD0FF", "#F48FB1FF", "#F06292FF", "#EC407AFF", "#E91E63FF", 
 </figure> <figure class="figure">
 <a href="../../RColorBrewer/RdPu/"> <img src="../../RColorBrewer/RdPu/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggthemes/excel_Ion_Boardroom/"> <img src="../../ggthemes/excel_Ion_Boardroom/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../beyonce/X27/"> <img src="../../beyonce/X27/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../rcartocolor/SunsetDark/"> <img src="../../rcartocolor/SunsetDark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

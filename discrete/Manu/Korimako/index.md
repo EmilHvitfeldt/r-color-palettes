@@ -55,6 +55,10 @@ c("#757B16FF", "#4F651DFF", "#798C8BFF", "#2F638FFF", "#091A26FF", "#490B0AFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../severance/Hell/"> <img src="../../severance/Hell/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Veronese/"> <img src="../../MetBrewer/Veronese/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -71,10 +75,6 @@ c("#757B16FF", "#4F651DFF", "#798C8BFF", "#2F638FFF", "#091A26FF", "#490B0AFF")
 </figure> <figure class="figure">
 <a href="../../peRReo/eminem/"> <img src="../../peRReo/eminem/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../futurevisions/jupiter/"> <img src="../../futurevisions/jupiter/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../colRoz/capricorn/"> <img src="../../colRoz/capricorn/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ochRe/nolan_ned/"> <img src="../../ochRe/nolan_ned/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ltc/pantone23/"> <img src="../../ltc/pantone23/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

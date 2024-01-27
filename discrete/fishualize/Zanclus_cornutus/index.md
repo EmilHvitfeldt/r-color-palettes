@@ -55,6 +55,10 @@ c("#000000FF", "#FB9406FF", "#FEFF45FF", "#BBEE00FF", "#8EEAF5FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Chaetodon_ephippium/"> <img src="../../fishualize/Chaetodon_ephippium/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Acanthurus_triostegus/"> <img src="../../fishualize/Acanthurus_triostegus/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -71,10 +75,6 @@ c("#000000FF", "#FB9406FF", "#FEFF45FF", "#BBEE00FF", "#8EEAF5FF")
 </figure> <figure class="figure">
 <a href="../../palettetown/gulpin/"> <img src="../../palettetown/gulpin/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/venusaur/"> <img src="../../palettetown/venusaur/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../palettetown/bellossom/"> <img src="../../palettetown/bellossom/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Balistoides_conspicillum/"> <img src="../../fishualize/Balistoides_conspicillum/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

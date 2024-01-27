@@ -55,6 +55,10 @@ c("#596BE4FF", "#3FE6F8FF", "#202841FF", "#957BF9FF", "#BF7CF6FF", "#62A7BDFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/quagsire/"> <img src="../../palettetown/quagsire/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/Aquamarine/"> <img src="../../tvthemes/Aquamarine/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#596BE4FF", "#3FE6F8FF", "#202841FF", "#957BF9FF", "#BF7CF6FF", "#62A7BDFF", 
 <a href="../../MetBrewer/Hokusai2/"> <img src="../../MetBrewer/Hokusai2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../peRReo/planb/"> <img src="../../peRReo/planb/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../vapeplot/jazzcup/"> <img src="../../vapeplot/jazzcup/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../NineteenEightyR/electronic_night/"> <img src="../../NineteenEightyR/electronic_night/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

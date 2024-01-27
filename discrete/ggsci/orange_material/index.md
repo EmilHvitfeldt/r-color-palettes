@@ -55,6 +55,12 @@ c("#FFF3E0FF", "#FFE0B2FF", "#FFCC80FF", "#FFB74DFF", "#FFA726FF", "#FF9800FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/Tangerines/"> <img src="../../PrettyCols/Tangerines/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggsci/amber_material/"> <img src="../../ggsci/amber_material/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Cephalopholis_fulva/"> <img src="../../fishualize/Cephalopholis_fulva/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -70,11 +76,5 @@ c("#FFF3E0FF", "#FFE0B2FF", "#FFCC80FF", "#FFB74DFF", "#FFA726FF", "#FF9800FF", 
 <a href="../../khroma/YlOrBr/"> <img src="../../khroma/YlOrBr/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/flames/"> <img src="../../ggprism/flames/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../rcartocolor/OrYel/"> <img src="../../rcartocolor/OrYel/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../MetBrewer/OKeeffe2/"> <img src="../../MetBrewer/OKeeffe2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Holocentrus_adscensionis/"> <img src="../../fishualize/Holocentrus_adscensionis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

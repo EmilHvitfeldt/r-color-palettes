@@ -55,6 +55,12 @@ c("#E0F2F1FF", "#B2DFDBFF", "#80CBC4FF", "#4DB6ACFF", "#26A69AFF", "#009688FF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/Teals/"> <img src="../../PrettyCols/Teals/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggsci/cyan_material/"> <img src="../../ggsci/cyan_material/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/sPBIGn/"> <img src="../../Redmonder/sPBIGn/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -67,14 +73,8 @@ c("#E0F2F1FF", "#B2DFDBFF", "#80CBC4FF", "#4DB6ACFF", "#26A69AFF", "#009688FF", 
 </figure> <figure class="figure">
 <a href="../../rcartocolor/Mint/"> <img src="../../rcartocolor/Mint/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../PNWColors/Lake/"> <img src="../../PNWColors/Lake/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../NatParksPalettes/Glacier/"> <img src="../../NatParksPalettes/Glacier/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../unikn/pal_seegruen/"> <img src="../../unikn/pal_seegruen/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Parablennius_pilicornis/"> <img src="../../fishualize/Parablennius_pilicornis/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../trekcolors/romulan2/"> <img src="../../trekcolors/romulan2/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../PNWColors/Lake/"> <img src="../../PNWColors/Lake/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

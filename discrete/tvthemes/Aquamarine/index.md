@@ -55,6 +55,10 @@ c("#7FF9F7FF", "#0B2483FF", "#0F8CDEFF", "#4C4CFFFF", "#040509FF", "#23B4DCFF", 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../tvthemes/Flourite/"> <img src="../../tvthemes/Flourite/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/LapisLazuli/"> <img src="../../tvthemes/LapisLazuli/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#7FF9F7FF", "#0B2483FF", "#0F8CDEFF", "#4C4CFFFF", "#040509FF", "#23B4DCFF", 
 <a href="../../tvthemes/WaterTribe/"> <img src="../../tvthemes/WaterTribe/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../LaCroixColoR/Pure/"> <img src="../../LaCroixColoR/Pure/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../vapeplot/jazzcup/"> <img src="../../vapeplot/jazzcup/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../colRoz/physalia/"> <img src="../../colRoz/physalia/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

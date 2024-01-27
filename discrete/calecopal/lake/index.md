@@ -55,6 +55,10 @@ c("#CECEB9FF", "#7AC9B7FF", "#6CA184FF", "#3793ECFF", "#2A3927FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../colorBlindness/Blue2Gray8Steps/"> <img src="../../colorBlindness/Blue2Gray8Steps/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../dichromat/BluetoGray_8/"> <img src="../../dichromat/BluetoGray_8/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#CECEB9FF", "#7AC9B7FF", "#6CA184FF", "#3793ECFF", "#2A3927FF")
 <a href="../../tayloRswift/taylorSwift/"> <img src="../../tayloRswift/taylorSwift/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/KennethNoland/"> <img src="../../lisa/KennethNoland/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/MaryCassatt/"> <img src="../../lisa/MaryCassatt/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Thunnus_obesus/"> <img src="../../fishualize/Thunnus_obesus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

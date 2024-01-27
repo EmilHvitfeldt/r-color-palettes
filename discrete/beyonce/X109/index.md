@@ -55,6 +55,10 @@ c("#000000FF", "#DB0F12FF", "#DB0E13FF", "#DB1014FF", "#DC1013FF", "#DC0F14FF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nbapalettes/blazers_city2/"> <img src="../../nbapalettes/blazers_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Heretopriacanthus_cruentatus/"> <img src="../../fishualize/Heretopriacanthus_cruentatus/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -67,14 +71,10 @@ c("#000000FF", "#DB0F12FF", "#DB0E13FF", "#DB1014FF", "#DC1013FF", "#DC0F14FF")
 </figure> <figure class="figure">
 <a href="../../beyonce/X4/"> <img src="../../beyonce/X4/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../beyonce/X20/"> <img src="../../beyonce/X20/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ButterflyColors/fountainea_ryphea/"> <img src="../../ButterflyColors/fountainea_ryphea/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NineteenEightyR/cobra/"> <img src="../../NineteenEightyR/cobra/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../calecopal/vermillion/"> <img src="../../calecopal/vermillion/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X26/"> <img src="../../beyonce/X26/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Labrisomus_cricota/"> <img src="../../fishualize/Labrisomus_cricota/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../beyonce/X20/"> <img src="../../beyonce/X20/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -55,9 +55,17 @@ c("#EAF205FF", "#D9CB04FF", "#D9A404FF", "#C8BC66FF", "#DDEC7EFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/Yellows/"> <img src="../../PrettyCols/Yellows/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggsci/lime_material/"> <img src="../../ggsci/lime_material/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/mustard_field/"> <img src="../../ggprism/mustard_field/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../waRhol/skull_76_1/"> <img src="../../waRhol/skull_76_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/mustard_field2/"> <img src="../../ggprism/mustard_field2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -68,13 +76,5 @@ c("#EAF205FF", "#D9CB04FF", "#D9A404FF", "#C8BC66FF", "#DDEC7EFF")
 <a href="../../fishualize/Gymnothorax_funebris/"> <img src="../../fishualize/Gymnothorax_funebris/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/abra/"> <img src="../../palettetown/abra/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../Redmonder/sPBIYl/"> <img src="../../Redmonder/sPBIYl/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggsci/light_green_material/"> <img src="../../ggsci/light_green_material/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggsci/amber_material/"> <img src="../../ggsci/amber_material/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/metapod/"> <img src="../../palettetown/metapod/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

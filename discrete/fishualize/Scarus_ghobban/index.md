@@ -55,6 +55,10 @@ c("#D6AF13FF", "#EAEB2FFF", "#02D17AFF", "#7DE7CBFF", "#01B4DEFF")
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggthemes/excel_Depth/"> <img src="../../ggthemes/excel_Depth/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Green/"> <img src="../../ggthemes/excel_Green/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -72,9 +76,5 @@ c("#D6AF13FF", "#EAEB2FFF", "#02D17AFF", "#7DE7CBFF", "#01B4DEFF")
 <a href="../../nationalparkcolors/Voyageurs/"> <img src="../../nationalparkcolors/Voyageurs/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Blue/"> <img src="../../ggthemes/excel_Blue/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Hypoplectrus_puella/"> <img src="../../fishualize/Hypoplectrus_puella/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Forcipiger_longirostris/"> <img src="../../fishualize/Forcipiger_longirostris/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>
