@@ -131,7 +131,7 @@ for (i in seq_len(nrow(pals))) {
   
   index_text <- paste(
     index_text,
-    "\n\n![](examples.svg)"
+    "\n\n![](examples.png)"
   )
   
   index_text <- paste(index_text, glue(
@@ -177,11 +177,9 @@ for (i in seq_len(nrow(pals))) {
   ggsave(file = featured_path, plot = pal_plot, width = 8, height = 1.5)
   
   # Example plot
-  example_path <- path(dir_path, "examples", ext = "svg")
+  example_path <- path(dir_path, "examples", ext = "png")
     
   example_plot <- plot_discrete(pal)
   
-  ggsave(file = example_path, plot = example_plot, width = 8, height = 8 / 1.718)
+  ggsave(file = example_path, plot = example_plot, width = 8, height = 8 / 1.718, dpi = 150)
 }
-
-system("svgo --folder discrete --recursive --quiet --config svg-config.js")

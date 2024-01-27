@@ -46,7 +46,7 @@ Use raw:
 c("#F0C33CFF", "#F0F03CFF", "#C3E13CFF", "#87C33CFF", "#4BA53CFF", "#2D5A3CFF", "#2D1E1EFF", "#3C2D2DFF", "#785A5AFF", "#D29696FF", "#A58778FF", "#87693CFF", "#C39669FF", "#F0A569FF", "#F03C2DFF", "#C32D1EFF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 
@@ -59,9 +59,9 @@ c("#F0C33CFF", "#F0F03CFF", "#C3E13CFF", "#87C33CFF", "#4BA53CFF", "#2D5A3CFF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/natu/"> <img src="../../palettetown/natu/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/xatu/"> <img src="../../palettetown/xatu/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../palettetown/cradily/"> <img src="../../palettetown/cradily/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/xatu/"> <img src="../../palettetown/xatu/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/grovyle/"> <img src="../../palettetown/grovyle/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

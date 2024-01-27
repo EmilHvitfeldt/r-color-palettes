@@ -46,7 +46,7 @@ Use raw:
 c("#050B64FF", "#0E3A9BFF", "#307CE4FF", "#64FFFFFF", "#000000FF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 
@@ -59,8 +59,6 @@ c("#050B64FF", "#0E3A9BFF", "#307CE4FF", "#64FFFFFF", "#000000FF")
 </figure> <figure class="figure">
 <a href="../../tvthemes/Aquamarine/"> <img src="../../tvthemes/Aquamarine/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nbapalettes/magic_city2/"> <img src="../../nbapalettes/magic_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../ggprism/blueprint/"> <img src="../../ggprism/blueprint/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Manu/Gloomy_Nudi/"> <img src="../../Manu/Gloomy_Nudi/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -68,6 +66,8 @@ c("#050B64FF", "#0E3A9BFF", "#307CE4FF", "#64FFFFFF", "#000000FF")
 <a href="../../tvthemes/Flourite/"> <img src="../../tvthemes/Flourite/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/blueprint3/"> <img src="../../ggprism/blueprint3/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nbapalettes/magic_city2/"> <img src="../../nbapalettes/magic_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/Dark/"> <img src="../../tvthemes/Dark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

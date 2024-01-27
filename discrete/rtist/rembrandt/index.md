@@ -46,7 +46,7 @@ Use raw:
 c("#030504FF", "#F4DD9BFF", "#811D08FF", "#1E1507FF", "#252823FF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 
@@ -69,9 +69,9 @@ c("#030504FF", "#F4DD9BFF", "#811D08FF", "#1E1507FF", "#252823FF")
 </figure> <figure class="figure">
 <a href="../../lisa/Rembrandt/"> <img src="../../lisa/Rembrandt/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nbapalettes/heat_military/"> <img src="../../nbapalettes/heat_military/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../DresdenColor/changes/"> <img src="../../DresdenColor/changes/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nbapalettes/heat_military/"> <img src="../../nbapalettes/heat_military/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Aulostomus_chinensis/"> <img src="../../fishualize/Aulostomus_chinensis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

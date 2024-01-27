@@ -46,7 +46,7 @@ Use raw:
 c("#0050B5FF", "#0C2340FF", "#8D9093FF", "#010101FF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 
@@ -63,6 +63,8 @@ c("#0050B5FF", "#0C2340FF", "#8D9093FF", "#010101FF")
 </figure> <figure class="figure">
 <a href="../../nbapalettes/raptors_original/"> <img src="../../nbapalettes/raptors_original/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../nbapalettes/magic_city2/"> <img src="../../nbapalettes/magic_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nbapalettes/jazz_retro/"> <img src="../../nbapalettes/jazz_retro/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/jazz_classic/"> <img src="../../nbapalettes/jazz_classic/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -74,7 +76,5 @@ c("#0050B5FF", "#0C2340FF", "#8D9093FF", "#010101FF")
 <a href="../../nbapalettes/rockets/"> <img src="../../nbapalettes/rockets/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../severance/Hell/"> <img src="../../severance/Hell/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../Manu/Korimako/"> <img src="../../Manu/Korimako/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

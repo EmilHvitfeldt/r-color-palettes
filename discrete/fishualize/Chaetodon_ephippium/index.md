@@ -46,7 +46,7 @@ Use raw:
 c("#010101FF", "#6DAABDFF", "#CAECB3FF", "#F3CB04FF", "#E28027FF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 
@@ -65,9 +65,9 @@ c("#010101FF", "#6DAABDFF", "#CAECB3FF", "#F3CB04FF", "#E28027FF")
 </figure> <figure class="figure">
 <a href="../../fishualize/Melichthys_vidua/"> <img src="../../fishualize/Melichthys_vidua/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Neogobius_melanostomus/"> <img src="../../fishualize/Neogobius_melanostomus/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../soilpalettes/rendoll/"> <img src="../../soilpalettes/rendoll/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Neogobius_melanostomus/"> <img src="../../fishualize/Neogobius_melanostomus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/s_spinigerus/"> <img src="../../colRoz/s_spinigerus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

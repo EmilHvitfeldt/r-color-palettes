@@ -46,7 +46,7 @@ Use raw:
 c("#8098A8FF", "#485878FF", "#B8C8C0FF", "#D8E0D8FF", "#383850FF", "#F8F8F8FF", "#D05040FF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 
@@ -61,6 +61,8 @@ c("#8098A8FF", "#485878FF", "#B8C8C0FF", "#D8E0D8FF", "#383850FF", "#F8F8F8FF", 
 </figure> <figure class="figure">
 <a href="../../beyonce/X60/"> <img src="../../beyonce/X60/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../palettetown/poliwrath/"> <img src="../../palettetown/poliwrath/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/aerodactyl/"> <img src="../../palettetown/aerodactyl/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X126/"> <img src="../../beyonce/X126/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -74,7 +76,5 @@ c("#8098A8FF", "#485878FF", "#B8C8C0FF", "#D8E0D8FF", "#383850FF", "#F8F8F8FF", 
 <a href="../../palettetown/venomoth/"> <img src="../../palettetown/venomoth/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Monet/"> <img src="../../MetBrewer/Monet/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/poliwhirl/"> <img src="../../palettetown/poliwhirl/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

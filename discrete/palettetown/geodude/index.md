@@ -46,7 +46,7 @@ Use raw:
 c("#707830FF", "#A8B060FF", "#404810FF", "#C8D080FF", "#F8F8F8FF", "#C8C8C8FF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 
@@ -57,9 +57,9 @@ c("#707830FF", "#A8B060FF", "#404810FF", "#C8D080FF", "#F8F8F8FF", "#C8C8C8FF")
 </figure> <figure class="figure">
 <a href="../../palettetown/graveler/"> <img src="../../palettetown/graveler/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/shedinja/"> <img src="../../palettetown/shedinja/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../nationalparkcolors/Yellowstone/"> <img src="../../nationalparkcolors/Yellowstone/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/shedinja/"> <img src="../../palettetown/shedinja/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../impressionist.colors/melon_et_peches/"> <img src="../../impressionist.colors/melon_et_peches/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -73,7 +73,7 @@ c("#707830FF", "#A8B060FF", "#404810FF", "#C8D080FF", "#F8F8F8FF", "#C8C8C8FF")
 </figure> <figure class="figure">
 <a href="../../lisa/RemediosVaro/"> <img src="../../lisa/RemediosVaro/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggthemr/camouflage/"> <img src="../../ggthemr/camouflage/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../yarrr/bugs/"> <img src="../../yarrr/bugs/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/seedot/"> <img src="../../palettetown/seedot/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 

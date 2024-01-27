@@ -46,7 +46,7 @@ Use raw:
 c("#285291FF", "#4F2B8EFF", "#91188EFF", "#539027FF", "#0D405BFF", "#34274DFF", "#91181DFF", "#2C3324FF", "#022240FF", "#21063FFF", "#3D0620FF", "#022013FF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 
@@ -71,10 +71,10 @@ c("#285291FF", "#4F2B8EFF", "#91188EFF", "#539027FF", "#0D405BFF", "#34274DFF", 
 </figure> <figure class="figure">
 <a href="../../palettesForR/Cool/"> <img src="../../palettesForR/Cool/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nbapalettes/magic_city2/"> <img src="../../nbapalettes/magic_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../nbapalettes/kings_alt/"> <img src="../../nbapalettes/kings_alt/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../trekcolors/starfleet2/"> <img src="../../trekcolors/starfleet2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../tvthemes/Dark/"> <img src="../../tvthemes/Dark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

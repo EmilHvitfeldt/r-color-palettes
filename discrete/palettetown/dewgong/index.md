@@ -46,7 +46,7 @@ Use raw:
 c("#E0E0F0FF", "#C0C8E8FF", "#405080FF", "#98A0B8FF", "#F8F8F8FF", "#807878FF", "#D0C8C8FF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 
@@ -54,6 +54,8 @@ c("#E0E0F0FF", "#C0C8E8FF", "#405080FF", "#98A0B8FF", "#F8F8F8FF", "#807878FF", 
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
 <a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/poliwrath/"> <img src="../../palettetown/poliwrath/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nord/afternoon_prarie/"> <img src="../../nord/afternoon_prarie/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -70,8 +72,6 @@ c("#E0E0F0FF", "#C0C8E8FF", "#405080FF", "#98A0B8FF", "#F8F8F8FF", "#807878FF", 
 <a href="../../palettetown/remoraid/"> <img src="../../palettetown/remoraid/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/onix/"> <img src="../../palettetown/onix/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/poliwrath/"> <img src="../../palettetown/poliwrath/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../IslamicArt/istanbul/"> <img src="../../IslamicArt/istanbul/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

@@ -46,7 +46,7 @@ Use raw:
 c("#926159FF", "#87876EFF", "#C7D2D8FF", "#62B7C8FF", "#43535CFF", "#23313CFF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 
@@ -71,10 +71,10 @@ c("#926159FF", "#87876EFF", "#C7D2D8FF", "#62B7C8FF", "#43535CFF", "#23313CFF")
 </figure> <figure class="figure">
 <a href="../../DresdenColor/deadbeat/"> <img src="../../DresdenColor/deadbeat/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../palettetown/poliwrath/"> <img src="../../palettetown/poliwrath/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/TheovanDoesburg/"> <img src="../../lisa/TheovanDoesburg/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/waves2/"> <img src="../../ggprism/waves2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../calecopal/grasswet/"> <img src="../../calecopal/grasswet/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

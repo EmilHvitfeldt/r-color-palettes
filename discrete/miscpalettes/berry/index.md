@@ -46,7 +46,7 @@ Use raw:
 c("#8A2BE2FF", "#BA55D3FF", "#4169E1FF", "#C71585FF", "#0000FFFF", "#8A2BE2FF", "#DA70D6FF", "#7B68EEFF", "#C000C0FF", "#0000CDFF", "#800080FF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 
@@ -67,9 +67,9 @@ c("#8A2BE2FF", "#BA55D3FF", "#4169E1FF", "#C71585FF", "#0000FFFF", "#8A2BE2FF", 
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Red_Violet/"> <img src="../../ggthemes/excel_Red_Violet/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggsci/purple_material/"> <img src="../../ggsci/purple_material/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../beyonce/X112/"> <img src="../../beyonce/X112/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggsci/purple_material/"> <img src="../../ggsci/purple_material/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X98/"> <img src="../../beyonce/X98/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

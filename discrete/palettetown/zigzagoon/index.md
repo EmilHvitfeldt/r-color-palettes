@@ -46,7 +46,7 @@ Use raw:
 c("#A87858FF", "#685848FF", "#C0A888FF", "#E0D0A8FF", "#C89878FF", "#484028FF", "#100000FF", "#403830FF", "#E8B898FF", "#F8E8C0FF", "#785848FF", "#C83820FF", "#A02000FF", "#A09078FF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 
@@ -63,9 +63,9 @@ c("#A87858FF", "#685848FF", "#C0A888FF", "#E0D0A8FF", "#C89878FF", "#484028FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/sentret/"> <img src="../../palettetown/sentret/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/spearow/"> <img src="../../palettetown/spearow/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../palettetown/primeape/"> <img src="../../palettetown/primeape/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/spearow/"> <img src="../../palettetown/spearow/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/slakoth/"> <img src="../../palettetown/slakoth/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

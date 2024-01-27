@@ -46,7 +46,7 @@ Use raw:
 c("#FF8200FF", "#E57200FF", "#010101FF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 
@@ -63,9 +63,9 @@ c("#FF8200FF", "#E57200FF", "#010101FF")
 </figure> <figure class="figure">
 <a href="../../nbapalettes/jazz/"> <img src="../../nbapalettes/jazz/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nbapalettes/supersonics_90s/"> <img src="../../nbapalettes/supersonics_90s/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../nbapalettes/mavericks_retro/"> <img src="../../nbapalettes/mavericks_retro/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nbapalettes/supersonics_90s/"> <img src="../../nbapalettes/supersonics_90s/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/warriors_city/"> <img src="../../nbapalettes/warriors_city/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

@@ -46,7 +46,7 @@ Use raw:
 c("#C8DEF9FF", "#90BFF9FF", "#FFFFFFFF", "#D4D4D4FF", "#FFFFFFFF", "#90BFF9FF", "#0000FFFF", "#C8DEF9FF", "#FFFFFFFF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 
@@ -57,9 +57,9 @@ c("#C8DEF9FF", "#90BFF9FF", "#FFFFFFFF", "#D4D4D4FF", "#FFFFFFFF", "#90BFF9FF", 
 </figure> <figure class="figure">
 <a href="../../ggprism/blueprint2/"> <img src="../../ggprism/blueprint2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/venomoth/"> <img src="../../palettetown/venomoth/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../palettetown/lugia/"> <img src="../../palettetown/lugia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/venomoth/"> <img src="../../palettetown/venomoth/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../DresdenColor/colddays/"> <img src="../../DresdenColor/colddays/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

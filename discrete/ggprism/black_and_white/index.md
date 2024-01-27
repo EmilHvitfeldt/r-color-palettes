@@ -46,7 +46,7 @@ Use raw:
 c("#000000FF", "#A0A0A4FF", "#808080FF", "#D4D4D4FF", "#606060FF", "#A0A0A4FF", "#606060FF", "#E8E8E8FF", "#A0A0A4FF")
 ``` 
 
-![](examples.svg) 
+![](examples.png) 
 
 <br>
 
@@ -67,9 +67,9 @@ c("#000000FF", "#A0A0A4FF", "#808080FF", "#D4D4D4FF", "#606060FF", "#A0A0A4FF", 
 </figure> <figure class="figure">
 <a href="../../Redmonder/sPBIGy1/"> <img src="../../Redmonder/sPBIGy1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggprism/shades_of_gray/"> <img src="../../ggprism/shades_of_gray/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../tayloRswift/reputation/"> <img src="../../tayloRswift/reputation/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggprism/shades_of_gray/"> <img src="../../ggprism/shades_of_gray/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/sPBIGy2/"> <img src="../../Redmonder/sPBIGy2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
