@@ -1,1 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="768" height="144" class="svglite" viewBox="0 0 576 108"><defs><style></style></defs><rect width="100%" height="100%" style="stroke:none;fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"/><defs><clipPath id="cpMC4wMHw1NzYuMDB8MC4wMHwxMDguMDA="><path d="M0 0h576v108H0z" style="fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"/></clipPath></defs><g clip-path="url(#cpMC4wMHw1NzYuMDB8MC4wMHwxMDguMDA=)"><path d="M26.18 4.91h34.91v98.18H26.18z" style="stroke-width:.21;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;fill:#e8b850;stroke-miterlimit:10"/><path d="M61.09 4.91H96v98.18H61.09z" style="stroke-width:.21;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;fill:#181818;stroke-miterlimit:10"/><path d="M96 4.91h34.91v98.18H96z" style="stroke-width:.21;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;fill:#d08058;stroke-miterlimit:10"/><path d="M130.91 4.91h34.91v98.18h-34.91z" style="stroke-width:.21;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;fill:#303060;stroke-miterlimit:10"/><path d="M165.82 4.91h34.91v98.18h-34.91z" style="stroke-width:.21;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;fill:#a86040;stroke-miterlimit:10"/><path d="M200.73 4.91h34.91v98.18h-34.91z" style="stroke-width:.21;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;fill:#e0d0a0;stroke-miterlimit:10"/><path d="M235.64 4.91h34.91v98.18h-34.91z" style="stroke-width:.21;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;fill:#f0d070;stroke-miterlimit:10"/><path d="M270.55 4.91h34.91v98.18h-34.91z" style="stroke-width:.21;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;fill:#f0e0c0;stroke-miterlimit:10"/><path d="M305.45 4.91h34.91v98.18h-34.91z" style="stroke-width:.21;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;fill:#e8a068;stroke-miterlimit:10"/><path d="M340.36 4.91h34.91v98.18h-34.91z" style="stroke-width:.21;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;fill:#886850;stroke-miterlimit:10"/><path d="M375.27 4.91h34.91v98.18h-34.91z" style="stroke-width:.21;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;fill:#804830;stroke-miterlimit:10"/><path d="M410.18 4.91h34.91v98.18h-34.91z" style="stroke-width:.21;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;fill:#606090;stroke-miterlimit:10"/><path d="M445.09 4.91H480v98.18h-34.91z" style="stroke-width:.21;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;fill:#c89840;stroke-miterlimit:10"/><path d="M480 4.91h34.91v98.18H480z" style="stroke-width:.21;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;fill:#c0a870;stroke-miterlimit:10"/><path d="M514.91 4.91h34.91v98.18h-34.91z" style="stroke-width:.21;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;fill:#f8f8f8;stroke-miterlimit:10"/></g></svg>
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='576.00pt' height='108.00pt' viewBox='0 0 576.00 108.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: none;'/>
+<defs>
+  <clipPath id='cpMC4wMHw1NzYuMDB8MC4wMHwxMDguMDA='>
+    <rect x='0.00' y='0.00' width='576.00' height='108.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHwxMDguMDA=)'>
+<rect x='26.18' y='4.91' width='34.91' height='98.18' style='stroke-width: 0.21; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #E8B850;' />
+<rect x='61.09' y='4.91' width='34.91' height='98.18' style='stroke-width: 0.21; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #181818;' />
+<rect x='96.00' y='4.91' width='34.91' height='98.18' style='stroke-width: 0.21; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #D08058;' />
+<rect x='130.91' y='4.91' width='34.91' height='98.18' style='stroke-width: 0.21; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #303060;' />
+<rect x='165.82' y='4.91' width='34.91' height='98.18' style='stroke-width: 0.21; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #A86040;' />
+<rect x='200.73' y='4.91' width='34.91' height='98.18' style='stroke-width: 0.21; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #E0D0A0;' />
+<rect x='235.64' y='4.91' width='34.91' height='98.18' style='stroke-width: 0.21; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #F0D070;' />
+<rect x='270.55' y='4.91' width='34.91' height='98.18' style='stroke-width: 0.21; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #F0E0C0;' />
+<rect x='305.45' y='4.91' width='34.91' height='98.18' style='stroke-width: 0.21; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #E8A068;' />
+<rect x='340.36' y='4.91' width='34.91' height='98.18' style='stroke-width: 0.21; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #886850;' />
+<rect x='375.27' y='4.91' width='34.91' height='98.18' style='stroke-width: 0.21; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #804830;' />
+<rect x='410.18' y='4.91' width='34.91' height='98.18' style='stroke-width: 0.21; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #606090;' />
+<rect x='445.09' y='4.91' width='34.91' height='98.18' style='stroke-width: 0.21; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #C89840;' />
+<rect x='480.00' y='4.91' width='34.91' height='98.18' style='stroke-width: 0.21; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #C0A870;' />
+<rect x='514.91' y='4.91' width='34.91' height='98.18' style='stroke-width: 0.21; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #F8F8F8;' />
+</g>
+</svg>
