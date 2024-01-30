@@ -31,13 +31,13 @@ I have collected all the palettes displayed here in a single package using a uni
 
 You can install the released version of paletteer from [CRAN](https://CRAN.R-project.org) with:
 
-```{r, eval=FALSE}
+```{r, echo=TRUE, eval=FALSE}
 install.packages("paletteer")
 ```
 
 If you want the development version instead then install directly from GitHub:
 
-```{r, eval=FALSE}
+```{r, echo=TRUE, eval=FALSE}
 # install.packages("devtools")
 devtools::install_github("EmilHvitfeldt/paletteer")
 ```
