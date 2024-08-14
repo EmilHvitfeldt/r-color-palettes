@@ -5,6 +5,7 @@ library(tidyverse)
 library(tidygraph)
 library(ggraph)
 library(patchwork)
+library(colorspace)
 
 source("plot_discrete.R")
 
@@ -132,6 +133,17 @@ for (i in seq_len(nrow(pals))) {
     "\n\n![](examples.png)"
   )
   
+  index_text <- paste(
+    index_text,
+    "
+
+  <br>
+  
+  ## With Different Forms of Colorblindness
+  
+  ![](colorblind.svg)"
+  )
+  
   index_text <- paste(index_text, glue(
   "\n\n
   <br>
@@ -163,21 +175,43 @@ for (i in seq_len(nrow(pals))) {
   # Pal plot
   featured_path <- path(dir_path, "featured", ext = "svg")
   
-  pal_plot <- tibble(
-    color = palettes_d[[pal$package]][[pal$palette]]
-  ) |>
-    mutate(x = seq_len(n())) |>
-    ggplot(aes(x, 1, fill = color)) +
-    geom_tile() +
-    scale_fill_identity() +
-    theme_void()
+  plot_palette <- function (colors_palette) {
+    tibble(
+      color = colors_palette
+    ) |>
+      mutate(x = seq_len(n())) |>
+      ggplot(aes(x, 1, fill = color)) +
+      geom_tile() +
+      scale_fill_identity() +
+      theme_void()
+  }
+  
+  colors_palette <- palettes_d[[pal$package]][[pal$palette]]
+  pal_plot <- plot_palette(colors_palette)
   
   ggsave(file = featured_path, plot = pal_plot, width = 8, height = 1.5)
   
   # Example plot
   example_path <- path(dir_path, "examples", ext = "png")
-    
   example_plot <- plot_discrete(pal)
   
   ggsave(file = example_path, plot = example_plot, width = 8, height = 8 / 1.718, dpi = 150)
+  
+  # Colorblind Plot
+  
+  colorblind_path <- path(dir_path, "colorblind", ext = "svg")
+  deut_plot <- plot_palette(deutan(colors_palette)) +
+    labs(title = "Deutanomaly")
+  prot_plot <- plot_palette(protan(colors_palette)) +
+    labs(title = "Protanomaly")
+  trit_plot <- plot_palette(tritan(colors_palette)) +
+    labs(title = "Tritanomaly")
+  des_plot <- plot_palette(desaturate(colors_palette)) +
+    labs(title = "Desaturated")
+  
+  colorblind_plot <- (
+    (deut_plot + prot_plot) / (trit_plot + des_plot)
+  )
+  
+  ggsave(file = colorblind_path, plot = colorblind_plot, width = 8, height = 4)
 }
