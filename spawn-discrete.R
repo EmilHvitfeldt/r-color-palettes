@@ -133,16 +133,13 @@ for (i in seq_len(nrow(pals))) {
     "\n\n![](examples.png)"
   )
   
-  index_text <- paste(
-    index_text,
-    "
-
+  index_text <- paste(index_text, glue("
   <br>
   
   ## With Different Forms of Colorblindness
   
   ![](colorblind.svg)"
-  )
+  ))
   
   index_text <- paste(index_text, glue(
   "\n\n
