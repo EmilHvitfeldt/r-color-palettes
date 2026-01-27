@@ -30,7 +30,7 @@ all_names <- function(package, type = NULL) {
                                 which(palettes_d_names$type == type)), ]$palette
   }
   
-  color_list_d <- lapply(names_d, paletteer_d, package = !!package)
+  color_list_d <- lapply(names_d, paletteer_d, package = package)
 
   if(is.null(type)) {
     names_c <- palettes_c_names[which(palettes_c_names$package == package), ]$palette
@@ -40,7 +40,7 @@ all_names <- function(package, type = NULL) {
   }
   
   if(length(names_c) > 0) {
-    color_list_c <- lapply(names_c, paletteer_c, package = !!package, n = 256)
+    color_list_c <- lapply(names_c, paletteer_c, package = package, n = 256)
   }
   
   if(is.null(type)) {

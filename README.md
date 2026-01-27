@@ -8,7 +8,7 @@ looking for a color palette to use in r. If you would like to
 help/contribute please feel free post an issue, PR or send a email to
 <emilhhvitfeldt@gmail.com>.
 
-# Interactive Color Picker at [https://emilhvitfeldt.github.io/r-color-palettes/](https://emilhvitfeldt.github.io/r-color-palettes/)
+# Interactive Color Picker at <https://emilhvitfeldt.github.io/r-color-palettes/>
 
 Further down the page is all the palettes available in the R ecosystem
 ordered alphabetically by package name. A list of palettes ordered by
@@ -29,57 +29,57 @@ GitHub:
 
 # Table of Contents
 
-  - [Main page](#comprehensive-list-of-color-palettes-in-r)
-  - [Blogposts and other resources](#blogposts-and-other-resources)
-  - [Color manipulation packages](#color-manipulation-packages)
-  - [Generative packages](#generative-packages)
-  - [Perception of color palettes](#perception-of-color-palettes)
-      - [Printing in black and white](#printing-in-black-and-white)
-      - [Color blindness](#color-blindness)
-  - [Honorable mentions](#honorable-mentions)
-  - [Palettes sorted by Package
-    (alphabetically)](#palettes-sorted-by-package-alphabetically)
-      - [Sequential color
-        palettes](type-sorted-palettes.md#sequential-color-palettes)
-      - [Diverging color
-        palettes](type-sorted-palettes.md#diverging-color-palettes)
-      - [Qualitative color
-        palettes](type-sorted-palettes.md#qualitative-color-palettes)
-      - [Canva palettes](canva.md)
-      - [Palettetown palettes](palettetown.md)
-  - [News](NEWS.md)
+- [Main page](#comprehensive-list-of-color-palettes-in-r)
+- [Blogposts and other resources](#blogposts-and-other-resources)
+- [Color manipulation packages](#color-manipulation-packages)
+- [Generative packages](#generative-packages)
+- [Perception of color palettes](#perception-of-color-palettes)
+  - [Printing in black and white](#printing-in-black-and-white)
+  - [Color blindness](#color-blindness)
+- [Honorable mentions](#honorable-mentions)
+- [Palettes sorted by Package
+  (alphabetically)](#palettes-sorted-by-package-alphabetically)
+  - [Sequential color
+    palettes](type-sorted-palettes.md#sequential-color-palettes)
+  - [Diverging color
+    palettes](type-sorted-palettes.md#diverging-color-palettes)
+  - [Qualitative color
+    palettes](type-sorted-palettes.md#qualitative-color-palettes)
+  - [Canva palettes](canva.md)
+  - [Palettetown palettes](palettetown.md)
+- [News](NEWS.md)
 
 ## Blogposts and other resources
 
 Here is a collection of material on the use and creation of color
 palettes in r.
 
-  - [Creating corporate colour palettes for
-    ggplot2](https://drsimonj.svbtle.com/creating-corporate-colour-palettes-for-ggplot2)
-  - [Make your own color palettes with
-    paletti](https://edwinth.github.io/blog/paletti/)
-  - [How to create a color palette in R with more than 15 colors with
-    ggplot2](https://github.com/duttashi/visualize/issues/19)
-  - [Generating a Custom Color Palette Function in
-    R](https://quantdev.ssri.psu.edu/tutorials/generating-custom-color-palette-function-r)
-  - [How to build a color palette from any image with R and k-means
-    algo](http://www.milanor.net/blog/build-color-palette-from-image-with-paletter/)
-  - [Why choice of colour is important beyond aesthetic considerations
-    and how the quality of a palette might be
-    assessed](https://www.data-imaginist.com/2018/scico-and-the-colour-conundrum/)
-  - [Viz palette: colors in
-    action](http://projects.susielu.com/viz-palette)
+- [Creating corporate colour palettes for
+  ggplot2](https://drsimonj.svbtle.com/creating-corporate-colour-palettes-for-ggplot2)
+- [Make your own color palettes with
+  paletti](https://edwinth.github.io/blog/paletti/)
+- [How to create a color palette in R with more than 15 colors with
+  ggplot2](https://github.com/duttashi/visualize/issues/19)
+- [Generating a Custom Color Palette Function in
+  R](https://quantdev.ssri.psu.edu/tutorials/generating-custom-color-palette-function-r)
+- [How to build a color palette from any image with R and k-means
+  algo](http://www.milanor.net/blog/build-color-palette-from-image-with-paletter/)
+- [Why choice of colour is important beyond aesthtic considerations and
+  how the quality of a palette might be
+  assesed](https://www.data-imaginist.com/2018/scico-and-the-colour-conundrum/)
+- [Viz palette: colors in
+  action](http://projects.susielu.com/viz-palette)
 
 ## Color manipulation packages
 
-  - [Extract palettes from images and
-    text](https://github.com/EmilHvitfeldt/quickpalette)
-  - [Fast Vectorised Colour Conversion and
-    Comparison](https://github.com/thomasp85/farver)
-  - [How to Read, Inspect, and Manipulate Color Swatch
-    Files](https://github.com/hrbrmstr/swatches)
-  - [Simple colour manipulation in
-    R](https://github.com/jonclayden/shades)
+- [Extract palettes from images and
+  text](https://github.com/EmilHvitfeldt/quickpalette)
+- [Fast Vectorised Colour Conversion and
+  Comparison](https://github.com/thomasp85/farver)
+- [How to Read, Inspect, and Manipulate Color Swatch
+  Files](https://github.com/hrbrmstr/swatches)
+- [Simple colour manipulation in
+  R](https://github.com/jonclayden/shades)
 
 ## Generative packages
 
@@ -88,30 +88,30 @@ available in R (packages). However sometimes you have to resort to make
 one yourself. When that is the case the following packages aides in
 creating.
 
-  - [AndreaCirilloAC/paletter](https://github.com/AndreaCirilloAC/paletter)
-  - [jolars/qualpalr](https://github.com/jolars/qualpalr)
-  - [ronammar/randomcoloR](https://github.com/ronammar/randomcoloR)
-  - [johnbaums/hues](https://github.com/johnbaums/hues)
-  - [ColorPalette](https://cran.r-project.org/web/packages/ColorPalette/index.html)
-  - [oaColors](https://cran.rstudio.com/web/packages/oaColors/index.html)
-  - [earthtones](https://cran.r-project.org/web/packages/earthtones/index.html)
-  - [leeper/colourlovers](https://github.com/leeper/colourlovers)
+- [AndreaCirilloAC/paletter](https://github.com/AndreaCirilloAC/paletter)
+- [jolars/qualpalr](https://github.com/jolars/qualpalr)
+- [ronammar/randomcoloR](https://github.com/ronammar/randomcoloR)
+- [johnbaums/hues](https://github.com/johnbaums/hues)
+- [ColorPalette](https://cran.r-project.org/web/packages/ColorPalette/index.html)
+- [oaColors](https://cran.rstudio.com/web/packages/oaColors/index.html)
+- [earthtones](https://cran.r-project.org/web/packages/earthtones/index.html)
+- [leeper/colourlovers](https://github.com/leeper/colourlovers)
 
 When creating color palettes certain website have also provided valuable
 
-  - [paletton](http://paletton.com/)
-  - [Data color
-    picker](https://learnui.design/tools/data-color-picker.html)
-  - [i want hue](http://tools.medialab.sciences-po.fr/iwanthue/)
-  - [Viz Palette](http://projects.susielu.com/viz-palette)
+- [paletton](http://paletton.com/)
+- [Data color
+  picker](https://learnui.design/tools/data-color-picker.html)
+- [i want hue](http://tools.medialab.sciences-po.fr/iwanthue/)
+- [Viz Palette](http://projects.susielu.com/viz-palette)
 
 ## Perception of color palettes
 
 Selecting a color palette requires a number of different considerations.
 Within these considerations is
 
-  - the palette retains its integrity when printed in black and white
-  - people with colorblindness are able to understand it
+- the palette retains its integrity when printed in black and white
+- people with colorblindness are able to understand it
 
 In the following I have outlined a couple of those problems
 
@@ -149,10 +149,46 @@ and white, use the `colorspace::desaturate()` to desaturate it.
 
 Another thing you have to take into consideration when picking a palette
 is how it would be viewed by a person who is [color
-blind](https://en.wikipedia.org/wiki/Color_blindness). To visualize the
-effect of color blindness on our palettes we will turn to two packages.
-The `dichromat` package can simulate color blindness on individual color
-and then also entire palettes like so in this `rainbow` palette:
+blind](https://en.wikipedia.org/wiki/Color_blindness). There are several
+approaches to ensuring that a colorblind person can interpret your
+figures. A very good summary of what you can do is given by Masataka
+Okabe and Kei Ito in their document [“Color Universal Design (CUD) - How
+to make figures and presentations that are friendly to Colorblind
+people”](http://jfly.iam.u-tokyo.ac.jp/color/). Beyond using shapes,
+linetypes and size for information coding, which is easily done using
+the [ggplot2
+aesthetics](https://ggplot2.tidyverse.org/reference/aes_linetype_size_shape.html),
+they recommend:
+
+#### Using unambiguous palettes
+
+The easiest way to make color coding accessible to everyone, is using a
+palette, that is unambiguous to people with various types of color
+blindness. There are a few available:
+
+- Masataka Okabe and Kei Ito have developed such a [barrier free
+  palette](http://jfly.iam.u-tokyo.ac.jp/color/#pallet), and you can use
+  it in R with the [colorblind_pal() of the `ggthemes`
+  package](https://jrnold.github.io/ggthemes/reference/colorblind.html)
+  (also see colorblind_pal palette among the ggthemes palettes in the
+  alphabetical list below) or by using the encoding provided by the
+  [Cookbook for
+  R](http://www.cookbook-r.com/Graphs/Colors_(ggplot2)/#a-colorblind-friendly-palette).
+- Some of the palettes developed by Cynthia Brewer for the
+  [ColorBrewer](http://colorbrewer2.org) are colorblind safe, you can
+  find them through the [palette chooser website’s button “colorblind
+  safe”](http://colorbrewer2.org). In R, you can use the brewer palettes
+  through [`ggplot2`’s scale_colour_brewer() et
+  al.](https://ggplot2.tidyverse.org/reference/scale_brewer.html) or
+  through the separate package
+  [`RColorBrewer`](https://cran.r-project.org/web/packages/RColorBrewer/index.html).
+
+#### Simulating effects of color blindness on used palettes
+
+To visualize the effect of color blindness on our palettes we will turn
+to two packages. The `dichromat` package can simulate color blindness on
+individual color and then also entire palettes like so in this `rainbow`
+palette:
 
 ![](man/figures/README-unnamed-chunk-7-1.png)<!-- -->
 
@@ -188,259 +224,769 @@ Many of the palettes in sports related palettes have a very limited
 number of colors (often only 2 colors). This leads to quite low
 usability outside of the special area of sports analytic.
 
-  - [colorr](https://cran.r-project.org/web/packages/colorr/index.html)
-    Color palettes for EPL, MLB, NBA, NHL, and NFL teams.
+- [colorr](https://cran.r-project.org/web/packages/colorr/index.html)
+  Color palettes for EPL, MLB, NBA, NHL, and NFL teams.
 
-  - [beanumber/teamcolors](https://github.com/beanumber/teamcolors) An R
-    package providing color palettes for pro sports teams.
+- [beanumber/teamcolors](https://github.com/beanumber/teamcolors) An R
+  package providing color palettes for pro sports teams.
 
 ### Canva palettes
 
 The `ggthemes` package include the 150 four-color palettes from the
-[canva.com](canva.com). Due to the size and limited number of colors in
+[canva.com](canva.com). Doe to the size and limited number of colors in
 the palettes these palettes will be featured on their own page and only
 once.
 
-  - [Canva colors](canva.md)
+- [Canva colors](canva.md)
 
 ## Palettes sorted by Package (alphabetically)
 
-![](man/figures/README-awtools-1.png)<!-- -->
+### ButterflyColors
 
 ``` r
 # Developmental version
-devtools::install_github("awhstin/awtools")
-```
+pak::pak("junqueiragaabi/ButterflyColors")
 
-![](man/figures/README-cartography-1.png)<!-- -->
-
-``` r
-# Developmental version
-devtools::install_github("riatelab/cartography")
 # CRAN version
-install.packages("cartography")
+install.packages("ButterflyColors")
 ```
 
-![](man/figures/README-dichromat-1.png)<!-- -->
+![](readme_images/ButterflyColors.png)
+
+### DresdenColor
 
 ``` r
+# Developmental version
+pak::pak("katiesaund/DresdenColor")
+
 # CRAN version
-install.packages("dichromat")
+install.packages("DresdenColor")
 ```
 
-![](man/figures/README-dutchmasters-1.png)<!-- -->
+![](readme_images/DresdenColor.png)
+
+### IslamicArt
 
 ``` r
 # Developmental version
-devtools::install_github("EdwinTh/dutchmasters")
-```
+pak::pak("lambdamoses/IslamicArt")
 
-![](man/figures/README-ggsci-1.png)<!-- -->
-
-``` r
-# Developmental version
-devtools::install_github("road2stat/ggsci")
 # CRAN version
-install.packages("ggsci")
+install.packages("IslamicArt")
 ```
 
-![](man/figures/README-ggpomological-1.png)<!-- -->
+![](readme_images/IslamicArt.png)
+
+### LaCroixColoR
 
 ``` r
 # Developmental version
-devtools::install_github("gadenbuie/ggpomological")
-```
+pak::pak("johannesbjork/LaCroixColoR")
 
-![](man/figures/README-ggthemes-1.png)<!-- -->
-
-``` r
-# Developmental version
-devtools::install_github("jrnold/ggthemes")
 # CRAN version
-install.packages("ggthemes")
+install.packages("LaCroixColoR")
 ```
 
-![](man/figures/README-ghibli-1.png)<!-- -->
+![](readme_images/LaCroixColoR.png)
+
+### Manu
 
 ``` r
 # Developmental version
-devtools::install_github("ewenme/ghibli")
+pak::pak("G-Thomson/Manu")
+
 # CRAN version
-install.packages("ghibli")
+install.packages("Manu")
 ```
 
-![](man/figures/README-grDevices-1.png)<!-- -->
+![](readme_images/Manu.png)
 
-``` r
-# CRAN version
-install.packages("grDevices")
-```
-
-![](man/figures/README-jcolors-discrete-1.png)<!-- -->
-
-![](man/figures/README-jcolors-contin-1.png)<!-- -->
-
-the `jcolors` continuous palettes are currently not available in the
-`paletteer` package.
+### MapPalettes
 
 ``` r
 # Developmental version
-devtools::install_github("jaredhuling/jcolors")
+pak::pak("disarm-platform/MapPalettes")
+
+# CRAN version
+install.packages("MapPalettes")
+```
+
+![](readme_images/MapPalettes.png)
+
+### MetBrewer
+
+``` r
+# Developmental version
+pak::pak("BlakeRMills/MetBrewer")
+```
+
+![](readme_images/MetBrewer.png)
+
+### MexBrewer
+
+``` r
+# Developmental version
+pak::pak("paezha/MexBrewer")
+
+# CRAN version
+install.packages("MexBrewer")
+```
+
+![](readme_images/MexBrewer.png)
+
+### MoMAColors
+
+``` r
+# Developmental version
+pak::pak("BlakeRMills/MoMAColors")
+
+# CRAN version
+install.packages("MoMAColors")
+```
+
+![](readme_images/MoMAColors.png)
+
+### NatParksPalettes
+
+``` r
+# Developmental version
+pak::pak("kevinsblake/NatParksPalettes")
+```
+
+![](readme_images/NatParksPalettes.png)
+
+### NineteenEightyR
+
+``` r
+# Developmental version
+pak::pak("m-clark/NineteenEightyR")
+
+# CRAN version
+install.packages("NineteenEightyR")
+```
+
+![](readme_images/NineteenEightyR.png)
+
+### PNWColors
+
+``` r
+# Developmental version
+pak::pak("jakelawlor/PNWColors")
+
+# CRAN version
+install.packages("PNWColors")
+```
+
+![](readme_images/PNWColors.png)
+
+### Polychrome
+
+``` r
+```
+
+![](readme_images/Polychrome.png)
+
+### PrettyCols
+
+``` r
+# Developmental version
+pak::pak("nrennie/PrettyCols")
+```
+
+![](readme_images/PrettyCols.png)
+
+### RColorBrewer
+
+``` r
+```
+
+![](readme_images/RColorBrewer.png)
+
+### RSkittleBrewer
+
+``` r
+# Developmental version
+pak::pak("alyssafrazee/RSkittleBrewer")
+
+# CRAN version
+install.packages("RSkittleBrewer")
+```
+
+![](readme_images/RSkittleBrewer.png)
+
+### Rdune
+
+``` r
+# Developmental version
+pak::pak("nvietto/Rdune")
+```
+
+![](readme_images/Rdune.png)
+
+### Redmonder
+
+``` r
+# Developmental version
+pak::pak("pmdci/redmonder")
+```
+
+![](readme_images/Redmonder.png)
+
+### amerika
+
+``` r
+# Developmental version
+pak::pak("pdwaggoner/amerika")
+```
+
+![](readme_images/amerika.png)
+
+### awtools
+
+``` r
+# Developmental version
+pak::pak("awhstin/awtools")
+
+# CRAN version
+install.packages("awtools")
+```
+
+![](readme_images/awtools.png)
+
+### basetheme
+
+``` r
+# Developmental version
+pak::pak("karoliskoncevicius/basetheme")
+```
+
+![](readme_images/basetheme.png)
+
+### beyonce
+
+``` r
+# Developmental version
+pak::pak("dill/beyonce")
+
+# CRAN version
+install.packages("beyonce")
+```
+
+![](readme_images/beyonce.png)
+
+### blueycolors
+
+``` r
+# Developmental version
+pak::pak("ekholme/blueycolors")
+
+# CRAN version
+install.packages("blueycolors")
+```
+
+![](readme_images/blueycolors.png)
+
+### calecopal
+
+``` r
+# Developmental version
+pak::pak("an-bui/calecopal")
+
+# CRAN version
+install.packages("calecopal")
+```
+
+![](readme_images/calecopal.png)
+
+### colRoz
+
+``` r
+# Developmental version
+pak::pak("jacintak/colRoz")
+
+# CRAN version
+install.packages("colRoz")
+```
+
+![](readme_images/colRoz.png)
+
+### colorBlindness
+
+``` r
+```
+
+![](readme_images/colorBlindness.png)
+
+### colorblindr
+
+``` r
+# Developmental version
+pak::pak("clauswilke/colorblindr")
+
+# CRAN version
+install.packages("colorblindr")
+```
+
+![](readme_images/colorblindr.png)
+
+### dichromat
+
+``` r
+```
+
+![](readme_images/dichromat.png)
+
+### dutchmasters
+
+``` r
+# Developmental version
+pak::pak("EdwinTh/dutchmasters")
+
+# CRAN version
+install.packages("dutchmasters")
+```
+
+![](readme_images/dutchmasters.png)
+
+### feathers
+
+``` r
+# Developmental version
+pak::pak("shandiya/feathers")
+
+# CRAN version
+install.packages("feathers")
+```
+
+![](readme_images/feathers.png)
+
+### fishualize
+
+``` r
+# Developmental version
+pak::pak("nschiett/fishualize")
+```
+
+![](readme_images/fishualize.png)
+
+### futurevisions
+
+``` r
+# Developmental version
+pak::pak("JoeyStanley/futurevisions")
+
+# CRAN version
+install.packages("futurevisions")
+```
+
+![](readme_images/futurevisions.png)
+
+### ggpomological
+
+``` r
+# Developmental version
+pak::pak("gadenbuie/ggpomological")
+
+# CRAN version
+install.packages("ggpomological")
+```
+
+![](readme_images/ggpomological.png)
+
+### ggprism
+
+``` r
+# Developmental version
+pak::pak("csdaw/ggprism")
+```
+
+![](readme_images/ggprism.png)
+
+### ggsci
+
+``` r
+# Developmental version
+pak::pak("nanxstats/ggsci")
+```
+
+![](readme_images/ggsci.png)
+
+### ggthemes
+
+``` r
+# Developmental version
+pak::pak("jrnold/ggthemes")
+```
+
+![](readme_images/ggthemes.png)
+
+### ggthemr
+
+``` r
+# Developmental version
+pak::pak("Mikata-Project/ggthemr")
+
+# CRAN version
+install.packages("ggthemr")
+```
+
+![](readme_images/ggthemr.png)
+
+### ghibli
+
+``` r
+# Developmental version
+pak::pak("ewenme/ghibli")
+```
+
+![](readme_images/ghibli.png)
+
+### grDevices
+
+``` r
+```
+
+![](readme_images/grDevices.png)
+
+### impressionist.colors
+
+``` r
+```
+
+![](readme_images/impressionist.colors.png)
+
+### jcolors
+
+``` r
+# Developmental version
+pak::pak("jaredhuling/jcolors")
+
 # CRAN version
 install.packages("jcolors")
 ```
 
-![](man/figures/README-LaCroixColoR-1.png)<!-- -->
+![](readme_images/jcolors.png)
+
+### khroma
 
 ``` r
 # Developmental version
-devtools::install_github("johannesbjork/LaCroixColoR")
+pak::pak("tesselle/khroma")
 ```
 
-![](man/figures/README-NineteenEightyR-1.png)<!-- -->
+![](readme_images/khroma.png)
+
+### lisa
 
 ``` r
 # Developmental version
-devtools::install_github("m-clark/NineteenEightyR")
+pak::pak("tylerlittlefield/lisa")
 ```
 
-![](man/figures/README-nord-1.png)<!-- -->
+![](readme_images/lisa.png)
+
+### ltc
 
 ``` r
 # Developmental version
-devtools::install_github("jkaupp/nord")
+pak::pak("loukesio/ltc-color-palettes")
+
 # CRAN version
-install.packages("nord")
+install.packages("ltc")
 ```
 
-![](man/figures/README-ochRe-1.png)<!-- -->
+![](readme_images/ltc.png)
+
+### miscpalettes
 
 ``` r
 # Developmental version
-devtools::install_github("ropenscilabs/ochRe")
+pak::pak("EmilHvitfeldt/miscpalettes")
+
+# CRAN version
+install.packages("miscpalettes")
+```
+
+![](readme_images/miscpalettes.png)
+
+### musculusColors
+
+``` r
+# Developmental version
+pak::pak("dawnbarlow/musculusColors")
+
+# CRAN version
+install.packages("musculusColors")
+```
+
+![](readme_images/musculusColors.png)
+
+### nationalparkcolors
+
+``` r
+# Developmental version
+pak::pak("katiejolly/nationalparkcolors")
+
+# CRAN version
+install.packages("nationalparkcolors")
+```
+
+![](readme_images/nationalparkcolors.png)
+
+### nbapalettes
+
+``` r
+# Developmental version
+pak::pak("murrayjw/nbapalettes")
+```
+
+![](readme_images/nbapalettes.png)
+
+### nord
+
+``` r
+# Developmental version
+pak::pak("jkaupp/nord")
+```
+
+![](readme_images/nord.png)
+
+### ochRe
+
+``` r
+# Developmental version
+pak::pak("hollylkirk/ochRe")
+
 # CRAN version
 install.packages("ochRe")
 ```
 
-![](man/figures/README-oompaBase-1.png)<!-- -->
+![](readme_images/ochRe.png)
 
-``` r
-# CRAN version
-install.packages("oompaBase")
-```
-
-![](man/figures/README-palettetown-1.png)<!-- -->
+### palettesForR
 
 ``` r
 # Developmental version
-devtools::install_github("timcdlucas/palettetown")
-# CRAN version
-install.packages("palettetown")
+pak::pak("frareb/palettesForR")
 ```
 
-![](man/figures/README-palr-1.png)<!-- -->
+![](readme_images/palettesForR.png)
+
+### pals
 
 ``` r
 # Developmental version
-devtools::install_github("AustralianAntarcticDivision/palr")
-# CRAN version
-install.packages("palr")
+pak::pak("kwstat/pals")
 ```
 
-![](man/figures/README-pals-1.png)<!-- -->
+![](readme_images/pals.png)
+
+### peRReo
 
 ``` r
 # Developmental version
-devtools::install_github("kwstat/pals")
+pak::pak("jbgb13/peRReo")
+
 # CRAN version
-install.packages("pals")
+install.packages("peRReo")
 ```
 
-![](man/figures/README-palskovesi-1.png)<!-- -->
+![](readme_images/peRReo.png)
+
+### poisonfrogs
 
 ``` r
 # Developmental version
-devtools::install_github("kwstat/pals")
-# CRAN version
-install.packages("pals")
+pak::pak("laurenoconnelllab/poisonfrogs")
 ```
 
-![](man/figures/README-Polychrome-1.png)<!-- -->
+![](readme_images/poisonfrogs.png)
 
-``` r
-# CRAN version
-install.packages("Polychrome")
-```
-
-![](man/figures/README-quickpalette-1.png)<!-- -->
+### rcartocolor
 
 ``` r
 # Developmental version
-devtools::install_github("EmilHvitfeldt/quickpalette")
+pak::pak("Nowosad/rcartocolor")
 ```
 
-![](man/figures/README-rcartocolor-1.png)<!-- -->
+![](readme_images/rcartocolor.png)
+
+### rockthemes
 
 ``` r
 # Developmental version
-devtools::install_github("Nowosad/rcartocolor")
+pak::pak("johnmackintosh/rockthemes")
+
 # CRAN version
-install.packages("rcartocolor")
+install.packages("rockthemes")
 ```
 
-![](man/figures/README-RColorBrewer-1.png)<!-- -->
+![](readme_images/rockthemes.png)
 
-``` r
-# CRAN version
-install.packages("RColorBrewer")
-```
-
-![](man/figures/README-Redmonder-1.png)<!-- -->
-
-``` r
-# CRAN version
-install.packages("Redmonder")
-```
-
-![](man/figures/README-RSkittleBrewer-1.png)<!-- -->
+### rtist
 
 ``` r
 # Developmental version
-devtools::install_github("alyssafrazee/RSkittleBrewer")
+pak::pak("tomasokal/rtist")
 ```
 
-![](man/figures/README-scico-1.png)<!-- -->
+![](readme_images/rtist.png)
+
+### severance
 
 ``` r
 # Developmental version
-devtools::install_github("thomasp85/scico")
+pak::pak("ivelasq/severance")
+
 # CRAN version
-install.packages("scico")
+install.packages("severance")
 ```
 
-![](man/figures/README-viridis-1.png)<!-- -->
+![](readme_images/severance.png)
+
+### soilpalettes
 
 ``` r
 # Developmental version
-devtools::install_github("sjmgarnier/viridis")
+pak::pak("kaizadp/soilpalettes")
+
 # CRAN version
-install.packages("viridis")
+install.packages("soilpalettes")
 ```
 
-![](man/figures/README-wesanderson-1.png)<!-- -->
+![](readme_images/soilpalettes.png)
+
+### suffrager
 
 ``` r
 # Developmental version
-devtools::install_github("karthik/wesanderson")
+pak::pak("alburezg/suffrager")
+
 # CRAN version
-install.packages("wesanderson")
+install.packages("suffrager")
 ```
 
-![](man/figures/README-yarrr-1.png)<!-- -->
+![](readme_images/suffrager.png)
+
+### tayloRswift
 
 ``` r
 # Developmental version
-devtools::install_github("ndphillips/yarrr")
+pak::pak("asteves/tayloRswift")
+
 # CRAN version
-install.packages("yarrr")
+install.packages("tayloRswift")
 ```
+
+![](readme_images/tayloRswift.png)
+
+### tidyquant
+
+``` r
+# Developmental version
+pak::pak("business-science/tidyquant")
+```
+
+![](readme_images/tidyquant.png)
+
+### trekcolors
+
+``` r
+# Developmental version
+pak::pak("leonawicz/trekcolors")
+```
+
+![](readme_images/trekcolors.png)
+
+### tvthemes
+
+``` r
+# Developmental version
+pak::pak("Ryo-N7/tvthemes")
+```
+
+![](readme_images/tvthemes.png)
+
+### unikn
+
+``` r
+# Developmental version
+pak::pak("hneth/unikn")
+```
+
+![](readme_images/unikn.png)
+
+### vangogh
+
+``` r
+# Developmental version
+pak::pak("cherylisabella/vangogh")
+```
+
+![](readme_images/vangogh.png)
+
+### vapeplot
+
+``` r
+# Developmental version
+pak::pak("seasmith/vapeplot")
+
+# CRAN version
+install.packages("vapeplot")
+```
+
+![](readme_images/vapeplot.png)
+
+### vapoRwave
+
+``` r
+# Developmental version
+pak::pak("moldach/vapoRwave")
+
+# CRAN version
+install.packages("vapoRwave")
+```
+
+![](readme_images/vapoRwave.png)
+
+### waRhol
+
+``` r
+# Developmental version
+pak::pak("alexskeels/waRhol")
+
+# CRAN version
+install.packages("waRhol")
+```
+
+![](readme_images/waRhol.png)
+
+### werpals
+
+``` r
+# Developmental version
+pak::pak("sciencificity/werpals")
+
+# CRAN version
+install.packages("werpals")
+```
+
+![](readme_images/werpals.png)
+
+### wesanderson
+
+``` r
+# Developmental version
+pak::pak("karthik/wesanderson")
+```
+
+![](readme_images/wesanderson.png)
+
+### yarrr
+
+``` r
+# Developmental version
+pak::pak("ndphillips/yarrr")
+```
+
+![](readme_images/yarrr.png)
