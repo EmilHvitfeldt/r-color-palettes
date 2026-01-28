@@ -36,8 +36,8 @@ install.packages("paletteer")
 If you want the development version instead then install directly from GitHub:
 
 ```{r, eval=FALSE}
-# install.packages("devtools")
-devtools::install_github("EmilHvitfeldt/paletteer")
+# install.packages("pak")
+pak::pak("EmilHvitfeldt/paletteer")
 ```
 
 Table of Contents
@@ -204,7 +204,7 @@ The `ggthemes` package include the 150 four-color palettes from the [canva.com](
 #| results: asis
 #| warning: false
 source("palette_plotter.R")
-fs::dir_create("readme_images")
+fs::dir_create("palette_images")
 
 pals <- paletteer::palettes_d
 pals <- pals[names(pals) != "palettetown"]
@@ -236,7 +236,7 @@ glue::glue_data(
 [[cran_install]]
 \`\`\`
 
-![](readme_images/[[Name]].png)
+![](palette_images/[[Name]].png)
 
 ",
   .open = "[[",

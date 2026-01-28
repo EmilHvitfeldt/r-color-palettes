@@ -248,7 +248,7 @@ once.
 pak::pak("junqueiragaabi/ButterflyColors")
 ```
 
-![](readme_images/ButterflyColors.png)
+![](palette_images/ButterflyColors.png)
 
 ### DresdenColor
 
@@ -257,7 +257,7 @@ pak::pak("junqueiragaabi/ButterflyColors")
 pak::pak("katiesaund/DresdenColor")
 ```
 
-![](readme_images/DresdenColor.png)
+![](palette_images/DresdenColor.png)
 
 ### IslamicArt
 
@@ -266,7 +266,7 @@ pak::pak("katiesaund/DresdenColor")
 pak::pak("lambdamoses/IslamicArt")
 ```
 
-![](readme_images/IslamicArt.png)
+![](palette_images/IslamicArt.png)
 
 ### LaCroixColoR
 
@@ -275,7 +275,7 @@ pak::pak("lambdamoses/IslamicArt")
 pak::pak("johannesbjork/LaCroixColoR")
 ```
 
-![](readme_images/LaCroixColoR.png)
+![](palette_images/LaCroixColoR.png)
 
 ### Manu
 
@@ -284,7 +284,7 @@ pak::pak("johannesbjork/LaCroixColoR")
 pak::pak("G-Thomson/Manu")
 ```
 
-![](readme_images/Manu.png)
+![](palette_images/Manu.png)
 
 ### MapPalettes
 
@@ -293,7 +293,7 @@ pak::pak("G-Thomson/Manu")
 pak::pak("disarm-platform/MapPalettes")
 ```
 
-![](readme_images/MapPalettes.png)
+![](palette_images/MapPalettes.png)
 
 ### MetBrewer
 
@@ -305,7 +305,7 @@ pak::pak("BlakeRMills/MetBrewer")
 install.packages("MetBrewer")
 ```
 
-![](readme_images/MetBrewer.png)
+![](palette_images/MetBrewer.png)
 
 ### MexBrewer
 
@@ -314,7 +314,7 @@ install.packages("MetBrewer")
 pak::pak("paezha/MexBrewer")
 ```
 
-![](readme_images/MexBrewer.png)
+![](palette_images/MexBrewer.png)
 
 ### MoMAColors
 
@@ -323,7 +323,7 @@ pak::pak("paezha/MexBrewer")
 pak::pak("BlakeRMills/MoMAColors")
 ```
 
-![](readme_images/MoMAColors.png)
+![](palette_images/MoMAColors.png)
 
 ### NatParksPalettes
 
@@ -335,7 +335,7 @@ pak::pak("kevinsblake/NatParksPalettes")
 install.packages("NatParksPalettes")
 ```
 
-![](readme_images/NatParksPalettes.png)
+![](palette_images/NatParksPalettes.png)
 
 ### NineteenEightyR
 
@@ -344,7 +344,7 @@ install.packages("NatParksPalettes")
 pak::pak("m-clark/NineteenEightyR")
 ```
 
-![](readme_images/NineteenEightyR.png)
+![](palette_images/NineteenEightyR.png)
 
 ### PNWColors
 
@@ -353,7 +353,7 @@ pak::pak("m-clark/NineteenEightyR")
 pak::pak("jakelawlor/PNWColors")
 ```
 
-![](readme_images/PNWColors.png)
+![](palette_images/PNWColors.png)
 
 ### Polychrome
 
@@ -364,7 +364,7 @@ pak::pak("jakelawlor/PNWColors")
 install.packages("Polychrome")
 ```
 
-![](readme_images/Polychrome.png)
+![](palette_images/Polychrome.png)
 
 ### PrettyCols
 
@@ -376,7 +376,7 @@ pak::pak("nrennie/PrettyCols")
 install.packages("PrettyCols")
 ```
 
-![](readme_images/PrettyCols.png)
+![](palette_images/PrettyCols.png)
 
 ### RColorBrewer
 
@@ -387,7 +387,7 @@ install.packages("PrettyCols")
 install.packages("RColorBrewer")
 ```
 
-![](readme_images/RColorBrewer.png)
+![](palette_images/RColorBrewer.png)
 
 ### RSkittleBrewer
 
@@ -396,7 +396,7 @@ install.packages("RColorBrewer")
 pak::pak("alyssafrazee/RSkittleBrewer")
 ```
 
-![](readme_images/RSkittleBrewer.png)
+![](palette_images/RSkittleBrewer.png)
 
 ### Rdune
 
@@ -408,7 +408,7 @@ pak::pak("nvietto/Rdune")
 install.packages("Rdune")
 ```
 
-![](readme_images/Rdune.png)
+![](palette_images/Rdune.png)
 
 ### Redmonder
 
@@ -420,7 +420,7 @@ pak::pak("pmdci/redmonder")
 install.packages("Redmonder")
 ```
 
-![](readme_images/Redmonder.png)
+![](palette_images/Redmonder.png)
 
 ### amerika
 
@@ -432,7 +432,7 @@ pak::pak("pdwaggoner/amerika")
 install.packages("amerika")
 ```
 
-![](readme_images/amerika.png)
+![](palette_images/amerika.png)
 
 ### awtools
 
@@ -441,7 +441,7 @@ install.packages("amerika")
 pak::pak("awhstin/awtools")
 ```
 
-![](readme_images/awtools.png)
+![](palette_images/awtools.png)
 
 ### basetheme
 
@@ -453,7 +453,7 @@ pak::pak("karoliskoncevicius/basetheme")
 install.packages("basetheme")
 ```
 
-![](readme_images/basetheme.png)
+![](palette_images/basetheme.png)
 
 ### beyonce
 
@@ -462,7 +462,7 @@ install.packages("basetheme")
 pak::pak("dill/beyonce")
 ```
 
-![](readme_images/beyonce.png)
+![](palette_images/beyonce.png)
 
 ### blueycolors
 
@@ -471,7 +471,7 @@ pak::pak("dill/beyonce")
 pak::pak("ekholme/blueycolors")
 ```
 
-![](readme_images/blueycolors.png)
+![](palette_images/blueycolors.png)
 
 ### calecopal
 
@@ -480,7 +480,7 @@ pak::pak("ekholme/blueycolors")
 pak::pak("an-bui/calecopal")
 ```
 
-![](readme_images/calecopal.png)
+![](palette_images/calecopal.png)
 
 ### colRoz
 
@@ -489,7 +489,7 @@ pak::pak("an-bui/calecopal")
 pak::pak("jacintak/colRoz")
 ```
 
-![](readme_images/colRoz.png)
+![](palette_images/colRoz.png)
 
 ### colorBlindness
 
@@ -500,7 +500,7 @@ pak::pak("jacintak/colRoz")
 install.packages("colorBlindness")
 ```
 
-![](readme_images/colorBlindness.png)
+![](palette_images/colorBlindness.png)
 
 ### colorblindr
 
@@ -509,7 +509,7 @@ install.packages("colorBlindness")
 pak::pak("clauswilke/colorblindr")
 ```
 
-![](readme_images/colorblindr.png)
+![](palette_images/colorblindr.png)
 
 ### dichromat
 
@@ -520,7 +520,7 @@ pak::pak("clauswilke/colorblindr")
 install.packages("dichromat")
 ```
 
-![](readme_images/dichromat.png)
+![](palette_images/dichromat.png)
 
 ### dutchmasters
 
@@ -529,7 +529,7 @@ install.packages("dichromat")
 pak::pak("EdwinTh/dutchmasters")
 ```
 
-![](readme_images/dutchmasters.png)
+![](palette_images/dutchmasters.png)
 
 ### feathers
 
@@ -538,7 +538,7 @@ pak::pak("EdwinTh/dutchmasters")
 pak::pak("shandiya/feathers")
 ```
 
-![](readme_images/feathers.png)
+![](palette_images/feathers.png)
 
 ### fishualize
 
@@ -550,7 +550,7 @@ pak::pak("nschiett/fishualize")
 install.packages("fishualize")
 ```
 
-![](readme_images/fishualize.png)
+![](palette_images/fishualize.png)
 
 ### futurevisions
 
@@ -559,7 +559,7 @@ install.packages("fishualize")
 pak::pak("JoeyStanley/futurevisions")
 ```
 
-![](readme_images/futurevisions.png)
+![](palette_images/futurevisions.png)
 
 ### ggpomological
 
@@ -568,7 +568,7 @@ pak::pak("JoeyStanley/futurevisions")
 pak::pak("gadenbuie/ggpomological")
 ```
 
-![](readme_images/ggpomological.png)
+![](palette_images/ggpomological.png)
 
 ### ggprism
 
@@ -580,7 +580,7 @@ pak::pak("csdaw/ggprism")
 install.packages("ggprism")
 ```
 
-![](readme_images/ggprism.png)
+![](palette_images/ggprism.png)
 
 ### ggsci
 
@@ -592,7 +592,7 @@ pak::pak("nanxstats/ggsci")
 install.packages("ggsci")
 ```
 
-![](readme_images/ggsci.png)
+![](palette_images/ggsci.png)
 
 ### ggthemes
 
@@ -604,7 +604,7 @@ pak::pak("jrnold/ggthemes")
 install.packages("ggthemes")
 ```
 
-![](readme_images/ggthemes.png)
+![](palette_images/ggthemes.png)
 
 ### ggthemr
 
@@ -613,7 +613,7 @@ install.packages("ggthemes")
 pak::pak("Mikata-Project/ggthemr")
 ```
 
-![](readme_images/ggthemr.png)
+![](palette_images/ggthemr.png)
 
 ### ghibli
 
@@ -625,7 +625,7 @@ pak::pak("ewenme/ghibli")
 install.packages("ghibli")
 ```
 
-![](readme_images/ghibli.png)
+![](palette_images/ghibli.png)
 
 ### grDevices
 
@@ -636,7 +636,7 @@ install.packages("ghibli")
 install.packages("grDevices")
 ```
 
-![](readme_images/grDevices.png)
+![](palette_images/grDevices.png)
 
 ### impressionist.colors
 
@@ -647,7 +647,7 @@ install.packages("grDevices")
 install.packages("impressionist.colors")
 ```
 
-![](readme_images/impressionist.colors.png)
+![](palette_images/impressionist.colors.png)
 
 ### jcolors
 
@@ -656,7 +656,7 @@ install.packages("impressionist.colors")
 pak::pak("jaredhuling/jcolors")
 ```
 
-![](readme_images/jcolors.png)
+![](palette_images/jcolors.png)
 
 ### khroma
 
@@ -668,7 +668,7 @@ pak::pak("tesselle/khroma")
 install.packages("khroma")
 ```
 
-![](readme_images/khroma.png)
+![](palette_images/khroma.png)
 
 ### lisa
 
@@ -680,7 +680,7 @@ pak::pak("tylerlittlefield/lisa")
 install.packages("lisa")
 ```
 
-![](readme_images/lisa.png)
+![](palette_images/lisa.png)
 
 ### ltc
 
@@ -689,7 +689,7 @@ install.packages("lisa")
 pak::pak("loukesio/ltc-color-palettes")
 ```
 
-![](readme_images/ltc.png)
+![](palette_images/ltc.png)
 
 ### miscpalettes
 
@@ -698,7 +698,7 @@ pak::pak("loukesio/ltc-color-palettes")
 pak::pak("EmilHvitfeldt/miscpalettes")
 ```
 
-![](readme_images/miscpalettes.png)
+![](palette_images/miscpalettes.png)
 
 ### musculusColors
 
@@ -707,7 +707,7 @@ pak::pak("EmilHvitfeldt/miscpalettes")
 pak::pak("dawnbarlow/musculusColors")
 ```
 
-![](readme_images/musculusColors.png)
+![](palette_images/musculusColors.png)
 
 ### nationalparkcolors
 
@@ -716,7 +716,7 @@ pak::pak("dawnbarlow/musculusColors")
 pak::pak("katiejolly/nationalparkcolors")
 ```
 
-![](readme_images/nationalparkcolors.png)
+![](palette_images/nationalparkcolors.png)
 
 ### nbapalettes
 
@@ -728,7 +728,7 @@ pak::pak("murrayjw/nbapalettes")
 install.packages("nbapalettes")
 ```
 
-![](readme_images/nbapalettes.png)
+![](palette_images/nbapalettes.png)
 
 ### nord
 
@@ -740,7 +740,7 @@ pak::pak("jkaupp/nord")
 install.packages("nord")
 ```
 
-![](readme_images/nord.png)
+![](palette_images/nord.png)
 
 ### ochRe
 
@@ -749,7 +749,7 @@ install.packages("nord")
 pak::pak("hollylkirk/ochRe")
 ```
 
-![](readme_images/ochRe.png)
+![](palette_images/ochRe.png)
 
 ### palettesForR
 
@@ -761,7 +761,7 @@ pak::pak("frareb/palettesForR")
 install.packages("palettesForR")
 ```
 
-![](readme_images/palettesForR.png)
+![](palette_images/palettesForR.png)
 
 ### pals
 
@@ -773,7 +773,7 @@ pak::pak("kwstat/pals")
 install.packages("pals")
 ```
 
-![](readme_images/pals.png)
+![](palette_images/pals.png)
 
 ### peRReo
 
@@ -782,7 +782,7 @@ install.packages("pals")
 pak::pak("jbgb13/peRReo")
 ```
 
-![](readme_images/peRReo.png)
+![](palette_images/peRReo.png)
 
 ### poisonfrogs
 
@@ -794,7 +794,7 @@ pak::pak("laurenoconnelllab/poisonfrogs")
 install.packages("poisonfrogs")
 ```
 
-![](readme_images/poisonfrogs.png)
+![](palette_images/poisonfrogs.png)
 
 ### rcartocolor
 
@@ -806,7 +806,7 @@ pak::pak("Nowosad/rcartocolor")
 install.packages("rcartocolor")
 ```
 
-![](readme_images/rcartocolor.png)
+![](palette_images/rcartocolor.png)
 
 ### rockthemes
 
@@ -815,7 +815,7 @@ install.packages("rcartocolor")
 pak::pak("johnmackintosh/rockthemes")
 ```
 
-![](readme_images/rockthemes.png)
+![](palette_images/rockthemes.png)
 
 ### rtist
 
@@ -827,7 +827,7 @@ pak::pak("tomasokal/rtist")
 install.packages("rtist")
 ```
 
-![](readme_images/rtist.png)
+![](palette_images/rtist.png)
 
 ### severance
 
@@ -836,7 +836,7 @@ install.packages("rtist")
 pak::pak("ivelasq/severance")
 ```
 
-![](readme_images/severance.png)
+![](palette_images/severance.png)
 
 ### soilpalettes
 
@@ -845,7 +845,7 @@ pak::pak("ivelasq/severance")
 pak::pak("kaizadp/soilpalettes")
 ```
 
-![](readme_images/soilpalettes.png)
+![](palette_images/soilpalettes.png)
 
 ### suffrager
 
@@ -854,7 +854,7 @@ pak::pak("kaizadp/soilpalettes")
 pak::pak("alburezg/suffrager")
 ```
 
-![](readme_images/suffrager.png)
+![](palette_images/suffrager.png)
 
 ### tayloRswift
 
@@ -863,7 +863,7 @@ pak::pak("alburezg/suffrager")
 pak::pak("asteves/tayloRswift")
 ```
 
-![](readme_images/tayloRswift.png)
+![](palette_images/tayloRswift.png)
 
 ### tidyquant
 
@@ -875,7 +875,7 @@ pak::pak("business-science/tidyquant")
 install.packages("tidyquant")
 ```
 
-![](readme_images/tidyquant.png)
+![](palette_images/tidyquant.png)
 
 ### trekcolors
 
@@ -887,7 +887,7 @@ pak::pak("leonawicz/trekcolors")
 install.packages("trekcolors")
 ```
 
-![](readme_images/trekcolors.png)
+![](palette_images/trekcolors.png)
 
 ### tvthemes
 
@@ -899,7 +899,7 @@ pak::pak("Ryo-N7/tvthemes")
 install.packages("tvthemes")
 ```
 
-![](readme_images/tvthemes.png)
+![](palette_images/tvthemes.png)
 
 ### unikn
 
@@ -911,7 +911,7 @@ pak::pak("hneth/unikn")
 install.packages("unikn")
 ```
 
-![](readme_images/unikn.png)
+![](palette_images/unikn.png)
 
 ### vangogh
 
@@ -923,7 +923,7 @@ pak::pak("cherylisabella/vangogh")
 install.packages("vangogh")
 ```
 
-![](readme_images/vangogh.png)
+![](palette_images/vangogh.png)
 
 ### vapeplot
 
@@ -932,7 +932,7 @@ install.packages("vangogh")
 pak::pak("seasmith/vapeplot")
 ```
 
-![](readme_images/vapeplot.png)
+![](palette_images/vapeplot.png)
 
 ### vapoRwave
 
@@ -941,7 +941,7 @@ pak::pak("seasmith/vapeplot")
 pak::pak("moldach/vapoRwave")
 ```
 
-![](readme_images/vapoRwave.png)
+![](palette_images/vapoRwave.png)
 
 ### waRhol
 
@@ -950,7 +950,7 @@ pak::pak("moldach/vapoRwave")
 pak::pak("alexskeels/waRhol")
 ```
 
-![](readme_images/waRhol.png)
+![](palette_images/waRhol.png)
 
 ### werpals
 
@@ -959,7 +959,7 @@ pak::pak("alexskeels/waRhol")
 pak::pak("sciencificity/werpals")
 ```
 
-![](readme_images/werpals.png)
+![](palette_images/werpals.png)
 
 ### wesanderson
 
@@ -971,7 +971,7 @@ pak::pak("karthik/wesanderson")
 install.packages("wesanderson")
 ```
 
-![](readme_images/wesanderson.png)
+![](palette_images/wesanderson.png)
 
 ### yarrr
 
@@ -983,4 +983,4 @@ pak::pak("ndphillips/yarrr")
 install.packages("yarrr")
 ```
 
-![](readme_images/yarrr.png)
+![](palette_images/yarrr.png)

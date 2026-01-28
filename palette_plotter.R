@@ -138,7 +138,7 @@ make_plot <- function(pals, name) {
     )
 
   ggsave(
-    fs::path("readme_images", paste0(name, ".png")),
+    fs::path("palette_images", paste0(name, ".png")),
     p,
     width = 12 * size + 11 * gap,
     height = max(values$box$y) - min(values$box$y) + col_gap * 2,
