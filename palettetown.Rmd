@@ -29,10 +29,18 @@ make_plot(palettes_d$palettetown[201:300], "palettetown-3")
 make_plot(palettes_d$palettetown[301:389], "palettetown-4")
 ```
 
+### Pokemon 1-100
+
 ![](palette_images/palettetown-1.png)
+
+### Pokemon 101-200
 
 ![](palette_images/palettetown-2.png)
 
+### Pokemon 201-300
+
 ![](palette_images/palettetown-3.png)
+
+### Pokemon 301-389
 
 ![](palette_images/palettetown-4.png)
