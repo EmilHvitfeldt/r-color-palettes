@@ -53,11 +53,7 @@ c("#FF8080FF", "#FFA040FF", "#C0C000FF", "#00C000FF", "#55A0FBFF", "#AD07E3FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../PrettyCols/Rainbow/"> <img src="../../PrettyCols/Rainbow/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#FF8080FF", "#FFA040FF", "#C0C000FF", "#00C000FF", "#55A0FBFF", "#AD07E3FF", 
 <a href="../../yarrr/southpark/"> <img src="../../yarrr/southpark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tidyquant/tq_dark/"> <img src="../../tidyquant/tq_dark/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../colorBlindness/Blue2OrangeRed14Steps/"> <img src="../../colorBlindness/Blue2OrangeRed14Steps/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../dichromat/BluetoOrangeRed_14/"> <img src="../../dichromat/BluetoOrangeRed_14/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

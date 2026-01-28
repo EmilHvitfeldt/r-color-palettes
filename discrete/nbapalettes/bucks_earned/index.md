@@ -53,11 +53,7 @@ c("#7AC043FF", "#00713DFF", "#014711FF", "#CB0423FF", "#D7D7D7FF", "#FFFFFFFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../futurevisions/earth/"> <img src="../../futurevisions/earth/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -71,10 +67,14 @@ c("#7AC043FF", "#00713DFF", "#014711FF", "#CB0423FF", "#D7D7D7FF", "#FFFFFFFF")
 </figure> <figure class="figure">
 <a href="../../ggthemes/fivethirtyeight/"> <img src="../../ggthemes/fivethirtyeight/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../yarrr/ohbrother/"> <img src="../../yarrr/ohbrother/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/igglybuff/"> <img src="../../palettetown/igglybuff/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/bulbasaur/"> <img src="../../palettetown/bulbasaur/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/machop/"> <img src="../../palettetown/machop/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../yarrr/ohbrother/"> <img src="../../yarrr/ohbrother/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ggthemr/carrot/"> <img src="../../ggthemr/carrot/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,11 +53,7 @@ c("#005281FF", "#000008FF", "#0096CBFF", "#D2D904FF", "#F28705FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../feathers/bee_eater/"> <img src="../../feathers/bee_eater/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +65,16 @@ c("#005281FF", "#000008FF", "#0096CBFF", "#D2D904FF", "#F28705FF")
 </figure> <figure class="figure">
 <a href="../../fishualize/Thalassoma_pavo/"> <img src="../../fishualize/Thalassoma_pavo/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nbapalettes/thunder_city2/"> <img src="../../nbapalettes/thunder_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../PrettyCols/Disco/"> <img src="../../PrettyCols/Disco/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../RSkittleBrewer/original/"> <img src="../../RSkittleBrewer/original/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../nbapalettes/thunder_city2/"> <img src="../../nbapalettes/thunder_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Slice/"> <img src="../../ggthemes/excel_Slice/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../RSkittleBrewer/original/"> <img src="../../RSkittleBrewer/original/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Chromis_vanderbilti/"> <img src="../../fishualize/Chromis_vanderbilti/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../vangogh/StarryNight/"> <img src="../../vangogh/StarryNight/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

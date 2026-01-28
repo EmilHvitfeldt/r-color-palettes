@@ -53,11 +53,7 @@ c("#3850A8FF", "#3A4FA8FF", "#3650A5FF", "#0068F7FF", "#0068F8FF", "#0367FBFF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Violet_II/"> <img src="../../ggthemes/excel_Violet_II/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -65,7 +61,13 @@ c("#3850A8FF", "#3A4FA8FF", "#3650A5FF", "#0068F7FF", "#0068F8FF", "#0367FBFF", 
 </figure> <figure class="figure">
 <a href="../../ggsci/deep_purple_material/"> <img src="../../ggsci/deep_purple_material/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ggsci/violet_tw3/"> <img src="../../ggsci/violet_tw3/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggsci/purple_material/"> <img src="../../ggsci/purple_material/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggsci/purple_tw3/"> <img src="../../ggsci/purple_tw3/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggsci/indigo_tw3/"> <img src="../../ggsci/indigo_tw3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/the_blues/"> <img src="../../ggprism/the_blues/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -74,7 +76,5 @@ c("#3850A8FF", "#3A4FA8FF", "#3650A5FF", "#0068F7FF", "#0068F8FF", "#0367FBFF", 
 <a href="../../ggsci/indigo_material/"> <img src="../../ggsci/indigo_material/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSOPu2/"> <img src="../../Redmonder/qMSOPu2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggsci/blue_material/"> <img src="../../ggsci/blue_material/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>
