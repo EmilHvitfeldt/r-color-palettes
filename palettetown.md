@@ -3,34 +3,35 @@
 
 # Table of Contents
 
-  - [Main page](README.md#comprehensive-list-of-color-palettes-in-r)
-  - [Blogposts and other
-    resources](README.md#blogposts-and-other-resources)
-  - [Generative packages](README.md#generative-packages)
-  - [Honorable mentions](README.md#honorable-mentions)
-  - [Palettes sorted by Package
-    (alphabetically)](README.md#palettes-sorted-by-package-alphabetically)
-      - [Sequential color palettes](#sequential-color-palettes)
-      - [Diverging color palettes](#diverging-color-palettes)
-      - [Qualitative color palettes](#qualitative-color-palettes)
-      - [Canva palettes](canva.md)
-      - [Palettetown palettes](palettetown.md)
-  - [News](NEWS.md)
+- [Main page](README.md#comprehensive-list-of-color-palettes-in-r)
+- [Blogposts and other
+  resources](README.md#blogposts-and-other-resources)
+- [Generative packages](README.md#generative-packages)
+- [Honorable mentions](README.md#honorable-mentions)
+- [Palettes sorted by Package
+  (alphabetically)](README.md#palettes-sorted-by-package-alphabetically)
+  - [Sequential color palettes](#sequential-color-palettes)
+  - [Diverging color palettes](#diverging-color-palettes)
+  - [Qualitative color palettes](#qualitative-color-palettes)
+  - [Canva palettes](canva.md)
+  - [Palettetown palettes](palettetown.md)
+- [News](NEWS.md)
 
 ## Palettetown palettes
 
-![](man/figures/palettetown-palettetown1-1.png)<!-- -->
+``` r
+source("palette_plotter.R")
 
-![](man/figures/palettetown-palettetown2-1.png)<!-- -->
+make_plot(palettes_d$palettetown[1:100], "palettetown-1")
+make_plot(palettes_d$palettetown[101:200], "palettetown-2")
+make_plot(palettes_d$palettetown[201:300], "palettetown-3")
+make_plot(palettes_d$palettetown[301:389], "palettetown-4")
+```
 
-![](man/figures/palettetown-palettetown3-1.png)<!-- -->
+![](palette_images/palettetown-1.png)
 
-![](man/figures/palettetown-palettetown4-1.png)<!-- -->
+![](palette_images/palettetown-2.png)
 
-![](man/figures/palettetown-palettetown5-1.png)<!-- -->
+![](palette_images/palettetown-3.png)
 
-![](man/figures/palettetown-palettetown6-1.png)<!-- -->
-
-![](man/figures/palettetown-palettetown7-1.png)<!-- -->
-
-![](man/figures/palettetown-palettetown8-1.png)<!-- -->
+![](palette_images/palettetown-4.png)
