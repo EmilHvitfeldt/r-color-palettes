@@ -53,11 +53,7 @@ c("#FF436CFF", "#FF6087FF", "#F0B5ADFF", "#EAF27AFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/AndyWarhol/"> <img src="../../lisa/AndyWarhol/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#FF436CFF", "#FF6087FF", "#F0B5ADFF", "#EAF27AFF")
 <a href="../../miscpalettes/jojo/"> <img src="../../miscpalettes/jojo/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ltc/sylvie/"> <img src="../../ltc/sylvie/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MoMAColors/Connors/"> <img src="../../MoMAColors/Connors/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../NineteenEightyR/miami2/"> <img src="../../NineteenEightyR/miami2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

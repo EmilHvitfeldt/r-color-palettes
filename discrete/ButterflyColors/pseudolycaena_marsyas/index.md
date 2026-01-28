@@ -53,11 +53,7 @@ c("#89B7CFFF", "#5C92B4FF", "#619FA2FF", "#8C6751FF", "#593527FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Oncorhynchus_gorbuscha/"> <img src="../../fishualize/Oncorhynchus_gorbuscha/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,11 +63,15 @@ c("#89B7CFFF", "#5C92B4FF", "#619FA2FF", "#8C6751FF", "#593527FF")
 </figure> <figure class="figure">
 <a href="../../Manu/Kereru_orig/"> <img src="../../Manu/Kereru_orig/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../Rdune/corrino/"> <img src="../../Rdune/corrino/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../colRoz/salt_lake/"> <img src="../../colRoz/salt_lake/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X6/"> <img src="../../beyonce/X6/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../DresdenColor/deathmasks/"> <img src="../../DresdenColor/deathmasks/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../tayloRswift/AquamarineGreen1989/"> <img src="../../tayloRswift/AquamarineGreen1989/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nord/baie_mouton/"> <img src="../../nord/baie_mouton/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

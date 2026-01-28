@@ -53,11 +53,7 @@ c("#D8F0F0FF", "#786060FF", "#D8C0A8FF", "#A86030FF", "#A890A8FF", "#486090FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ochRe/namatjira_div/"> <img src="../../ochRe/namatjira_div/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -73,8 +69,12 @@ c("#D8F0F0FF", "#786060FF", "#D8C0A8FF", "#A86030FF", "#A890A8FF", "#486090FF", 
 </figure> <figure class="figure">
 <a href="../../ochRe/williams_pilbara/"> <img src="../../ochRe/williams_pilbara/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ggthemes/Classic_Color_Blind/"> <img src="../../ggthemes/Classic_Color_Blind/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../NatParksPalettes/KingsCanyon/"> <img src="../../NatParksPalettes/KingsCanyon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggthemes/Classic_Color_Blind/"> <img src="../../ggthemes/Classic_Color_Blind/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../nationalparkcolors/ChannelIslands/"> <img src="../../nationalparkcolors/ChannelIslands/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggthemes/Tableau_10/"> <img src="../../ggthemes/Tableau_10/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,11 +53,7 @@ c("#374D8DFF", "#93A0CBFF", "#82A866FF", "#C4B743FF", "#A35029FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/GustavKlimt/"> <img src="../../lisa/GustavKlimt/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#374D8DFF", "#93A0CBFF", "#82A866FF", "#C4B743FF", "#A35029FF")
 <a href="../../lisa/EdwardHopper/"> <img src="../../lisa/EdwardHopper/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/EdouardManet/"> <img src="../../lisa/EdouardManet/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggthemes/excel_Organic/"> <img src="../../ggthemes/excel_Organic/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggthemes/wsj_rgby/"> <img src="../../ggthemes/wsj_rgby/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

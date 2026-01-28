@@ -53,11 +53,7 @@ c("#442327FF", "#C0BC98FF", "#A6885DFF", "#8A3230FF", "#973B2BFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/DiegoVelazquez/"> <img src="../../lisa/DiegoVelazquez/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#442327FF", "#C0BC98FF", "#A6885DFF", "#8A3230FF", "#973B2BFF")
 <a href="../../colRoz/thylacine/"> <img src="../../colRoz/thylacine/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X69/"> <img src="../../beyonce/X69/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../lisa/MiltonAvery/"> <img src="../../lisa/MiltonAvery/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Epinephelus_striatus/"> <img src="../../fishualize/Epinephelus_striatus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

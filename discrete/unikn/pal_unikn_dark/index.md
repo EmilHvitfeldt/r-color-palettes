@@ -53,11 +53,7 @@ c("#324376FF", "#586BA4FF", "#771434FF", "#A54D69FF", "#035F72FF", "#398D9FFF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X57/"> <img src="../../beyonce/X57/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#324376FF", "#586BA4FF", "#771434FF", "#A54D69FF", "#035F72FF", "#398D9FFF", 
 <a href="../../nbapalettes/pistons_city/"> <img src="../../nbapalettes/pistons_city/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Sparisoma_tuyupiranga_m/"> <img src="../../fishualize/Sparisoma_tuyupiranga_m/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nbapalettes/pistons/"> <img src="../../nbapalettes/pistons/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PNWColors/Starfish/"> <img src="../../PNWColors/Starfish/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

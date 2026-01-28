@@ -53,13 +53,9 @@ c("#B79A59FF", "#826C37FF", "#54442FFF", "#DBCEAFFF", "#C4AA52FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../tayloRswift/fearless/"> <img src="../../tayloRswift/fearless/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../tayloRswift/fearlessTV/"> <img src="../../tayloRswift/fearlessTV/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/OttoDix_1/"> <img src="../../lisa/OttoDix_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -73,8 +69,12 @@ c("#B79A59FF", "#826C37FF", "#54442FFF", "#DBCEAFFF", "#C4AA52FF")
 </figure> <figure class="figure">
 <a href="../../lisa/RemediosVaro/"> <img src="../../lisa/RemediosVaro/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../tayloRswift/fearless/"> <img src="../../tayloRswift/fearless/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/diglett/"> <img src="../../palettetown/diglett/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../IslamicArt/fes/"> <img src="../../IslamicArt/fes/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Manu/Kakapo/"> <img src="../../Manu/Kakapo/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

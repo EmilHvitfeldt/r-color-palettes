@@ -20,7 +20,7 @@ categories:
 {{< fa brands github size=3x >}}
 **Github**
 
-Not on Github
+[pmdci/redmonder](https://github.com/pmdci/redmonder)
 :::
 
 ::: {.column width="50%"}
@@ -53,11 +53,7 @@ c("#E2DFCCFF", "#455F51FF", "#99CB38FF", "#63A537FF", "#37A76FFF", "#44C1A3FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSOGn/"> <img src="../../Redmonder/qMSOGn/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -73,8 +69,12 @@ c("#E2DFCCFF", "#455F51FF", "#99CB38FF", "#63A537FF", "#37A76FFF", "#44C1A3FF", 
 </figure> <figure class="figure">
 <a href="../../fishualize/Parablennius_pilicornis/"> <img src="../../fishualize/Parablennius_pilicornis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../RColorBrewer/BuGn/"> <img src="../../RColorBrewer/BuGn/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../PrettyCols/TealGreens/"> <img src="../../PrettyCols/TealGreens/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../RColorBrewer/BuGn/"> <img src="../../RColorBrewer/BuGn/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../palettetown/celebi/"> <img src="../../palettetown/celebi/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../RColorBrewer/Greens/"> <img src="../../RColorBrewer/Greens/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

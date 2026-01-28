@@ -53,11 +53,7 @@ c("#881C00FF", "#AF6125FF", "#F4E3C7FF", "#1BB6AFFF", "#0076BBFF", "#172869FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../LaCroixColoR/PeachPear/"> <img src="../../LaCroixColoR/PeachPear/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,14 +63,18 @@ c("#881C00FF", "#AF6125FF", "#F4E3C7FF", "#1BB6AFFF", "#0076BBFF", "#172869FF")
 </figure> <figure class="figure">
 <a href="../../futurevisions/atomic_clock/"> <img src="../../futurevisions/atomic_clock/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ltc/heatmap/"> <img src="../../ltc/heatmap/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../fishualize/Hypsoblennius_invemar/"> <img src="../../fishualize/Hypsoblennius_invemar/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Lampris_guttatus/"> <img src="../../fishualize/Lampris_guttatus/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ltc/heatmap/"> <img src="../../ltc/heatmap/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Etheostoma_spectabile/"> <img src="../../fishualize/Etheostoma_spectabile/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../fishualize/Lampris_guttatus/"> <img src="../../fishualize/Lampris_guttatus/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../PrettyCols/Beach/"> <img src="../../PrettyCols/Beach/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/Fun/"> <img src="../../PrettyCols/Fun/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../rockthemes/nodoubt/"> <img src="../../rockthemes/nodoubt/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

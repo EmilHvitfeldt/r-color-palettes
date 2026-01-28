@@ -53,15 +53,13 @@ c("#A42820FF", "#5F5647FF", "#9B110EFF", "#3F5151FF", "#4E2A1EFF", "#550307FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../yarrr/brave/"> <img src="../../yarrr/brave/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/hallmarks_dark_cosmic/"> <img src="../../ggsci/hallmarks_dark_cosmic/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Opbluejeans/"> <img src="../../poisonfrogs/Opbluejeans/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/waves/"> <img src="../../ggprism/waves/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +74,7 @@ c("#A42820FF", "#5F5647FF", "#9B110EFF", "#3F5151FF", "#4E2A1EFF", "#550307FF", 
 <a href="../../NineteenEightyR/cobra/"> <img src="../../NineteenEightyR/cobra/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../trekcolors/starfleet2/"> <img src="../../trekcolors/starfleet2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ghibli/PonyoDark/"> <img src="../../ghibli/PonyoDark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

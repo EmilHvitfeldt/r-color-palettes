@@ -53,28 +53,28 @@ c("#EBDAC9FF", "#CEAD96FF", "#CECFD4FF", "#686F60FF", "#455D44FF", "#23341EFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../poisonfrogs/Bpicturata/"> <img src="../../poisonfrogs/Bpicturata/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tayloRswift/midnightsMahogany/"> <img src="../../tayloRswift/midnightsMahogany/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../Rdune/harkonnen3/"> <img src="../../Rdune/harkonnen3/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Esox_lucius/"> <img src="../../fishualize/Esox_lucius/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Rdune/fermen/"> <img src="../../Rdune/fermen/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Lile_piquitinga/"> <img src="../../fishualize/Lile_piquitinga/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../tayloRswift/Red/"> <img src="../../tayloRswift/Red/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../calecopal/buow/"> <img src="../../calecopal/buow/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Rdune/sandworm/"> <img src="../../Rdune/sandworm/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/OttoDix_1/"> <img src="../../lisa/OttoDix_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../poisonfrogs/Hhobbsi/"> <img src="../../poisonfrogs/Hhobbsi/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../colRoz/shark_bay/"> <img src="../../colRoz/shark_bay/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Mugil_liza/"> <img src="../../fishualize/Mugil_liza/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../fishualize/Sander_lucioperca/"> <img src="../../fishualize/Sander_lucioperca/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

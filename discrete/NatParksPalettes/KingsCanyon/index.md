@@ -53,15 +53,13 @@ c("#613921FF", "#A77652FF", "#F2C27BFF", "#AAC9EDFF", "#44637DFF", "#8E949FFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Manu/Kotare/"> <img src="../../Manu/Kotare/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ghibli/PonyoMedium/"> <img src="../../ghibli/PonyoMedium/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/Coast/"> <img src="../../PrettyCols/Coast/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ltc/ploen/"> <img src="../../ltc/ploen/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -73,8 +71,10 @@ c("#613921FF", "#A77652FF", "#F2C27BFF", "#AAC9EDFF", "#44637DFF", "#8E949FFF")
 </figure> <figure class="figure">
 <a href="../../nationalparkcolors/ChannelIslands/"> <img src="../../nationalparkcolors/ChannelIslands/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ochRe/parliament/"> <img src="../../ochRe/parliament/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ochRe/namatjira_div/"> <img src="../../ochRe/namatjira_div/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ochRe/parliament/"> <img src="../../ochRe/parliament/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../IslamicArt/alhambra/"> <img src="../../IslamicArt/alhambra/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

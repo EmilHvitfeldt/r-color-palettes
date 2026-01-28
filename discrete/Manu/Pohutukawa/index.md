@@ -53,17 +53,15 @@ c("#5FA1F7FF", "#83A552FF", "#3D4928FF", "#9B1F1AFF", "#B19F8EFF", "#4E0B0CFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../vangogh/SunflowersMunich/"> <img src="../../vangogh/SunflowersMunich/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Degas/"> <img src="../../MetBrewer/Degas/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/ClaudeMonet/"> <img src="../../lisa/ClaudeMonet/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Aminutus/"> <img src="../../poisonfrogs/Aminutus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/MiltonAvery/"> <img src="../../lisa/MiltonAvery/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +74,7 @@ c("#5FA1F7FF", "#83A552FF", "#3D4928FF", "#9B1F1AFF", "#B19F8EFF", "#4E0B0CFF")
 <a href="../../colRoz/xantho/"> <img src="../../colRoz/xantho/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tayloRswift/taylorRed/"> <img src="../../tayloRswift/taylorRed/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Ptomopterna/"> <img src="../../poisonfrogs/Ptomopterna/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

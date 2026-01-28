@@ -53,11 +53,7 @@ c("#FF0000FF", "#0000FFFF", "#008B00FF", "#8B4513FF", "#ECC700FF", "#A020F0FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../jcolors/rainbow/"> <img src="../../jcolors/rainbow/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#FF0000FF", "#0000FFFF", "#008B00FF", "#8B4513FF", "#ECC700FF", "#A020F0FF", 
 <a href="../../miscpalettes/semiTransparent/"> <img src="../../miscpalettes/semiTransparent/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tidyquant/tq_dark/"> <img src="../../tidyquant/tq_dark/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../yarrr/basel/"> <img src="../../yarrr/basel/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggprism/stained_glass2/"> <img src="../../ggprism/stained_glass2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

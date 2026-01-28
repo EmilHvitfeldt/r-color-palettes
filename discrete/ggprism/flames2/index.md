@@ -53,13 +53,11 @@ c("#FFCC00FF", "#FF9900FF", "#CD3807FF", "#FFAD21FF", "#FFFF33FF", "#F40000FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/flames/"> <img src="../../ggprism/flames/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/Peppers/"> <img src="../../PrettyCols/Peppers/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Hippocampus_reidi/"> <img src="../../fishualize/Hippocampus_reidi/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +74,7 @@ c("#FFCC00FF", "#FF9900FF", "#CD3807FF", "#FFAD21FF", "#FFFF33FF", "#F40000FF", 
 <a href="../../palettetown/sunflora/"> <img src="../../palettetown/sunflora/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/hoppip/"> <img src="../../palettetown/hoppip/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggsci/amber_material/"> <img src="../../ggsci/amber_material/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,11 +53,7 @@ c("#3A5662FF", "#6C8B90FF", "#C2D0DBFF", "#678A76FF", "#31504BFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../musculusColors/ErMole/"> <img src="../../musculusColors/ErMole/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +65,16 @@ c("#3A5662FF", "#6C8B90FF", "#C2D0DBFF", "#678A76FF", "#31504BFF")
 </figure> <figure class="figure">
 <a href="../../Manu/Korora/"> <img src="../../Manu/Korora/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggsci/blue_grey_material/"> <img src="../../ggsci/blue_grey_material/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../vangogh/Landscape/"> <img src="../../vangogh/Landscape/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggsci/blue_grey_material/"> <img src="../../ggsci/blue_grey_material/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../calecopal/lupinus/"> <img src="../../calecopal/lupinus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ochRe/dead_reef/"> <img src="../../ochRe/dead_reef/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Opisthonema_oglinum/"> <img src="../../fishualize/Opisthonema_oglinum/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PNWColors/Winter/"> <img src="../../PNWColors/Winter/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

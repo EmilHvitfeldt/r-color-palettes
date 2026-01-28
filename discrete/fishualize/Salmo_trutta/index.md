@@ -53,28 +53,28 @@ c("#F7F7F7FF", "#E6452EFF", "#EED58CFF", "#4B5957FF", "#303030FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Manu/Takapu/"> <img src="../../Manu/Takapu/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../calecopal/wetland/"> <img src="../../calecopal/wetland/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggthemr/grass/"> <img src="../../ggthemr/grass/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../poisonfrogs/Edarwinwallacei/"> <img src="../../poisonfrogs/Edarwinwallacei/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../DresdenColor/stormfront/"> <img src="../../DresdenColor/stormfront/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ggthemr/grass/"> <img src="../../ggthemr/grass/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/JacksonPollock/"> <img src="../../lisa/JacksonPollock/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rtist/pollock/"> <img src="../../rtist/pollock/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../DresdenColor/stormfront/"> <img src="../../DresdenColor/stormfront/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../vangogh/Cypresses/"> <img src="../../vangogh/Cypresses/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Opescudo/"> <img src="../../poisonfrogs/Opescudo/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/p_cincta/"> <img src="../../colRoz/p_cincta/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../RColorBrewer/RdGy/"> <img src="../../RColorBrewer/RdGy/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../tayloRswift/evermore/"> <img src="../../tayloRswift/evermore/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

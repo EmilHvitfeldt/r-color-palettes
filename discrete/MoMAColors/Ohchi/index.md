@@ -53,11 +53,7 @@ c("#582851FF", "#40606DFF", "#69A257FF", "#E3D19CFF", "#C4024DFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../waRhol/bighorn_ram_83/"> <img src="../../waRhol/bighorn_ram_83/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +65,16 @@ c("#582851FF", "#40606DFF", "#69A257FF", "#E3D19CFF", "#C4024DFF")
 </figure> <figure class="figure">
 <a href="../../RSkittleBrewer/wildberry/"> <img src="../../RSkittleBrewer/wildberry/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../LaCroixColoR/MurePepino/"> <img src="../../LaCroixColoR/MurePepino/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../lisa/EdwardHopper/"> <img src="../../lisa/EdwardHopper/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../LaCroixColoR/MurePepino/"> <img src="../../LaCroixColoR/MurePepino/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/Volcanoes/"> <img src="../../NatParksPalettes/Volcanoes/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../rockthemes/husker/"> <img src="../../rockthemes/husker/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../PrettyCols/Bold/"> <img src="../../PrettyCols/Bold/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../lisa/JamesRosenquist/"> <img src="../../lisa/JamesRosenquist/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

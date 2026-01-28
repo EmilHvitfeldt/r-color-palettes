@@ -53,19 +53,13 @@ c("#F8F8F8FF", "#D8D8E0FF", "#606060FF", "#9898B0FF", "#B8B8C0FF", "#0060B8FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/dragonair/"> <img src="../../palettetown/dragonair/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/mantine/"> <img src="../../palettetown/mantine/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/articuno/"> <img src="../../palettetown/articuno/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../PrettyCols/Winter/"> <img src="../../PrettyCols/Winter/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/glalie/"> <img src="../../palettetown/glalie/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +70,11 @@ c("#F8F8F8FF", "#D8D8E0FF", "#606060FF", "#9898B0FF", "#B8B8C0FF", "#0060B8FF", 
 <a href="../../RColorBrewer/Purples/"> <img src="../../RColorBrewer/Purples/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X43/"> <img src="../../beyonce/X43/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/metagross/"> <img src="../../palettetown/metagross/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../RColorBrewer/PuBu/"> <img src="../../RColorBrewer/PuBu/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/mewtwo/"> <img src="../../palettetown/mewtwo/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,11 +53,9 @@ c("#D0CEC2FF", "#7BAA80FF", "#4B6B5EFF", "#BF9A41FF", "#980019FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../poisonfrogs/Hhobbsi/"> <img src="../../poisonfrogs/Hhobbsi/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../soilpalettes/rendoll/"> <img src="../../soilpalettes/rendoll/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,11 +67,13 @@ c("#D0CEC2FF", "#7BAA80FF", "#4B6B5EFF", "#BF9A41FF", "#980019FF")
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Badge/"> <img src="../../ggthemes/excel_Badge/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../NatParksPalettes/SmokyMtns/"> <img src="../../NatParksPalettes/SmokyMtns/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../lisa/GrantWood/"> <img src="../../lisa/GrantWood/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../NatParksPalettes/SmokyMtns/"> <img src="../../NatParksPalettes/SmokyMtns/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/HelenFrankenthaler/"> <img src="../../lisa/HelenFrankenthaler/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Haureoguttatum/"> <img src="../../poisonfrogs/Haureoguttatum/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../yarrr/nemo/"> <img src="../../yarrr/nemo/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 

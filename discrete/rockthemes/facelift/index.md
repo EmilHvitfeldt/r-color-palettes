@@ -53,11 +53,7 @@ c("#A2DA3CFF", "#C12A45FF", "#8B4F82FF", "#44486DFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rockthemes/deelite/"> <img src="../../rockthemes/deelite/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,14 +63,18 @@ c("#A2DA3CFF", "#C12A45FF", "#8B4F82FF", "#44486DFF")
 </figure> <figure class="figure">
 <a href="../../fishualize/Oncorhynchus_nerka/"> <img src="../../fishualize/Oncorhynchus_nerka/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../NatParksPalettes/Volcanoes/"> <img src="../../NatParksPalettes/Volcanoes/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../Manu/Kakariki/"> <img src="../../Manu/Kakariki/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../lisa/GustavKlimt/"> <img src="../../lisa/GustavKlimt/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../NatParksPalettes/Volcanoes/"> <img src="../../NatParksPalettes/Volcanoes/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Rvariabilis/"> <img src="../../poisonfrogs/Rvariabilis/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../RSkittleBrewer/wildberry/"> <img src="../../RSkittleBrewer/wildberry/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/ClaudeMonet_1/"> <img src="../../lisa/ClaudeMonet_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../RSkittleBrewer/wildberry/"> <img src="../../RSkittleBrewer/wildberry/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../lisa/GustavKlimt/"> <img src="../../lisa/GustavKlimt/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MetBrewer/Thomas/"> <img src="../../MetBrewer/Thomas/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

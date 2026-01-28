@@ -53,11 +53,7 @@ c("#F87840FF", "#E0F8F8FF", "#D04000FF", "#A0B0D0FF", "#80E820FF", "#708088FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemr/flat_dark/"> <img src="../../ggthemr/flat_dark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#F87840FF", "#E0F8F8FF", "#D04000FF", "#A0B0D0FF", "#80E820FF", "#708088FF", 
 <a href="../../ggsci/schwifty_rickandmorty/"> <img src="../../ggsci/schwifty_rickandmorty/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemr/earth/"> <img src="../../ggthemr/earth/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../basetheme/dark/"> <img src="../../basetheme/dark/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../RColorBrewer/Paired/"> <img src="../../RColorBrewer/Paired/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

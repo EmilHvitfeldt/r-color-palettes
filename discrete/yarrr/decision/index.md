@@ -53,11 +53,7 @@ c("#D57A6DFF", "#E8B762FF", "#9CCDDFFF", "#525052FF", "#E6CEAFFF", "#BA9570FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSOMed/"> <img src="../../Redmonder/qMSOMed/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +65,16 @@ c("#D57A6DFF", "#E8B762FF", "#9CCDDFFF", "#525052FF", "#E6CEAFFF", "#BA9570FF")
 </figure> <figure class="figure">
 <a href="../../nationalparkcolors/ArcticGates/"> <img src="../../nationalparkcolors/ArcticGates/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nationalparkcolors/Everglades/"> <img src="../../nationalparkcolors/Everglades/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../lisa/J_M_W_Turner/"> <img src="../../lisa/J_M_W_Turner/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nationalparkcolors/Everglades/"> <img src="../../nationalparkcolors/Everglades/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSOOr/"> <img src="../../Redmonder/qMSOOr/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ochRe/namatjira_qual/"> <img src="../../ochRe/namatjira_qual/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MetBrewer/NewKingdom/"> <img src="../../MetBrewer/NewKingdom/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggthemes/excel_Median/"> <img src="../../ggthemes/excel_Median/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

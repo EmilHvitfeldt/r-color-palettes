@@ -53,11 +53,7 @@ c("#C0B57BFF", "#8C7D37FF", "#C0C000FF", "#C5944EFF", "#918751FF", "#FFC080FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/mustard_field/"> <img src="../../ggprism/mustard_field/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#C0B57BFF", "#8C7D37FF", "#C0C000FF", "#C5944EFF", "#918751FF", "#FFC080FF", 
 <a href="../../lisa/RemediosVaro/"> <img src="../../lisa/RemediosVaro/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/abra/"> <img src="../../palettetown/abra/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../beyonce/X23/"> <img src="../../beyonce/X23/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Chormis_multilineata/"> <img src="../../fishualize/Chormis_multilineata/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

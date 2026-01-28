@@ -53,11 +53,7 @@ c("#3229ADFF", "#BC000EFF", "#E7CFB7FF", "#FFEC04FF", "#090109FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Paracanthurus_hepatus/"> <img src="../../fishualize/Paracanthurus_hepatus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +65,16 @@ c("#3229ADFF", "#BC000EFF", "#E7CFB7FF", "#FFEC04FF", "#090109FF")
 </figure> <figure class="figure">
 <a href="../../futurevisions/mars/"> <img src="../../futurevisions/mars/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../nbapalettes/timberwolves_00s/"> <img src="../../nbapalettes/timberwolves_00s/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../khroma/mediumcontrast/"> <img src="../../khroma/mediumcontrast/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nbapalettes/timberwolves_00s/"> <img src="../../nbapalettes/timberwolves_00s/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../lisa/SolLeWitt/"> <img src="../../lisa/SolLeWitt/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/Steven/"> <img src="../../tvthemes/Steven/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../lisa/SolLeWitt/"> <img src="../../lisa/SolLeWitt/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ggprism/inferno/"> <img src="../../ggprism/inferno/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Cephalopholis_argus/"> <img src="../../fishualize/Cephalopholis_argus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

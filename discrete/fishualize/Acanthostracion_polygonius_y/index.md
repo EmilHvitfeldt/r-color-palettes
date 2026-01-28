@@ -53,15 +53,13 @@ c("#491212FF", "#F27127FF", "#F24C27FF", "#BF281BFF", "#CE471CFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Heretopriacanthus_cruentatus/"> <img src="../../fishualize/Heretopriacanthus_cruentatus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ButterflyColors/marpesia_petreus/"> <img src="../../ButterflyColors/marpesia_petreus/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Ohistrionica/"> <img src="../../poisonfrogs/Ohistrionica/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../miscpalettes/chocolate/"> <img src="../../miscpalettes/chocolate/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +74,7 @@ c("#491212FF", "#F27127FF", "#F24C27FF", "#BF281BFF", "#CE471CFF")
 <a href="../../fishualize/Sargocentron_bullisi/"> <img src="../../fishualize/Sargocentron_bullisi/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/TerryFrost/"> <img src="../../lisa/TerryFrost/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../trekcolors/red_alert/"> <img src="../../trekcolors/red_alert/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

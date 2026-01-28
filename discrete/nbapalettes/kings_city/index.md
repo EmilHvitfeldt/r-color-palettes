@@ -53,11 +53,7 @@ c("#010101FF", "#545859FF", "#418FDEFF", "#D50032FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/rockets_90s/"> <img src="../../nbapalettes/rockets_90s/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#010101FF", "#545859FF", "#418FDEFF", "#D50032FF")
 <a href="../../yarrr/eternal/"> <img src="../../yarrr/eternal/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/pistons/"> <img src="../../nbapalettes/pistons/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nbapalettes/pistons_city/"> <img src="../../nbapalettes/pistons_city/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Opbluejeans/"> <img src="../../poisonfrogs/Opbluejeans/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

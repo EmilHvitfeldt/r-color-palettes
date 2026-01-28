@@ -53,11 +53,7 @@ c("#827ABFFF", "#F62150FF", "#6F89B6FF", "#F5E0B7FF", "#5B1E37FF", "#B9E3C5FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ltc/maya/"> <img src="../../ltc/maya/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -71,10 +67,14 @@ c("#827ABFFF", "#F62150FF", "#6F89B6FF", "#F5E0B7FF", "#5B1E37FF", "#B9E3C5FF")
 </figure> <figure class="figure">
 <a href="../../tvthemes/SmokyQuartz/"> <img src="../../tvthemes/SmokyQuartz/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../MetBrewer/Klimt/"> <img src="../../MetBrewer/Klimt/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Nizami/"> <img src="../../MetBrewer/Nizami/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../werpals/provence/"> <img src="../../werpals/provence/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../DresdenColor/briefcases/"> <img src="../../DresdenColor/briefcases/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

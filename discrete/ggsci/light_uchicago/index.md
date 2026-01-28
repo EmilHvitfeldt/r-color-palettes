@@ -53,11 +53,7 @@ c("#800000FF", "#D6D6CEFF", "#FFB547FF", "#ADB17DFF", "#5B8FA8FF", "#D49464FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemr/light/"> <img src="../../ggthemr/light/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#800000FF", "#D6D6CEFF", "#FFB547FF", "#ADB17DFF", "#5B8FA8FF", "#D49464FF", 
 <a href="../../ggpomological/pomological_palette/"> <img src="../../ggpomological/pomological_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/scizor/"> <img src="../../palettetown/scizor/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../rtist/raphael/"> <img src="../../rtist/raphael/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ochRe/namatjira_qual/"> <img src="../../ochRe/namatjira_qual/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

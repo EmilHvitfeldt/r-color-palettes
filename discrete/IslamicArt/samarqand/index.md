@@ -53,19 +53,13 @@ c("#DFD5CAFF", "#907A58FF", "#A59DA2FF", "#406975FF", "#A2D2D4FF", "#475286FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nord/afternoon_prarie/"> <img src="../../nord/afternoon_prarie/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nationalparkcolors/CraterLake/"> <img src="../../nationalparkcolors/CraterLake/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/venomoth/"> <img src="../../palettetown/venomoth/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../PrettyCols/Winter/"> <img src="../../PrettyCols/Winter/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../IslamicArt/abu_dhabi/"> <img src="../../IslamicArt/abu_dhabi/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +70,11 @@ c("#DFD5CAFF", "#907A58FF", "#A59DA2FF", "#406975FF", "#A2D2D4FF", "#475286FF", 
 <a href="../../palettetown/hitmontop/"> <img src="../../palettetown/hitmontop/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/donphan/"> <img src="../../palettetown/donphan/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../IslamicArt/jerusalem/"> <img src="../../IslamicArt/jerusalem/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MetBrewer/Monet/"> <img src="../../MetBrewer/Monet/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/marshtomp/"> <img src="../../palettetown/marshtomp/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,11 +53,7 @@ c("#009B9EFF", "#42B7B9FF", "#A7D3D4FF", "#F1F1F1FF", "#E4C1D9FF", "#D691C1FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X101/"> <img src="../../beyonce/X101/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +65,16 @@ c("#009B9EFF", "#42B7B9FF", "#A7D3D4FF", "#F1F1F1FF", "#E4C1D9FF", "#D691C1FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/nidoking/"> <img src="../../palettetown/nidoking/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../beyonce/X43/"> <img src="../../beyonce/X43/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/lugia/"> <img src="../../palettetown/lugia/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../beyonce/X43/"> <img src="../../beyonce/X43/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../beyonce/X129/"> <img src="../../beyonce/X129/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSOBuGn/"> <img src="../../Redmonder/qMSOBuGn/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../beyonce/X129/"> <img src="../../beyonce/X129/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../PNWColors/Shuksan/"> <img src="../../PNWColors/Shuksan/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nord/afternoon_prarie/"> <img src="../../nord/afternoon_prarie/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

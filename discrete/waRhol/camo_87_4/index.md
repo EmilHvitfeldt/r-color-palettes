@@ -53,11 +53,7 @@ c("#FF6E1EFF", "#FE9F14FF", "#FCE90FFF", "#BBF1FCFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/BridgetRiley/"> <img src="../../lisa/BridgetRiley/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#FF6E1EFF", "#FE9F14FF", "#FCE90FFF", "#BBF1FCFF")
 <a href="../../MetBrewer/Tara/"> <img src="../../MetBrewer/Tara/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NineteenEightyR/miami1/"> <img src="../../NineteenEightyR/miami1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Dsarayacuensis/"> <img src="../../poisonfrogs/Dsarayacuensis/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../waRhol/skull_76_1/"> <img src="../../waRhol/skull_76_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

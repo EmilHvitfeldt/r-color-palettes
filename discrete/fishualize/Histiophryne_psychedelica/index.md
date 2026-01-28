@@ -53,11 +53,7 @@ c("#80CCE1FF", "#9DA376FF", "#9F7707FF", "#764409FF", "#6A0A09FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/GrantWood/"> <img src="../../lisa/GrantWood/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -65,16 +61,20 @@ c("#80CCE1FF", "#9DA376FF", "#9F7707FF", "#764409FF", "#6A0A09FF")
 </figure> <figure class="figure">
 <a href="../../fishualize/Etheostoma_barrenense/"> <img src="../../fishualize/Etheostoma_barrenense/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../poisonfrogs/Oslita/"> <img src="../../poisonfrogs/Oslita/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/MarcelDuchamp/"> <img src="../../lisa/MarcelDuchamp/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../soilpalettes/rendoll/"> <img src="../../soilpalettes/rendoll/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../vangogh/SunflowersMunich/"> <img src="../../vangogh/SunflowersMunich/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../lisa/FridaKahlo/"> <img src="../../lisa/FridaKahlo/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../vangogh/SunflowersMunich/"> <img src="../../vangogh/SunflowersMunich/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Neogobius_melanostomus/"> <img src="../../fishualize/Neogobius_melanostomus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Manu/Pohutukawa/"> <img src="../../Manu/Pohutukawa/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Chaetodontoplus_conspicillatus/"> <img src="../../fishualize/Chaetodontoplus_conspicillatus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,11 +53,7 @@ c("#3F858CFF", "#707322FF", "#F2D43DFF", "#D9814EFF", "#731A12FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/GeneDavis/"> <img src="../../lisa/GeneDavis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#3F858CFF", "#707322FF", "#F2D43DFF", "#D9814EFF", "#731A12FF")
 <a href="../../calecopal/kelp1/"> <img src="../../calecopal/kelp1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Egypt/"> <img src="../../MetBrewer/Egypt/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../lisa/ClaesOldenburg/"> <img src="../../lisa/ClaesOldenburg/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../rtist/oldenburg/"> <img src="../../rtist/oldenburg/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

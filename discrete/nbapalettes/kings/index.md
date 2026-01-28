@@ -53,11 +53,7 @@ c("#582C83FF", "#5B6770FF", "#010101FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/kings_alt2/"> <img src="../../nbapalettes/kings_alt2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -71,10 +67,14 @@ c("#582C83FF", "#5B6770FF", "#010101FF")
 </figure> <figure class="figure">
 <a href="../../nbapalettes/hornets/"> <img src="../../nbapalettes/hornets/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ghibli/SpiritedDark/"> <img src="../../ghibli/SpiritedDark/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../nbapalettes/blazers_statement/"> <img src="../../nbapalettes/blazers_statement/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ghibli/SpiritedDark/"> <img src="../../ghibli/SpiritedDark/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../amerika/Democrat/"> <img src="../../amerika/Democrat/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ghibli/LaputaDark/"> <img src="../../ghibli/LaputaDark/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../trekcolors/starfleet2/"> <img src="../../trekcolors/starfleet2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

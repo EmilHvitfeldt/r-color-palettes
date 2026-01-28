@@ -53,11 +53,7 @@ c("#336B66FF", "#BE7E57FF", "#563A22FF", "#773824FF", "#5D7A77FF", "#7D5234FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/m_oscellata/"> <img src="../../colRoz/m_oscellata/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +65,16 @@ c("#336B66FF", "#BE7E57FF", "#563A22FF", "#773824FF", "#5D7A77FF", "#7D5234FF", 
 </figure> <figure class="figure">
 <a href="../../severance/Jazz02/"> <img src="../../severance/Jazz02/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../Manu/Putangitangi/"> <img src="../../Manu/Putangitangi/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../NatParksPalettes/CraterLake/"> <img src="../../NatParksPalettes/CraterLake/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../Manu/Putangitangi/"> <img src="../../Manu/Putangitangi/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../peRReo/wyy/"> <img src="../../peRReo/wyy/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../dutchmasters/anatomy/"> <img src="../../dutchmasters/anatomy/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../peRReo/wyy/"> <img src="../../peRReo/wyy/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ButterflyColors/historis_acheronta/"> <img src="../../ButterflyColors/historis_acheronta/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/stalachtis_phlegia_susanna/"> <img src="../../ButterflyColors/stalachtis_phlegia_susanna/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

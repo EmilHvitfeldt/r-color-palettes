@@ -53,11 +53,7 @@ c("#9C8A45FF", "#CABE85FF", "#678B88FF", "#9CADAFFF", "#CCCCCCFF", "#EFEFEFFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Ginglymostoma_cirratum/"> <img src="../../fishualize/Ginglymostoma_cirratum/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#9C8A45FF", "#CABE85FF", "#678B88FF", "#9CADAFFF", "#CCCCCCFF", "#EFEFEFFF")
 <a href="../../rcartocolor/Earth/"> <img src="../../rcartocolor/Earth/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/PaulKlee/"> <img src="../../lisa/PaulKlee/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Oncorhynchus_tshawytscha/"> <img src="../../fishualize/Oncorhynchus_tshawytscha/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Atherinella_brasiliensis/"> <img src="../../fishualize/Atherinella_brasiliensis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

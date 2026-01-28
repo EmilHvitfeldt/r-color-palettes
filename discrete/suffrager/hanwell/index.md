@@ -53,11 +53,7 @@ c("#200E6AFF", "#B01824FF", "#90468CFF", "#326529FF", "#82D0F0FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/colorblind_safe/"> <img src="../../ggprism/colorblind_safe/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#200E6AFF", "#B01824FF", "#90468CFF", "#326529FF", "#82D0F0FF")
 <a href="../../nbapalettes/pistons_city/"> <img src="../../nbapalettes/pistons_city/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Manu/Kokako/"> <img src="../../Manu/Kokako/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nbapalettes/timberwolves_statement/"> <img src="../../nbapalettes/timberwolves_statement/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nbapalettes/rockets_90s/"> <img src="../../nbapalettes/rockets_90s/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

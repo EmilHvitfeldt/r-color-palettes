@@ -53,11 +53,7 @@ c("#EDE5CFFF", "#E0C2A2FF", "#D39C83FF", "#C1766FFF", "#A65461FF", "#813753FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tayloRswift/midnightsBloodMoon/"> <img src="../../tayloRswift/midnightsBloodMoon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -65,15 +61,19 @@ c("#EDE5CFFF", "#E0C2A2FF", "#D39C83FF", "#C1766FFF", "#A65461FF", "#813753FF", 
 </figure> <figure class="figure">
 <a href="../../colRoz/e_kingii/"> <img src="../../colRoz/e_kingii/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nord/halifax_harbor/"> <img src="../../nord/halifax_harbor/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../PrettyCols/Browns/"> <img src="../../PrettyCols/Browns/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Semicossyphus_pulcher/"> <img src="../../fishualize/Semicossyphus_pulcher/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../nord/halifax_harbor/"> <img src="../../nord/halifax_harbor/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../rcartocolor/BurgYl/"> <img src="../../rcartocolor/BurgYl/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../lisa/JacobLawrence/"> <img src="../../lisa/JacobLawrence/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../tayloRswift/Red/"> <img src="../../tayloRswift/Red/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/WindCave/"> <img src="../../NatParksPalettes/WindCave/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../lisa/JacobLawrence/"> <img src="../../lisa/JacobLawrence/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tayloRswift/taylor1989/"> <img src="../../tayloRswift/taylor1989/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 

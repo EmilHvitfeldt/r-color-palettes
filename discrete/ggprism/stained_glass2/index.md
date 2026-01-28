@@ -53,17 +53,13 @@ c("#FF0000FF", "#FFFF00FF", "#00FF00FF", "#55A0FBFF", "#B856D7FF", "#F74ED6FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/stained_glass/"> <img src="../../ggprism/stained_glass/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggthemes/stata_s1rcolor/"> <img src="../../ggthemes/stata_s1rcolor/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../ggprism/candy_soft/"> <img src="../../ggprism/candy_soft/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggthemes/stata_s1rcolor/"> <img src="../../ggthemes/stata_s1rcolor/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSOStd/"> <img src="../../Redmonder/qMSOStd/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -73,8 +69,12 @@ c("#FF0000FF", "#FFFF00FF", "#00FF00FF", "#55A0FBFF", "#B856D7FF", "#F74ED6FF", 
 </figure> <figure class="figure">
 <a href="../../miscpalettes/fire/"> <img src="../../miscpalettes/fire/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../tidyquant/tq_dark/"> <img src="../../tidyquant/tq_dark/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../jcolors/pal3/"> <img src="../../jcolors/pal3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../tidyquant/tq_dark/"> <img src="../../tidyquant/tq_dark/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../yarrr/basel/"> <img src="../../yarrr/basel/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/Rainbow/"> <img src="../../PrettyCols/Rainbow/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

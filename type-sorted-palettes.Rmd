@@ -4,740 +4,98 @@ output: github_document
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-```{r setup, include=FALSE}
-library(knitr)
-opts_chunk$set(echo = FALSE, fig.width = 7,
-               fig.path = "man/figures/type-sorted-")
-knit_hooks$set(optipng = hook_optipng)
-opts_chunk$set("optipng" = "-o5", cache = TRUE)
-```
-
-```{r include=FALSE}
-library(paletteer)
-source("R/list_plotter.R")
-```
-
 ## Palettes sorted by type (Sequential/Diverging/Qualitative)
 
-Table of Contents
-=================
-  * [Main page](README.md#comprehensive-list-of-color-palettes-in-r)
-  * [Blogposts and other resources](README.md#blogposts-and-other-resources)
-  * [Color manipulation packages](README.md#color-manipulation-packages)
-  * [Generative packages](README.md#generative-packages)
-  * [Perception of color palettes](README.md#perception-of-color-palettes)
-    * [Printing in black and white](README.md#printing-in-black-and-white)
-    * [Color blindness](README.md#color-blindness)
-  * [Honorable mentions](README.md#honorable-mentions)
-  * [Palettes sorted by Package (alphabetically)](README.md#palettes-sorted-by-package-alphabetically)
-    * [Sequential color palettes](#sequential-color-palettes)
-    * [Diverging color palettes](#diverging-color-palettes)
-    * [Qualitative color palettes](#qualitative-color-palettes)
-    * [Canva palettes](canva.md)
-    * [Palettetown palettes](palettetown.md)
-  * [News](NEWS.md)
+```{r child="toc"}
+```
+
+```{r}
+#| results: asis
+#| warning: false
+source("palette_plotter.R")
+fs::dir_create("palette_images")
+
+pals <- paletteer::palettes_d
+pals <- pals[names(pals) != "palettetown"]
+
+for (i in seq_along(pals)) {
+  pal_package <- names(pals)[i] 
+  pal <- pals[[i]]
+
+info <- paletteer::palettes_d_names |>
+  filter(package == pal_package) |>
+  arrange(palette)
+
+types <- split(info$palette, info$type)
+
+  for (type in names(types)) {
+    pal_names <- types[[type]]
+    make_plot(pal[pal_names], paste0(type, "-", pal_package))
+  }
+}
+```
+
+```{r}
+#| results: asis
+#| warning: false
+markdown_by_type <- function(pal_type) {
+pkg_data <- paletteer::palettes_d_names |>
+  filter(package != "palettetown") |>
+  filter(type == pal_type) |>
+  distinct(package) |>
+  left_join(paletteer::paletteer_packages, by = c("package" = "Name")) |>
+  mutate(
+    github_install = if_else(
+      is.na(github_ver),
+      "",
+      glue::glue("# Developmental version\npak::pak(\"{Github}\")")
+    ),
+    cran_install = if_else(
+      CRAN,
+      glue::glue("\n\n# CRAN version\ninstall.packages(\"{package}\")\n\n"),
+      ""
+    )
+  )
+
+glue::glue_data(
+  pkg_data,
+  "
+### [[package]]
+
+\`\`\`r
+[[github_install]]
+[[cran_install]]
+\`\`\`
+
+![](palette_images/[[pal_type]]-[[package]].png)
+
+",
+  .open = "[[",
+  .close = "]]"
+)
+}
+```
 
 ### Sequential color palettes
 
-```{r cartographyseq, fig.height=15}
-package_name <- "cartography"
-pal_data <- all_names(package_name, "sequential")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("riatelab/cartography")
-# CRAN version
-install.packages("cartography")
-```
-
-```{r dichromatseq, fig.height=4}
-package_name <- "dichromat"
-pal_data <- all_names(package_name, "sequential")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# CRAN version
-install.packages("dichromat")
-```
-
-
-```{r ggsciseq, fig.height=20}
-package_name <- "ggsci"
-pal_data <- all_names(package_name, "sequential")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("road2stat/ggsci")
-# CRAN version
-install.packages("ggsci")
-```
-
-```{r ggthemestableauseq, fig.height=19}
-package_name <- "ggthemes"
-pal_data <- all_names(package_name, "sequential")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("jrnold/ggthemes")
-# CRAN version
-install.packages("ggthemes")
-```
-
-```{r grDevicesseq, fig.height=6}
-package_name <- "grDevices"
-pal_data <- all_names(package_name, "sequential")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# CRAN version
-install.packages("grDevices")
-```
-
-```{r jcolors-discreteseq, fig.height=4}
-package_name <- "jcolors"
-pal_data <- all_names(package_name, "sequential")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("jaredhuling/jcolors")
-# CRAN version
-install.packages("jcolors")
-```
-
-```{r jcolors-continseq, fig.height=9}
-package_name <- "jcolors"
-palette_names <- c("default", "pal2", "pal3", "pal4", "pal10", "pal11", "pal12", "rainbow")
-
-pal_data <- list(names = palette_names,
-                 color = purrr::map(palette_names, ~ jcolors::jcolors_contin(palette = .x)(256)))
-
-list_plotter(pal_data$color, pal_data$names, "jcolors (continuous)")
-```
-
-the `jcolors` continuous palettes are currently not available in the `paletteer` package. 
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("jaredhuling/jcolors")
-# CRAN version
-install.packages("jcolors")
-```
-
-```{r nordseq, fig.height=4}
-package_name <- "nord"
-pal_data <- all_names(package_name, "sequential")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("jkaupp/nord")
-# CRAN version
-install.packages("nord")
-```
-
-```{r oompaBaseseq, fig.height=6}
-package_name <- "oompaBase"
-pal_data <- all_names(package_name, "sequential")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# CRAN version
-install.packages("oompaBase")
-```
-
-```{r palrseq, fig.height=5}
-package_name <- "palr"
-pal_data <- all_names(package_name, "sequential")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("AustralianAntarcticDivision/palr")
-# CRAN version
-install.packages("palr")
-```
-
-```{r palscontinuousseq, fig.height=23}
-package_name <- "pals"
-pal_data <- all_names(package_name, "sequential")
-ids <- !stringr::str_detect(pal_data$names, "kovesi")
-
-list_plotter(pal_data$color[ids], pal_data$names[ids], package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("kwstat/pals")
-# CRAN version
-install.packages("pals")
-```
-
-```{r palsniccoliseq, fig.height=38}
-package_name <- "pals"
-pal_data <- all_names(package_name, "sequential")
-ids <- stringr::str_detect(pal_data$names, "kovesi")
-
-list_plotter(pal_data$color[ids], pal_data$names[ids], package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("kwstat/pals")
-# CRAN version
-install.packages("pals")
-```
-
-```{r rcartocolorseq, fig.height=22}
-package_name <- "rcartocolor"
-pal_data <- all_names(package_name, "sequential")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("Nowosad/rcartocolor")
-# CRAN version
-install.packages("rcartocolor")
-```
-
-```{r RColorBrewerseq, fig.height=19}
-package_name <- "RColorBrewer"
-pal_data <- all_names(package_name, "sequential")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# CRAN version
-install.packages("RColorBrewer")
-```
-
-```{r Redmonderseq, fig.height=11}
-package_name <- "Redmonder"
-pal_data <- all_names(package_name, "sequential")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# CRAN version
-install.packages("Redmonder")
-```
-
-```{r scicoseq, fig.height=12}
-package_name <- "scico"
-pal_data <- all_names(package_name, "sequential")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("thomasp85/scico")
-# CRAN version
-install.packages("scico")
-```
-
-```{r viridisseq, fig.height=6}
-package_name <- "viridis"
-pal_data <- all_names(package_name, "sequential")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("sjmgarnier/viridis")
-# CRAN version
-install.packages("viridis")
+```{r}
+#| results: asis
+#| warning: false
+markdown_by_type("sequential")
 ```
 
 ### Diverging color palettes
 
-```{r dichromatdiv, fig.height=14}
-package_name <- "dichromat"
-pal_data <- all_names(package_name, "diverging")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# CRAN version
-install.packages("dichromat")
-```
-
-```{r ggscidiv, fig.height=2.5}
-package_name <- "ggsci"
-pal_data <- all_names(package_name, "diverging")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("road2stat/ggsci")
-# CRAN version
-install.packages("ggsci")
-```
-
-```{r ggthemestableaudiv, fig.height=17}
-package_name <- "ggthemes"
-pal_data <- all_names(package_name, "diverging")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("jrnold/ggthemes")
-# CRAN version
-install.packages("ggthemes")
-```
-
-```{r grDevicesdiv, fig.height=2.5}
-package_name <- "grDevices"
-pal_data <- all_names(package_name, "diverging")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# CRAN version
-install.packages("grDevices")
-```
-
-```{r norddiv, fig.height=3}
-package_name <- "nord"
-pal_data <- all_names(package_name, "diverging")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("jkaupp/nord")
-# CRAN version
-install.packages("nord")
-```
-
-```{r oompaBasediv, fig.height=4}
-package_name <- "oompaBase"
-pal_data <- all_names(package_name, "diverging")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# CRAN version
-install.packages("oompaBase")
-```
-
-```{r palsoceandiv, fig.height=6}
-package_name <- "pals"
-pal_data <- all_names(package_name, "diverging")
-ids <- !stringr::str_detect(pal_data$names, "kovesi")
-
-list_plotter(pal_data$color[ids], pal_data$names[ids], package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("kwstat/pals")
-# CRAN version
-install.packages("pals")
-```
-
-```{r palskovosidiv, message=FALSE, fig.height=14}
-package_name <- "pals"
-pal_data <- all_names(package_name, "diverging")
-ids <- stringr::str_detect(pal_data$names, "kovesi")
-
-list_plotter(pal_data$color[ids], pal_data$names[ids], package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("kwstat/pals")
-# CRAN version
-install.packages("pals")
-```
-
-```{r rcartocolordiv, fig.height=8}
-package_name <- "rcartocolor"
-pal_data <- all_names(package_name, "diverging")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("Nowosad/rcartocolor")
-# CRAN version
-install.packages("rcartocolor")
-```
-
-```{r RColorBrewerdiv, fig.height=10}
-package_name <- "RColorBrewer"
-pal_data <- all_names(package_name, "diverging")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# CRAN version
-install.packages("RColorBrewer")
-```
-
-```{r Redmonderdiv, fig.height=8}
-package_name <- "Redmonder"
-pal_data <- all_names(package_name, "diverging")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# CRAN version
-install.packages("Redmonder")
-```
-
-```{r scicodiv, fig.height=7}
-package_name <- "scico"
-pal_data <- all_names(package_name, "diverging")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("thomasp85/scico")
-# CRAN version
-install.packages("scico")
+```{r}
+#| results: asis
+#| warning: false
+markdown_by_type("divergent")
 ```
 
 ### Qualitative color palettes
 
-```{r awtoolsqua, fig.height=6}
-package_name <- "awtools"
-pal_data <- all_names(package_name, "qualitative")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("awhstin/awtools")
-```
-
-```{r cartographyqua, fig.height=3}
-package_name <- "cartography"
-pal_data <- all_names(package_name, "qualitative")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("riatelab/cartography")
-# CRAN version
-install.packages("cartography")
-```
-
-```{r dichromatqua, fig.height=2.5}
-package_name <- "dichromat"
-pal_data <- all_names(package_name, "qualitative")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# CRAN version
-install.packages("dichromat")
-```
-
-```{r dutchmastersqua, fig.height=7}
-package_name <- "dutchmasters"
-pal_data <- all_names(package_name, "qualitative")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("EdwinTh/dutchmasters")
-```
-
-```{r ggsciqua, fig.height=23}
-package_name <- "ggsci"
-pal_data <- all_names(package_name, "qualitative")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("road2stat/ggsci")
-# CRAN version
-install.packages("ggsci")
-```
-
-```{r ggthemesqua, fig.height=30}
-package_name <- "ggthemes"
-pal_data <- all_names(package_name, "qualitative")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("jrnold/ggthemes")
-# CRAN version
-install.packages("ggthemes")
-```
-
-```{r ggpomologicalqua, fig.height=3}
-package_name <- "ggpomological"
-pal_data <- all_names(package_name, "qualitative")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("gadenbuie/ggpomological")
-```
-
-```{r ghibliqua, fig.height=28}
-package_name <- "ghibli"
-pal_data <- all_names(package_name, "qualitative")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("ewenme/ghibli")
-# CRAN version
-install.packages("ghibli")
-```
-
-```{r jcolors-discrete, fig.height=11}
-package_name <- "jcolors"
-pal_data <- all_names(package_name, "qualitative")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("jaredhuling/jcolors")
-# CRAN version
-install.packages("jcolors")
-```
-
-```{r LaCroixColoRqua, fig.height=22}
-package_name <- "LaCroixColoR"
-pal_data <- all_names(package_name, "qualitative")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("johannesbjork/LaCroixColoR")
-```
-
-```{r NineteenEightyRqua, fig.height=13}
-package_name <- "NineteenEightyR"
-pal_data <- all_names(package_name, "qualitative")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("m-clark/NineteenEightyR")
-# CRAN version
-install.packages("NineteenEightyR")
-```
-
-```{r nordqua, fig.height=12}
-package_name <- "nord"
-pal_data <- all_names(package_name, "qualitative")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("jkaupp/nord")
-# CRAN version
-install.packages("nord")
-```
-
-```{r ochRequa, fig.height=17}
-package_name <- "ochRe"
-pal_data <- all_names(package_name, "qualitative")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("ropenscilabs/ochRe")
-# CRAN version
-install.packages("ochRe")
-```
-
-```{r palettetownqua, fig.height=11}
-ids <- c(6, 17, 114, 137, 156, 191, 193, 283, 311, 318)
-package_name <- "palettetown"
-pal_data <- all_names(package_name, "qualitative")
-
-list_plotter(pal_data$color[ids], pal_data$names[ids], package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("timcdlucas/palettetown")
-# CRAN version
-install.packages("palettetown")
-```
-
-```{r palsdiscretequa, fig.height=9}
-package_name <- "pals"
-pal_data <- all_names(package_name, "qualitative")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("kwstat/pals")
-# CRAN version
-install.packages("pals")
-```
-
-```{r Polychromequa, fig.height=8}
-package_name <- "Polychrome"
-pal_data <- all_names(package_name, "qualitative")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# CRAN version
-install.packages("Polychrome")
-```
-
-```{r quickpalettequa, fig.height=17}
-package_name <- "quickpalette"
-pal_data <- all_names(package_name, "qualitative")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("EmilHvitfeldt/quickpalette")
-```
-
-```{r rcartocolorqua, fig.height=7}
-package_name <- "rcartocolor"
-pal_data <- all_names(package_name, "qualitative")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("Nowosad/rcartocolor")
-# CRAN version
-install.packages("rcartocolor")
-```
-
-```{r RColorBrewerqua, fig.height=9}
-package_name <- "RColorBrewer"
-pal_data <- all_names(package_name, "qualitative")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# CRAN version
-install.packages("RColorBrewer")
-```
-
-```{r Redmonderqua, fig.height=25}
-package_name <- "Redmonder"
-pal_data <- all_names(package_name, "qualitative")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# CRAN version
-install.packages("Redmonder")
-```
-
-```{r RSkittleBrewerqua, fig.height=6}
-package_name <- "RSkittleBrewer"
-pal_data <- all_names(package_name, "qualitative")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("alyssafrazee/RSkittleBrewer")
-```
-
-```{r wesandersonqua, fig.height=20}
-package_name <- "wesanderson"
-pal_data <- all_names(package_name, "qualitative")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("karthik/wesanderson")
-# CRAN version
-install.packages("wesanderson")
-```
-
-```{r yarrrqua, fig.height=22}
-package_name <- "yarrr"
-pal_data <- all_names(package_name, "qualitative")
-
-list_plotter(pal_data$color, pal_data$names, package_name)
-```
-
-```{r eval=FALSE, echo=TRUE}
-# Developmental version
-devtools::install_github("ndphillips/yarrr")
-# CRAN version
-install.packages("yarrr")
+```{r}
+#| results: asis
+#| warning: false
+markdown_by_type("qualitative")
 ```

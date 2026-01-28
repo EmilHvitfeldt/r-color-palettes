@@ -53,11 +53,7 @@ c("#4B2671FF", "#5E291CFF", "#F3D8C4FF", "#F3BF73FF", "#FFFFFFFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/JoanMiro/"> <img src="../../lisa/JoanMiro/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -71,10 +67,14 @@ c("#4B2671FF", "#5E291CFF", "#F3D8C4FF", "#F3BF73FF", "#FFFFFFFF")
 </figure> <figure class="figure">
 <a href="../../lisa/PaulFeeley/"> <img src="../../lisa/PaulFeeley/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../PrettyCols/Coast/"> <img src="../../PrettyCols/Coast/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/JohannesVermeer_1/"> <img src="../../lisa/JohannesVermeer_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/grizzlies_europe/"> <img src="../../nbapalettes/grizzlies_europe/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/starry2/"> <img src="../../ggprism/starry2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../blueycolors/bluey/"> <img src="../../blueycolors/bluey/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

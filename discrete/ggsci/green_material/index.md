@@ -53,11 +53,7 @@ c("#E8F5E9FF", "#C8E6C9FF", "#A5D6A7FF", "#81C784FF", "#66BB6AFF", "#4CAF50FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../RColorBrewer/Greens/"> <img src="../../RColorBrewer/Greens/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +65,16 @@ c("#E8F5E9FF", "#C8E6C9FF", "#A5D6A7FF", "#81C784FF", "#66BB6AFF", "#4CAF50FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/cacturne/"> <img src="../../palettetown/cacturne/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Gadus_morhua/"> <img src="../../fishualize/Gadus_morhua/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ggsci/green_tw3/"> <img src="../../ggsci/green_tw3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/Peridot/"> <img src="../../tvthemes/Peridot/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSOGnYl/"> <img src="../../Redmonder/qMSOGnYl/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../fishualize/Gadus_morhua/"> <img src="../../fishualize/Gadus_morhua/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../calecopal/chaparral3/"> <img src="../../calecopal/chaparral3/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Redmonder/qMSOGn/"> <img src="../../Redmonder/qMSOGn/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

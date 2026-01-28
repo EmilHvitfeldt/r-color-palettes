@@ -20,7 +20,7 @@ categories:
 {{< fa brands github size=3x >}}
 **Github**
 
-Not on Github
+[pmdci/redmonder](https://github.com/pmdci/redmonder)
 :::
 
 ::: {.column width="50%"}
@@ -53,11 +53,7 @@ c("#E5C243FF", "#323232FF", "#A5300FFF", "#D55816FF", "#E19825FF", "#B19C7DFF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nord/moose_pond/"> <img src="../../nord/moose_pond/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -65,16 +61,20 @@ c("#E5C243FF", "#323232FF", "#A5300FFF", "#D55816FF", "#E19825FF", "#B19C7DFF", 
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/SmokyMtns/"> <img src="../../NatParksPalettes/SmokyMtns/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../rtist/munch/"> <img src="../../rtist/munch/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../lisa/MiltonAvery/"> <img src="../../lisa/MiltonAvery/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/magcargo/"> <img src="../../palettetown/magcargo/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../rtist/munch/"> <img src="../../rtist/munch/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/beer_and_ales/"> <img src="../../ggprism/beer_and_ales/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/magcargo/"> <img src="../../palettetown/magcargo/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ButterflyColors/lycorea_hallia/"> <img src="../../ButterflyColors/lycorea_hallia/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSOYl/"> <img src="../../Redmonder/qMSOYl/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../IslamicArt/istanbul3/"> <img src="../../IslamicArt/istanbul3/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/spinda/"> <img src="../../palettetown/spinda/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,11 +53,7 @@ c("#446455FF", "#FDD262FF", "#D3DDDCFF", "#C7B19CFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nationalparkcolors/MtRainier/"> <img src="../../nationalparkcolors/MtRainier/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -71,10 +67,14 @@ c("#446455FF", "#FDD262FF", "#D3DDDCFF", "#C7B19CFF")
 </figure> <figure class="figure">
 <a href="../../wesanderson/Moonrise3/"> <img src="../../wesanderson/Moonrise3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Chaetodon_sedentarius/"> <img src="../../fishualize/Chaetodon_sedentarius/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../calecopal/seagrass/"> <img src="../../calecopal/seagrass/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../fishualize/Chaetodon_sedentarius/"> <img src="../../fishualize/Chaetodon_sedentarius/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/PaulKlee/"> <img src="../../lisa/PaulKlee/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../lisa/RobertDelaunay_1/"> <img src="../../lisa/RobertDelaunay_1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../rcartocolor/ArmyRose/"> <img src="../../rcartocolor/ArmyRose/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

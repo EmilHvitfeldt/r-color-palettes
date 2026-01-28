@@ -53,11 +53,7 @@ c("#860038FF", "#041E42FF", "#FDBB30FF", "#000000FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/heat/"> <img src="../../nbapalettes/heat/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -75,6 +71,10 @@ c("#860038FF", "#041E42FF", "#FDBB30FF", "#000000FF")
 </figure> <figure class="figure">
 <a href="../../ochRe/nolan_ned/"> <img src="../../ochRe/nolan_ned/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../tvthemes/attackOnTitan/"> <img src="../../tvthemes/attackOnTitan/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nbapalettes/pacers_venue/"> <img src="../../nbapalettes/pacers_venue/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../tvthemes/FireNation/"> <img src="../../tvthemes/FireNation/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

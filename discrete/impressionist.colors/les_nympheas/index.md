@@ -53,11 +53,7 @@ c("#693C3CFF", "#784B4BFF", "#A53C3CFF", "#B45A4BFF", "#E1A569FF", "#E1C396FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../impressionist.colors/lestaque_aux_toits_rouges/"> <img src="../../impressionist.colors/lestaque_aux_toits_rouges/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#693C3CFF", "#784B4BFF", "#A53C3CFF", "#B45A4BFF", "#E1A569FF", "#E1C396FF", 
 <a href="../../impressionist.colors/la_yole/"> <img src="../../impressionist.colors/la_yole/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../impressionist.colors/bouilloire_et_fruits/"> <img src="../../impressionist.colors/bouilloire_et_fruits/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../IslamicArt/istanbul2/"> <img src="../../IslamicArt/istanbul2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../impressionist.colors/chanteuse_de_cafe_concert/"> <img src="../../impressionist.colors/chanteuse_de_cafe_concert/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

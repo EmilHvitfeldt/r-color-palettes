@@ -53,11 +53,7 @@ c("#000000FF", "#170F25FF", "#2C1C47FF", "#6D4A6BFF", "#7B4E73FF", "#8C657EFF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X53/"> <img src="../../beyonce/X53/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -66,6 +62,10 @@ c("#000000FF", "#170F25FF", "#2C1C47FF", "#6D4A6BFF", "#7B4E73FF", "#8C657EFF", 
 <a href="../../beyonce/X124/"> <img src="../../beyonce/X124/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ghibli/SpiritedDark/"> <img src="../../ghibli/SpiritedDark/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Rdune/atreides/"> <img src="../../Rdune/atreides/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/Aubergines/"> <img src="../../PrettyCols/Aubergines/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../yarrr/eternal/"> <img src="../../yarrr/eternal/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

@@ -20,7 +20,7 @@ categories:
 {{< fa brands github size=3x >}}
 **Github**
 
-Not on Github
+[pmdci/redmonder](https://github.com/pmdci/redmonder)
 :::
 
 ::: {.column width="50%"}
@@ -53,11 +53,7 @@ c("#EAE5EBFF", "#632E62FF", "#92278FFF", "#9B57D3FF", "#755DD9FF", "#665EB8FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/deep_purple_material/"> <img src="../../ggsci/deep_purple_material/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#EAE5EBFF", "#632E62FF", "#92278FFF", "#9B57D3FF", "#755DD9FF", "#665EB8FF", 
 <a href="../../PrettyCols/PurplePinks/"> <img src="../../PrettyCols/PurplePinks/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/wooper/"> <img src="../../palettetown/wooper/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../beyonce/X51/"> <img src="../../beyonce/X51/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../trekcolors/ufp/"> <img src="../../trekcolors/ufp/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,11 +53,7 @@ c("#D0B890FF", "#A08880FF", "#786058FF", "#B09068FF", "#000000FF", "#F0D8B0FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/duskull/"> <img src="../../palettetown/duskull/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#D0B890FF", "#A08880FF", "#786058FF", "#B09068FF", "#000000FF", "#F0D8B0FF", 
 <a href="../../peRReo/daddy1/"> <img src="../../peRReo/daddy1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/snorunt/"> <img src="../../palettetown/snorunt/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../dutchmasters/little_street/"> <img src="../../dutchmasters/little_street/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/aggron/"> <img src="../../palettetown/aggron/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

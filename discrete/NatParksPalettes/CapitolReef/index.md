@@ -53,13 +53,11 @@ c("#291919FF", "#532A34FF", "#7C5467FF", "#878195FF", "#AEB2B7FF", "#D4D9DDFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/Night/"> <img src="../../tvthemes/Night/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/Greys/"> <img src="../../PrettyCols/Greys/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/kimberley/"> <img src="../../colRoz/kimberley/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,9 +65,11 @@ c("#291919FF", "#532A34FF", "#7C5467FF", "#878195FF", "#AEB2B7FF", "#D4D9DDFF")
 </figure> <figure class="figure">
 <a href="../../beyonce/X122/"> <img src="../../beyonce/X122/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../futurevisions/pso/"> <img src="../../futurevisions/pso/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../Rdune/corrino/"> <img src="../../Rdune/corrino/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X125/"> <img src="../../beyonce/X125/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../futurevisions/pso/"> <img src="../../futurevisions/pso/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../calecopal/tidepool/"> <img src="../../calecopal/tidepool/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

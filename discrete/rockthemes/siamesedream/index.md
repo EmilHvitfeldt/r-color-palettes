@@ -53,11 +53,7 @@ c("#F0E9E0FF", "#2F1F16FF", "#A34D2CFF", "#CD8E40FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X24/"> <img src="../../beyonce/X24/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -73,7 +69,11 @@ c("#F0E9E0FF", "#2F1F16FF", "#A34D2CFF", "#CD8E40FF")
 </figure> <figure class="figure">
 <a href="../../rockthemes/hellawaits/"> <img src="../../rockthemes/hellawaits/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../PrettyCols/Browns/"> <img src="../../PrettyCols/Browns/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ButterflyColors/lycorea_hallia/"> <img src="../../ButterflyColors/lycorea_hallia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../lisa/ReneMagritte/"> <img src="../../lisa/ReneMagritte/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../calecopal/desert/"> <img src="../../calecopal/desert/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 

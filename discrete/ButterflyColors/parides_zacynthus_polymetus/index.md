@@ -53,11 +53,7 @@ c("#37738DFF", "#9B8170FF", "#D98B79FF", "#BF6860FF", "#292325FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Manu/Putangitangi/"> <img src="../../Manu/Putangitangi/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#37738DFF", "#9B8170FF", "#D98B79FF", "#BF6860FF", "#292325FF")
 <a href="../../beyonce/X38/"> <img src="../../beyonce/X38/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/m_oscellata/"> <img src="../../colRoz/m_oscellata/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nord/lake_superior/"> <img src="../../nord/lake_superior/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../colRoz/p_cincta/"> <img src="../../colRoz/p_cincta/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

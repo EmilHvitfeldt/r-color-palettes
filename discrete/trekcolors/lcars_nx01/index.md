@@ -53,11 +53,7 @@ c("#BDEFFFFF", "#009CCEFF", "#DEFFB5FF", "#CD6363FF", "#E7FFFFFF", "#4D6184FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/Pearl/"> <img src="../../tvthemes/Pearl/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -73,8 +69,12 @@ c("#BDEFFFFF", "#009CCEFF", "#DEFFB5FF", "#CD6363FF", "#E7FFFFFF", "#4D6184FF")
 </figure> <figure class="figure">
 <a href="../../DresdenColor/colddays/"> <img src="../../DresdenColor/colddays/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../MoMAColors/Lupi/"> <img src="../../MoMAColors/Lupi/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../vapeplot/mallsoft/"> <img src="../../vapeplot/mallsoft/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../MoMAColors/Lupi/"> <img src="../../MoMAColors/Lupi/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ltc/gaby/"> <img src="../../ltc/gaby/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Thalassoma_noronhanum/"> <img src="../../fishualize/Thalassoma_noronhanum/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

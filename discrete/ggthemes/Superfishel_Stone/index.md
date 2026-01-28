@@ -53,11 +53,7 @@ c("#6388B4FF", "#FFAE34FF", "#EF6F6AFF", "#8CC2CAFF", "#55AD89FF", "#C3BC3FFF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/Classic_10_Medium/"> <img src="../../ggthemes/Classic_10_Medium/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#6388B4FF", "#FFAE34FF", "#EF6F6AFF", "#8CC2CAFF", "#55AD89FF", "#C3BC3FFF", 
 <a href="../../ochRe/namatjira_qual/"> <img src="../../ochRe/namatjira_qual/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/few_Light/"> <img src="../../ggthemes/few_Light/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggsci/light_uchicago/"> <img src="../../ggsci/light_uchicago/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ochRe/namatjira_div/"> <img src="../../ochRe/namatjira_div/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

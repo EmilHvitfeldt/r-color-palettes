@@ -53,19 +53,15 @@ c("#80A1C1FF", "#C94277FF", "#EEE3ABFF", "#274C77FF", "#5E8C61FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MexBrewer/Casita1/"> <img src="../../MexBrewer/Casita1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../khroma/bright/"> <img src="../../khroma/bright/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../MetBrewer/Klimt/"> <img src="../../MetBrewer/Klimt/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../lisa/TheovanDoesburg/"> <img src="../../lisa/TheovanDoesburg/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MetBrewer/Klimt/"> <img src="../../MetBrewer/Klimt/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/i_lesueurii/"> <img src="../../colRoz/i_lesueurii/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#80A1C1FF", "#C94277FF", "#EEE3ABFF", "#274C77FF", "#5E8C61FF")
 <a href="../../lisa/EdwardHopper/"> <img src="../../lisa/EdwardHopper/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../DresdenColor/ghoststory/"> <img src="../../DresdenColor/ghoststory/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../khroma/mediumcontrast/"> <img src="../../khroma/mediumcontrast/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../IslamicArt/ottoman/"> <img src="../../IslamicArt/ottoman/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,11 +53,7 @@ c("#798962FF", "#A9BDB5FF", "#8DA5BEFF", "#A1C7DCFF", "#D3EEFEFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ghibli/LaputaLight/"> <img src="../../ghibli/LaputaLight/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#798962FF", "#A9BDB5FF", "#8DA5BEFF", "#A1C7DCFF", "#D3EEFEFF")
 <a href="../../nationalparkcolors/MtRainier/"> <img src="../../nationalparkcolors/MtRainier/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/sPBIGn/"> <img src="../../Redmonder/sPBIGn/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ghibli/YesterdayLight/"> <img src="../../ghibli/YesterdayLight/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../rcartocolor/Mint/"> <img src="../../rcartocolor/Mint/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

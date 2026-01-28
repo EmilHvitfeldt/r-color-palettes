@@ -53,11 +53,7 @@ c("#A080C0FF", "#E8E8C0FF", "#C0C098FF", "#705090FF", "#381858FF", "#787850FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemr/lilac/"> <img src="../../ggthemr/lilac/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +65,16 @@ c("#A080C0FF", "#E8E8C0FF", "#C0C098FF", "#705090FF", "#381858FF", "#787850FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/regice/"> <img src="../../palettetown/regice/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../khroma/PRGn/"> <img src="../../khroma/PRGn/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../rtist/hokusai/"> <img src="../../rtist/hokusai/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../khroma/PRGn/"> <img src="../../khroma/PRGn/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../tvthemes/WaterTribe/"> <img src="../../tvthemes/WaterTribe/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/gligar/"> <img src="../../palettetown/gligar/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../tvthemes/WaterTribe/"> <img src="../../tvthemes/WaterTribe/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../beyonce/X11/"> <img src="../../beyonce/X11/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/nidoranm/"> <img src="../../palettetown/nidoranm/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

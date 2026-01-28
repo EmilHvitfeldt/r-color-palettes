@@ -53,25 +53,25 @@ c("#5D7342FF", "#D7AE04FF", "#ECD7B8FF", "#A58B8CFF", "#272727FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../poisonfrogs/Hhobbsi/"> <img src="../../poisonfrogs/Hhobbsi/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/MarcelDuchamp/"> <img src="../../lisa/MarcelDuchamp/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../calecopal/superbloom1/"> <img src="../../calecopal/superbloom1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../vangogh/Cypresses/"> <img src="../../vangogh/Cypresses/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../Manu/Takapu/"> <img src="../../Manu/Takapu/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../vangogh/Cypresses/"> <img src="../../vangogh/Cypresses/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../wesanderson/Moonrise2/"> <img src="../../wesanderson/Moonrise2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/whitei/"> <img src="../../colRoz/whitei/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ochRe/olsen_qual/"> <img src="../../ochRe/olsen_qual/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Pvaillantii/"> <img src="../../poisonfrogs/Pvaillantii/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/p_mitchelli/"> <img src="../../colRoz/p_mitchelli/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

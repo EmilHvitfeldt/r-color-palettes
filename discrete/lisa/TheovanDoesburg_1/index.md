@@ -53,11 +53,7 @@ c("#53628DFF", "#B8B45BFF", "#C1C3B6FF", "#984F48FF", "#2E3432FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/ReneMagritte_1/"> <img src="../../lisa/ReneMagritte_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -73,8 +69,12 @@ c("#53628DFF", "#B8B45BFF", "#C1C3B6FF", "#984F48FF", "#2E3432FF")
 </figure> <figure class="figure">
 <a href="../../calecopal/grasswet/"> <img src="../../calecopal/grasswet/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../tayloRswift/SunriseBoulevard1989/"> <img src="../../tayloRswift/SunriseBoulevard1989/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../futurevisions/hd/"> <img src="../../futurevisions/hd/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MoMAColors/Levine2/"> <img src="../../MoMAColors/Levine2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../wesanderson/IsleofDogs1/"> <img src="../../wesanderson/IsleofDogs1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

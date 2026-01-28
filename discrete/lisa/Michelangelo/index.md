@@ -53,11 +53,7 @@ c("#42819FFF", "#86AA7DFF", "#CBB396FF", "#555234FF", "#4D280FFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/EdwardHopper/"> <img src="../../lisa/EdwardHopper/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -71,10 +67,14 @@ c("#42819FFF", "#86AA7DFF", "#CBB396FF", "#555234FF", "#4D280FFF")
 </figure> <figure class="figure">
 <a href="../../Manu/Pepetuna/"> <img src="../../Manu/Pepetuna/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../calecopal/sierra1/"> <img src="../../calecopal/sierra1/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../IslamicArt/alhambra/"> <img src="../../IslamicArt/alhambra/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../calecopal/sierra1/"> <img src="../../calecopal/sierra1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../vangogh/Irises/"> <img src="../../vangogh/Irises/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../lisa/MaxErnst/"> <img src="../../lisa/MaxErnst/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../calecopal/halfdome/"> <img src="../../calecopal/halfdome/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,11 +53,9 @@ c("#593722FF", "#834D24FF", "#AB5D26FF", "#C3722AFF", "#E1C473FF", "#E6DAB9FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../tayloRswift/TLOAS/"> <img src="../../tayloRswift/TLOAS/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../IslamicArt/fes/"> <img src="../../IslamicArt/fes/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,14 +65,16 @@ c("#593722FF", "#834D24FF", "#AB5D26FF", "#C3722AFF", "#E1C473FF", "#E6DAB9FF", 
 </figure> <figure class="figure">
 <a href="../../impressionist.colors/danseuses_a_la_barre/"> <img src="../../impressionist.colors/danseuses_a_la_barre/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../calecopal/oak/"> <img src="../../calecopal/oak/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../MetBrewer/Paquin/"> <img src="../../MetBrewer/Paquin/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../calecopal/oak/"> <img src="../../calecopal/oak/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nord/moose_pond/"> <img src="../../nord/moose_pond/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/Olympic/"> <img src="../../NatParksPalettes/Olympic/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Zapteryx_brevirostris/"> <img src="../../fishualize/Zapteryx_brevirostris/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../lisa/OttoDix_1/"> <img src="../../lisa/OttoDix_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

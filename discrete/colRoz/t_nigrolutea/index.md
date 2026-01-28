@@ -53,11 +53,7 @@ c("#FFDAA0FF", "#B29952FF", "#A38847FF", "#F9A338FF", "#867673FF", "#0F120FFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../DresdenColor/stormfront/"> <img src="../../DresdenColor/stormfront/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -65,16 +61,20 @@ c("#FFDAA0FF", "#B29952FF", "#A38847FF", "#F9A338FF", "#867673FF", "#0F120FFF")
 </figure> <figure class="figure">
 <a href="../../vangogh/Cypresses/"> <img src="../../vangogh/Cypresses/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../DresdenColor/sidejobs/"> <img src="../../DresdenColor/sidejobs/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../ButterflyColors/anteos_menippe/"> <img src="../../ButterflyColors/anteos_menippe/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../DresdenColor/sidejobs/"> <img src="../../DresdenColor/sidejobs/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../DresdenColor/graveperil/"> <img src="../../DresdenColor/graveperil/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../colRoz/whitei/"> <img src="../../colRoz/whitei/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../poisonfrogs/Edarwinwallacei/"> <img src="../../poisonfrogs/Edarwinwallacei/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../DresdenColor/smallfavor/"> <img src="../../DresdenColor/smallfavor/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../colRoz/whitei/"> <img src="../../colRoz/whitei/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/kakuna/"> <img src="../../palettetown/kakuna/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../lisa/CharlesDemuth/"> <img src="../../lisa/CharlesDemuth/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

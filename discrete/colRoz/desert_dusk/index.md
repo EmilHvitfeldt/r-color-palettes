@@ -53,11 +53,7 @@ c("#040605FF", "#0A183FFF", "#1C407AFF", "#A1A4B7FF", "#F2BFA4FF", "#FFD585FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/grizzlies_europe/"> <img src="../../nbapalettes/grizzlies_europe/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -71,7 +67,11 @@ c("#040605FF", "#0A183FFF", "#1C407AFF", "#A1A4B7FF", "#F2BFA4FF", "#FFD585FF")
 </figure> <figure class="figure">
 <a href="../../beyonce/X115/"> <img src="../../beyonce/X115/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../poisonfrogs/Dtnouragues/"> <img src="../../poisonfrogs/Dtnouragues/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nationalparkcolors/GeneralGrant/"> <img src="../../nationalparkcolors/GeneralGrant/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Rvariabilis/"> <img src="../../poisonfrogs/Rvariabilis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X19/"> <img src="../../beyonce/X19/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

@@ -53,11 +53,7 @@ c("#B04948FF", "#811E18FF", "#9E4013FF", "#C88A2CFF", "#4C6216FF", "#1A472AFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Nattier/"> <img src="../../MetBrewer/Nattier/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -71,10 +67,14 @@ c("#B04948FF", "#811E18FF", "#9E4013FF", "#C88A2CFF", "#4C6216FF", "#1A472AFF")
 </figure> <figure class="figure">
 <a href="../../DresdenColor/turncoat/"> <img src="../../DresdenColor/turncoat/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../Rdune/maythyknifechipandshatter/"> <img src="../../Rdune/maythyknifechipandshatter/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../MoMAColors/Alkalay1/"> <img src="../../MoMAColors/Alkalay1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Degas/"> <img src="../../MetBrewer/Degas/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Pseudupeneus_maculatus/"> <img src="../../fishualize/Pseudupeneus_maculatus/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../colRoz/a_conica/"> <img src="../../colRoz/a_conica/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

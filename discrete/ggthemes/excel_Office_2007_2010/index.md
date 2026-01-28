@@ -53,11 +53,7 @@ c("#4F81BDFF", "#C0504DFF", "#9BBB59FF", "#8064A2FF", "#4BACC6FF", "#F79646FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/default_locuszoom/"> <img src="../../ggsci/default_locuszoom/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#4F81BDFF", "#C0504DFF", "#9BBB59FF", "#8064A2FF", "#4BACC6FF", "#F79646FF")
 <a href="../../ggthemes/excel_Parallax/"> <img src="../../ggthemes/excel_Parallax/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Berlin/"> <img src="../../ggthemes/excel_Berlin/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggthemes/excel_Droplet/"> <img src="../../ggthemes/excel_Droplet/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggthemes/excel_Office_Theme/"> <img src="../../ggthemes/excel_Office_Theme/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

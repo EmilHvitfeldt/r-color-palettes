@@ -53,11 +53,7 @@ c("#00486DFF", "#00E5E5FF", "#58F37EFF", "#FFE74FFF", "#FC4902FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Minilabrus_striatus/"> <img src="../../fishualize/Minilabrus_striatus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +65,16 @@ c("#00486DFF", "#00E5E5FF", "#58F37EFF", "#FFE74FFF", "#FC4902FF")
 </figure> <figure class="figure">
 <a href="../../LaCroixColoR/PommeBaya/"> <img src="../../LaCroixColoR/PommeBaya/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Scarus_tricolor/"> <img src="../../fishualize/Scarus_tricolor/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../fishualize/Sparisoma_viride/"> <img src="../../fishualize/Sparisoma_viride/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Scarus_tricolor/"> <img src="../../fishualize/Scarus_tricolor/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../LaCroixColoR/KeyLime/"> <img src="../../LaCroixColoR/KeyLime/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../futurevisions/atomic_clock/"> <img src="../../futurevisions/atomic_clock/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../vangogh/StarryNight/"> <img src="../../vangogh/StarryNight/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Holacanthus_ciliaris/"> <img src="../../fishualize/Holacanthus_ciliaris/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

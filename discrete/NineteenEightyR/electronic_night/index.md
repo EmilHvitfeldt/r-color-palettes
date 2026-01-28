@@ -53,11 +53,7 @@ c("#CB54D6FF", "#3E45C4FF", "#21191AFF", "#362F78FF", "#57B4AEFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/physalia/"> <img src="../../colRoz/physalia/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -71,10 +67,14 @@ c("#CB54D6FF", "#3E45C4FF", "#21191AFF", "#362F78FF", "#57B4AEFF")
 </figure> <figure class="figure">
 <a href="../../palettetown/quagsire/"> <img src="../../palettetown/quagsire/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ggsci/purple_bs5/"> <img src="../../ggsci/purple_bs5/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/GeorgiaOKeeffe/"> <img src="../../lisa/GeorgiaOKeeffe/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rtist/okeeffe/"> <img src="../../rtist/okeeffe/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X121/"> <img src="../../beyonce/X121/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MexBrewer/Frida/"> <img src="../../MexBrewer/Frida/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

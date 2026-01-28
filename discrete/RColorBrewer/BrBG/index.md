@@ -53,11 +53,7 @@ c("#543005FF", "#8C510AFF", "#BF812DFF", "#DFC27DFF", "#F6E8C3FF", "#F5F5F5FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/squirtle/"> <img src="../../palettetown/squirtle/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#543005FF", "#8C510AFF", "#BF812DFF", "#DFC27DFF", "#F6E8C3FF", "#F5F5F5FF", 
 <a href="../../werpals/mountcook/"> <img src="../../werpals/mountcook/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/hitmonlee/"> <img src="../../palettetown/hitmonlee/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/furret/"> <img src="../../palettetown/furret/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../colorBlindness/Brown2Blue10Steps/"> <img src="../../colorBlindness/Brown2Blue10Steps/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

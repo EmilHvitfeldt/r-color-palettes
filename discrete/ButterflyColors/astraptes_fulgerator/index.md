@@ -53,19 +53,15 @@ c("#449DB3FF", "#A3BAC2FF", "#60BFAEFF", "#8C6E5DFF", "#6C5043FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ButterflyColors/pseudolycaena_marsyas/"> <img src="../../ButterflyColors/pseudolycaena_marsyas/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/shark_bay/"> <img src="../../colRoz/shark_bay/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../MetBrewer/Monet/"> <img src="../../MetBrewer/Monet/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../lisa/SalvadorDali_1/"> <img src="../../lisa/SalvadorDali_1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MetBrewer/Monet/"> <img src="../../MetBrewer/Monet/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../calecopal/lupinus/"> <img src="../../calecopal/lupinus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -73,8 +69,12 @@ c("#449DB3FF", "#A3BAC2FF", "#60BFAEFF", "#8C6E5DFF", "#6C5043FF")
 </figure> <figure class="figure">
 <a href="../../calecopal/collinsia/"> <img src="../../calecopal/collinsia/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ggthemes/excel_Feathered/"> <img src="../../ggthemes/excel_Feathered/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Alosa_fallax/"> <img src="../../fishualize/Alosa_fallax/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggthemes/excel_Feathered/"> <img src="../../ggthemes/excel_Feathered/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../musculusColors/ErFluke/"> <img src="../../musculusColors/ErFluke/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nord/algoma_forest/"> <img src="../../nord/algoma_forest/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

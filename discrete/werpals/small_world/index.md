@@ -53,11 +53,7 @@ c("#00A2CEFF", "#B3331DFF", "#B6A756FF", "#122753FF", "#B86117FF", "#4D430CFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Juarez/"> <img src="../../MetBrewer/Juarez/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,11 +65,15 @@ c("#00A2CEFF", "#B3331DFF", "#B6A756FF", "#122753FF", "#B86117FF", "#4D430CFF")
 </figure> <figure class="figure">
 <a href="../../lisa/PavelTchelitchew/"> <img src="../../lisa/PavelTchelitchew/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../MoMAColors/Abbott/"> <img src="../../MoMAColors/Abbott/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../NatParksPalettes/Triglav/"> <img src="../../NatParksPalettes/Triglav/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../MoMAColors/Abbott/"> <img src="../../MoMAColors/Abbott/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Opescudo/"> <img src="../../poisonfrogs/Opescudo/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../feathers/spotted_pardalote/"> <img src="../../feathers/spotted_pardalote/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../wesanderson/Rushmore/"> <img src="../../wesanderson/Rushmore/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../wesanderson/Rushmore1/"> <img src="../../wesanderson/Rushmore1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 

@@ -53,11 +53,7 @@ c("#767F8BFF", "#B3B7B8FF", "#5C6068FF", "#D3D3D3FF", "#989CA3FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../unikn/pal_grau/"> <img src="../../unikn/pal_grau/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#767F8BFF", "#B3B7B8FF", "#5C6068FF", "#D3D3D3FF", "#989CA3FF")
 <a href="../../fishualize/Atherinella_brasiliensis/"> <img src="../../fishualize/Atherinella_brasiliensis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/unown/"> <img src="../../palettetown/unown/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Redmonder/sPBIGy2/"> <img src="../../Redmonder/sPBIGy2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Ginglymostoma_cirratum/"> <img src="../../fishualize/Ginglymostoma_cirratum/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,11 +53,7 @@ c("#63BBF2FF", "#4997F0FF", "#5E5B04FF", "#A66D03FF", "#8C5D23FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Isfahan1/"> <img src="../../MetBrewer/Isfahan1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#63BBF2FF", "#4997F0FF", "#5E5B04FF", "#A66D03FF", "#8C5D23FF")
 <a href="../../fishualize/Parablennius_marmoreus/"> <img src="../../fishualize/Parablennius_marmoreus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MoMAColors/Abbott/"> <img src="../../MoMAColors/Abbott/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MetBrewer/Navajo/"> <img src="../../MetBrewer/Navajo/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Rmarina/"> <img src="../../poisonfrogs/Rmarina/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

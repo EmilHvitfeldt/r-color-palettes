@@ -53,11 +53,7 @@ c("#BD338FFF", "#EB8252FF", "#F5DC83FF", "#CDD4DCFF", "#8098A2FF", "#8FA33FFF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSOPap/"> <img src="../../Redmonder/qMSOPap/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -65,16 +61,20 @@ c("#BD338FFF", "#EB8252FF", "#F5DC83FF", "#CDD4DCFF", "#8098A2FF", "#8FA33FFF", 
 </figure> <figure class="figure">
 <a href="../../ggthemes/few_Medium/"> <img src="../../ggthemes/few_Medium/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../basetheme/brutal/"> <img src="../../basetheme/brutal/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../awtools/mpalette/"> <img src="../../awtools/mpalette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../PrettyCols/Summer/"> <img src="../../PrettyCols/Summer/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../basetheme/brutal/"> <img src="../../basetheme/brutal/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/VanGogh2/"> <img src="../../MetBrewer/VanGogh2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colorblindr/OkabeIto/"> <img src="../../colorblindr/OkabeIto/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../MoMAColors/Rattner/"> <img src="../../MoMAColors/Rattner/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ltc/crbhits/"> <img src="../../ltc/crbhits/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../peRReo/calle13/"> <img src="../../peRReo/calle13/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../werpals/jozi/"> <img src="../../werpals/jozi/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

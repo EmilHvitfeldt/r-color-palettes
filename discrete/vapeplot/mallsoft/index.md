@@ -53,11 +53,7 @@ c("#FBCFF3FF", "#F7C0BBFF", "#ACD0F4FF", "#8690FFFF", "#30BFDDFF", "#7FD4C1FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../vapoRwave/mallSoft/"> <img src="../../vapoRwave/mallSoft/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#FBCFF3FF", "#F7C0BBFF", "#ACD0F4FF", "#8690FFFF", "#30BFDDFF", "#7FD4C1FF")
 <a href="../../tvthemes/Opal/"> <img src="../../tvthemes/Opal/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../PNWColors/Sailboat/"> <img src="../../PNWColors/Sailboat/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Sardinella_brasiliensis/"> <img src="../../fishualize/Sardinella_brasiliensis/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nationalparkcolors/Zion/"> <img src="../../nationalparkcolors/Zion/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

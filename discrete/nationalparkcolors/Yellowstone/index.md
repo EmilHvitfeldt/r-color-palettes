@@ -53,11 +53,7 @@ c("#8CBEB1FF", "#FAFAF2FF", "#EEEAA0FF", "#999275FF", "#E8C533FF", "#3A5836FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/graveler/"> <img src="../../palettetown/graveler/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -73,8 +69,12 @@ c("#8CBEB1FF", "#FAFAF2FF", "#EEEAA0FF", "#999275FF", "#E8C533FF", "#3A5836FF")
 </figure> <figure class="figure">
 <a href="../../wesanderson/Chevalier1/"> <img src="../../wesanderson/Chevalier1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../lisa/RemediosVaro/"> <img src="../../lisa/RemediosVaro/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/omastar/"> <img src="../../palettetown/omastar/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../lisa/RemediosVaro/"> <img src="../../lisa/RemediosVaro/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../lisa/PaulKlee/"> <img src="../../lisa/PaulKlee/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/pinsir/"> <img src="../../palettetown/pinsir/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

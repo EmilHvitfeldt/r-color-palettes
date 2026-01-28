@@ -53,11 +53,7 @@ c("#EE4244FF", "#F8D961FF", "#B6D944FF", "#638E6EFF", "#3C5541FF", "#132157FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../jcolors/pal7/"> <img src="../../jcolors/pal7/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +65,16 @@ c("#EE4244FF", "#F8D961FF", "#B6D944FF", "#638E6EFF", "#3C5541FF", "#132157FF")
 </figure> <figure class="figure">
 <a href="../../LaCroixColoR/Mango/"> <img src="../../LaCroixColoR/Mango/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../feathers/eastern_rosella/"> <img src="../../feathers/eastern_rosella/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../LaCroixColoR/PinaFraise/"> <img src="../../LaCroixColoR/PinaFraise/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../feathers/eastern_rosella/"> <img src="../../feathers/eastern_rosella/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../LaCroixColoR/MurePepino/"> <img src="../../LaCroixColoR/MurePepino/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/bucks_city2/"> <img src="../../nbapalettes/bucks_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ochRe/lorikeet/"> <img src="../../ochRe/lorikeet/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../lisa/PaulGauguin/"> <img src="../../lisa/PaulGauguin/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,11 +53,7 @@ c("#00020EFF", "#FFDE01FF", "#A5BAD6FF", "#F1C9C7FF", "#BD0304FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/SolLeWitt/"> <img src="../../lisa/SolLeWitt/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,6 +63,8 @@ c("#00020EFF", "#FFDE01FF", "#A5BAD6FF", "#F1C9C7FF", "#BD0304FF")
 </figure> <figure class="figure">
 <a href="../../fishualize/Parupeneus_insularis/"> <img src="../../fishualize/Parupeneus_insularis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../poisonfrogs/Oanchicayensis/"> <img src="../../poisonfrogs/Oanchicayensis/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Neogobius_melanostomus/"> <img src="../../fishualize/Neogobius_melanostomus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../soilpalettes/podzol/"> <img src="../../soilpalettes/podzol/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -74,6 +72,8 @@ c("#00020EFF", "#FFDE01FF", "#A5BAD6FF", "#F1C9C7FF", "#BD0304FF")
 <a href="../../lisa/ClaesOldenburg/"> <img src="../../lisa/ClaesOldenburg/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rtist/oldenburg/"> <img src="../../rtist/oldenburg/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Chaetodontoplus_conspicillatus/"> <img src="../../fishualize/Chaetodontoplus_conspicillatus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X115/"> <img src="../../beyonce/X115/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 

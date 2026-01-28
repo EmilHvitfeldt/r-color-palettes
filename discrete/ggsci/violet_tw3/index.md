@@ -1,0 +1,80 @@
+---
+image: featured.svg
+package: ggsci
+palette: violet_tw3
+length: 11
+type: sequential
+novelty: Novelty - No
+categories:
+  - Package - ggsci
+  - Novelty - No
+  - Type - sequential
+---
+
+![](featured.svg)
+
+# ggsci - violet_tw3 
+
+::: columns
+::: {.column width="50%"}
+{{< fa brands github size=3x >}}
+**Github**
+
+[nanxstats/ggsci](https://github.com/nanxstats/ggsci)
+:::
+
+::: {.column width="50%"}
+{{< fa brands r-project size=3x >}}
+**CRAN**
+
+[ggsci](https://CRAN.R-project.org/package=ggsci)
+:::
+:::
+
+<hr> 
+
+Use with [paletteer](https://emilhvitfeldt.github.io/paletteer/) package:
+
+```r
+library(paletteer)
+paletteer_d("ggsci::violet_tw3")
+```
+
+Use raw:
+
+```r
+c("#F5F3FFFF", "#EDE9FEFF", "#DDD6FEFF", "#C4B5FDFF", "#A78BFAFF", "#8B5CF6FF", "#7C3AEDFF", "#6D28D9FF", "#5B21B6FF", "#4C1D95FF", "#2E1065FF")
+``` 
+
+![](examples.png) 
+
+<br>
+
+# Related Palettes
+
+<div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggsci/purple_tw3/"> <img src="../../ggsci/purple_tw3/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggsci/indigo_tw3/"> <img src="../../ggsci/indigo_tw3/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggsci/blue_tw3/"> <img src="../../ggsci/blue_tw3/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggprism/the_blues/"> <img src="../../ggprism/the_blues/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggsci/deep_purple_material/"> <img src="../../ggsci/deep_purple_material/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggsci/fuchsia_tw3/"> <img src="../../ggsci/fuchsia_tw3/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggsci/indigo_material/"> <img src="../../ggsci/indigo_material/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../RColorBrewer/BuPu/"> <img src="../../RColorBrewer/BuPu/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggsci/indigo_bs5/"> <img src="../../ggsci/indigo_bs5/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../tvthemes/Sugilite/"> <img src="../../tvthemes/Sugilite/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggsci/blue_bs5/"> <img src="../../ggsci/blue_bs5/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> 
+</div>

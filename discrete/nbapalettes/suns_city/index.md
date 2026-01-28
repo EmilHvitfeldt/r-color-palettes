@@ -53,11 +53,7 @@ c("#010101FF", "#211747FF", "#582C83FF", "#5F249FFF", "#702F8AFF", "#A6192EFF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X83/"> <img src="../../beyonce/X83/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -73,8 +69,12 @@ c("#010101FF", "#211747FF", "#582C83FF", "#5F249FFF", "#702F8AFF", "#A6192EFF", 
 </figure> <figure class="figure">
 <a href="../../MoMAColors/Exter/"> <img src="../../MoMAColors/Exter/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../trekcolors/enara/"> <img src="../../trekcolors/enara/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ghibli/MononokeMedium/"> <img src="../../ghibli/MononokeMedium/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../trekcolors/enara/"> <img src="../../trekcolors/enara/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../palettetown/carvanha/"> <img src="../../palettetown/carvanha/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MexBrewer/Huida/"> <img src="../../MexBrewer/Huida/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

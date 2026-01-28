@@ -53,11 +53,7 @@ c("#FEFEFEFF", "#FFEFA9FF", "#FAAC51FF", "#6A5188FF", "#C77998FF", "#A24745FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nationalparkcolors/BlueRidgePkwy/"> <img src="../../nationalparkcolors/BlueRidgePkwy/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#FEFEFEFF", "#FFEFA9FF", "#FAAC51FF", "#6A5188FF", "#C77998FF", "#A24745FF", 
 <a href="../../futurevisions/kepler186/"> <img src="../../futurevisions/kepler186/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/totodile/"> <img src="../../palettetown/totodile/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/wartortle/"> <img src="../../palettetown/wartortle/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Redmonder/qMSO15/"> <img src="../../Redmonder/qMSO15/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

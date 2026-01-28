@@ -53,11 +53,7 @@ c("#9F4D23FF", "#922B49FF", "#B21D13FF", "#7F8624FF", "#F19C1FFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Peru2/"> <img src="../../MetBrewer/Peru2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#9F4D23FF", "#922B49FF", "#B21D13FF", "#7F8624FF", "#F19C1FFF")
 <a href="../../MexBrewer/Taurus1/"> <img src="../../MexBrewer/Taurus1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../wesanderson/GrandBudapest1/"> <img src="../../wesanderson/GrandBudapest1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../lisa/JosefAlbers_1/"> <img src="../../lisa/JosefAlbers_1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nbapalettes/pelicans_city/"> <img src="../../nbapalettes/pelicans_city/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

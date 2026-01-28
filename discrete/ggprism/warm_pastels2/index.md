@@ -53,11 +53,7 @@ c("#99CCFFFF", "#CCCCFFFF", "#FFD700FF", "#00CCCCFF", "#00CCCCFF", "#FF99FFFF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/warm_pastels/"> <img src="../../ggprism/warm_pastels/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#99CCFFFF", "#CCCCFFFF", "#FFD700FF", "#00CCCCFF", "#00CCCCFF", "#FF99FFFF", 
 <a href="../../dichromat/BluetoDarkOrange_12/"> <img src="../../dichromat/BluetoDarkOrange_12/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/Pearl/"> <img src="../../tvthemes/Pearl/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../colorBlindness/Blue2DarkOrange12Steps/"> <img src="../../colorBlindness/Blue2DarkOrange12Steps/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MetBrewer/Homer1/"> <img src="../../MetBrewer/Homer1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

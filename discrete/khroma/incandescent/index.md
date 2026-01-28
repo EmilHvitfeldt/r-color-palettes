@@ -53,23 +53,23 @@ c("#CEFFFFFF", "#C6F7D6FF", "#A2F49BFF", "#BBE453FF", "#D5CE04FF", "#E7B503FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Homer1/"> <img src="../../MetBrewer/Homer1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../RColorBrewer/RdYlGn/"> <img src="../../RColorBrewer/RdYlGn/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../khroma/YlOrBr/"> <img src="../../khroma/YlOrBr/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../ggthemes/Traffic/"> <img src="../../ggthemes/Traffic/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../khroma/YlOrBr/"> <img src="../../khroma/YlOrBr/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../RColorBrewer/YlOrBr/"> <img src="../../RColorBrewer/YlOrBr/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/Classic_Traffic_Light/"> <img src="../../ggthemes/Classic_Traffic_Light/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggsci/amber_tw3/"> <img src="../../ggsci/amber_tw3/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggsci/yellow_tw3/"> <img src="../../ggsci/yellow_tw3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/Summer/"> <img src="../../ggthemes/Summer/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

@@ -53,11 +53,7 @@ c("#F3CB66FF", "#CB9060FF", "#D5B09AFF", "#A59587FF", "#544142FF", "#030504FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/t_nigrolutea/"> <img src="../../colRoz/t_nigrolutea/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -75,6 +71,10 @@ c("#F3CB66FF", "#CB9060FF", "#D5B09AFF", "#A59587FF", "#544142FF", "#030504FF")
 </figure> <figure class="figure">
 <a href="../../lisa/CharlesDemuth/"> <img src="../../lisa/CharlesDemuth/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../poisonfrogs/Llineatus/"> <img src="../../poisonfrogs/Llineatus/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../DresdenColor/smallfavor/"> <img src="../../DresdenColor/smallfavor/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Edarwinwallacei/"> <img src="../../poisonfrogs/Edarwinwallacei/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

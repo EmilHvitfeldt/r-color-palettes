@@ -53,11 +53,7 @@ c("#56C0BFFF", "#8EE5B0FF", "#F6D25CFF", "#D5752DFF", "#5E1A0AFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Etheostoma_barrenense/"> <img src="../../fishualize/Etheostoma_barrenense/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,14 +63,18 @@ c("#56C0BFFF", "#8EE5B0FF", "#F6D25CFF", "#D5752DFF", "#5E1A0AFF")
 </figure> <figure class="figure">
 <a href="../../werpals/pan/"> <img src="../../werpals/pan/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../poisonfrogs/Oslita/"> <img src="../../poisonfrogs/Oslita/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Hypoplectrus_puella/"> <img src="../../fishualize/Hypoplectrus_puella/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Vapor_Trail/"> <img src="../../ggthemes/excel_Vapor_Trail/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Scarus_hoefleri/"> <img src="../../fishualize/Scarus_hoefleri/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../colRoz/p_mitchelli/"> <img src="../../colRoz/p_mitchelli/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../yarrr/nemo/"> <img src="../../yarrr/nemo/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../colRoz/p_mitchelli/"> <img src="../../colRoz/p_mitchelli/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ggthemes/Summer/"> <img src="../../ggthemes/Summer/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

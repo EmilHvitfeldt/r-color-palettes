@@ -53,11 +53,7 @@ c("#211747FF", "#FFA400FF", "#CB6015FF", "#A9431EFF", "#B1B3B3FF", "#5B6770FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/attackOnTitan/"> <img src="../../tvthemes/attackOnTitan/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#211747FF", "#FFA400FF", "#CB6015FF", "#A9431EFF", "#B1B3B3FF", "#5B6770FF", 
 <a href="../../fishualize/Centropyge_loricula/"> <img src="../../fishualize/Centropyge_loricula/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/wsj_colors6/"> <img src="../../ggthemes/wsj_colors6/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../tvthemes/FireNation/"> <img src="../../tvthemes/FireNation/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggthemr/grape/"> <img src="../../ggthemr/grape/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

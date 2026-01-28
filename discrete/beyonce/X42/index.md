@@ -53,11 +53,9 @@ c("#241E0CFF", "#342C16FF", "#574A2FFF", "#6D5D3BFF", "#B48E64FF", "#72472FFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../Rdune/maythyknifechipandshatter/"> <img src="../../Rdune/maythyknifechipandshatter/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ButterflyColors/battus_polydamas/"> <img src="../../ButterflyColors/battus_polydamas/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,14 +65,16 @@ c("#241E0CFF", "#342C16FF", "#574A2FFF", "#6D5D3BFF", "#B48E64FF", "#72472FFF")
 </figure> <figure class="figure">
 <a href="../../beyonce/X102/"> <img src="../../beyonce/X102/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../Rdune/fermen2/"> <img src="../../Rdune/fermen2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../DresdenColor/turncoat/"> <img src="../../DresdenColor/turncoat/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Rdune/bene_gesserit/"> <img src="../../Rdune/bene_gesserit/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Rdune/atreides2/"> <img src="../../Rdune/atreides2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Nattier/"> <img src="../../MetBrewer/Nattier/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../yarrr/evildead/"> <img src="../../yarrr/evildead/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../colRoz/thylacine/"> <img src="../../colRoz/thylacine/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X103/"> <img src="../../beyonce/X103/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

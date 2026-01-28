@@ -53,11 +53,7 @@ c("#D49F2DFF", "#9D743BFF", "#CDA35BFF", "#88925DFF", "#5E3E34FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../calecopal/conifer/"> <img src="../../calecopal/conifer/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -71,10 +67,14 @@ c("#D49F2DFF", "#9D743BFF", "#CDA35BFF", "#88925DFF", "#5E3E34FF")
 </figure> <figure class="figure">
 <a href="../../calecopal/oak/"> <img src="../../calecopal/oak/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../fishualize/Petromyzon_marinus/"> <img src="../../fishualize/Petromyzon_marinus/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nord/moose_pond/"> <img src="../../nord/moose_pond/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ButterflyColors/brassolis_sophorae/"> <img src="../../ButterflyColors/brassolis_sophorae/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Petromyzon_marinus/"> <img src="../../fishualize/Petromyzon_marinus/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../vangogh/Shoes/"> <img src="../../vangogh/Shoes/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggthemes/excel_Retrospect/"> <img src="../../ggthemes/excel_Retrospect/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

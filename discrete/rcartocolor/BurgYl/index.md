@@ -53,11 +53,7 @@ c("#FBE6C5FF", "#F5BA98FF", "#EE8A82FF", "#DC7176FF", "#C8586CFF", "#9C3F5DFF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/SunsetDark/"> <img src="../../rcartocolor/SunsetDark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#FBE6C5FF", "#F5BA98FF", "#EE8A82FF", "#DC7176FF", "#C8586CFF", "#9C3F5DFF", 
 <a href="../../trekcolors/lcars_2369/"> <img src="../../trekcolors/lcars_2369/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Epinephelus_fasciatus/"> <img src="../../fishualize/Epinephelus_fasciatus/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Epinephelus_striatus/"> <img src="../../fishualize/Epinephelus_striatus/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../colRoz/grandis/"> <img src="../../colRoz/grandis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,13 +53,11 @@ c("#0FB2D3FF", "#026779FF", "#368000FF", "#3D6334FF", "#6D5A18FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/Everglades/"> <img src="../../NatParksPalettes/Everglades/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Oploma/"> <img src="../../poisonfrogs/Oploma/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Balistes_vetula/"> <img src="../../fishualize/Balistes_vetula/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,9 +65,11 @@ c("#0FB2D3FF", "#026779FF", "#368000FF", "#3D6334FF", "#6D5A18FF")
 </figure> <figure class="figure">
 <a href="../../fishualize/Acanthostracion_polygonius/"> <img src="../../fishualize/Acanthostracion_polygonius/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../lisa/RichardDiebenkorn/"> <img src="../../lisa/RichardDiebenkorn/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../poisonfrogs/Rispotted/"> <img src="../../poisonfrogs/Rispotted/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Scarus_zelindae/"> <img src="../../fishualize/Scarus_zelindae/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../lisa/RichardDiebenkorn/"> <img src="../../lisa/RichardDiebenkorn/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../vangogh/StarryRhone/"> <img src="../../vangogh/StarryRhone/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

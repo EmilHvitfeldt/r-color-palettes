@@ -53,11 +53,7 @@ c("#1D2025FF", "#45312AFF", "#7E2F28FF", "#202938FF", "#D58E40FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X124/"> <img src="../../beyonce/X124/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -66,6 +62,8 @@ c("#1D2025FF", "#45312AFF", "#7E2F28FF", "#202938FF", "#D58E40FF")
 <a href="../../NineteenEightyR/sunset2/"> <img src="../../NineteenEightyR/sunset2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/d_novae/"> <img src="../../colRoz/d_novae/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Rdune/fermen2/"> <img src="../../Rdune/fermen2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X119/"> <img src="../../beyonce/X119/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +74,7 @@ c("#1D2025FF", "#45312AFF", "#7E2F28FF", "#202938FF", "#D58E40FF")
 <a href="../../nord/lake_superior/"> <img src="../../nord/lake_superior/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ButterflyColors/battus_polydamas/"> <img src="../../ButterflyColors/battus_polydamas/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggprism/pearl/"> <img src="../../ggprism/pearl/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

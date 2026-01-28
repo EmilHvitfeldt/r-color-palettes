@@ -53,11 +53,7 @@ c("#A99364FF", "#DA95AAFF", "#F4F0E4FF", "#B74954FF", "#C2DDB2FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/JeffKoons/"> <img src="../../lisa/JeffKoons/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -73,8 +69,12 @@ c("#A99364FF", "#DA95AAFF", "#F4F0E4FF", "#B74954FF", "#C2DDB2FF")
 </figure> <figure class="figure">
 <a href="../../lisa/JohnSingerSargent_2/"> <img src="../../lisa/JohnSingerSargent_2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../lisa/FernandoBotero/"> <img src="../../lisa/FernandoBotero/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/WinslowHomer/"> <img src="../../lisa/WinslowHomer/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../lisa/FernandoBotero/"> <img src="../../lisa/FernandoBotero/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../PNWColors/Sailboat/"> <img src="../../PNWColors/Sailboat/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Redmonder/qMSOMed/"> <img src="../../Redmonder/qMSOMed/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,11 +53,7 @@ c("#FDA380FF", "#E17489FF", "#CF5483FF", "#FE8BB2FF", "#B6CAC1FF", "#98E2E3FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/snubbull/"> <img src="../../palettetown/snubbull/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,14 +63,18 @@ c("#FDA380FF", "#E17489FF", "#CF5483FF", "#FE8BB2FF", "#B6CAC1FF", "#98E2E3FF", 
 </figure> <figure class="figure">
 <a href="../../ggsci/nrc_npg/"> <img src="../../ggsci/nrc_npg/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../tayloRswift/lover/"> <img src="../../tayloRswift/lover/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../miscpalettes/dreaming/"> <img src="../../miscpalettes/dreaming/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../tayloRswift/lover/"> <img src="../../tayloRswift/lover/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qPBI/"> <img src="../../Redmonder/qPBI/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/light_uchicago/"> <img src="../../ggsci/light_uchicago/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/blissey/"> <img src="../../palettetown/blissey/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggthemes/Red_Blue_Brown/"> <img src="../../ggthemes/Red_Blue_Brown/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Redmonder/dPBIPuOr/"> <img src="../../Redmonder/dPBIPuOr/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

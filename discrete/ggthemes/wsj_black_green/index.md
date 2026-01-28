@@ -53,11 +53,7 @@ c("#000000FF", "#595959FF", "#59A77FFF", "#008856FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/starry/"> <img src="../../ggprism/starry/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +65,16 @@ c("#000000FF", "#595959FF", "#59A77FFF", "#008856FF")
 </figure> <figure class="figure">
 <a href="../../Manu/Korimako/"> <img src="../../Manu/Korimako/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../colRoz/m_cyaneus/"> <img src="../../colRoz/m_cyaneus/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../MetBrewer/Pissaro/"> <img src="../../MetBrewer/Pissaro/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/Banff/"> <img src="../../NatParksPalettes/Banff/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../colRoz/m_cyaneus/"> <img src="../../colRoz/m_cyaneus/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../nbapalettes/timberwolves/"> <img src="../../nbapalettes/timberwolves/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nbapalettes/hornets_city2/"> <img src="../../nbapalettes/hornets_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Rispotted/"> <img src="../../poisonfrogs/Rispotted/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

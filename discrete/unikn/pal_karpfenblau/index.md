@@ -53,17 +53,15 @@ c("#B4BCD6FF", "#8290BBFF", "#586BA4FF", "#3E5496FF", "#324376FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../NatParksPalettes/Yosemite/"> <img src="../../NatParksPalettes/Yosemite/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/sky/"> <img src="../../colRoz/sky/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../NatParksPalettes/Yosemite/"> <img src="../../NatParksPalettes/Yosemite/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../Manu/Kereru/"> <img src="../../Manu/Kereru/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Rdune/harkonnen/"> <img src="../../Rdune/harkonnen/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../musculusColors/ErHead/"> <img src="../../musculusColors/ErHead/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +74,7 @@ c("#B4BCD6FF", "#8290BBFF", "#586BA4FF", "#3E5496FF", "#324376FF")
 <a href="../../calecopal/sbchannel/"> <img src="../../calecopal/sbchannel/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nord/lumina/"> <img src="../../nord/lumina/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/Blues/"> <img src="../../PrettyCols/Blues/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

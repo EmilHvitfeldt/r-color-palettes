@@ -53,11 +53,7 @@ c("#A6BDB0FF", "#8B842FFF", "#41240BFF", "#9C4823FF", "#D6AA7EFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/FridaKahlo/"> <img src="../../lisa/FridaKahlo/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -70,6 +66,10 @@ c("#A6BDB0FF", "#8B842FFF", "#41240BFF", "#9C4823FF", "#D6AA7EFF")
 <a href="../../rockthemes/faithnomore/"> <img src="../../rockthemes/faithnomore/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../DresdenColor/sidejobs/"> <img src="../../DresdenColor/sidejobs/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Pvaillantii/"> <img src="../../poisonfrogs/Pvaillantii/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Hhobbsi/"> <img src="../../poisonfrogs/Hhobbsi/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/MarcelDuchamp/"> <img src="../../lisa/MarcelDuchamp/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

@@ -53,15 +53,13 @@ c("#995026FF", "#281D13FF", "#D7C698FF", "#AC9D9AFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rockthemes/faithnomore/"> <img src="../../rockthemes/faithnomore/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/GrantWood/"> <img src="../../lisa/GrantWood/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Bpicturata/"> <img src="../../poisonfrogs/Bpicturata/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../soilpalettes/alaquod/"> <img src="../../soilpalettes/alaquod/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +74,7 @@ c("#995026FF", "#281D13FF", "#D7C698FF", "#AC9D9AFF")
 <a href="../../ButterflyColors/lycorea_hallia/"> <img src="../../ButterflyColors/lycorea_hallia/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/LorserFeitelson/"> <img src="../../lisa/LorserFeitelson/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../lisa/MiltonAvery/"> <img src="../../lisa/MiltonAvery/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

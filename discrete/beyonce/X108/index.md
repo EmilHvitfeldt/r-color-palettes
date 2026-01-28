@@ -53,11 +53,7 @@ c("#02307DFF", "#0355B8FF", "#84C5FFFF", "#83C5FFFF", "#856A7BFF", "#836B7BFF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../unikn/pal_unikn_dark/"> <img src="../../unikn/pal_unikn_dark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -71,10 +67,14 @@ c("#02307DFF", "#0355B8FF", "#84C5FFFF", "#83C5FFFF", "#856A7BFF", "#836B7BFF", 
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Troy/"> <img src="../../MetBrewer/Troy/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/beldum/"> <img src="../../palettetown/beldum/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../ggthemr/sky/"> <img src="../../ggthemr/sky/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../palettetown/beldum/"> <img src="../../palettetown/beldum/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../Redmonder/qMSOPu2/"> <img src="../../Redmonder/qMSOPu2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../LaCroixColoR/Berry/"> <img src="../../LaCroixColoR/Berry/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../calecopal/sbchannel/"> <img src="../../calecopal/sbchannel/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

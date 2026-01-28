@@ -53,11 +53,7 @@ c("#B1615CFF", "#D88782FF", "#E3ABA7FF", "#EDD7D9FF", "#C9C9DDFF", "#9D9DC7FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X90/"> <img src="../../beyonce/X90/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#B1615CFF", "#D88782FF", "#E3ABA7FF", "#EDD7D9FF", "#C9C9DDFF", "#9D9DC7FF", 
 <a href="../../tayloRswift/taylor1989/"> <img src="../../tayloRswift/taylor1989/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ochRe/williams_pilbara/"> <img src="../../ochRe/williams_pilbara/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nord/halifax_harbor/"> <img src="../../nord/halifax_harbor/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Redmonder/sPBIRd/"> <img src="../../Redmonder/sPBIRd/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

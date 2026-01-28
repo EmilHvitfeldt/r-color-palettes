@@ -53,11 +53,7 @@ c("#7B556CFF", "#86486FFF", "#F1956EFF", "#EB9B60FF", "#864A42FF", "#FAD36AFF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../vapoRwave/floralShoppe/"> <img src="../../vapoRwave/floralShoppe/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#7B556CFF", "#86486FFF", "#F1956EFF", "#EB9B60FF", "#864A42FF", "#FAD36AFF", 
 <a href="../../Redmonder/qMSOMrq/"> <img src="../../Redmonder/qMSOMrq/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/seel/"> <img src="../../palettetown/seel/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/magcargo/"> <img src="../../palettetown/magcargo/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/weezing/"> <img src="../../palettetown/weezing/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

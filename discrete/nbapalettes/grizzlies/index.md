@@ -53,13 +53,11 @@ c("#5D76A9FF", "#12173FFF", "#F5B112FF", "#707271FF", "#F21A00FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/thunder_city/"> <img src="../../nbapalettes/thunder_city/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Opsancristobal/"> <img src="../../poisonfrogs/Opsancristobal/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/EdvardMunch_1/"> <img src="../../lisa/EdvardMunch_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +74,7 @@ c("#5D76A9FF", "#12173FFF", "#F5B112FF", "#707271FF", "#F21A00FF")
 <a href="../../ltc/dora/"> <img src="../../ltc/dora/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/pelicans_city/"> <img src="../../nbapalettes/pelicans_city/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../NineteenEightyR/sunset1/"> <img src="../../NineteenEightyR/sunset1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

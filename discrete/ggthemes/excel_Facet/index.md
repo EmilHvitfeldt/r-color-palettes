@@ -53,11 +53,7 @@ c("#90C226FF", "#54A021FF", "#E6B91EFF", "#E76618FF", "#C42F1AFF", "#918655FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Homer2/"> <img src="../../MetBrewer/Homer2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#90C226FF", "#54A021FF", "#E6B91EFF", "#E76618FF", "#C42F1AFF", "#918655FF")
 <a href="../../wesanderson/AsteroidCity1/"> <img src="../../wesanderson/AsteroidCity1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/Classic_Traffic_Light/"> <img src="../../ggthemes/Classic_Traffic_Light/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../lisa/RemediosVaro/"> <img src="../../lisa/RemediosVaro/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../NatParksPalettes/Olympic/"> <img src="../../NatParksPalettes/Olympic/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

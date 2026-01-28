@@ -53,11 +53,7 @@ c("#FFCCFFFF", "#F1DAFFFF", "#E3E8FFFF", "#CCFFFFFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../vapoRwave/crystalPepsi/"> <img src="../../vapoRwave/crystalPepsi/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#FFCCFFFF", "#F1DAFFFF", "#E3E8FFFF", "#CCFFFFFF")
 <a href="../../ltc/mterese/"> <img src="../../ltc/mterese/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../PNWColors/Spring/"> <img src="../../PNWColors/Spring/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../wesanderson/GrandBudapest2/"> <img src="../../wesanderson/GrandBudapest2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ltc/sylvie/"> <img src="../../ltc/sylvie/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,11 +53,7 @@ c("#D5D6D1FF", "#BEC0BFFF", "#5B382CFF", "#39352CFF", "#1B1B1BFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../calecopal/sage/"> <img src="../../calecopal/sage/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -65,16 +61,20 @@ c("#D5D6D1FF", "#BEC0BFFF", "#5B382CFF", "#39352CFF", "#1B1B1BFF")
 </figure> <figure class="figure">
 <a href="../../wesanderson/IsleofDogs1/"> <img src="../../wesanderson/IsleofDogs1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../tayloRswift/reputation/"> <img src="../../tayloRswift/reputation/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../lisa/EdgarDegas/"> <img src="../../lisa/EdgarDegas/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/silcoon/"> <img src="../../palettetown/silcoon/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ggsci/zinc_tw3/"> <img src="../../ggsci/zinc_tw3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../dutchmasters/anatomy/"> <img src="../../dutchmasters/anatomy/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/Pierre_AugusteRenoir_1/"> <img src="../../lisa/Pierre_AugusteRenoir_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../palettetown/silcoon/"> <img src="../../palettetown/silcoon/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../calecopal/coastaldune2/"> <img src="../../calecopal/coastaldune2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggsci/stone_tw3/"> <img src="../../ggsci/stone_tw3/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Manu/Takapu/"> <img src="../../Manu/Takapu/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

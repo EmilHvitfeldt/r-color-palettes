@@ -53,11 +53,7 @@ c("#FF0000FF", "#FFFF00FF", "#00FF00FF", "#55A0FBFF", "#B856D7FF", "#F74ED6FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/stained_glass2/"> <img src="../../ggprism/stained_glass2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -75,6 +71,10 @@ c("#FF0000FF", "#FFFF00FF", "#00FF00FF", "#55A0FBFF", "#B856D7FF", "#F74ED6FF", 
 </figure> <figure class="figure">
 <a href="../../basetheme/ink/"> <img src="../../basetheme/ink/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ggsci/categorical8_atlassian/"> <img src="../../ggsci/categorical8_atlassian/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../tidyquant/tq_dark/"> <img src="../../tidyquant/tq_dark/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../RSkittleBrewer/smarties/"> <img src="../../RSkittleBrewer/smarties/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

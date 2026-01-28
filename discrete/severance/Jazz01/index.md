@@ -53,11 +53,7 @@ c("#D29292FF", "#525832FF", "#F98F5BFF", "#7E8273FF", "#F17983FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../calecopal/dudleya/"> <img src="../../calecopal/dudleya/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -75,6 +71,10 @@ c("#D29292FF", "#525832FF", "#F98F5BFF", "#7E8273FF", "#F17983FF")
 </figure> <figure class="figure">
 <a href="../../lisa/JohannJacobUlrich/"> <img src="../../lisa/JohannJacobUlrich/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/synargis_calyce/"> <img src="../../ButterflyColors/synargis_calyce/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../Redmonder/qMSOYlOr/"> <img src="../../Redmonder/qMSOYlOr/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/danaus_gilippus/"> <img src="../../ButterflyColors/danaus_gilippus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

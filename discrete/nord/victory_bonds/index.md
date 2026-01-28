@@ -53,17 +53,15 @@ c("#AF1900FF", "#C83200FF", "#E19600FF", "#193264FF", "#001964FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/GretchenAlbrecht/"> <img src="../../lisa/GretchenAlbrecht/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NineteenEightyR/sunset3/"> <img src="../../NineteenEightyR/sunset3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/blazers_city/"> <img src="../../nbapalettes/blazers_city/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Opsancristobal/"> <img src="../../poisonfrogs/Opsancristobal/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/nuggets_80s/"> <img src="../../nbapalettes/nuggets_80s/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +74,7 @@ c("#AF1900FF", "#C83200FF", "#E19600FF", "#193264FF", "#001964FF")
 <a href="../../colRoz/m_horridus/"> <img src="../../colRoz/m_horridus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rockthemes/alice/"> <img src="../../rockthemes/alice/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MetBrewer/Wissing/"> <img src="../../MetBrewer/Wissing/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

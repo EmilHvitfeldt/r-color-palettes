@@ -53,11 +53,7 @@ c("#66CD00FF", "#F08080FF", "#1874CDFF", "#B22222FF", "#483D8BFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../PrettyCols/Bold/"> <img src="../../PrettyCols/Bold/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -71,10 +67,14 @@ c("#66CD00FF", "#F08080FF", "#1874CDFF", "#B22222FF", "#483D8BFF")
 </figure> <figure class="figure">
 <a href="../../LaCroixColoR/MelonPomelo/"> <img src="../../LaCroixColoR/MelonPomelo/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../khroma/mediumcontrast/"> <img src="../../khroma/mediumcontrast/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../rockthemes/deelite/"> <img src="../../rockthemes/deelite/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../khroma/mediumcontrast/"> <img src="../../khroma/mediumcontrast/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../MoMAColors/Andri/"> <img src="../../MoMAColors/Andri/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../LaCroixColoR/MurePepino/"> <img src="../../LaCroixColoR/MurePepino/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../rockthemes/facelift/"> <img src="../../rockthemes/facelift/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

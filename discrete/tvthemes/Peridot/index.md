@@ -53,11 +53,7 @@ c("#053E21FF", "#FEFF91FF", "#92D895FF", "#74AC64FF", "#CCC42CFF", "#92F96AFF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../RColorBrewer/YlGn/"> <img src="../../RColorBrewer/YlGn/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,7 +63,11 @@ c("#053E21FF", "#FEFF91FF", "#92D895FF", "#74AC64FF", "#CCC42CFF", "#92F96AFF", 
 </figure> <figure class="figure">
 <a href="../../MoMAColors/Alkalay2/"> <img src="../../MoMAColors/Alkalay2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ggsci/lime_tw3/"> <img src="../../ggsci/lime_tw3/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../tvthemes/EarthKingdom/"> <img src="../../tvthemes/EarthKingdom/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Atrivittata/"> <img src="../../poisonfrogs/Atrivittata/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/metapod/"> <img src="../../palettetown/metapod/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

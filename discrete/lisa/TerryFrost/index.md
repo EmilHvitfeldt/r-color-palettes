@@ -53,11 +53,7 @@ c("#EF5950FF", "#8D5A78FF", "#C66F26FF", "#FB6B22FF", "#DC2227FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Sparisoma_tuyupiranga_f/"> <img src="../../fishualize/Sparisoma_tuyupiranga_f/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -65,9 +61,9 @@ c("#EF5950FF", "#8D5A78FF", "#C66F26FF", "#FB6B22FF", "#DC2227FF")
 </figure> <figure class="figure">
 <a href="../../fishualize/Labrisomus_cricota/"> <img src="../../fishualize/Labrisomus_cricota/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../trekcolors/red_alert/"> <img src="../../trekcolors/red_alert/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../lisa/JosefAlbers_1/"> <img src="../../lisa/JosefAlbers_1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../trekcolors/red_alert/"> <img src="../../trekcolors/red_alert/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ButterflyColors/marpesia_petreus/"> <img src="../../ButterflyColors/marpesia_petreus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#EF5950FF", "#8D5A78FF", "#C66F26FF", "#FB6B22FF", "#DC2227FF")
 <a href="../../miscpalettes/chocolate/"> <img src="../../miscpalettes/chocolate/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Heretopriacanthus_cruentatus/"> <img src="../../fishualize/Heretopriacanthus_cruentatus/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ltc/franscoise/"> <img src="../../ltc/franscoise/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../NatParksPalettes/BryceCanyon/"> <img src="../../NatParksPalettes/BryceCanyon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

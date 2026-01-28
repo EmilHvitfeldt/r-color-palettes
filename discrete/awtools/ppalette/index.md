@@ -53,15 +53,13 @@ c("#F7DC05FF", "#3D98D3FF", "#EC0B88FF", "#5E35B1FF", "#F9791EFF", "#3DD378FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/aussie_flatui/"> <img src="../../ggsci/aussie_flatui/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tidyquant/tq_green/"> <img src="../../tidyquant/tq_green/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggsci/default_bmj/"> <img src="../../ggsci/default_bmj/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/Bold/"> <img src="../../rcartocolor/Bold/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +74,7 @@ c("#F7DC05FF", "#3D98D3FF", "#EC0B88FF", "#5E35B1FF", "#F9791EFF", "#3DD378FF", 
 <a href="../../unikn/pal_unikn_pref/"> <img src="../../unikn/pal_unikn_pref/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../RColorBrewer/Set1/"> <img src="../../RColorBrewer/Set1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Redmonder/qMSO12/"> <img src="../../Redmonder/qMSO12/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

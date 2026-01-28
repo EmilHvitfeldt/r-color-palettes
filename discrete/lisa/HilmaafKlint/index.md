@@ -53,11 +53,7 @@ c("#D6CFC4FF", "#466CA6FF", "#D1AE45FF", "#87240EFF", "#040204FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/JacksonPollock/"> <img src="../../lisa/JacksonPollock/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -66,6 +62,8 @@ c("#D6CFC4FF", "#466CA6FF", "#D1AE45FF", "#87240EFF", "#040204FF")
 <a href="../../futurevisions/mars/"> <img src="../../futurevisions/mars/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../calecopal/wetland/"> <img src="../../calecopal/wetland/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Opescudo/"> <img src="../../poisonfrogs/Opescudo/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../feathers/spotted_pardalote/"> <img src="../../feathers/spotted_pardalote/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +74,7 @@ c("#D6CFC4FF", "#466CA6FF", "#D1AE45FF", "#87240EFF", "#040204FF")
 <a href="../../nbapalettes/bucks_city/"> <img src="../../nbapalettes/bucks_city/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/timberwolves_00s/"> <img src="../../nbapalettes/timberwolves_00s/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nbapalettes/pistons_90s/"> <img src="../../nbapalettes/pistons_90s/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

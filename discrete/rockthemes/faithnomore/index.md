@@ -53,11 +53,7 @@ c("#D2BAAAFF", "#3B2320FF", "#C02F28FF", "#D6B63AFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rockthemes/hellawaits/"> <img src="../../rockthemes/hellawaits/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -71,10 +67,14 @@ c("#D2BAAAFF", "#3B2320FF", "#C02F28FF", "#D6B63AFF")
 </figure> <figure class="figure">
 <a href="../../lisa/LorserFeitelson/"> <img src="../../lisa/LorserFeitelson/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../colRoz/ngadju/"> <img src="../../colRoz/ngadju/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../lisa/ReneMagritte/"> <img src="../../lisa/ReneMagritte/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../colRoz/ngadju/"> <img src="../../colRoz/ngadju/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/MiltonAvery/"> <img src="../../lisa/MiltonAvery/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../soilpalettes/alaquod/"> <img src="../../soilpalettes/alaquod/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../lisa/MiltonAvery_1/"> <img src="../../lisa/MiltonAvery_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

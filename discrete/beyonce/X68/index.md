@@ -53,13 +53,11 @@ c("#1D1D20FF", "#434544FF", "#454746FF", "#481825FF", "#4A0317FF", "#7A172BFF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ghibli/KikiDark/"> <img src="../../ghibli/KikiDark/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/Aubergines/"> <img src="../../PrettyCols/Aubergines/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X31/"> <img src="../../beyonce/X31/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,14 +65,16 @@ c("#1D1D20FF", "#434544FF", "#454746FF", "#481825FF", "#4A0317FF", "#7A172BFF", 
 </figure> <figure class="figure">
 <a href="../../beyonce/X84/"> <img src="../../beyonce/X84/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../yarrr/eternal/"> <img src="../../yarrr/eternal/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../beyonce/X13/"> <img src="../../beyonce/X13/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../yarrr/eternal/"> <img src="../../yarrr/eternal/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ghibli/MarnieDark1/"> <img src="../../ghibli/MarnieDark1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X57/"> <img src="../../beyonce/X57/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../unikn/pal_unikn_dark/"> <img src="../../unikn/pal_unikn_dark/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ghibli/LaputaDark/"> <img src="../../ghibli/LaputaDark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,11 +53,7 @@ c("#181234FF", "#B93021FF", "#F8B45EFF", "#E85433FF", "#698AB5FF", "#E4BB3CFF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MexBrewer/Huida/"> <img src="../../MexBrewer/Huida/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,14 +63,18 @@ c("#181234FF", "#B93021FF", "#F8B45EFF", "#E85433FF", "#698AB5FF", "#E4BB3CFF", 
 </figure> <figure class="figure">
 <a href="../../tvthemes/Sunstone/"> <img src="../../tvthemes/Sunstone/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../MetBrewer/Tam/"> <img src="../../MetBrewer/Tam/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../MoMAColors/Exter/"> <img src="../../MoMAColors/Exter/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../lisa/EdvardMunch/"> <img src="../../lisa/EdvardMunch/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../MetBrewer/Tam/"> <img src="../../MetBrewer/Tam/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Juarez/"> <img src="../../MetBrewer/Juarez/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../lisa/EdvardMunch/"> <img src="../../lisa/EdvardMunch/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nationalparkcolors/Hawaii/"> <img src="../../nationalparkcolors/Hawaii/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MetBrewer/Redon/"> <img src="../../MetBrewer/Redon/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MetBrewer/Renoir/"> <img src="../../MetBrewer/Renoir/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

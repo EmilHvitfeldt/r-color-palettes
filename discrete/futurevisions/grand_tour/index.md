@@ -53,11 +53,7 @@ c("#418D87FF", "#2B5E3DFF", "#73224EFF", "#AD2E37FF", "#E37D41FF", "#E9A144FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../futurevisions/cancri/"> <img src="../../futurevisions/cancri/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,14 +63,18 @@ c("#418D87FF", "#2B5E3DFF", "#73224EFF", "#AD2E37FF", "#E37D41FF", "#E9A144FF", 
 </figure> <figure class="figure">
 <a href="../../lisa/MiltonAvery_1/"> <img src="../../lisa/MiltonAvery_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../MetBrewer/Tiepolo/"> <img src="../../MetBrewer/Tiepolo/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../colRoz/ngadju/"> <img src="../../colRoz/ngadju/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MetBrewer/Tiepolo/"> <img src="../../MetBrewer/Tiepolo/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Hokusai1/"> <img src="../../MetBrewer/Hokusai1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/Acadia/"> <img src="../../NatParksPalettes/Acadia/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../PNWColors/Sunset/"> <img src="../../PNWColors/Sunset/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MoMAColors/Rattner/"> <img src="../../MoMAColors/Rattner/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

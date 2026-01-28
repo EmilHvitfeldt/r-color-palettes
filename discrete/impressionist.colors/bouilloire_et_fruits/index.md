@@ -53,17 +53,13 @@ c("#D2C396FF", "#A5693CFF", "#5A4B3CFF", "#2D2D3CFF", "#4B5A69FF", "#697878FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../peRReo/wyy/"> <img src="../../peRReo/wyy/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ochRe/parliament/"> <img src="../../ochRe/parliament/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../MoMAColors/Levine1/"> <img src="../../MoMAColors/Levine1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ochRe/parliament/"> <img src="../../ochRe/parliament/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../impressionist.colors/dans_la_serre/"> <img src="../../impressionist.colors/dans_la_serre/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#D2C396FF", "#A5693CFF", "#5A4B3CFF", "#2D2D3CFF", "#4B5A69FF", "#697878FF", 
 <a href="../../IslamicArt/damascus/"> <img src="../../IslamicArt/damascus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Manu/Kotare/"> <img src="../../Manu/Kotare/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../impressionist.colors/la_chanson_du_chien/"> <img src="../../impressionist.colors/la_chanson_du_chien/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../impressionist.colors/les_nympheas/"> <img src="../../impressionist.colors/les_nympheas/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

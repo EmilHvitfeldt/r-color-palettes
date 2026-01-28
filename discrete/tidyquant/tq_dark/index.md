@@ -53,11 +53,7 @@ c("#0055AAFF", "#C40003FF", "#00C19BFF", "#EAC862FF", "#7FD2FFFF", "#007ED3FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../RColorBrewer/Paired/"> <img src="../../RColorBrewer/Paired/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#0055AAFF", "#C40003FF", "#00C19BFF", "#EAC862FF", "#7FD2FFFF", "#007ED3FF", 
 <a href="../../basetheme/brutal/"> <img src="../../basetheme/brutal/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../trekcolors/lcars_2357/"> <img src="../../trekcolors/lcars_2357/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Redmonder/qMSOSlp/"> <img src="../../Redmonder/qMSOSlp/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../basetheme/clean/"> <img src="../../basetheme/clean/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

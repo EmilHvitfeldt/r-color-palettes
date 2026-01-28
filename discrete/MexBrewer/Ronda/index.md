@@ -53,11 +53,7 @@ c("#49295FFF", "#894D9FFF", "#BD6DC2FF", "#DA91E0FF", "#E2A9DCFF", "#C19A8DFF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/PurpOr/"> <img src="../../rcartocolor/PurpOr/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,14 +63,18 @@ c("#49295FFF", "#894D9FFF", "#BD6DC2FF", "#DA91E0FF", "#E2A9DCFF", "#C19A8DFF", 
 </figure> <figure class="figure">
 <a href="../../tvthemes/Dusk/"> <img src="../../tvthemes/Dusk/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../PrettyCols/Roses/"> <img src="../../PrettyCols/Roses/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../NatParksPalettes/Arches2/"> <img src="../../NatParksPalettes/Arches2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ltc/franscoise/"> <img src="../../ltc/franscoise/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../trekcolors/lcars_2375/"> <img src="../../trekcolors/lcars_2375/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../Redmonder/sPBIRdPu/"> <img src="../../Redmonder/sPBIRdPu/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../trekcolors/lcars_2375/"> <img src="../../trekcolors/lcars_2375/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../rockthemes/muse/"> <img src="../../rockthemes/muse/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../beyonce/X90/"> <img src="../../beyonce/X90/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

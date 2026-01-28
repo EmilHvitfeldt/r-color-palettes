@@ -53,17 +53,11 @@ c("#050B64FF", "#0E3A9BFF", "#307CE4FF", "#64FFFFFF", "#000000FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/LapisLazuli/"> <img src="../../tvthemes/LapisLazuli/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/Aquamarine/"> <img src="../../tvthemes/Aquamarine/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/magic_city2/"> <img src="../../nbapalettes/magic_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/blueprint/"> <img src="../../ggprism/blueprint/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -73,8 +67,14 @@ c("#050B64FF", "#0E3A9BFF", "#307CE4FF", "#64FFFFFF", "#000000FF")
 </figure> <figure class="figure">
 <a href="../../ggprism/blueprint3/"> <img src="../../ggprism/blueprint3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nbapalettes/bucks/"> <img src="../../nbapalettes/bucks/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../nbapalettes/magic_city2/"> <img src="../../nbapalettes/magic_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/Dark/"> <img src="../../tvthemes/Dark/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nbapalettes/bucks/"> <img src="../../nbapalettes/bucks/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/Ocean/"> <img src="../../PrettyCols/Ocean/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../feathers/cassowary/"> <img src="../../feathers/cassowary/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

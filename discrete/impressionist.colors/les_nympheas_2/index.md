@@ -53,11 +53,7 @@ c("#18422EFF", "#436660FF", "#879669FF", "#AEC3A2FF", "#D2D2D2FF", "#B4B4C3FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../impressionist.colors/la_chanson_du_chien/"> <img src="../../impressionist.colors/la_chanson_du_chien/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +65,16 @@ c("#18422EFF", "#436660FF", "#879669FF", "#AEC3A2FF", "#D2D2D2FF", "#B4B4C3FF", 
 </figure> <figure class="figure">
 <a href="../../impressionist.colors/fleurs_dans_un_vase_de_cristal/"> <img src="../../impressionist.colors/fleurs_dans_un_vase_de_cristal/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../trekcolors/andorian/"> <img src="../../trekcolors/andorian/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ggsci/gray_tw3/"> <img src="../../ggsci/gray_tw3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../impressionist.colors/un_dimanche_apres_midi_a_l_ile_de_la_grande_jatte/"> <img src="../../impressionist.colors/un_dimanche_apres_midi_a_l_ile_de_la_grande_jatte/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../trekcolors/andorian/"> <img src="../../trekcolors/andorian/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/gligar/"> <img src="../../palettetown/gligar/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/wynaut/"> <img src="../../palettetown/wynaut/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ochRe/emu_woman_paired/"> <img src="../../ochRe/emu_woman_paired/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,13 +53,11 @@ c("#4D3161FF", "#E46E30FF", "#A82A36FF", "#0D4278FF", "#A2D2D4FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Serranus_scriba/"> <img src="../../fishualize/Serranus_scriba/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/Celestial/"> <img src="../../PrettyCols/Celestial/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Lampris_guttatus/"> <img src="../../fishualize/Lampris_guttatus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +74,7 @@ c("#4D3161FF", "#E46E30FF", "#A82A36FF", "#0D4278FF", "#A2D2D4FF")
 <a href="../../LaCroixColoR/CranRaspberry/"> <img src="../../LaCroixColoR/CranRaspberry/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Hypsoblennius_invemar/"> <img src="../../fishualize/Hypsoblennius_invemar/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../lisa/AndyWarhol_2/"> <img src="../../lisa/AndyWarhol_2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

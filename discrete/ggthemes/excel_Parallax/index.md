@@ -53,11 +53,7 @@ c("#30ACECFF", "#80C34FFF", "#E29D3EFF", "#D64A3BFF", "#D64787FF", "#A666E1FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Celestial/"> <img src="../../ggthemes/excel_Celestial/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,14 +63,18 @@ c("#30ACECFF", "#80C34FFF", "#E29D3EFF", "#D64A3BFF", "#D64787FF", "#A666E1FF")
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Office_2007_2010/"> <img src="../../ggthemes/excel_Office_2007_2010/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ggsci/categorical8_atlassian/"> <img src="../../ggsci/categorical8_atlassian/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Callanthias_australis/"> <img src="../../fishualize/Callanthias_australis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggthemes/excel_Ion/"> <img src="../../ggthemes/excel_Ion/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../PrettyCols/Neon/"> <img src="../../PrettyCols/Neon/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggthemes/excel_Ion/"> <img src="../../ggthemes/excel_Ion/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/GustavKlimt/"> <img src="../../lisa/GustavKlimt/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../basetheme/royal/"> <img src="../../basetheme/royal/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../yarrr/appletv/"> <img src="../../yarrr/appletv/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

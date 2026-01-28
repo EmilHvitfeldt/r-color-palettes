@@ -53,11 +53,7 @@ c("#F8D8D8FF", "#F8B8C0FF", "#B05050FF", "#E87890FF", "#980000FF", "#288808FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/furret/"> <img src="../../palettetown/furret/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -73,8 +69,12 @@ c("#F8D8D8FF", "#F8B8C0FF", "#B05050FF", "#E87890FF", "#980000FF", "#288808FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/elekid/"> <img src="../../palettetown/elekid/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../trekcolors/tholian/"> <img src="../../trekcolors/tholian/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/jolteon/"> <img src="../../palettetown/jolteon/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../PrettyCols/PinkGreens/"> <img src="../../PrettyCols/PinkGreens/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../trekcolors/tholian/"> <img src="../../trekcolors/tholian/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../Redmonder/dPBIYlPu/"> <img src="../../Redmonder/dPBIYlPu/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

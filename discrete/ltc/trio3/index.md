@@ -20,7 +20,7 @@ categories:
 {{< fa brands github size=3x >}}
 **Github**
 
-[loukesio/ltc_palettes](https://github.com/loukesio/ltc_palettes)
+[loukesio/ltc-color-palettes](https://github.com/loukesio/ltc-color-palettes)
 :::
 
 ::: {.column width="50%"}
@@ -53,11 +53,7 @@ c("#E69F00FF", "#56B4E9FF", "#009E73FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/celtics/"> <img src="../../nbapalettes/celtics/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#E69F00FF", "#56B4E9FF", "#009E73FF")
 <a href="../../ggsci/alternating_igv/"> <img src="../../ggsci/alternating_igv/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/jazz/"> <img src="../../nbapalettes/jazz/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggthemes/wsj_red_green/"> <img src="../../ggthemes/wsj_red_green/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Hypoplectrus_puella/"> <img src="../../fishualize/Hypoplectrus_puella/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

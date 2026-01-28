@@ -53,11 +53,7 @@ c("#DCA25DFF", "#E8C999FF", "#6C3921FF", "#26130EFF", "#C29153FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Zapteryx_brevirostris/"> <img src="../../fishualize/Zapteryx_brevirostris/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +65,16 @@ c("#DCA25DFF", "#E8C999FF", "#6C3921FF", "#26130EFF", "#C29153FF")
 </figure> <figure class="figure">
 <a href="../../ButterflyColors/lycorea_hallia/"> <img src="../../ButterflyColors/lycorea_hallia/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../poisonfrogs/Ptomopterna/"> <img src="../../poisonfrogs/Ptomopterna/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ButterflyColors/smyrna_blomfidiana/"> <img src="../../ButterflyColors/smyrna_blomfidiana/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/CharlesDemuth/"> <img src="../../lisa/CharlesDemuth/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../poisonfrogs/Rmarina/"> <img src="../../poisonfrogs/Rmarina/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../colRoz/v_acanthurus/"> <img src="../../colRoz/v_acanthurus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../tayloRswift/fearless/"> <img src="../../tayloRswift/fearless/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../poisonfrogs/Pvaillantii/"> <img src="../../poisonfrogs/Pvaillantii/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

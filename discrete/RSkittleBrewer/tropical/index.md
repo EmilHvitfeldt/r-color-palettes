@@ -53,11 +53,7 @@ c("#FF8C00FF", "#1E90FFFF", "#FF69B4FF", "#32CD32FF", "#FFFF00FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/BillyApple/"> <img src="../../lisa/BillyApple/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#FF8C00FF", "#1E90FFFF", "#FF69B4FF", "#32CD32FF", "#FFFF00FF")
 <a href="../../fishualize/Coris_gaimard/"> <img src="../../fishualize/Coris_gaimard/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MoMAColors/Budnitz/"> <img src="../../MoMAColors/Budnitz/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../yarrr/espresso/"> <img src="../../yarrr/espresso/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../jcolors/pal3/"> <img src="../../jcolors/pal3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

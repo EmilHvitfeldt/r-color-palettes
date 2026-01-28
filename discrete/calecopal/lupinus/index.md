@@ -53,11 +53,7 @@ c("#6C568CFF", "#9386A6FF", "#BFCDD9FF", "#7F8C72FF", "#607345FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nord/silver_mine/"> <img src="../../nord/silver_mine/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,14 +63,18 @@ c("#6C568CFF", "#9386A6FF", "#BFCDD9FF", "#7F8C72FF", "#607345FF")
 </figure> <figure class="figure">
 <a href="../../fishualize/Alosa_fallax/"> <img src="../../fishualize/Alosa_fallax/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nationalparkcolors/GrandTeton/"> <img src="../../nationalparkcolors/GrandTeton/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../fishualize/Opisthonema_oglinum/"> <img src="../../fishualize/Opisthonema_oglinum/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nationalparkcolors/GrandTeton/"> <img src="../../nationalparkcolors/GrandTeton/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../vangogh/Landscape/"> <img src="../../vangogh/Landscape/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/VanGogh1/"> <img src="../../MetBrewer/VanGogh1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../severance/Half/"> <img src="../../severance/Half/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Mycteroperca_bonaci/"> <img src="../../fishualize/Mycteroperca_bonaci/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggthemes/Classic_Gray_5/"> <img src="../../ggthemes/Classic_Gray_5/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

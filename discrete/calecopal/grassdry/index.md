@@ -53,15 +53,13 @@ c("#E1BC8DFF", "#845B3EFF", "#5B4E23FF", "#35301CFF", "#4C5454FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rtist/degas/"> <img src="../../rtist/degas/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/p_cincta/"> <img src="../../colRoz/p_cincta/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../tayloRswift/SunriseBoulevard1989/"> <img src="../../tayloRswift/SunriseBoulevard1989/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MoMAColors/Levine1/"> <img src="../../MoMAColors/Levine1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +74,7 @@ c("#E1BC8DFF", "#845B3EFF", "#5B4E23FF", "#35301CFF", "#4C5454FF")
 <a href="../../lisa/MaxErnst/"> <img src="../../lisa/MaxErnst/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/EdgarDegas/"> <img src="../../lisa/EdgarDegas/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../peRReo/nicky/"> <img src="../../peRReo/nicky/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

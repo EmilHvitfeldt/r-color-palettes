@@ -53,11 +53,9 @@ c("#560B06FF", "#D54A1EFF", "#C38636FF", "#F6E090FF", "#503F23FF", "#1B1202FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../poisonfrogs/Eanthonyi/"> <img src="../../poisonfrogs/Eanthonyi/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../feathers/superb_fairy_wren/"> <img src="../../feathers/superb_fairy_wren/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -70,6 +68,8 @@ c("#560B06FF", "#D54A1EFF", "#C38636FF", "#F6E090FF", "#503F23FF", "#1B1202FF")
 <a href="../../lisa/Rembrandt/"> <img src="../../lisa/Rembrandt/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Aulostomus_chinensis/"> <img src="../../fishualize/Aulostomus_chinensis/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Ptomopterna/"> <img src="../../poisonfrogs/Ptomopterna/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../calecopal/fire/"> <img src="../../calecopal/fire/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

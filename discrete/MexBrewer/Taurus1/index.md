@@ -53,11 +53,7 @@ c("#FCCC64FF", "#D4A43CFF", "#EF6F43FF", "#C7471BFF", "#BC3112FF", "#930816FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/nuggets_city/"> <img src="../../nbapalettes/nuggets_city/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#FCCC64FF", "#D4A43CFF", "#EF6F43FF", "#C7471BFF", "#BC3112FF", "#930816FF", 
 <a href="../../yarrr/rat/"> <img src="../../yarrr/rat/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/beer_and_ales/"> <img src="../../ggprism/beer_and_ales/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../NineteenEightyR/seventies_aint_done_yet/"> <img src="../../NineteenEightyR/seventies_aint_done_yet/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Pleuronectes_platessa/"> <img src="../../fishualize/Pleuronectes_platessa/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

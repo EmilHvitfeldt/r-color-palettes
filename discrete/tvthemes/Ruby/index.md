@@ -53,11 +53,7 @@ c("#D81E4AFF", "#332027FF", "#751048FF", "#000000FF", "#F8DB73FF", "#F4826AFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nationalparkcolors/Hawaii/"> <img src="../../nationalparkcolors/Hawaii/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +65,16 @@ c("#D81E4AFF", "#332027FF", "#751048FF", "#000000FF", "#F8DB73FF", "#F4826AFF")
 </figure> <figure class="figure">
 <a href="../../ggthemes/few_Dark/"> <img src="../../ggthemes/few_Dark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../jcolors/pal4/"> <img src="../../jcolors/pal4/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../nbapalettes/nuggets_city2/"> <img src="../../nbapalettes/nuggets_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../jcolors/pal4/"> <img src="../../jcolors/pal4/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/heat_dark/"> <img src="../../nbapalettes/heat_dark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/Sunstone/"> <img src="../../tvthemes/Sunstone/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Eanthonyi/"> <img src="../../poisonfrogs/Eanthonyi/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../futurevisions/mars/"> <img src="../../futurevisions/mars/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

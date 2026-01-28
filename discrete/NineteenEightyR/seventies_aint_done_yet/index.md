@@ -53,13 +53,11 @@ c("#FEDF37FF", "#FCA811FF", "#D25117FF", "#8A4C19FF", "#573420FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Hexagrammos_lagocephalus/"> <img src="../../fishualize/Hexagrammos_lagocephalus/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Oscolon/"> <img src="../../poisonfrogs/Oscolon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Dermatolepis_inermis/"> <img src="../../fishualize/Dermatolepis_inermis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +74,7 @@ c("#FEDF37FF", "#FCA811FF", "#D25117FF", "#8A4C19FF", "#573420FF")
 <a href="../../colRoz/v_acanthurus/"> <img src="../../colRoz/v_acanthurus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MexBrewer/Taurus1/"> <img src="../../MexBrewer/Taurus1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../tvthemes/Martell/"> <img src="../../tvthemes/Martell/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

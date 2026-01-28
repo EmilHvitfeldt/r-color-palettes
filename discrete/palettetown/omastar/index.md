@@ -53,11 +53,7 @@ c("#60A8A0FF", "#A8A048FF", "#686010FF", "#E8E088FF", "#106058FF", "#C8C068FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/quiet2/"> <img src="../../ggprism/quiet2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#60A8A0FF", "#A8A048FF", "#686010FF", "#E8E088FF", "#106058FF", "#C8C068FF", 
 <a href="../../nationalparkcolors/Yellowstone/"> <img src="../../nationalparkcolors/Yellowstone/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/exeggutor/"> <img src="../../palettetown/exeggutor/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/cacnea/"> <img src="../../palettetown/cacnea/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/seedot/"> <img src="../../palettetown/seedot/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

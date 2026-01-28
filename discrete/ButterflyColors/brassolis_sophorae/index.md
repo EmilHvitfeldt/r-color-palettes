@@ -53,11 +53,7 @@ c("#714E3BFF", "#D3AA6AFF", "#AC895FFF", "#AD7F5DFF", "#936950FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Petromyzon_marinus/"> <img src="../../fishualize/Petromyzon_marinus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -73,8 +69,12 @@ c("#714E3BFF", "#D3AA6AFF", "#AC895FFF", "#AD7F5DFF", "#936950FF")
 </figure> <figure class="figure">
 <a href="../../calecopal/conifer/"> <img src="../../calecopal/conifer/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ggthemes/excel_Yellow_Orange/"> <img src="../../ggthemes/excel_Yellow_Orange/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ButterflyColors/junonia_evarete/"> <img src="../../ButterflyColors/junonia_evarete/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggthemes/excel_Yellow_Orange/"> <img src="../../ggthemes/excel_Yellow_Orange/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../calecopal/dudleya/"> <img src="../../calecopal/dudleya/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Rdune/arrakis/"> <img src="../../Rdune/arrakis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

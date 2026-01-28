@@ -53,11 +53,7 @@ c("#8E938DFF", "#94A39CFF", "#97B8AFFF", "#A2D1BDFF", "#C0CDBCFF", "#ACD2A3FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../yarrr/ipod/"> <img src="../../yarrr/ipod/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +65,16 @@ c("#8E938DFF", "#94A39CFF", "#97B8AFFF", "#A2D1BDFF", "#C0CDBCFF", "#ACD2A3FF", 
 </figure> <figure class="figure">
 <a href="../../beyonce/X54/"> <img src="../../beyonce/X54/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Oncorhynchus_tshawytscha/"> <img src="../../fishualize/Oncorhynchus_tshawytscha/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../calecopal/chaparral2/"> <img src="../../calecopal/chaparral2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Oncorhynchus_tshawytscha/"> <img src="../../fishualize/Oncorhynchus_tshawytscha/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Madison/"> <img src="../../ggthemes/excel_Madison/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Gadus_morhua/"> <img src="../../fishualize/Gadus_morhua/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Lycengraulis_grossidens/"> <img src="../../fishualize/Lycengraulis_grossidens/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ghibli/PonyoLight/"> <img src="../../ghibli/PonyoLight/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

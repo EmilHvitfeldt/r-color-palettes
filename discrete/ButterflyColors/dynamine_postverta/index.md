@@ -53,11 +53,7 @@ c("#8CA48AFF", "#909486FF", "#85A68DFF", "#575945FF", "#403128FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X3/"> <img src="../../beyonce/X3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +65,16 @@ c("#8CA48AFF", "#909486FF", "#85A68DFF", "#575945FF", "#403128FF")
 </figure> <figure class="figure">
 <a href="../../colRoz/thylacine/"> <img src="../../colRoz/thylacine/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../Rdune/bene_gesserit/"> <img src="../../Rdune/bene_gesserit/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../MexBrewer/Concha/"> <img src="../../MexBrewer/Concha/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../calecopal/redwood1/"> <img src="../../calecopal/redwood1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../fishualize/Petromyzon_marinus/"> <img src="../../fishualize/Petromyzon_marinus/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../IslamicArt/fes2/"> <img src="../../IslamicArt/fes2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Petromyzon_marinus/"> <img src="../../fishualize/Petromyzon_marinus/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../calecopal/creek/"> <img src="../../calecopal/creek/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,19 +53,17 @@ c("#F8C0C8FF", "#F88078FF", "#B02030FF", "#D04850FF", "#282828FF", "#F0D0E0FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../calecopal/vermillion/"> <img src="../../calecopal/vermillion/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/Padparadscha/"> <img src="../../tvthemes/Padparadscha/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Labrisomus_cricota/"> <img src="../../fishualize/Labrisomus_cricota/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../calecopal/vermillion/"> <img src="../../calecopal/vermillion/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggsci/red_bs5/"> <img src="../../ggsci/red_bs5/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/Dusk/"> <img src="../../tvthemes/Dusk/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Labrisomus_cricota/"> <img src="../../fishualize/Labrisomus_cricota/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/LakeNakuru/"> <img src="../../NatParksPalettes/LakeNakuru/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +74,7 @@ c("#F8C0C8FF", "#F88078FF", "#B02030FF", "#D04850FF", "#282828FF", "#F0D0E0FF")
 <a href="../../trekcolors/red_alert/"> <img src="../../trekcolors/red_alert/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../peRReo/don/"> <img src="../../peRReo/don/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../rcartocolor/Burg/"> <img src="../../rcartocolor/Burg/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

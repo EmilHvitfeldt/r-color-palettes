@@ -53,11 +53,7 @@ c("#D98A63FF", "#D9E4DCFF", "#C5D2D2FF", "#79B38FFF", "#9A9B5FFF", "#A7C2CDFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nationalparkcolors/BryceCanyon/"> <img src="../../nationalparkcolors/BryceCanyon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -71,10 +67,14 @@ c("#D98A63FF", "#D9E4DCFF", "#C5D2D2FF", "#79B38FFF", "#9A9B5FFF", "#A7C2CDFF")
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSOMed/"> <img src="../../Redmonder/qMSOMed/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../rcartocolor/Earth/"> <img src="../../rcartocolor/Earth/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../beyonce/X52/"> <img src="../../beyonce/X52/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../rcartocolor/Earth/"> <img src="../../rcartocolor/Earth/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ghibli/SpiritedLight/"> <img src="../../ghibli/SpiritedLight/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ghibli/PonyoLight/"> <img src="../../ghibli/PonyoLight/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../beyonce/X35/"> <img src="../../beyonce/X35/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

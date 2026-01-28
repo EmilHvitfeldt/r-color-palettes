@@ -53,11 +53,7 @@ c("#3FB8AFFF", "#7FC7AFFF", "#DAD8A7FF", "#FF9E9DFF", "#FF3D7FFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../waRhol/marilyn_green_62/"> <img src="../../waRhol/marilyn_green_62/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#3FB8AFFF", "#7FC7AFFF", "#DAD8A7FF", "#FF9E9DFF", "#FF3D7FFF")
 <a href="../../beyonce/X129/"> <img src="../../beyonce/X129/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../PNWColors/Sailboat/"> <img src="../../PNWColors/Sailboat/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nationalparkcolors/Zion/"> <img src="../../nationalparkcolors/Zion/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MoMAColors/Lupi/"> <img src="../../MoMAColors/Lupi/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

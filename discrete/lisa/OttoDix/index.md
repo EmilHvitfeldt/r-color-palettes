@@ -53,11 +53,7 @@ c("#1E1D20FF", "#B66636FF", "#547A56FF", "#BDAE5BFF", "#515A7CFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/GrandCanyon/"> <img src="../../NatParksPalettes/GrandCanyon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#1E1D20FF", "#B66636FF", "#547A56FF", "#BDAE5BFF", "#515A7CFF")
 <a href="../../Manu/Kakariki/"> <img src="../../Manu/Kakariki/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/EdouardManet/"> <img src="../../lisa/EdouardManet/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../lisa/MaxErnst/"> <img src="../../lisa/MaxErnst/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../lisa/GeneDavis/"> <img src="../../lisa/GeneDavis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

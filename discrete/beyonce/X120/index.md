@@ -53,11 +53,9 @@ c("#000000FF", "#220152FF", "#230052FF", "#210051FF", "#540187FF", "#530086FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../PrettyCols/Velvet/"> <img src="../../PrettyCols/Velvet/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X91/"> <img src="../../beyonce/X91/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -74,6 +72,8 @@ c("#000000FF", "#220152FF", "#230052FF", "#210051FF", "#540187FF", "#530086FF", 
 <a href="../../futurevisions/trappest/"> <img src="../../futurevisions/trappest/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../miscpalettes/berry/"> <img src="../../miscpalettes/berry/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ghibli/KikiDark/"> <img src="../../ghibli/KikiDark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X13/"> <img src="../../beyonce/X13/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 

@@ -53,11 +53,7 @@ c("#E05028FF", "#F88868FF", "#C0D098FF", "#98A860FF", "#607038FF", "#902010FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/persian/"> <img src="../../palettetown/persian/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -71,10 +67,14 @@ c("#E05028FF", "#F88868FF", "#C0D098FF", "#98A860FF", "#607038FF", "#902010FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/meowth/"> <img src="../../palettetown/meowth/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/lickitung/"> <img src="../../palettetown/lickitung/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../palettetown/bellsprout/"> <img src="../../palettetown/bellsprout/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../palettetown/lickitung/"> <img src="../../palettetown/lickitung/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/marowak/"> <img src="../../palettetown/marowak/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/victreebel/"> <img src="../../palettetown/victreebel/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/ponyta/"> <img src="../../palettetown/ponyta/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,11 +53,7 @@ c("#B8B8C8FF", "#8080A8FF", "#404058FF", "#E0E0E8FF", "#585878FF", "#580800FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../PrettyCols/RedBlues/"> <img src="../../PrettyCols/RedBlues/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#B8B8C8FF", "#8080A8FF", "#404058FF", "#E0E0E8FF", "#585878FF", "#580800FF", 
 <a href="../../palettetown/haunter/"> <img src="../../palettetown/haunter/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ghibli/SpiritedMedium/"> <img src="../../ghibli/SpiritedMedium/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/articuno/"> <img src="../../palettetown/articuno/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/pupitar/"> <img src="../../palettetown/pupitar/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,11 +53,7 @@ c("#1D3141FF", "#096168FF", "#209478FF", "#75C56EFF", "#E2EE5EFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Elagatis_bipinnulata/"> <img src="../../fishualize/Elagatis_bipinnulata/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -75,6 +71,10 @@ c("#1D3141FF", "#096168FF", "#209478FF", "#75C56EFF", "#E2EE5EFF")
 </figure> <figure class="figure">
 <a href="../../rcartocolor/BluYl/"> <img src="../../rcartocolor/BluYl/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../poisonfrogs/Dauratus/"> <img src="../../poisonfrogs/Dauratus/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../vangogh/StarryRhone/"> <img src="../../vangogh/StarryRhone/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Amacero/"> <img src="../../poisonfrogs/Amacero/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

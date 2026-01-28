@@ -53,17 +53,17 @@ c("#8A2BE2FF", "#BA55D3FF", "#4169E1FF", "#C71585FF", "#0000FFFF", "#8A2BE2FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/purple_passion/"> <img src="../../ggprism/purple_passion/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../PrettyCols/Purples/"> <img src="../../PrettyCols/Purples/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggthemes/excel_Violet_II/"> <img src="../../ggthemes/excel_Violet_II/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../PrettyCols/Purples/"> <img src="../../PrettyCols/Purples/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../PrettyCols/Velvet/"> <img src="../../PrettyCols/Velvet/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggsci/indigo_bs5/"> <img src="../../ggsci/indigo_bs5/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X111/"> <img src="../../beyonce/X111/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

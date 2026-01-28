@@ -53,11 +53,7 @@ c("#171717FF", "#7D0226FF", "#300049FF", "#165459FF", "#3F2327FF", "#0B1948FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../futurevisions/trappest/"> <img src="../../futurevisions/trappest/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -73,8 +69,12 @@ c("#171717FF", "#7D0226FF", "#300049FF", "#165459FF", "#3F2327FF", "#0B1948FF", 
 </figure> <figure class="figure">
 <a href="../../NineteenEightyR/cobra/"> <img src="../../NineteenEightyR/cobra/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nbapalettes/kings_city/"> <img src="../../nbapalettes/kings_city/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../poisonfrogs/Opbluejeans/"> <img src="../../poisonfrogs/Opbluejeans/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ghibli/MarnieDark1/"> <img src="../../ghibli/MarnieDark1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nbapalettes/kings_city/"> <img src="../../nbapalettes/kings_city/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MetBrewer/Wissing/"> <img src="../../MetBrewer/Wissing/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

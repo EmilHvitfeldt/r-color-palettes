@@ -53,13 +53,11 @@ c("#1B0204FF", "#4E0C0DFF", "#881618FF", "#B01515FF", "#C47F4EFF", "#773924FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X8/"> <img src="../../beyonce/X8/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Rdune/fermen2/"> <img src="../../Rdune/fermen2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../soilpalettes/eutrostox/"> <img src="../../soilpalettes/eutrostox/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,14 +65,16 @@ c("#1B0204FF", "#4E0C0DFF", "#881618FF", "#B01515FF", "#C47F4EFF", "#773924FF")
 </figure> <figure class="figure">
 <a href="../../NineteenEightyR/sunset3/"> <img src="../../NineteenEightyR/sunset3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../MoMAColors/Alkalay1/"> <img src="../../MoMAColors/Alkalay1/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../MetBrewer/Wissing/"> <img src="../../MetBrewer/Wissing/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MoMAColors/Alkalay1/"> <img src="../../MoMAColors/Alkalay1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rockthemes/alice/"> <img src="../../rockthemes/alice/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Peru2/"> <img src="../../MetBrewer/Peru2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/v_pilbarensis/"> <img src="../../colRoz/v_pilbarensis/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../NineteenEightyR/sunset2/"> <img src="../../NineteenEightyR/sunset2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

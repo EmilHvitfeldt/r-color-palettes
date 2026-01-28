@@ -53,28 +53,28 @@ c("#D67B44FF", "#34273BFF", "#D95B42FF", "#150718FF", "#F2E191FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../futurevisions/titan/"> <img src="../../futurevisions/titan/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MoMAColors/Exter/"> <img src="../../MoMAColors/Exter/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../peRReo/badbunny2/"> <img src="../../peRReo/badbunny2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../tvthemes/Ruby/"> <img src="../../tvthemes/Ruby/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../peRReo/badbunny2/"> <img src="../../peRReo/badbunny2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../jcolors/pal4/"> <img src="../../jcolors/pal4/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Salvelinus_fontinalis/"> <img src="../../fishualize/Salvelinus_fontinalis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ghibli/MononokeMedium/"> <img src="../../ghibli/MononokeMedium/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../beyonce/X30/"> <img src="../../beyonce/X30/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ghibli/MononokeMedium/"> <img src="../../ghibli/MononokeMedium/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../beyonce/X115/"> <img src="../../beyonce/X115/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Oanchicayensis/"> <img src="../../poisonfrogs/Oanchicayensis/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../dutchmasters/staalmeesters/"> <img src="../../dutchmasters/staalmeesters/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

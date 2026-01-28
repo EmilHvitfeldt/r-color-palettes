@@ -53,11 +53,7 @@ c("#008ECEFF", "#00A9E0FF", "#59C7EBFF", "#A6E1F4FF", "#CCEEF9FF", "#FFFFFFFF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../unikn/pal_unikn_web/"> <img src="../../unikn/pal_unikn_web/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#008ECEFF", "#00A9E0FF", "#59C7EBFF", "#A6E1F4FF", "#CCEEF9FF", "#FFFFFFFF", 
 <a href="../../tvthemes/Stark/"> <img src="../../tvthemes/Stark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/wailmer/"> <img src="../../palettetown/wailmer/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggprism/fir2/"> <img src="../../ggprism/fir2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/barboach/"> <img src="../../palettetown/barboach/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,11 +53,7 @@ c("#86DD45FF", "#F6E71CFF", "#FDA900FF", "#FD5300FF", "#57348BFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../yarrr/espresso/"> <img src="../../yarrr/espresso/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#86DD45FF", "#F6E71CFF", "#FDA900FF", "#FD5300FF", "#57348BFF")
 <a href="../../fishualize/Holacanthus_ciliaris/"> <img src="../../fishualize/Holacanthus_ciliaris/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../waRhol/camo_87_1/"> <img src="../../waRhol/camo_87_1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../lisa/RobertDelaunay/"> <img src="../../lisa/RobertDelaunay/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nbapalettes/bucks_city2/"> <img src="../../nbapalettes/bucks_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

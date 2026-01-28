@@ -53,11 +53,7 @@ c("#7FD4C1FF", "#30BFDDFF", "#8690FFFF", "#ACD0F4FF", "#F7C0BBFF", "#FBCFF3FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../vapeplot/mallsoft/"> <img src="../../vapeplot/mallsoft/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -73,8 +69,12 @@ c("#7FD4C1FF", "#30BFDDFF", "#8690FFFF", "#ACD0F4FF", "#F7C0BBFF", "#FBCFF3FF")
 </figure> <figure class="figure">
 <a href="../../trekcolors/lcars_nx01/"> <img src="../../trekcolors/lcars_nx01/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../PNWColors/Sailboat/"> <img src="../../PNWColors/Sailboat/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Sardinella_brasiliensis/"> <img src="../../fishualize/Sardinella_brasiliensis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../PNWColors/Sailboat/"> <img src="../../PNWColors/Sailboat/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ltc/mterese/"> <img src="../../ltc/mterese/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../tvthemes/Opal/"> <img src="../../tvthemes/Opal/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,11 +53,7 @@ c("#F29F05FF", "#ECEAD9FF", "#CAB6A2FF", "#BF712CFF", "#817158FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSOOr/"> <img src="../../Redmonder/qMSOOr/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#F29F05FF", "#ECEAD9FF", "#CAB6A2FF", "#BF712CFF", "#817158FF")
 <a href="../../lisa/J_M_W_Turner/"> <img src="../../lisa/J_M_W_Turner/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/Fall/"> <img src="../../rcartocolor/Fall/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Oncorhynchus_mykiss/"> <img src="../../fishualize/Oncorhynchus_mykiss/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggthemes/excel_Orange/"> <img src="../../ggthemes/excel_Orange/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

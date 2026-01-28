@@ -20,7 +20,7 @@ categories:
 {{< fa brands github size=3x >}}
 **Github**
 
-Not on Github
+[pmdci/redmonder](https://github.com/pmdci/redmonder)
 :::
 
 ::: {.column width="50%"}
@@ -53,11 +53,7 @@ c("#796409FF", "#B6960DFF", "#F5D341FF", "#F7DE70FF", "#FAE9A0FF", "#F5F5F5FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/hitmontop/"> <img src="../../palettetown/hitmontop/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#796409FF", "#B6960DFF", "#F5D341FF", "#F7DE70FF", "#FAE9A0FF", "#F5F5F5FF", 
 <a href="../../palettetown/celebi/"> <img src="../../palettetown/celebi/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/hypno/"> <img src="../../palettetown/hypno/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Redmonder/dPBIYlPu/"> <img src="../../Redmonder/dPBIYlPu/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../peRReo/rosalia/"> <img src="../../peRReo/rosalia/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

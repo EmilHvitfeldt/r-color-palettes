@@ -53,11 +53,7 @@ c("#808314FF", "#DCDB43FF", "#C5DFF4FF", "#323526FF", "#534C2EFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../wesanderson/Moonrise1/"> <img src="../../wesanderson/Moonrise1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#808314FF", "#DCDB43FF", "#C5DFF4FF", "#323526FF", "#534C2EFF")
 <a href="../../wesanderson/Cavalcanti1/"> <img src="../../wesanderson/Cavalcanti1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tayloRswift/taylorSwift/"> <img src="../../tayloRswift/taylorSwift/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Ostorhinchus_angustatus/"> <img src="../../fishualize/Ostorhinchus_angustatus/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../lisa/SandySkoglund/"> <img src="../../lisa/SandySkoglund/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -43,7 +43,7 @@ paletteer_d("PrettyCols::Winter")
 Use raw:
 
 ```r
-c("#446C84FF", "#C0CBDCFF", "#746E6FFF", "#C6DCF0FF", "#596D80FF", "#B9BFFFFF", "#A0C4E1FF", "#897340FF", "#E1E3E7FF", "#313C45FF", "#9BA7B2FF", "#CAE9F5FF")
+c("#829BABFF", "#CDD4E0FF", "#9F9C9FFF", "#D0DEECFF", "#8F9CA9FF", "#C9CDF5FF", "#BAD0E3FF", "#BBBCAEFF", "#E1E3E7FF", "#777E85FF", "#B7BFC7FF", "#D3E6EFFF")
 ``` 
 
 ![](examples.png) 
@@ -53,28 +53,28 @@ c("#446C84FF", "#C0CBDCFF", "#746E6FFF", "#C6DCF0FF", "#596D80FF", "#B9BFFFFF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ghibli/SpiritedLight/"> <img src="../../ghibli/SpiritedLight/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ghibli/LaputaLight/"> <img src="../../ghibli/LaputaLight/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/glalie/"> <img src="../../palettetown/glalie/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../nord/afternoon_prarie/"> <img src="../../nord/afternoon_prarie/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/lugia/"> <img src="../../palettetown/lugia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/mantine/"> <img src="../../palettetown/mantine/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ghibli/YesterdayLight/"> <img src="../../ghibli/YesterdayLight/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../IslamicArt/samarqand/"> <img src="../../IslamicArt/samarqand/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/pupitar/"> <img src="../../palettetown/pupitar/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../palettetown/dewgong/"> <img src="../../palettetown/dewgong/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/metagross/"> <img src="../../palettetown/metagross/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ghibli/KikiLight/"> <img src="../../ghibli/KikiLight/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/latios/"> <img src="../../palettetown/latios/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ghibli/TotoroLight/"> <img src="../../ghibli/TotoroLight/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/venomoth/"> <img src="../../palettetown/venomoth/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../Redmonder/sPBIBu/"> <img src="../../Redmonder/sPBIBu/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/dragonair/"> <img src="../../palettetown/dragonair/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ghibli/MarnieLight1/"> <img src="../../ghibli/MarnieLight1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../IslamicArt/istanbul/"> <img src="../../IslamicArt/istanbul/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

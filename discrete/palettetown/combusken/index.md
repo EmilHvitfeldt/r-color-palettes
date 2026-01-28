@@ -53,11 +53,7 @@ c("#F0B050FF", "#F8D060FF", "#F86838FF", "#C09038FF", "#786858FF", "#B09078FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/charmeleon/"> <img src="../../palettetown/charmeleon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -73,8 +69,12 @@ c("#F0B050FF", "#F8D060FF", "#F86838FF", "#C09038FF", "#786858FF", "#B09078FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/slowpoke/"> <img src="../../palettetown/slowpoke/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../palettetown/fearow/"> <img src="../../palettetown/fearow/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/pidgey/"> <img src="../../palettetown/pidgey/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/fearow/"> <img src="../../palettetown/fearow/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../palettetown/entei/"> <img src="../../palettetown/entei/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/delibird/"> <img src="../../palettetown/delibird/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

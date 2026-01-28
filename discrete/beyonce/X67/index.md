@@ -53,11 +53,7 @@ c("#1C121BFF", "#27232AFF", "#2C2B30FF", "#4F4848FF", "#786A65FF", "#B4A8A7FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MexBrewer/Aurora/"> <img src="../../MexBrewer/Aurora/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -66,6 +62,8 @@ c("#1C121BFF", "#27232AFF", "#2C2B30FF", "#4F4848FF", "#786A65FF", "#B4A8A7FF", 
 <a href="../../beyonce/X85/"> <img src="../../beyonce/X85/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/kimberley/"> <img src="../../colRoz/kimberley/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../tayloRswift/Red/"> <img src="../../tayloRswift/Red/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X81/"> <img src="../../beyonce/X81/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +74,7 @@ c("#1C121BFF", "#27232AFF", "#2C2B30FF", "#4F4848FF", "#786A65FF", "#B4A8A7FF", 
 <a href="../../beyonce/X57/"> <img src="../../beyonce/X57/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/p_breviceps/"> <img src="../../colRoz/p_breviceps/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../beyonce/X46/"> <img src="../../beyonce/X46/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

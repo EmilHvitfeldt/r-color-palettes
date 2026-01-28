@@ -53,13 +53,11 @@ c("#D23C1EFF", "#965A3CFF", "#B4783CFF", "#B4D2D2FF", "#96B4B4FF", "#96B4D2FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/JosefAlbers/"> <img src="../../lisa/JosefAlbers/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../tayloRswift/TS1989/"> <img src="../../tayloRswift/TS1989/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ochRe/namatjira_div/"> <img src="../../ochRe/namatjira_div/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +67,14 @@ c("#D23C1EFF", "#965A3CFF", "#B4783CFF", "#B4D2D2FF", "#96B4B4FF", "#96B4D2FF", 
 </figure> <figure class="figure">
 <a href="../../tayloRswift/taylor1989/"> <img src="../../tayloRswift/taylor1989/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggthemes/excel_Main_Event/"> <img src="../../ggthemes/excel_Main_Event/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/Color_Blind/"> <img src="../../ggthemes/Color_Blind/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../IslamicArt/damascus/"> <img src="../../IslamicArt/damascus/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../tayloRswift/RoseGardenPink1989/"> <img src="../../tayloRswift/RoseGardenPink1989/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../khroma/BuRd/"> <img src="../../khroma/BuRd/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../IslamicArt/damascus/"> <img src="../../IslamicArt/damascus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

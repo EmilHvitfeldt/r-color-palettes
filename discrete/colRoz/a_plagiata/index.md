@@ -53,28 +53,28 @@ c("#1F1A10FF", "#493823FF", "#9E6E27FF", "#C47E2AFF", "#FDB958FF", "#FCE3A8FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X16/"> <img src="../../beyonce/X16/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../soilpalettes/natrudoll/"> <img src="../../soilpalettes/natrudoll/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../colRoz/a_westwoodi/"> <img src="../../colRoz/a_westwoodi/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../beyonce/X86/"> <img src="../../beyonce/X86/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../colRoz/a_westwoodi/"> <img src="../../colRoz/a_westwoodi/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../poisonfrogs/Rmarina/"> <img src="../../poisonfrogs/Rmarina/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/a_ramsayi/"> <img src="../../colRoz/a_ramsayi/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../soilpalettes/durorthod/"> <img src="../../soilpalettes/durorthod/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../poisonfrogs/Oscolon/"> <img src="../../poisonfrogs/Oscolon/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Oslita/"> <img src="../../poisonfrogs/Oslita/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/swinub/"> <img src="../../palettetown/swinub/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../PNWColors/Mushroom/"> <img src="../../PNWColors/Mushroom/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../beyonce/X59/"> <img src="../../beyonce/X59/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../poisonfrogs/Ribanded/"> <img src="../../poisonfrogs/Ribanded/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,11 +53,7 @@ c("#CADDE1FF", "#7B906FFF", "#174D79FF", "#FFFAFAFF", "#898989FF", "#D4CDB1FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/seadra/"> <img src="../../palettetown/seadra/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,14 +63,18 @@ c("#CADDE1FF", "#7B906FFF", "#174D79FF", "#FFFAFAFF", "#898989FF", "#D4CDB1FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/wailmer/"> <img src="../../palettetown/wailmer/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/sealeo/"> <img src="../../palettetown/sealeo/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../palettetown/jirachi/"> <img src="../../palettetown/jirachi/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/sealeo/"> <img src="../../palettetown/sealeo/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/blueprint3/"> <img src="../../ggprism/blueprint3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../unikn/pal_unikn_ppt/"> <img src="../../unikn/pal_unikn_ppt/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/lairon/"> <img src="../../palettetown/lairon/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/minun/"> <img src="../../palettetown/minun/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/spoink/"> <img src="../../palettetown/spoink/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

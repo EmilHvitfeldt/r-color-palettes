@@ -53,13 +53,11 @@ c("#2F100EFF", "#6C3322FF", "#B07159FF", "#C9A197FF", "#E0CDCDFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../soilpalettes/alaquod/"> <img src="../../soilpalettes/alaquod/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/Browns/"> <img src="../../PrettyCols/Browns/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Semicossyphus_pulcher/"> <img src="../../fishualize/Semicossyphus_pulcher/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +74,7 @@ c("#2F100EFF", "#6C3322FF", "#B07159FF", "#C9A197FF", "#E0CDCDFF")
 <a href="../../fishualize/Sander_lucioperca/"> <img src="../../fishualize/Sander_lucioperca/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/e_kingii/"> <img src="../../colRoz/e_kingii/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/danaus_eresimus/"> <img src="../../ButterflyColors/danaus_eresimus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,13 +53,11 @@ c("#F6EECFFF", "#ECD6ABFF", "#B09175FF", "#632D1FFF", "#291611FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Zapteryx_brevirostris/"> <img src="../../fishualize/Zapteryx_brevirostris/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Rdune/fermen/"> <img src="../../Rdune/fermen/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tayloRswift/midnightsJadeGreen/"> <img src="../../tayloRswift/midnightsJadeGreen/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -68,6 +66,8 @@ c("#F6EECFFF", "#ECD6ABFF", "#B09175FF", "#632D1FFF", "#291611FF")
 <a href="../../lisa/GiorgiodeChirico/"> <img src="../../lisa/GiorgiodeChirico/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../DresdenColor/sidejobs/"> <img src="../../DresdenColor/sidejobs/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Oslita/"> <img src="../../poisonfrogs/Oslita/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/p_breviceps/"> <img src="../../colRoz/p_breviceps/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

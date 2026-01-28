@@ -53,11 +53,7 @@ c("#BFBED5FF", "#7F9086FF", "#A29A68FF", "#676A4FFF", "#A63C24FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/WinslowHomer/"> <img src="../../lisa/WinslowHomer/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +65,16 @@ c("#BFBED5FF", "#7F9086FF", "#A29A68FF", "#676A4FFF", "#A63C24FF")
 </figure> <figure class="figure">
 <a href="../../fishualize/Oncorhynchus_mykiss/"> <img src="../../fishualize/Oncorhynchus_mykiss/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../rockthemes/electric/"> <img src="../../rockthemes/electric/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../lisa/PaulCezanne/"> <img src="../../lisa/PaulCezanne/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../rockthemes/electric/"> <img src="../../rockthemes/electric/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Anchoviella_lepidentostole/"> <img src="../../fishualize/Anchoviella_lepidentostole/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X3/"> <img src="../../beyonce/X3/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Barbus_barbus/"> <img src="../../fishualize/Barbus_barbus/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../rtist/klimt/"> <img src="../../rtist/klimt/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,15 +53,13 @@ c("#D9B97EFF", "#BF5B21FF", "#A64521FF", "#8C331FFF", "#261915FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../DresdenColor/turncoat/"> <img src="../../DresdenColor/turncoat/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ButterflyColors/danaus_erippus/"> <img src="../../ButterflyColors/danaus_erippus/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Rdune/maythyknifechipandshatter/"> <img src="../../Rdune/maythyknifechipandshatter/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Pterois_volitans/"> <img src="../../fishualize/Pterois_volitans/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +74,7 @@ c("#D9B97EFF", "#BF5B21FF", "#A64521FF", "#8C331FFF", "#261915FF")
 <a href="../../ButterflyColors/historis_acheronta/"> <img src="../../ButterflyColors/historis_acheronta/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Pseudupeneus_maculatus/"> <img src="../../fishualize/Pseudupeneus_maculatus/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../feathers/superb_fairy_wren/"> <img src="../../feathers/superb_fairy_wren/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

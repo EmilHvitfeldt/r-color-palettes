@@ -53,11 +53,7 @@ c("#209058FF", "#105020FF", "#58C890FF", "#68B020FF", "#488820FF", "#80E8C0FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/bulbasaur/"> <img src="../../palettetown/bulbasaur/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#209058FF", "#105020FF", "#58C890FF", "#68B020FF", "#488820FF", "#80E8C0FF", 
 <a href="../../palettetown/machamp/"> <img src="../../palettetown/machamp/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/jolteon/"> <img src="../../palettetown/jolteon/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../RColorBrewer/BrBG/"> <img src="../../RColorBrewer/BrBG/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/flygon/"> <img src="../../palettetown/flygon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

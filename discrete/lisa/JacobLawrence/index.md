@@ -53,11 +53,7 @@ c("#614671FF", "#BE994AFF", "#C8B595FF", "#BD4335FF", "#8B3834FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/MaxBeckmann/"> <img src="../../lisa/MaxBeckmann/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -73,8 +69,12 @@ c("#614671FF", "#BE994AFF", "#C8B595FF", "#BD4335FF", "#8B3834FF")
 </figure> <figure class="figure">
 <a href="../../fishualize/Antennarius_commerson/"> <img src="../../fishualize/Antennarius_commerson/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../nbapalettes/pelicans_city/"> <img src="../../nbapalettes/pelicans_city/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../NatParksPalettes/Halekala/"> <img src="../../NatParksPalettes/Halekala/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nbapalettes/pelicans_city/"> <img src="../../nbapalettes/pelicans_city/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../poisonfrogs/Ramazonica/"> <img src="../../poisonfrogs/Ramazonica/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../trekcolors/lcars_first_contact/"> <img src="../../trekcolors/lcars_first_contact/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

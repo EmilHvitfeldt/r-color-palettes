@@ -53,11 +53,7 @@ c("#D76E9AFF", "#A1ACC8FF", "#AD3C36FF", "#332627FF", "#EACACFFF", "#AA6B77FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/Dusk/"> <img src="../../tvthemes/Dusk/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -65,9 +61,13 @@ c("#D76E9AFF", "#A1ACC8FF", "#AD3C36FF", "#332627FF", "#EACACFFF", "#AA6B77FF")
 </figure> <figure class="figure">
 <a href="../../MoMAColors/Picasso/"> <img src="../../MoMAColors/Picasso/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../tayloRswift/AquamarineGreen1989/"> <img src="../../tayloRswift/AquamarineGreen1989/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../calecopal/calochortus/"> <img src="../../calecopal/calochortus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/WindCave/"> <img src="../../NatParksPalettes/WindCave/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../tayloRswift/Red/"> <img src="../../tayloRswift/Red/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/AndyWarhol_2/"> <img src="../../lisa/AndyWarhol_2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

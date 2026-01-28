@@ -53,11 +53,7 @@ c("#DCEAEAFF", "#7CC3C9FF", "#E1650BFF", "#996244FF", "#A83600FF", "#519B9AFF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/nrc_npg/"> <img src="../../ggsci/nrc_npg/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -71,10 +67,14 @@ c("#DCEAEAFF", "#7CC3C9FF", "#E1650BFF", "#996244FF", "#A83600FF", "#519B9AFF", 
 </figure> <figure class="figure">
 <a href="../../PrettyCols/TangerineBlues/"> <img src="../../PrettyCols/TangerineBlues/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../MexBrewer/Revolucion/"> <img src="../../MexBrewer/Revolucion/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../Redmonder/qMSOAsp/"> <img src="../../Redmonder/qMSOAsp/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../MexBrewer/Revolucion/"> <img src="../../MexBrewer/Revolucion/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/azumarill/"> <img src="../../palettetown/azumarill/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ltc/maya/"> <img src="../../ltc/maya/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/nosepass/"> <img src="../../palettetown/nosepass/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

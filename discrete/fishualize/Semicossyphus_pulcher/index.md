@@ -53,11 +53,7 @@ c("#242427FF", "#794B3EFF", "#9D6359FF", "#CDAD9DFF", "#E8DDD7FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Sander_lucioperca/"> <img src="../../fishualize/Sander_lucioperca/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +65,16 @@ c("#242427FF", "#794B3EFF", "#9D6359FF", "#CDAD9DFF", "#E8DDD7FF")
 </figure> <figure class="figure">
 <a href="../../colRoz/e_kingii/"> <img src="../../colRoz/e_kingii/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggsci/brown_material/"> <img src="../../ggsci/brown_material/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../NatParksPalettes/WindCave/"> <img src="../../NatParksPalettes/WindCave/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggsci/brown_material/"> <img src="../../ggsci/brown_material/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X24/"> <img src="../../beyonce/X24/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nord/halifax_harbor/"> <img src="../../nord/halifax_harbor/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../calecopal/calochortus/"> <img src="../../calecopal/calochortus/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Bpicturata/"> <img src="../../poisonfrogs/Bpicturata/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

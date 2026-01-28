@@ -53,11 +53,7 @@ c("#413C28FF", "#E09718FF", "#FCDA01FF", "#B0E1E8FF", "#013AE7FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Zebrasoma_velifer/"> <img src="../../fishualize/Zebrasoma_velifer/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -65,9 +61,9 @@ c("#413C28FF", "#E09718FF", "#FCDA01FF", "#B0E1E8FF", "#013AE7FF")
 </figure> <figure class="figure">
 <a href="../../vangogh/StarryNight/"> <img src="../../vangogh/StarryNight/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Naso_lituratus/"> <img src="../../fishualize/Naso_lituratus/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../fishualize/Acanthurus_olivaceus/"> <img src="../../fishualize/Acanthurus_olivaceus/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Naso_lituratus/"> <img src="../../fishualize/Naso_lituratus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Rhinecanthus_aculeatus/"> <img src="../../fishualize/Rhinecanthus_aculeatus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#413C28FF", "#E09718FF", "#FCDA01FF", "#B0E1E8FF", "#013AE7FF")
 <a href="../../colRoz/n_violacea/"> <img src="../../colRoz/n_violacea/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/mavericks_banner/"> <img src="../../nbapalettes/mavericks_banner/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../LaCroixColoR/Lemon/"> <img src="../../LaCroixColoR/Lemon/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../trekcolors/bajoran/"> <img src="../../trekcolors/bajoran/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

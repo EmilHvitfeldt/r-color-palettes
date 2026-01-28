@@ -53,11 +53,7 @@ c("#7A654EFF", "#E9CBB7FF", "#AC713BFF", "#78818DFF", "#352E23FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/p_cincta/"> <img src="../../colRoz/p_cincta/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,14 +63,18 @@ c("#7A654EFF", "#E9CBB7FF", "#AC713BFF", "#78818DFF", "#352E23FF")
 </figure> <figure class="figure">
 <a href="../../Manu/Takapu/"> <img src="../../Manu/Takapu/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../wesanderson/IsleofDogs1/"> <img src="../../wesanderson/IsleofDogs1/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../lisa/EdgarDegas/"> <img src="../../lisa/EdgarDegas/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../wesanderson/IsleofDogs1/"> <img src="../../wesanderson/IsleofDogs1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../impressionist.colors/bouilloire_et_fruits/"> <img src="../../impressionist.colors/bouilloire_et_fruits/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../IslamicArt/alhambra/"> <img src="../../IslamicArt/alhambra/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ochRe/parliament/"> <img src="../../ochRe/parliament/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../IslamicArt/alhambra/"> <img src="../../IslamicArt/alhambra/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../MoMAColors/Levine1/"> <img src="../../MoMAColors/Levine1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/parides_zacynthus_polymetus/"> <img src="../../ButterflyColors/parides_zacynthus_polymetus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

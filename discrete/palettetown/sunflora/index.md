@@ -53,11 +53,7 @@ c("#98D048FF", "#70A830FF", "#805810FF", "#506028FF", "#D8A018FF", "#F8F010FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/sceptile/"> <img src="../../palettetown/sceptile/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -75,6 +71,10 @@ c("#98D048FF", "#70A830FF", "#805810FF", "#506028FF", "#D8A018FF", "#F8F010FF", 
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/Olympic/"> <img src="../../NatParksPalettes/Olympic/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../RColorBrewer/RdYlGn/"> <img src="../../RColorBrewer/RdYlGn/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/abra/"> <img src="../../palettetown/abra/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/politoed/"> <img src="../../palettetown/politoed/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

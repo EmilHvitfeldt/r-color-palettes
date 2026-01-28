@@ -20,7 +20,7 @@ categories:
 {{< fa brands github size=3x >}}
 **Github**
 
-Not on Github
+[pmdci/redmonder](https://github.com/pmdci/redmonder)
 :::
 
 ::: {.column width="50%"}
@@ -53,11 +53,7 @@ c("#53354DFF", "#7D4F73FF", "#B887ADFF", "#CAA5C2FF", "#DBC3D6FF", "#F5F5F5FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/nidoking/"> <img src="../../palettetown/nidoking/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -75,6 +71,10 @@ c("#53354DFF", "#7D4F73FF", "#B887ADFF", "#CAA5C2FF", "#DBC3D6FF", "#F5F5F5FF", 
 </figure> <figure class="figure">
 <a href="../../beyonce/X63/"> <img src="../../beyonce/X63/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../palettetown/glalie/"> <img src="../../palettetown/glalie/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggthemr/lilac/"> <img src="../../ggthemr/lilac/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/nidoranm/"> <img src="../../palettetown/nidoranm/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

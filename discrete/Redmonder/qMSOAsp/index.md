@@ -20,7 +20,7 @@ categories:
 {{< fa brands github size=3x >}}
 **Github**
 
-Not on Github
+[pmdci/redmonder](https://github.com/pmdci/redmonder)
 :::
 
 ::: {.column width="50%"}
@@ -53,11 +53,7 @@ c("#E3DED1FF", "#323232FF", "#F07F09FF", "#9F2936FF", "#1B587CFF", "#4E8542FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../PrettyCols/TangerineBlues/"> <img src="../../PrettyCols/TangerineBlues/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -66,6 +62,8 @@ c("#E3DED1FF", "#323232FF", "#F07F09FF", "#9F2936FF", "#1B587CFF", "#4E8542FF", 
 <a href="../../ggthemr/light/"> <img src="../../ggthemr/light/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../IslamicArt/alhambra/"> <img src="../../IslamicArt/alhambra/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../tayloRswift/SunriseBoulevard1989/"> <img src="../../tayloRswift/SunriseBoulevard1989/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../miscpalettes/dreaming/"> <img src="../../miscpalettes/dreaming/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +74,7 @@ c("#E3DED1FF", "#323232FF", "#F07F09FF", "#9F2936FF", "#1B587CFF", "#4E8542FF", 
 <a href="../../ggthemr/pale/"> <img src="../../ggthemr/pale/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSO12/"> <img src="../../Redmonder/qMSO12/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggsci/light_uchicago/"> <img src="../../ggsci/light_uchicago/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

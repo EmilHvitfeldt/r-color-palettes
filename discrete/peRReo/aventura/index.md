@@ -53,11 +53,7 @@ c("#284C46FF", "#B3B177FF", "#E18964FF", "#192E27FF", "#A8B4A3FF", "#AE5D40FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/Tully/"> <img src="../../tvthemes/Tully/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -73,8 +69,12 @@ c("#284C46FF", "#B3B177FF", "#E18964FF", "#192E27FF", "#A8B4A3FF", "#AE5D40FF", 
 </figure> <figure class="figure">
 <a href="../../ggsci/default_uchicago/"> <img src="../../ggsci/default_uchicago/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nbapalettes/heat_military/"> <img src="../../nbapalettes/heat_military/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../tvthemes/Dark/"> <img src="../../tvthemes/Dark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemr/grape/"> <img src="../../ggthemr/grape/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nbapalettes/heat_military/"> <img src="../../nbapalettes/heat_military/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../dutchmasters/little_street/"> <img src="../../dutchmasters/little_street/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

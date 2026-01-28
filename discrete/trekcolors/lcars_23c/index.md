@@ -53,11 +53,7 @@ c("#0000FFFF", "#99CCFFFF", "#6666FFFF", "#99FF66FF", "#009900FF", "#FF6633FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colorBlindness/Blue2DarkRed12Steps/"> <img src="../../colorBlindness/Blue2DarkRed12Steps/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,11 +65,15 @@ c("#0000FFFF", "#99CCFFFF", "#6666FFFF", "#99FF66FF", "#009900FF", "#FF6633FF", 
 </figure> <figure class="figure">
 <a href="../../colorBlindness/ModifiedSpectralScheme11Steps/"> <img src="../../colorBlindness/ModifiedSpectralScheme11Steps/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ggsci/categorical8_atlassian/"> <img src="../../ggsci/categorical8_atlassian/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../basetheme/ink/"> <img src="../../basetheme/ink/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colorBlindness/PairedColor12Steps/"> <img src="../../colorBlindness/PairedColor12Steps/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../dichromat/Categorical_12/"> <img src="../../dichromat/Categorical_12/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Redmonder/qMSOSlp/"> <img src="../../Redmonder/qMSOSlp/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../jcolors/rainbow/"> <img src="../../jcolors/rainbow/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 

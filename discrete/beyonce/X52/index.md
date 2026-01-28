@@ -53,11 +53,7 @@ c("#A1674FFF", "#D7A786FF", "#EBD9C6FF", "#F0E7DDFF", "#F2EDE6FF", "#64BDC6FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/AlbrechtDurer/"> <img src="../../lisa/AlbrechtDurer/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#A1674FFF", "#D7A786FF", "#EBD9C6FF", "#F0E7DDFF", "#F2EDE6FF", "#64BDC6FF")
 <a href="../../ghibli/MarnieLight1/"> <img src="../../ghibli/MarnieLight1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X35/"> <img src="../../beyonce/X35/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../beyonce/X50/"> <img src="../../beyonce/X50/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ghibli/PonyoLight/"> <img src="../../ghibli/PonyoLight/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

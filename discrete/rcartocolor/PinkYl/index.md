@@ -53,11 +53,7 @@ c("#FEF6B5FF", "#FFDD9AFF", "#FFC285FF", "#FFA679FF", "#FA8A76FF", "#F16D7AFF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/OrYel/"> <img src="../../rcartocolor/OrYel/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#FEF6B5FF", "#FFDD9AFF", "#FFC285FF", "#FFA679FF", "#FA8A76FF", "#F16D7AFF", 
 <a href="../../trekcolors/lcars_2369/"> <img src="../../trekcolors/lcars_2369/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/Peach/"> <img src="../../rcartocolor/Peach/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../rcartocolor/RedOr/"> <img src="../../rcartocolor/RedOr/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MetBrewer/OKeeffe2/"> <img src="../../MetBrewer/OKeeffe2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

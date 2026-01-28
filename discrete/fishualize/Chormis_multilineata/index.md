@@ -53,19 +53,19 @@ c("#DEB06CFF", "#9C6F00FF", "#F2B705FF", "#D29300FF", "#8C4E03FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Hippocampus_reidi/"> <img src="../../fishualize/Hippocampus_reidi/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../PrettyCols/Peppers/"> <img src="../../PrettyCols/Peppers/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../fishualize/Cephalopholis_fulva/"> <img src="../../fishualize/Cephalopholis_fulva/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/swinub/"> <img src="../../palettetown/swinub/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../poisonfrogs/Pterribilis/"> <img src="../../poisonfrogs/Pterribilis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../calecopal/eschscholzia/"> <img src="../../calecopal/eschscholzia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/swinub/"> <img src="../../palettetown/swinub/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../calecopal/canary/"> <img src="../../calecopal/canary/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

@@ -53,11 +53,7 @@ c("#C8DAADFF", "#989E53FF", "#738D60FF", "#DEBC31FF", "#9D471AFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Manu/Kakapo/"> <img src="../../Manu/Kakapo/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -75,6 +71,10 @@ c("#C8DAADFF", "#989E53FF", "#738D60FF", "#DEBC31FF", "#9D471AFF")
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Wisp/"> <img src="../../ggthemes/excel_Wisp/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../tayloRswift/fearless/"> <img src="../../tayloRswift/fearless/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../tayloRswift/fearlessTV/"> <img src="../../tayloRswift/fearlessTV/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/diglett/"> <img src="../../palettetown/diglett/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../rcartocolor/Fall/"> <img src="../../rcartocolor/Fall/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,11 +53,7 @@ c("#EDD8C5FF", "#D09A5EFF", "#E7AA01FF", "#AC570FFF", "#73481BFF", "#442C0EFF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/celtics2/"> <img src="../../nbapalettes/celtics2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#EDD8C5FF", "#D09A5EFF", "#E7AA01FF", "#AC570FFF", "#73481BFF", "#442C0EFF", 
 <a href="../../feathers/superb_fairy_wren/"> <img src="../../feathers/superb_fairy_wren/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Manu/Kea/"> <img src="../../Manu/Kea/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../tvthemes/Stannis/"> <img src="../../tvthemes/Stannis/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/sentret/"> <img src="../../palettetown/sentret/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

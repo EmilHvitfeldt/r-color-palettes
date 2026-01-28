@@ -53,11 +53,7 @@ c("#5870D0FF", "#78B8F8FF", "#8830E0FF", "#A868F8FF", "#384890FF", "#686868FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/gligar/"> <img src="../../palettetown/gligar/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,14 +63,18 @@ c("#5870D0FF", "#78B8F8FF", "#8830E0FF", "#A868F8FF", "#384890FF", "#686868FF", 
 </figure> <figure class="figure">
 <a href="../../unikn/pal_unikn_pair/"> <img src="../../unikn/pal_unikn_pair/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggthemes/Classic_Purple_Gray_12/"> <img src="../../ggthemes/Classic_Purple_Gray_12/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../palettetown/latios/"> <img src="../../palettetown/latios/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/lugia/"> <img src="../../palettetown/lugia/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/latios/"> <img src="../../palettetown/latios/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ggthemes/Classic_Purple_Gray_12/"> <img src="../../ggthemes/Classic_Purple_Gray_12/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/togetic/"> <img src="../../palettetown/togetic/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/metagross/"> <img src="../../palettetown/metagross/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/nidoranf/"> <img src="../../palettetown/nidoranf/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/articuno/"> <img src="../../palettetown/articuno/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

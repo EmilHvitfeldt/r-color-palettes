@@ -53,11 +53,7 @@ c("#F9CA24FF", "#F0932BFF", "#EB4D4BFF", "#6AB04CFF", "#C7ECEEFF", "#22A6B3FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tidyquant/tq_green/"> <img src="../../tidyquant/tq_green/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#F9CA24FF", "#F0932BFF", "#EB4D4BFF", "#6AB04CFF", "#C7ECEEFF", "#22A6B3FF", 
 <a href="../../palettetown/ariados/"> <img src="../../palettetown/ariados/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../peRReo/karolg/"> <img src="../../peRReo/karolg/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../unikn/pal_unikn_pref/"> <img src="../../unikn/pal_unikn_pref/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../tvthemes/gravityFalls/"> <img src="../../tvthemes/gravityFalls/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

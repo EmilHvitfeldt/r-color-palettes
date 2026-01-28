@@ -53,11 +53,7 @@ c("#0B0E0AFF", "#9B3950FF", "#F79B57FF", "#6B3241FF", "#E65E62FF", "#9E7587FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/attackOnTitan/"> <img src="../../tvthemes/attackOnTitan/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -65,9 +61,9 @@ c("#0B0E0AFF", "#9B3950FF", "#F79B57FF", "#6B3241FF", "#E65E62FF", "#9E7587FF", 
 </figure> <figure class="figure">
 <a href="../../tvthemes/FireNation/"> <img src="../../tvthemes/FireNation/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nbapalettes/suns/"> <img src="../../nbapalettes/suns/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../peRReo/beckyg/"> <img src="../../peRReo/beckyg/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nbapalettes/suns/"> <img src="../../nbapalettes/suns/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/dark_uchicago/"> <img src="../../ggsci/dark_uchicago/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#0B0E0AFF", "#9B3950FF", "#F79B57FF", "#6B3241FF", "#E65E62FF", "#9E7587FF", 
 <a href="../../peRReo/don/"> <img src="../../peRReo/don/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ButterflyColors/stalachtis_phlegia_susanna/"> <img src="../../ButterflyColors/stalachtis_phlegia_susanna/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../peRReo/nicky/"> <img src="../../peRReo/nicky/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/whismur/"> <img src="../../palettetown/whismur/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,11 +53,7 @@ c("#DD4F5EFF", "#A5C360FF", "#F7E693FF", "#E48A9CFF", "#3F9250FF", "#E2995EFF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MoMAColors/Klein/"> <img src="../../MoMAColors/Klein/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -65,9 +61,9 @@ c("#DD4F5EFF", "#A5C360FF", "#F7E693FF", "#E48A9CFF", "#3F9250FF", "#E2995EFF", 
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSO12/"> <img src="../../Redmonder/qMSO12/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../LaCroixColoR/KiwiSandia/"> <img src="../../LaCroixColoR/KiwiSandia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../basetheme/brutal/"> <img src="../../basetheme/brutal/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../LaCroixColoR/KiwiSandia/"> <img src="../../LaCroixColoR/KiwiSandia/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../LaCroixColoR/PinaFraise/"> <img src="../../LaCroixColoR/PinaFraise/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#DD4F5EFF", "#A5C360FF", "#F7E693FF", "#E48A9CFF", "#3F9250FF", "#E2995EFF", 
 <a href="../../RColorBrewer/Paired/"> <img src="../../RColorBrewer/Paired/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../basetheme/dark/"> <img src="../../basetheme/dark/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../peRReo/buenavista/"> <img src="../../peRReo/buenavista/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggthemr/earth/"> <img src="../../ggthemr/earth/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

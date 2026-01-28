@@ -20,7 +20,7 @@ categories:
 {{< fa brands github size=3x >}}
 **Github**
 
-[loukesio/ltc_palettes](https://github.com/loukesio/ltc_palettes)
+[loukesio/ltc-color-palettes](https://github.com/loukesio/ltc-color-palettes)
 :::
 
 ::: {.column width="50%"}
@@ -53,11 +53,7 @@ c("#83AF9BFF", "#C8C8A9FF", "#F8DA8AFF", "#F7BF95FF", "#FE8CA1FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/spurs/"> <img src="../../nbapalettes/spurs/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -75,6 +71,10 @@ c("#83AF9BFF", "#C8C8A9FF", "#F8DA8AFF", "#F7BF95FF", "#FE8CA1FF")
 </figure> <figure class="figure">
 <a href="../../ltc/mterese/"> <img src="../../ltc/mterese/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../lisa/J_M_W_Turner/"> <img src="../../lisa/J_M_W_Turner/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../NineteenEightyR/miami1/"> <img src="../../NineteenEightyR/miami1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../rcartocolor/ArmyRose/"> <img src="../../rcartocolor/ArmyRose/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

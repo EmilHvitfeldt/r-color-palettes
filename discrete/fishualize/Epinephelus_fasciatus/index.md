@@ -53,17 +53,13 @@ c("#E5D8D6FF", "#CA8C9FFF", "#7D292BFF", "#D7443FFF", "#EFAF30FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../PNWColors/Moth/"> <img src="../../PNWColors/Moth/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../waRhol/basquiat_85/"> <img src="../../waRhol/basquiat_85/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../colRoz/grandis/"> <img src="../../colRoz/grandis/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../waRhol/basquiat_85/"> <img src="../../waRhol/basquiat_85/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Nemateleotris_magnifica/"> <img src="../../fishualize/Nemateleotris_magnifica/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -71,10 +67,14 @@ c("#E5D8D6FF", "#CA8C9FFF", "#7D292BFF", "#D7443FFF", "#EFAF30FF")
 </figure> <figure class="figure">
 <a href="../../futurevisions/cancri/"> <img src="../../futurevisions/cancri/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../soilpalettes/crait/"> <img src="../../soilpalettes/crait/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../lisa/MiltonAvery_1/"> <img src="../../lisa/MiltonAvery_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../soilpalettes/crait/"> <img src="../../soilpalettes/crait/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../wesanderson/Royal1/"> <img src="../../wesanderson/Royal1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../soilpalettes/alaquod/"> <img src="../../soilpalettes/alaquod/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../tayloRswift/midnightsBloodMoon/"> <img src="../../tayloRswift/midnightsBloodMoon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

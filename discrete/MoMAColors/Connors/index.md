@@ -53,11 +53,7 @@ c("#D92A05FF", "#F35D36FF", "#FC9073FF", "#FFBA1BFF", "#60CFA1FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MoMAColors/ustwo/"> <img src="../../MoMAColors/ustwo/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -71,10 +67,14 @@ c("#D92A05FF", "#F35D36FF", "#FC9073FF", "#FFBA1BFF", "#60CFA1FF")
 </figure> <figure class="figure">
 <a href="../../fishualize/Trimma_lantana/"> <img src="../../fishualize/Trimma_lantana/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../PrettyCols/Lucent/"> <img src="../../PrettyCols/Lucent/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../wesanderson/FantasticFox1/"> <img src="../../wesanderson/FantasticFox1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../DresdenColor/skingame/"> <img src="../../DresdenColor/skingame/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../PrettyCols/Lucent/"> <img src="../../PrettyCols/Lucent/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../wesanderson/AsteroidCity1/"> <img src="../../wesanderson/AsteroidCity1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Dsarayacuensis/"> <img src="../../poisonfrogs/Dsarayacuensis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

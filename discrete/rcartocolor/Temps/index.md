@@ -53,11 +53,7 @@ c("#009392FF", "#39B185FF", "#9CCB86FF", "#E9E29CFF", "#EEB479FF", "#E88471FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/Summer/"> <img src="../../ggthemes/Summer/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -75,6 +71,10 @@ c("#009392FF", "#39B185FF", "#9CCB86FF", "#E9E29CFF", "#EEB479FF", "#E88471FF", 
 </figure> <figure class="figure">
 <a href="../../NineteenEightyR/miami2/"> <img src="../../NineteenEightyR/miami2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../rcartocolor/TealRose/"> <img src="../../rcartocolor/TealRose/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggthemes/Jewel_Bright/"> <img src="../../ggthemes/Jewel_Bright/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../NineteenEightyR/sonny/"> <img src="../../NineteenEightyR/sonny/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

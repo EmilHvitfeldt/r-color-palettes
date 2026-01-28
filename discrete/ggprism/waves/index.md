@@ -53,11 +53,7 @@ c("#031431FF", "#6F5A35FF", "#63615DFF", "#33565FFF", "#27292BFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ghibli/MarnieDark1/"> <img src="../../ghibli/MarnieDark1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -73,8 +69,12 @@ c("#031431FF", "#6F5A35FF", "#63615DFF", "#33565FFF", "#27292BFF")
 </figure> <figure class="figure">
 <a href="../../khroma/dark/"> <img src="../../khroma/dark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ghibli/MononokeDark/"> <img src="../../ghibli/MononokeDark/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../PrettyCols/Aubergines/"> <img src="../../PrettyCols/Aubergines/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/pearl/"> <img src="../../ggprism/pearl/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ghibli/MononokeDark/"> <img src="../../ghibli/MononokeDark/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../beyonce/X124/"> <img src="../../beyonce/X124/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

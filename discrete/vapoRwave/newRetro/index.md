@@ -53,11 +53,7 @@ c("#9239F6FF", "#903495FF", "#6F3460FF", "#4A354FFF", "#D20076FF", "#FF0076FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/JacobLawrence_1/"> <img src="../../lisa/JacobLawrence_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#9239F6FF", "#903495FF", "#6F3460FF", "#4A354FFF", "#D20076FF", "#FF0076FF", 
 <a href="../../PNWColors/Sunset2/"> <img src="../../PNWColors/Sunset2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/DeathValley/"> <img src="../../NatParksPalettes/DeathValley/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../tvthemes/Sardonyx/"> <img src="../../tvthemes/Sardonyx/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../trekcolors/lcars_2375/"> <img src="../../trekcolors/lcars_2375/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

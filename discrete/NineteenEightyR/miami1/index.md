@@ -53,19 +53,15 @@ c("#69D2E7FF", "#A7DBD8FF", "#E0E4CCFF", "#F38630FF", "#FA6900FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/JackBush_1/"> <img src="../../lisa/JackBush_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ltc/paloma/"> <img src="../../ltc/paloma/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../rcartocolor/Geyser/"> <img src="../../rcartocolor/Geyser/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../MapPalettes/sunset/"> <img src="../../MapPalettes/sunset/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../rcartocolor/Geyser/"> <img src="../../rcartocolor/Geyser/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X28/"> <img src="../../beyonce/X28/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#69D2E7FF", "#A7DBD8FF", "#E0E4CCFF", "#F38630FF", "#FA6900FF")
 <a href="../../ggthemes/Jewel_Bright/"> <img src="../../ggthemes/Jewel_Bright/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ButterflyColors/anteos_clorinde/"> <img src="../../ButterflyColors/anteos_clorinde/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Lutjanus_jocu/"> <img src="../../fishualize/Lutjanus_jocu/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../wesanderson/Moonrise3/"> <img src="../../wesanderson/Moonrise3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

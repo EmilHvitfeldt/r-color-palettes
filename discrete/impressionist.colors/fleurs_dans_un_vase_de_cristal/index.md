@@ -53,11 +53,7 @@ c("#78A5C3FF", "#4B6996FF", "#3C3C5AFF", "#1E4B2DFF", "#2D5A3CFF", "#5A784BFF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../impressionist.colors/un_dimanche_apres_midi_a_l_ile_de_la_grande_jatte/"> <img src="../../impressionist.colors/un_dimanche_apres_midi_a_l_ile_de_la_grande_jatte/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -75,6 +71,10 @@ c("#78A5C3FF", "#4B6996FF", "#3C3C5AFF", "#1E4B2DFF", "#2D5A3CFF", "#5A784BFF", 
 </figure> <figure class="figure">
 <a href="../../impressionist.colors/te_aa_no_areois/"> <img src="../../impressionist.colors/te_aa_no_areois/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../impressionist.colors/dans_la_serre/"> <img src="../../impressionist.colors/dans_la_serre/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../MoMAColors/Levine1/"> <img src="../../MoMAColors/Levine1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../impressionist.colors/la_recolte_des_foins_eragny/"> <img src="../../impressionist.colors/la_recolte_des_foins_eragny/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

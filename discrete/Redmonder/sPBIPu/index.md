@@ -20,7 +20,7 @@ categories:
 {{< fa brands github size=3x >}}
 **Github**
 
-Not on Github
+[pmdci/redmonder](https://github.com/pmdci/redmonder)
 :::
 
 ::: {.column width="50%"}
@@ -53,11 +53,7 @@ c("#F6F1F5FF", "#E2DAE0FF", "#CDC2CBFF", "#B9ABB6FF", "#A593A1FF", "#907C8CFF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/grimer/"> <img src="../../palettetown/grimer/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -65,13 +61,17 @@ c("#F6F1F5FF", "#E2DAE0FF", "#CDC2CBFF", "#B9ABB6FF", "#A593A1FF", "#907C8CFF", 
 </figure> <figure class="figure">
 <a href="../../tvthemes/Night/"> <img src="../../tvthemes/Night/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../Rdune/corrino/"> <img src="../../Rdune/corrino/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../Manu/Kiwi/"> <img src="../../Manu/Kiwi/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../calecopal/calochortus/"> <img src="../../calecopal/calochortus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../nord/halifax_harbor/"> <img src="../../nord/halifax_harbor/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../Redmonder/sPBIGy2/"> <img src="../../Redmonder/sPBIGy2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nord/halifax_harbor/"> <img src="../../nord/halifax_harbor/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ggsci/brown_material/"> <img src="../../ggsci/brown_material/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../musculusColors/ErWhale/"> <img src="../../musculusColors/ErWhale/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

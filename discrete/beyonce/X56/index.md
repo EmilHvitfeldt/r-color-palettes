@@ -53,11 +53,7 @@ c("#19172CFF", "#A20226FF", "#818392FF", "#AAB0BEFF", "#E3EAF4FF", "#FFFFFFFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/rhyhorn/"> <img src="../../palettetown/rhyhorn/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,14 +63,18 @@ c("#19172CFF", "#A20226FF", "#818392FF", "#AAB0BEFF", "#E3EAF4FF", "#FFFFFFFF")
 </figure> <figure class="figure">
 <a href="../../ghibli/SpiritedMedium/"> <img src="../../ghibli/SpiritedMedium/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../PNWColors/Shuksan/"> <img src="../../PNWColors/Shuksan/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../beyonce/X128/"> <img src="../../beyonce/X128/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PNWColors/Shuksan/"> <img src="../../PNWColors/Shuksan/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/aerodactyl/"> <img src="../../palettetown/aerodactyl/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../palettetown/cascoon/"> <img src="../../palettetown/cascoon/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nbapalettes/wizards_earned/"> <img src="../../nbapalettes/wizards_earned/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/cascoon/"> <img src="../../palettetown/cascoon/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../tayloRswift/Red/"> <img src="../../tayloRswift/Red/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../tvthemes/Spinel/"> <img src="../../tvthemes/Spinel/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,11 +53,7 @@ c("#512305FF", "#73130FFF", "#AF4B1BFF", "#181818FF", "#435D14FF", "#993D38FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Nattier/"> <img src="../../MetBrewer/Nattier/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#512305FF", "#73130FFF", "#AF4B1BFF", "#181818FF", "#435D14FF", "#993D38FF", 
 <a href="../../NineteenEightyR/sunset2/"> <img src="../../NineteenEightyR/sunset2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../DresdenColor/turncoat/"> <img src="../../DresdenColor/turncoat/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nbapalettes/jazz_city/"> <img src="../../nbapalettes/jazz_city/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../peRReo/don/"> <img src="../../peRReo/don/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

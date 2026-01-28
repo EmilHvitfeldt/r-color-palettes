@@ -53,11 +53,7 @@ c("#204035FF", "#4A7169FF", "#BEB59CFF", "#735231FF", "#49271BFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/Redwood/"> <img src="../../NatParksPalettes/Redwood/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +65,16 @@ c("#204035FF", "#4A7169FF", "#BEB59CFF", "#735231FF", "#49271BFF")
 </figure> <figure class="figure">
 <a href="../../lisa/Michelangelo/"> <img src="../../lisa/Michelangelo/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../beyonce/X3/"> <img src="../../beyonce/X3/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../Rdune/sandworm/"> <img src="../../Rdune/sandworm/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Epinephelus_marginatus/"> <img src="../../fishualize/Epinephelus_marginatus/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../beyonce/X3/"> <img src="../../beyonce/X3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../severance/Jazz02/"> <img src="../../severance/Jazz02/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/Pierre_AugusteRenoir_1/"> <img src="../../lisa/Pierre_AugusteRenoir_1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../lisa/JohannesVermeer/"> <img src="../../lisa/JohannesVermeer/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

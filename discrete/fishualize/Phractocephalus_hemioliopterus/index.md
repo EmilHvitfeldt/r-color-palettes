@@ -53,17 +53,13 @@ c("#C11800FF", "#ED5903FF", "#E8B332FF", "#80695CFF", "#C5C7A7FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../waRhol/basquiat_85/"> <img src="../../waRhol/basquiat_85/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggthemes/excel_Retrospect/"> <img src="../../ggthemes/excel_Retrospect/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../ggthemes/excel_Orange/"> <img src="../../ggthemes/excel_Orange/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggthemes/excel_Retrospect/"> <img src="../../ggthemes/excel_Retrospect/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/flavolineata/"> <img src="../../colRoz/flavolineata/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#C11800FF", "#ED5903FF", "#E8B332FF", "#80695CFF", "#C5C7A7FF")
 <a href="../../soilpalettes/bangor/"> <img src="../../soilpalettes/bangor/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/JohannJacobUlrich/"> <img src="../../lisa/JohannJacobUlrich/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MoMAColors/ustwo/"> <img src="../../MoMAColors/ustwo/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggthemes/excel_Red/"> <img src="../../ggthemes/excel_Red/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

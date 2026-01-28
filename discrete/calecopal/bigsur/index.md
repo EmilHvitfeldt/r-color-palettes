@@ -53,13 +53,11 @@ c("#E4DECEFF", "#ECBD95FF", "#9BB1BBFF", "#79ACBDFF", "#346575FF", "#0B4221FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Manu/Kotare/"> <img src="../../Manu/Kotare/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/Coast/"> <img src="../../PrettyCols/Coast/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rtist/hokusai/"> <img src="../../rtist/hokusai/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +74,7 @@ c("#E4DECEFF", "#ECBD95FF", "#9BB1BBFF", "#79ACBDFF", "#346575FF", "#0B4221FF")
 <a href="../../NatParksPalettes/KingsCanyon/"> <img src="../../NatParksPalettes/KingsCanyon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MoMAColors/Rattner/"> <img src="../../MoMAColors/Rattner/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../beyonce/X63/"> <img src="../../beyonce/X63/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,11 +53,7 @@ c("#439EB7FF", "#E28B55FF", "#DCB64DFF", "#4CA198FF", "#835B82FF", "#645135FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../IslamicArt/alhambra/"> <img src="../../IslamicArt/alhambra/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#439EB7FF", "#E28B55FF", "#DCB64DFF", "#4CA198FF", "#835B82FF", "#645135FF")
 <a href="../../ggthemr/light/"> <img src="../../ggthemr/light/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ltc/minou/"> <img src="../../ltc/minou/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../colRoz/c_decresii/"> <img src="../../colRoz/c_decresii/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../NatParksPalettes/KingsCanyon/"> <img src="../../NatParksPalettes/KingsCanyon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

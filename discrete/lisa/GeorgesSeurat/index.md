@@ -53,11 +53,7 @@ c("#3F3F63FF", "#808EB7FF", "#465946FF", "#8C9355FF", "#925E48FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/Redwood/"> <img src="../../NatParksPalettes/Redwood/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -73,8 +69,12 @@ c("#3F3F63FF", "#808EB7FF", "#465946FF", "#8C9355FF", "#925E48FF")
 </figure> <figure class="figure">
 <a href="../../lisa/EdouardManet/"> <img src="../../lisa/EdouardManet/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../calecopal/halfdome/"> <img src="../../calecopal/halfdome/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../colRoz/v_viatica/"> <img src="../../colRoz/v_viatica/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../calecopal/halfdome/"> <img src="../../calecopal/halfdome/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../NatParksPalettes/IguazuFalls/"> <img src="../../NatParksPalettes/IguazuFalls/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../lisa/C_M_Coolidge/"> <img src="../../lisa/C_M_Coolidge/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

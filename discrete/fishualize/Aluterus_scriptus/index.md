@@ -53,11 +53,7 @@ c("#011C40FF", "#035AA6FF", "#05AFF2FF", "#05C7F2FF", "#05DBF2FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Prionace_glauca/"> <img src="../../fishualize/Prionace_glauca/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +65,16 @@ c("#011C40FF", "#035AA6FF", "#05AFF2FF", "#05C7F2FF", "#05DBF2FF")
 </figure> <figure class="figure">
 <a href="../../fishualize/Chlorurus_microrhinos/"> <img src="../../fishualize/Chlorurus_microrhinos/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../poisonfrogs/Oploma/"> <img src="../../poisonfrogs/Oploma/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/Ocean/"> <img src="../../PrettyCols/Ocean/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggsci/cyan_bs5/"> <img src="../../ggsci/cyan_bs5/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggsci/sky_tw3/"> <img src="../../ggsci/sky_tw3/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ButterflyColors/archaeoprepona_demophon_thalpius/"> <img src="../../ButterflyColors/archaeoprepona_demophon_thalpius/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../vapeplot/jazzcup/"> <img src="../../vapeplot/jazzcup/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../vapoRwave/jazzCup/"> <img src="../../vapoRwave/jazzCup/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggsci/light_blue_material/"> <img src="../../ggsci/light_blue_material/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ggsci/blue_bs5/"> <img src="../../ggsci/blue_bs5/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

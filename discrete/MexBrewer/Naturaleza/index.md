@@ -53,11 +53,7 @@ c("#FAF7D2FF", "#E1CA89FF", "#BE852CFF", "#99300CFF", "#80100CFF", "#660607FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/a_ramsayi/"> <img src="../../colRoz/a_ramsayi/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -68,6 +64,10 @@ c("#FAF7D2FF", "#E1CA89FF", "#BE852CFF", "#99300CFF", "#80100CFF", "#660607FF", 
 <a href="../../beyonce/X45/"> <img src="../../beyonce/X45/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X16/"> <img src="../../beyonce/X16/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Oscolon/"> <img src="../../poisonfrogs/Oscolon/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Rmarina/"> <img src="../../poisonfrogs/Rmarina/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/a_plagiata/"> <img src="../../colRoz/a_plagiata/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

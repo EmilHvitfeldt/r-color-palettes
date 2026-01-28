@@ -53,11 +53,7 @@ c("#9C5E51FF", "#9E864AFF", "#61714DFF", "#4B6C7FFF", "#614927FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Manu/Pepetuna/"> <img src="../../Manu/Pepetuna/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +65,16 @@ c("#9C5E51FF", "#9E864AFF", "#61714DFF", "#4B6C7FFF", "#614927FF")
 </figure> <figure class="figure">
 <a href="../../lisa/OdilonRedon/"> <img src="../../lisa/OdilonRedon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../lisa/GeorgesSeurat/"> <img src="../../lisa/GeorgesSeurat/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../calecopal/sierra1/"> <img src="../../calecopal/sierra1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../lisa/GeorgesSeurat/"> <img src="../../lisa/GeorgesSeurat/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Antennarius_commerson/"> <img src="../../fishualize/Antennarius_commerson/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../poisonfrogs/Ramazonica/"> <img src="../../poisonfrogs/Ramazonica/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../MetBrewer/Kandinsky/"> <img src="../../MetBrewer/Kandinsky/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../calecopal/grassdry/"> <img src="../../calecopal/grassdry/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

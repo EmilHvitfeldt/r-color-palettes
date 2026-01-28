@@ -53,11 +53,7 @@ c("#785A3CFF", "#96694BFF", "#A5784BFF", "#C3965AFF", "#F0C35AFF", "#F0D269FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/volbeat/"> <img src="../../palettetown/volbeat/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +65,16 @@ c("#785A3CFF", "#96694BFF", "#A5784BFF", "#C3965AFF", "#F0C35AFF", "#F0D269FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/spoink/"> <img src="../../palettetown/spoink/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../impressionist.colors/le_dejeuner_des_canotiers/"> <img src="../../impressionist.colors/le_dejeuner_des_canotiers/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../palettetown/blaziken/"> <img src="../../palettetown/blaziken/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../impressionist.colors/le_dejeuner_des_canotiers/"> <img src="../../impressionist.colors/le_dejeuner_des_canotiers/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../dutchmasters/milkmaid/"> <img src="../../dutchmasters/milkmaid/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../palettetown/shelgon/"> <img src="../../palettetown/shelgon/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/snorunt/"> <img src="../../palettetown/snorunt/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/feebas/"> <img src="../../palettetown/feebas/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

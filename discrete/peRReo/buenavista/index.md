@@ -53,11 +53,7 @@ c("#4EA4B3FF", "#DFD29BFF", "#2A1812FF", "#B12913FF", "#80AB79FF", "#219089FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemr/grass/"> <img src="../../ggthemr/grass/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#4EA4B3FF", "#DFD29BFF", "#2A1812FF", "#B12913FF", "#80AB79FF", "#219089FF", 
 <a href="../../ggthemr/light/"> <img src="../../ggthemr/light/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/Safe/"> <img src="../../rcartocolor/Safe/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../miscpalettes/dreaming/"> <img src="../../miscpalettes/dreaming/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../dutchmasters/pearl_earring/"> <img src="../../dutchmasters/pearl_earring/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

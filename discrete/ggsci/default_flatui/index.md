@@ -53,11 +53,7 @@ c("#C0392BFF", "#D35400FF", "#F39C12FF", "#27AE60FF", "#16A085FF", "#2980B9FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/Bold/"> <img src="../../rcartocolor/Bold/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -74,6 +70,10 @@ c("#C0392BFF", "#D35400FF", "#F39C12FF", "#27AE60FF", "#16A085FF", "#2980B9FF", 
 <a href="../../palettetown/nidorino/"> <img src="../../palettetown/nidorino/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/default_nejm/"> <img src="../../ggsci/default_nejm/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../basetheme/royal/"> <img src="../../basetheme/royal/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../DresdenColor/paired/"> <img src="../../DresdenColor/paired/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/default_locuszoom/"> <img src="../../ggsci/default_locuszoom/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 

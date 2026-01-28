@@ -53,11 +53,7 @@ c("#558AA6FF", "#B1740FFF", "#D5006AFF", "#08585AFF", "#FFFD98FF", "#9449D2FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Renoir/"> <img src="../../MetBrewer/Renoir/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +65,16 @@ c("#558AA6FF", "#B1740FFF", "#D5006AFF", "#08585AFF", "#FFFD98FF", "#9449D2FF", 
 </figure> <figure class="figure">
 <a href="../../ggthemr/flat/"> <img src="../../ggthemr/flat/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../tidyquant/tq_green/"> <img src="../../tidyquant/tq_green/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../LaCroixColoR/KiwiSandia/"> <img src="../../LaCroixColoR/KiwiSandia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../tidyquant/tq_green/"> <img src="../../tidyquant/tq_green/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../peRReo/calle13/"> <img src="../../peRReo/calle13/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../MetBrewer/Cross/"> <img src="../../MetBrewer/Cross/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggsci/default_nejm/"> <img src="../../ggsci/default_nejm/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../unikn/pal_unikn_pref/"> <img src="../../unikn/pal_unikn_pref/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

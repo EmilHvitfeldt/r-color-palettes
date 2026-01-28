@@ -1,3 +1,6 @@
+# 2026 January
+* Redid most everything
+
 # July
 * Added reference to paletteer package [github](https://github.com/EmilHvitfeldt/paletteer) [CRAN](https://CRAN.R-project.org/package=paletteer)
 * Added seperate page for all palettetown palettes

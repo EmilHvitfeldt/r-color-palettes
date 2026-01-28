@@ -53,11 +53,7 @@ c("#212250FF", "#AE432FFF", "#E4EDCAFF", "#8B5B45FF", "#4682B4FF", "#000000FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/Dark/"> <img src="../../tvthemes/Dark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,14 +63,18 @@ c("#212250FF", "#AE432FFF", "#E4EDCAFF", "#8B5B45FF", "#4682B4FF", "#000000FF")
 </figure> <figure class="figure">
 <a href="../../nbapalettes/suns/"> <img src="../../nbapalettes/suns/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nbapalettes/clippers/"> <img src="../../nbapalettes/clippers/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../dutchmasters/staalmeesters/"> <img src="../../dutchmasters/staalmeesters/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nbapalettes/clippers/"> <img src="../../nbapalettes/clippers/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../impressionist.colors/pres_du_lac/"> <img src="../../impressionist.colors/pres_du_lac/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/Bismuth/"> <img src="../../tvthemes/Bismuth/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/attackOnTitan/"> <img src="../../tvthemes/attackOnTitan/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../peRReo/eminem/"> <img src="../../peRReo/eminem/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/linoone/"> <img src="../../palettetown/linoone/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

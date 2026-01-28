@@ -53,11 +53,7 @@ c("#1F0206FF", "#3C030AFF", "#6C051AFF", "#A81F31FF", "#B84E5AFF", "#D8ADC1FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X14/"> <img src="../../beyonce/X14/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,14 +63,18 @@ c("#1F0206FF", "#3C030AFF", "#6C051AFF", "#A81F31FF", "#B84E5AFF", "#D8ADC1FF")
 </figure> <figure class="figure">
 <a href="../../vapeplot/sunset/"> <img src="../../vapeplot/sunset/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../MoMAColors/Althoff/"> <img src="../../MoMAColors/Althoff/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../beyonce/X20/"> <img src="../../beyonce/X20/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nbapalettes/blazers_city2/"> <img src="../../nbapalettes/blazers_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../MoMAColors/Althoff/"> <img src="../../MoMAColors/Althoff/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X8/"> <img src="../../beyonce/X8/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../nbapalettes/blazers_city2/"> <img src="../../nbapalettes/blazers_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../vapoRwave/sunSet/"> <img src="../../vapoRwave/sunSet/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../beyonce/X27/"> <img src="../../beyonce/X27/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../peRReo/ivyqueen/"> <img src="../../peRReo/ivyqueen/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

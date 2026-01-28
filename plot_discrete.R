@@ -50,6 +50,7 @@ plot_discrete <- function(pal) {
   
   network_chart <- play_islands(pal$length, 20, 0.25, 1) %>%
     mutate(community = as.factor(group_infomap())) %>%
+    filter(as.integer(community) <= pal$length) %>%
     ggraph(layout = 'nicely') +
     geom_edge_link(color = "grey69", alpha = 0.5) +
     geom_node_point(aes(color = community)) +

@@ -53,15 +53,13 @@ c("#DD7867FF", "#B83326FF", "#C8570DFF", "#EDB144FF", "#8CC8BCFF", "#7DA7EAFF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Lampris_guttatus/"> <img src="../../fishualize/Lampris_guttatus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Pronotogrammus_martinicensis/"> <img src="../../fishualize/Pronotogrammus_martinicensis/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/nrc_npg/"> <img src="../../ggsci/nrc_npg/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +74,7 @@ c("#DD7867FF", "#B83326FF", "#C8570DFF", "#EDB144FF", "#8CC8BCFF", "#7DA7EAFF", 
 <a href="../../tvthemes/CrazyLaceAgate/"> <img src="../../tvthemes/CrazyLaceAgate/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/Red_Blue_Brown/"> <img src="../../ggthemes/Red_Blue_Brown/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Redmonder/qPBI/"> <img src="../../Redmonder/qPBI/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

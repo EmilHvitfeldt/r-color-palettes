@@ -53,11 +53,9 @@ c("#323232FF", "#1B6393FF", "#FCD351FF", "#C7E3CCFF", "#F8EEC1FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../poisonfrogs/Haureoguttatum/"> <img src="../../poisonfrogs/Haureoguttatum/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rtist/vangogh/"> <img src="../../rtist/vangogh/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -72,6 +70,8 @@ c("#323232FF", "#1B6393FF", "#FCD351FF", "#C7E3CCFF", "#F8EEC1FF")
 <a href="../../fishualize/Rhinecanthus_aculeatus/"> <img src="../../fishualize/Rhinecanthus_aculeatus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Valenciennea_strigata/"> <img src="../../fishualize/Valenciennea_strigata/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../blueycolors/bluey/"> <img src="../../blueycolors/bluey/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggpomological/pomological_base/"> <img src="../../ggpomological/pomological_base/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

@@ -53,11 +53,7 @@ c("#4A3A3BFF", "#984136FF", "#C26A7AFF", "#ECC0A1FF", "#F0F0E4FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tayloRswift/midnightsBloodMoon/"> <img src="../../tayloRswift/midnightsBloodMoon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#4A3A3BFF", "#984136FF", "#C26A7AFF", "#ECC0A1FF", "#F0F0E4FF")
 <a href="../../ochRe/galah/"> <img src="../../ochRe/galah/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Sander_lucioperca/"> <img src="../../fishualize/Sander_lucioperca/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Lutjanus_sebae/"> <img src="../../fishualize/Lutjanus_sebae/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../rockthemes/peacesells/"> <img src="../../rockthemes/peacesells/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

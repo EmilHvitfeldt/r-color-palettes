@@ -53,11 +53,7 @@ c("#0F2B5FFF", "#5991C7FF", "#8EC1E7FF", "#B9DBF1FF", "#D5A370FF", "#7B4F37FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ghibli/SpiritedMedium/"> <img src="../../ghibli/SpiritedMedium/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,14 +63,18 @@ c("#0F2B5FFF", "#5991C7FF", "#8EC1E7FF", "#B9DBF1FF", "#D5A370FF", "#7B4F37FF")
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Manet/"> <img src="../../MetBrewer/Manet/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../PrettyCols/Coast/"> <img src="../../PrettyCols/Coast/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../LaCroixColoR/CranRaspberry/"> <img src="../../LaCroixColoR/CranRaspberry/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../soilpalettes/redox/"> <img src="../../soilpalettes/redox/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../blueycolors/socks/"> <img src="../../blueycolors/socks/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/OKeeffe1/"> <img src="../../MetBrewer/OKeeffe1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ghibli/KikiMedium/"> <img src="../../ghibli/KikiMedium/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ltc/maya/"> <img src="../../ltc/maya/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ghibli/MarnieMedium1/"> <img src="../../ghibli/MarnieMedium1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

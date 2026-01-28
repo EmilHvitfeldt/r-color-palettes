@@ -53,11 +53,7 @@ c("#D8AEDDFF", "#BF9BDDFF", "#CB74ADFF", "#E69E9CFF", "#FFC3A3FF", "#FBE4C6FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ltc/mterese/"> <img src="../../ltc/mterese/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#D8AEDDFF", "#BF9BDDFF", "#CB74ADFF", "#E69E9CFF", "#FFC3A3FF", "#FBE4C6FF")
 <a href="../../lisa/JohnSingerSargent_2/"> <img src="../../lisa/JohnSingerSargent_2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ltc/gaby/"> <img src="../../ltc/gaby/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Xyrichthys_novacula/"> <img src="../../fishualize/Xyrichthys_novacula/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Redmonder/sPBIRd/"> <img src="../../Redmonder/sPBIRd/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

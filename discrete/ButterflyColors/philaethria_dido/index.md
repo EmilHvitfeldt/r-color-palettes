@@ -53,15 +53,15 @@ c("#000000FF", "#453E2DFF", "#9EB5A2FF", "#492B20FF", "#4D4238FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/kimberley/"> <img src="../../colRoz/kimberley/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X103/"> <img src="../../beyonce/X103/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Rdune/atreides2/"> <img src="../../Rdune/atreides2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Rdune/bene_gesserit/"> <img src="../../Rdune/bene_gesserit/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/C_M_Coolidge/"> <img src="../../lisa/C_M_Coolidge/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -71,10 +71,10 @@ c("#000000FF", "#453E2DFF", "#9EB5A2FF", "#492B20FF", "#4D4238FF")
 </figure> <figure class="figure">
 <a href="../../ButterflyColors/heliconius_erato_phyllis/"> <img src="../../ButterflyColors/heliconius_erato_phyllis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../Rdune/sandworm/"> <img src="../../Rdune/sandworm/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../MexBrewer/Aurora/"> <img src="../../MexBrewer/Aurora/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ghibli/TotoroMedium/"> <img src="../../ghibli/TotoroMedium/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../severance/Jazz02/"> <img src="../../severance/Jazz02/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

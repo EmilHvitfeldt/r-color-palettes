@@ -53,13 +53,11 @@ c("#ECEFF1FF", "#CFD8DCFF", "#B0BEC5FF", "#90A4AEFF", "#78909CFF", "#607D8BFF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSOPu/"> <img src="../../Redmonder/qMSOPu/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggsci/gray_bs5/"> <img src="../../ggsci/gray_bs5/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../severance/Half/"> <img src="../../severance/Half/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -72,6 +70,8 @@ c("#ECEFF1FF", "#CFD8DCFF", "#B0BEC5FF", "#90A4AEFF", "#78909CFF", "#607D8BFF", 
 <a href="../../PNWColors/Winter/"> <img src="../../PNWColors/Winter/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../trekcolors/andorian/"> <img src="../../trekcolors/andorian/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/poliwrath/"> <img src="../../palettetown/poliwrath/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/grimer/"> <img src="../../palettetown/grimer/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

@@ -53,11 +53,7 @@ c("#A89030FF", "#004878FF", "#78A890FF", "#000000FF", "#481800FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/bucks_city/"> <img src="../../nbapalettes/bucks_city/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +65,16 @@ c("#A89030FF", "#004878FF", "#78A890FF", "#000000FF", "#481800FF")
 </figure> <figure class="figure">
 <a href="../../lisa/HilmaafKlint/"> <img src="../../lisa/HilmaafKlint/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../NatParksPalettes/Triglav/"> <img src="../../NatParksPalettes/Triglav/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../nbapalettes/pistons_90s/"> <img src="../../nbapalettes/pistons_90s/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../NatParksPalettes/Triglav/"> <img src="../../NatParksPalettes/Triglav/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ltc/pantone23/"> <img src="../../ltc/pantone23/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/mavericks_alt/"> <img src="../../nbapalettes/mavericks_alt/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nbapalettes/raptors_europe/"> <img src="../../nbapalettes/raptors_europe/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Manu/Korimako/"> <img src="../../Manu/Korimako/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

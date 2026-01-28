@@ -53,13 +53,11 @@ c("#C6D4D6FF", "#274C4FFF", "#A4432DFF", "#B17C51FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tayloRswift/taylor1989/"> <img src="../../tayloRswift/taylor1989/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/Coast/"> <img src="../../PrettyCols/Coast/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../PNWColors/Moth/"> <img src="../../PNWColors/Moth/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +74,7 @@ c("#C6D4D6FF", "#274C4FFF", "#A4432DFF", "#B17C51FF")
 <a href="../../nationalparkcolors/ArcticGates/"> <img src="../../nationalparkcolors/ArcticGates/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X6/"> <img src="../../beyonce/X6/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Oncorhynchus_gorbuscha/"> <img src="../../fishualize/Oncorhynchus_gorbuscha/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,17 +53,15 @@ c("#272725FF", "#DDBD85FF", "#DA694FFF", "#A54A48FF", "#FDFFE5FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/ngadju/"> <img src="../../colRoz/ngadju/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MexBrewer/Vendedora/"> <img src="../../MexBrewer/Vendedora/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../trekcolors/tholian/"> <img src="../../trekcolors/tholian/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Oanchicayensis/"> <img src="../../poisonfrogs/Oanchicayensis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X58/"> <img src="../../beyonce/X58/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +74,7 @@ c("#272725FF", "#DDBD85FF", "#DA694FFF", "#A54A48FF", "#FDFFE5FF")
 <a href="../../tvthemes/Jasper/"> <img src="../../tvthemes/Jasper/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../DresdenColor/skingame/"> <img src="../../DresdenColor/skingame/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Olehmanni/"> <img src="../../poisonfrogs/Olehmanni/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

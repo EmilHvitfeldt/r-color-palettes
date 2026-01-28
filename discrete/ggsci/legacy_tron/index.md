@@ -53,11 +53,7 @@ c("#FF410DFF", "#6EE2FFFF", "#F7C530FF", "#95CC5EFF", "#D0DFE6FF", "#F79D1EFF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemr/flat_dark/"> <img src="../../ggthemr/flat_dark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +65,16 @@ c("#FF410DFF", "#6EE2FFFF", "#F7C530FF", "#95CC5EFF", "#D0DFE6FF", "#F79D1EFF", 
 </figure> <figure class="figure">
 <a href="../../ggthemes/Summer/"> <img src="../../ggthemes/Summer/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../basetheme/dark/"> <img src="../../basetheme/dark/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../ggthemes/Classic_10_Medium/"> <img src="../../ggthemes/Classic_10_Medium/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../basetheme/dark/"> <img src="../../basetheme/dark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/few_Light/"> <img src="../../ggthemes/few_Light/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSOMrq/"> <img src="../../Redmonder/qMSOMrq/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../khroma/light/"> <img src="../../khroma/light/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggthemes/Classic_Green_Orange_12/"> <img src="../../ggthemes/Classic_Green_Orange_12/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,11 +53,7 @@ c("#E6A0C4FF", "#C6CDF7FF", "#D8A499FF", "#7294D4FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../PNWColors/Spring/"> <img src="../../PNWColors/Spring/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#E6A0C4FF", "#C6CDF7FF", "#D8A499FF", "#7294D4FF")
 <a href="../../lisa/JeffKoons/"> <img src="../../lisa/JeffKoons/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/NewKingdom/"> <img src="../../MetBrewer/NewKingdom/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Harengula_jaguana/"> <img src="../../fishualize/Harengula_jaguana/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ltc/franscoise/"> <img src="../../ltc/franscoise/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

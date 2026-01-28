@@ -53,17 +53,13 @@ c("#65150BFF", "#961F1FFF", "#C0431FFF", "#F19425FF", "#C59349FF", "#533D14FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ButterflyColors/marpesia_petreus/"> <img src="../../ButterflyColors/marpesia_petreus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../rockthemes/alice/"> <img src="../../rockthemes/alice/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../MetBrewer/Gauguin/"> <img src="../../MetBrewer/Gauguin/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../rockthemes/alice/"> <img src="../../rockthemes/alice/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Pseudupeneus_maculatus/"> <img src="../../fishualize/Pseudupeneus_maculatus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#65150BFF", "#961F1FFF", "#C0431FFF", "#F19425FF", "#C59349FF", "#533D14FF")
 <a href="../../fishualize/Pareiorhaphis_garbei/"> <img src="../../fishualize/Pareiorhaphis_garbei/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ButterflyColors/smyrna_blomfidiana/"> <img src="../../ButterflyColors/smyrna_blomfidiana/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Dermatolepis_inermis/"> <img src="../../fishualize/Dermatolepis_inermis/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../miscpalettes/chocolate/"> <img src="../../miscpalettes/chocolate/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,19 +53,15 @@ c("#6A6758FF", "#A68160FF", "#D96F32FF", "#BF522AFF", "#734432FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ButterflyColors/hylephila_phyleus/"> <img src="../../ButterflyColors/hylephila_phyleus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Red/"> <img src="../../ggthemes/excel_Red/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggthemes/excel_Wood_Type/"> <img src="../../ggthemes/excel_Wood_Type/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../ggthemes/excel_Orange_Red/"> <img src="../../ggthemes/excel_Orange_Red/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggthemes/excel_Wood_Type/"> <img src="../../ggthemes/excel_Wood_Type/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ButterflyColors/brassolis_sophorae/"> <img src="../../ButterflyColors/brassolis_sophorae/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#6A6758FF", "#A68160FF", "#D96F32FF", "#BF522AFF", "#734432FF")
 <a href="../../NatParksPalettes/BryceCanyon/"> <img src="../../NatParksPalettes/BryceCanyon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/Halekala/"> <img src="../../NatParksPalettes/Halekala/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Labrisomus_cricota/"> <img src="../../fishualize/Labrisomus_cricota/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Pareiorhaphis_garbei/"> <img src="../../fishualize/Pareiorhaphis_garbei/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

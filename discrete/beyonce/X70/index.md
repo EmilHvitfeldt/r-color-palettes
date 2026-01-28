@@ -53,11 +53,7 @@ c("#97110EFF", "#D61C20FF", "#D71C20FF", "#BE6C63FF", "#AF9989FF", "#B88D6AFF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ButterflyColors/catagramma_pygas/"> <img src="../../ButterflyColors/catagramma_pygas/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -65,9 +61,9 @@ c("#97110EFF", "#D61C20FF", "#D71C20FF", "#BE6C63FF", "#AF9989FF", "#B88D6AFF", 
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/BryceCanyon/"> <img src="../../NatParksPalettes/BryceCanyon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggthemes/excel_Wood_Type/"> <img src="../../ggthemes/excel_Wood_Type/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../ggthemes/excel_Orange_Red/"> <img src="../../ggthemes/excel_Orange_Red/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggthemes/excel_Wood_Type/"> <img src="../../ggthemes/excel_Wood_Type/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X113/"> <img src="../../beyonce/X113/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#97110EFF", "#D61C20FF", "#D71C20FF", "#BE6C63FF", "#AF9989FF", "#B88D6AFF", 
 <a href="../../werpals/firefly/"> <img src="../../werpals/firefly/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Labrisomus_cricota/"> <img src="../../fishualize/Labrisomus_cricota/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../beyonce/X69/"> <img src="../../beyonce/X69/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/Autumn/"> <img src="../../PrettyCols/Autumn/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

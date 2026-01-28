@@ -53,11 +53,7 @@ c("#20223EFF", "#3F3F7BFF", "#278192FF", "#00B089FF", "#2EEA8CFF", "#8FF7BDFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/Emrld/"> <img src="../../rcartocolor/Emrld/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -66,6 +62,8 @@ c("#20223EFF", "#3F3F7BFF", "#278192FF", "#00B089FF", "#2EEA8CFF", "#8FF7BDFF")
 <a href="../../RColorBrewer/YlGnBu/"> <img src="../../RColorBrewer/YlGnBu/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Hokusai3/"> <img src="../../MetBrewer/Hokusai3/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/Ocean/"> <img src="../../PrettyCols/Ocean/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/DarkMint/"> <img src="../../rcartocolor/DarkMint/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +74,7 @@ c("#20223EFF", "#3F3F7BFF", "#278192FF", "#00B089FF", "#2EEA8CFF", "#8FF7BDFF")
 <a href="../../rcartocolor/BluYl/"> <img src="../../rcartocolor/BluYl/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Elagatis_bipinnulata/"> <img src="../../fishualize/Elagatis_bipinnulata/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Oploma/"> <img src="../../poisonfrogs/Oploma/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

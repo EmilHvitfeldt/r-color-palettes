@@ -53,11 +53,7 @@ c("#010101FF", "#6DAABDFF", "#CAECB3FF", "#F3CB04FF", "#E28027FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/Topaz/"> <img src="../../tvthemes/Topaz/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +65,16 @@ c("#010101FF", "#6DAABDFF", "#CAECB3FF", "#F3CB04FF", "#E28027FF")
 </figure> <figure class="figure">
 <a href="../../fishualize/Melichthys_vidua/"> <img src="../../fishualize/Melichthys_vidua/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../soilpalettes/rendoll/"> <img src="../../soilpalettes/rendoll/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../fishualize/Neogobius_melanostomus/"> <img src="../../fishualize/Neogobius_melanostomus/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../soilpalettes/rendoll/"> <img src="../../soilpalettes/rendoll/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/s_spinigerus/"> <img src="../../colRoz/s_spinigerus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Oxymonacanthus_longirostris/"> <img src="../../fishualize/Oxymonacanthus_longirostris/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Epibulus_insidiator/"> <img src="../../fishualize/Epibulus_insidiator/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Oslita/"> <img src="../../poisonfrogs/Oslita/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

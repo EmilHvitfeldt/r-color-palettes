@@ -53,11 +53,7 @@ c("#4A1326FF", "#5E0F24FF", "#750B21FF", "#943047FF", "#BE294CFF", "#A46478FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../unikn/pal_unikn_dark/"> <img src="../../unikn/pal_unikn_dark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,6 +65,8 @@ c("#4A1326FF", "#5E0F24FF", "#750B21FF", "#943047FF", "#BE294CFF", "#A46478FF", 
 </figure> <figure class="figure">
 <a href="../../beyonce/X51/"> <img src="../../beyonce/X51/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../PrettyCols/Aubergines/"> <img src="../../PrettyCols/Aubergines/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../beyonce/X1/"> <img src="../../beyonce/X1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/pistons/"> <img src="../../nbapalettes/pistons/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -76,5 +74,7 @@ c("#4A1326FF", "#5E0F24FF", "#750B21FF", "#943047FF", "#BE294CFF", "#A46478FF", 
 <a href="../../nbapalettes/pistons_city/"> <img src="../../nbapalettes/pistons_city/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/Sardonyx/"> <img src="../../tvthemes/Sardonyx/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../RColorBrewer/PuRd/"> <img src="../../RColorBrewer/PuRd/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

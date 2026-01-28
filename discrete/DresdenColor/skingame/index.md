@@ -53,11 +53,7 @@ c("#3E321AFF", "#643613FF", "#D35127FF", "#EB974EFF", "#FAEAADFF", "#AFBBDFFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Nemateleotris_magnifica/"> <img src="../../fishualize/Nemateleotris_magnifica/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,6 +65,8 @@ c("#3E321AFF", "#643613FF", "#D35127FF", "#EB974EFF", "#FAEAADFF", "#AFBBDFFF")
 </figure> <figure class="figure">
 <a href="../../beyonce/X58/"> <img src="../../beyonce/X58/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../poisonfrogs/Oanchicayensis/"> <img src="../../poisonfrogs/Oanchicayensis/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../colRoz/l_vestiens/"> <img src="../../colRoz/l_vestiens/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../soilpalettes/podzol/"> <img src="../../soilpalettes/podzol/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -76,5 +74,7 @@ c("#3E321AFF", "#643613FF", "#D35127FF", "#EB974EFF", "#FAEAADFF", "#AFBBDFFF")
 <a href="../../colRoz/ngadju/"> <img src="../../colRoz/ngadju/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/SandroBotticelli_1/"> <img src="../../lisa/SandroBotticelli_1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Redmonder/qMSOYl/"> <img src="../../Redmonder/qMSOYl/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

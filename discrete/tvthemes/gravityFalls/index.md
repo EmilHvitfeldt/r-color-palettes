@@ -53,11 +53,7 @@ c("#417BA1FF", "#FF1493FF", "#FFFF2EFF", "#345634FF", "#8B0000FF", "#FF6700FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/springfield_simpsons/"> <img src="../../ggsci/springfield_simpsons/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -71,10 +67,14 @@ c("#417BA1FF", "#FF1493FF", "#FFFF2EFF", "#345634FF", "#8B0000FF", "#FF6700FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/ariados/"> <img src="../../palettetown/ariados/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ltc/hat/"> <img src="../../ltc/hat/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../ltc/ten_colors/"> <img src="../../ltc/ten_colors/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ltc/hat/"> <img src="../../ltc/hat/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggsci/aussie_flatui/"> <img src="../../ggsci/aussie_flatui/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MoMAColors/Warhol/"> <img src="../../MoMAColors/Warhol/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../tvthemes/spongeBob/"> <img src="../../tvthemes/spongeBob/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

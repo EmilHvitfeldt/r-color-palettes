@@ -53,11 +53,7 @@ c("#6C803AFF", "#7B5C34FF", "#AB7C47FF", "#CCAE42FF", "#D73202FF", "#272318FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../DresdenColor/sidejobs/"> <img src="../../DresdenColor/sidejobs/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -73,8 +69,12 @@ c("#6C803AFF", "#7B5C34FF", "#AB7C47FF", "#CCAE42FF", "#D73202FF", "#272318FF", 
 </figure> <figure class="figure">
 <a href="../../IslamicArt/fes/"> <img src="../../IslamicArt/fes/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/lycorea_hallia/"> <img src="../../ButterflyColors/lycorea_hallia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../MetBrewer/Paquin/"> <img src="../../MetBrewer/Paquin/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ButterflyColors/lycorea_hallia/"> <img src="../../ButterflyColors/lycorea_hallia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../tayloRswift/TLOAS/"> <img src="../../tayloRswift/TLOAS/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../colRoz/flavolineata/"> <img src="../../colRoz/flavolineata/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

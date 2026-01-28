@@ -53,11 +53,7 @@ c("#F24D98FF", "#813B7CFF", "#59D044FF", "#F3A002FF", "#F2F44DFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../LaCroixColoR/PommeBaya/"> <img src="../../LaCroixColoR/PommeBaya/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +65,16 @@ c("#F24D98FF", "#813B7CFF", "#59D044FF", "#F3A002FF", "#F2F44DFF")
 </figure> <figure class="figure">
 <a href="../../jcolors/pal3/"> <img src="../../jcolors/pal3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Coris_gaimard/"> <img src="../../fishualize/Coris_gaimard/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../MoMAColors/Budnitz/"> <img src="../../MoMAColors/Budnitz/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Coris_gaimard/"> <img src="../../fishualize/Coris_gaimard/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Callanthias_australis/"> <img src="../../fishualize/Callanthias_australis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../fishualize/Holacanthus_ciliaris/"> <img src="../../fishualize/Holacanthus_ciliaris/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../waRhol/camo_87_1/"> <img src="../../waRhol/camo_87_1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../LaCroixColoR/PinaFraise/"> <img src="../../LaCroixColoR/PinaFraise/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

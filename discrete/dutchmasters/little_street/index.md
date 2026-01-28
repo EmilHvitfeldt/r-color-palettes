@@ -53,11 +53,7 @@ c("#9D3D2DFF", "#99A8A5FF", "#8F4C2DFF", "#6A6A54FF", "#EADAC5FF", "#27221FFF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../peRReo/daddy1/"> <img src="../../peRReo/daddy1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -71,10 +67,14 @@ c("#9D3D2DFF", "#99A8A5FF", "#8F4C2DFF", "#6A6A54FF", "#EADAC5FF", "#27221FFF", 
 </figure> <figure class="figure">
 <a href="../../impressionist.colors/le_dejeuner_des_canotiers/"> <img src="../../impressionist.colors/le_dejeuner_des_canotiers/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../lisa/LucianFreud/"> <img src="../../lisa/LucianFreud/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../palettetown/houndour/"> <img src="../../palettetown/houndour/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../impressionist.colors/vahine_no_te_tiare/"> <img src="../../impressionist.colors/vahine_no_te_tiare/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/nincada/"> <img src="../../palettetown/nincada/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../lisa/LucianFreud/"> <img src="../../lisa/LucianFreud/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/linoone/"> <img src="../../palettetown/linoone/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

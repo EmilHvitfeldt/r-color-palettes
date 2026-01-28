@@ -53,11 +53,7 @@ c("#906830FF", "#C09848FF", "#683010FF", "#C0C0A8FF", "#D8B868FF", "#E0E0D0FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/slowking/"> <img src="../../palettetown/slowking/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -73,8 +69,12 @@ c("#906830FF", "#C09848FF", "#683010FF", "#C0C0A8FF", "#D8B868FF", "#E0E0D0FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/dugtrio/"> <img src="../../palettetown/dugtrio/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../palettetown/pidgey/"> <img src="../../palettetown/pidgey/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/torchic/"> <img src="../../palettetown/torchic/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/pidgey/"> <img src="../../palettetown/pidgey/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../palettetown/cubone/"> <img src="../../palettetown/cubone/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/slowbro/"> <img src="../../palettetown/slowbro/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

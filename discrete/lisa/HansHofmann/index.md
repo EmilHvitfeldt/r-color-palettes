@@ -53,11 +53,9 @@ c("#1A6DEDFF", "#2C7CE6FF", "#145CBFFF", "#162B3DFF", "#F9ECE4FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ggsci/blue_tw3/"> <img src="../../ggsci/blue_tw3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../futurevisions/europa/"> <img src="../../futurevisions/europa/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +74,7 @@ c("#1A6DEDFF", "#2C7CE6FF", "#145CBFFF", "#162B3DFF", "#F9ECE4FF")
 <a href="../../MetBrewer/Hokusai2/"> <img src="../../MetBrewer/Hokusai2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../severance/Dinner/"> <img src="../../severance/Dinner/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../LaCroixColoR/Berry/"> <img src="../../LaCroixColoR/Berry/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

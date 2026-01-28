@@ -53,11 +53,7 @@ c("#009392FF", "#72AAA1FF", "#B1C7B3FF", "#F1EAC8FF", "#E5B9ADFF", "#D98994FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X129/"> <img src="../../beyonce/X129/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -73,8 +69,12 @@ c("#009392FF", "#72AAA1FF", "#B1C7B3FF", "#F1EAC8FF", "#E5B9ADFF", "#D98994FF", 
 </figure> <figure class="figure">
 <a href="../../PNWColors/Shuksan/"> <img src="../../PNWColors/Shuksan/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../rcartocolor/ArmyRose/"> <img src="../../rcartocolor/ArmyRose/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../rcartocolor/Temps/"> <img src="../../rcartocolor/Temps/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../rcartocolor/ArmyRose/"> <img src="../../rcartocolor/ArmyRose/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../Redmonder/qMSOPap/"> <img src="../../Redmonder/qMSOPap/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MoMAColors/Lupi/"> <img src="../../MoMAColors/Lupi/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

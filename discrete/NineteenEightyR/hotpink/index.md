@@ -53,11 +53,7 @@ c("#FF69B4FF", "#FF6EB4FF", "#EE6AA7FF", "#CD6090FF", "#8B3A62FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../PrettyCols/Pinks/"> <img src="../../PrettyCols/Pinks/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +65,16 @@ c("#FF69B4FF", "#FF6EB4FF", "#EE6AA7FF", "#CD6090FF", "#8B3A62FF")
 </figure> <figure class="figure">
 <a href="../../ggprism/purple_passion/"> <img src="../../ggprism/purple_passion/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../beyonce/X91/"> <img src="../../beyonce/X91/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../unikn/pal_pinky/"> <img src="../../unikn/pal_pinky/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../beyonce/X91/"> <img src="../../beyonce/X91/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/Magenta/"> <img src="../../rcartocolor/Magenta/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/Burg/"> <img src="../../rcartocolor/Burg/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../beyonce/X27/"> <img src="../../beyonce/X27/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggsci/pink_material/"> <img src="../../ggsci/pink_material/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

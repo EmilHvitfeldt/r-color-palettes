@@ -53,11 +53,7 @@ c("#1A476FFF", "#90353BFF", "#55752FFF", "#E37E00FF", "#6E8E84FF", "#C10534FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/sneasel/"> <img src="../../palettetown/sneasel/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -73,8 +69,12 @@ c("#1A476FFF", "#90353BFF", "#55752FFF", "#E37E00FF", "#6E8E84FF", "#C10534FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/swampert/"> <img src="../../palettetown/swampert/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../dutchmasters/milkmaid/"> <img src="../../dutchmasters/milkmaid/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../MetBrewer/Signac/"> <img src="../../MetBrewer/Signac/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../dutchmasters/milkmaid/"> <img src="../../dutchmasters/milkmaid/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../palettetown/weezing/"> <img src="../../palettetown/weezing/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/murkrow/"> <img src="../../palettetown/murkrow/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,11 +53,7 @@ c("#285291FF", "#579125FF", "#915B11FF", "#91181EFF", "#91188FFF", "#4F2B91FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/muted_rainbow/"> <img src="../../ggprism/muted_rainbow/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#285291FF", "#579125FF", "#915B11FF", "#91181EFF", "#91188FFF", "#4F2B91FF", 
 <a href="../../Manu/Korimako/"> <img src="../../Manu/Korimako/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/nuggets_statement/"> <img src="../../nbapalettes/nuggets_statement/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MetBrewer/Moreau/"> <img src="../../MetBrewer/Moreau/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MetBrewer/Veronese/"> <img src="../../MetBrewer/Veronese/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

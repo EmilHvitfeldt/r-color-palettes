@@ -53,17 +53,13 @@ c("#041E42FF", "#00A9E0FF", "#BE3A34FF", "#FFA400FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/thunder/"> <img src="../../nbapalettes/thunder/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nbapalettes/thunder_city2/"> <img src="../../nbapalettes/thunder_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../nbapalettes/warriors_city2/"> <img src="../../nbapalettes/warriors_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nbapalettes/thunder_city2/"> <img src="../../nbapalettes/thunder_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Johnson/"> <img src="../../MetBrewer/Johnson/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#041E42FF", "#00A9E0FF", "#BE3A34FF", "#FFA400FF")
 <a href="../../PrettyCols/Bright/"> <img src="../../PrettyCols/Bright/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../waRhol/skull_76_2/"> <img src="../../waRhol/skull_76_2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../suffrager/CarolMan/"> <img src="../../suffrager/CarolMan/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../suffrager/london/"> <img src="../../suffrager/london/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

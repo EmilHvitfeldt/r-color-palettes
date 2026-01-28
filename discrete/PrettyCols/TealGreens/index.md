@@ -53,11 +53,7 @@ c("#00393AFF", "#0A6969FF", "#2D9C9CFF", "#6DCFCFFF", "#F5F5F5FF", "#99CE64FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSOGnYl/"> <img src="../../Redmonder/qMSOGnYl/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -65,9 +61,9 @@ c("#00393AFF", "#0A6969FF", "#2D9C9CFF", "#6DCFCFFF", "#F5F5F5FF", "#99CE64FF", 
 </figure> <figure class="figure">
 <a href="../../tayloRswift/taylorSwift/"> <img src="../../tayloRswift/taylorSwift/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/lotad/"> <img src="../../palettetown/lotad/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../Redmonder/qMSOBu/"> <img src="../../Redmonder/qMSOBu/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/lotad/"> <img src="../../palettetown/lotad/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../PNWColors/Lake/"> <img src="../../PNWColors/Lake/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#00393AFF", "#0A6969FF", "#2D9C9CFF", "#6DCFCFFF", "#F5F5F5FF", "#99CE64FF", 
 <a href="../../rcartocolor/Emrld/"> <img src="../../rcartocolor/Emrld/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSOGn/"> <img src="../../Redmonder/qMSOGn/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../rcartocolor/BluYl/"> <img src="../../rcartocolor/BluYl/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/celebi/"> <img src="../../palettetown/celebi/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

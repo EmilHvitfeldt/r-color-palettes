@@ -53,11 +53,7 @@ c("#1C1113FF", "#1A2A29FF", "#D1DCCEFF", "#CE512CFF", "#5D1722FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ButterflyColors/heliconius_erato_phyllis/"> <img src="../../ButterflyColors/heliconius_erato_phyllis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,6 +65,8 @@ c("#1C1113FF", "#1A2A29FF", "#D1DCCEFF", "#CE512CFF", "#5D1722FF")
 </figure> <figure class="figure">
 <a href="../../beyonce/X130/"> <img src="../../beyonce/X130/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../poisonfrogs/Aminutus/"> <img src="../../poisonfrogs/Aminutus/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../rockthemes/miles/"> <img src="../../rockthemes/miles/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/AndyWarhol_2/"> <img src="../../lisa/AndyWarhol_2/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -76,5 +74,7 @@ c("#1C1113FF", "#1A2A29FF", "#D1DCCEFF", "#CE512CFF", "#5D1722FF")
 <a href="../../nationalparkcolors/Hawaii/"> <img src="../../nationalparkcolors/Hawaii/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../soilpalettes/alaquod/"> <img src="../../soilpalettes/alaquod/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MexBrewer/Aurora/"> <img src="../../MexBrewer/Aurora/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

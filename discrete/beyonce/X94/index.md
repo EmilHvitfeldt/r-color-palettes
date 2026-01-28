@@ -53,11 +53,9 @@ c("#E37A0FFF", "#492F48FF", "#482E47FF", "#AA8B4AFF", "#AA8B48FF", "#E65286FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../feathers/blue_winged_kookaburra/"> <img src="../../feathers/blue_winged_kookaburra/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../werpals/uyuni/"> <img src="../../werpals/uyuni/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -73,7 +71,9 @@ c("#E37A0FFF", "#492F48FF", "#482E47FF", "#AA8B4AFF", "#AA8B48FF", "#E65286FF", 
 </figure> <figure class="figure">
 <a href="../../calecopal/figmtn/"> <img src="../../calecopal/figmtn/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../beyonce/X76/"> <img src="../../beyonce/X76/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ggprism/prism_dark2/"> <img src="../../ggprism/prism_dark2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggprism/prism_light/"> <img src="../../ggprism/prism_light/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../unikn/pal_unikn_pair/"> <img src="../../unikn/pal_unikn_pair/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 

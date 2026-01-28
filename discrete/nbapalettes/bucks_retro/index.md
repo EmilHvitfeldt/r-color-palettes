@@ -53,11 +53,7 @@ c("#2C5234FF", "#00843DFF", "#6CC24AFF", "#DE7C00FF", "#010101FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/celtics_champ/"> <img src="../../nbapalettes/celtics_champ/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +65,16 @@ c("#2C5234FF", "#00843DFF", "#6CC24AFF", "#DE7C00FF", "#010101FF")
 </figure> <figure class="figure">
 <a href="../../wesanderson/Cavalcanti1/"> <img src="../../wesanderson/Cavalcanti1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../lisa/Jean_MichelBasquiat_1/"> <img src="../../lisa/Jean_MichelBasquiat_1/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../poisonfrogs/Ashihuemoy/"> <img src="../../poisonfrogs/Ashihuemoy/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../DresdenColor/bloodrites/"> <img src="../../DresdenColor/bloodrites/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../lisa/Jean_MichelBasquiat_1/"> <img src="../../lisa/Jean_MichelBasquiat_1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Ptomopterna/"> <img src="../../poisonfrogs/Ptomopterna/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../DresdenColor/provenguilty/"> <img src="../../DresdenColor/provenguilty/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Halichoeres_garnoti/"> <img src="../../fishualize/Halichoeres_garnoti/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../poisonfrogs/Mlaevigata/"> <img src="../../poisonfrogs/Mlaevigata/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

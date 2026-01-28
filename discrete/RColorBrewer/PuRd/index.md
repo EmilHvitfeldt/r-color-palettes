@@ -53,15 +53,13 @@ c("#F7F4F9FF", "#E7E1EFFF", "#D4B9DAFF", "#C994C7FF", "#DF65B0FF", "#E7298AFF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/forretress/"> <img src="../../palettetown/forretress/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/Spinel/"> <img src="../../tvthemes/Spinel/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggsci/pink_tw3/"> <img src="../../ggsci/pink_tw3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/Sardonyx/"> <img src="../../tvthemes/Sardonyx/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +74,7 @@ c("#F7F4F9FF", "#E7E1EFFF", "#D4B9DAFF", "#C994C7FF", "#DF65B0FF", "#E7298AFF", 
 <a href="../../PrettyCols/PurplePinks/"> <img src="../../PrettyCols/PurplePinks/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X57/"> <img src="../../beyonce/X57/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Redmonder/qMSORdPu/"> <img src="../../Redmonder/qMSORdPu/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

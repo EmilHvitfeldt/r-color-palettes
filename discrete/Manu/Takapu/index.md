@@ -53,11 +53,7 @@ c("#DEB478FF", "#976533FF", "#D3D5D0FF", "#76716EFF", "#272623FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../wesanderson/Moonrise2/"> <img src="../../wesanderson/Moonrise2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#DEB478FF", "#976533FF", "#D3D5D0FF", "#76716EFF", "#272623FF")
 <a href="../../vangogh/Cypresses/"> <img src="../../vangogh/Cypresses/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../DresdenColor/stormfront/"> <img src="../../DresdenColor/stormfront/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Pvaillantii/"> <img src="../../poisonfrogs/Pvaillantii/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../lisa/Pierre_AugusteRenoir_1/"> <img src="../../lisa/Pierre_AugusteRenoir_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

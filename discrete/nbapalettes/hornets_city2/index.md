@@ -53,19 +53,15 @@ c("#B1B3B3FF", "#888B8DFF", "#211747FF", "#00778BFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/hornets2/"> <img src="../../nbapalettes/hornets2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Sparisoma_tuyupiranga_m/"> <img src="../../fishualize/Sparisoma_tuyupiranga_m/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../MexBrewer/Maiz/"> <img src="../../MexBrewer/Maiz/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../beyonce/X51/"> <img src="../../beyonce/X51/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MexBrewer/Maiz/"> <img src="../../MexBrewer/Maiz/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MapPalettes/tealberry_pie/"> <img src="../../MapPalettes/tealberry_pie/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#B1B3B3FF", "#888B8DFF", "#211747FF", "#00778BFF")
 <a href="../../MetBrewer/Hokusai2/"> <img src="../../MetBrewer/Hokusai2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/wizards_earned/"> <img src="../../nbapalettes/wizards_earned/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MoMAColors/Sidhu/"> <img src="../../MoMAColors/Sidhu/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../tayloRswift/AquamarineGreen1989/"> <img src="../../tayloRswift/AquamarineGreen1989/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

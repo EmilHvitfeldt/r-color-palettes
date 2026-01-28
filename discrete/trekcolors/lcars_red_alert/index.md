@@ -53,11 +53,7 @@ c("#F517C3FF", "#BF2D42FF", "#A30E24FF", "#330512FF", "#D9D5B8FF", "#F1DFBFFF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/dPBIRdGy/"> <img src="../../Redmonder/dPBIRdGy/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#F517C3FF", "#BF2D42FF", "#A30E24FF", "#330512FF", "#D9D5B8FF", "#F1DFBFFF", 
 <a href="../../palettetown/whismur/"> <img src="../../palettetown/whismur/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../werpals/alice/"> <img src="../../werpals/alice/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../werpals/uyuni/"> <img src="../../werpals/uyuni/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/nidoranm/"> <img src="../../palettetown/nidoranm/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

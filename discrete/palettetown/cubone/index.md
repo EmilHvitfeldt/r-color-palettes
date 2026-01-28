@@ -53,11 +53,7 @@ c("#906830FF", "#282828FF", "#F8F8F8FF", "#E0E0D0FF", "#C0C0A8FF", "#C09848FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/piloswine/"> <img src="../../palettetown/piloswine/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -73,8 +69,12 @@ c("#906830FF", "#282828FF", "#F8F8F8FF", "#E0E0D0FF", "#C0C0A8FF", "#C09848FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/growlithe/"> <img src="../../palettetown/growlithe/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../palettetown/ursaring/"> <img src="../../palettetown/ursaring/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/corphish/"> <img src="../../palettetown/corphish/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/ursaring/"> <img src="../../palettetown/ursaring/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../palettetown/combusken/"> <img src="../../palettetown/combusken/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/torchic/"> <img src="../../palettetown/torchic/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

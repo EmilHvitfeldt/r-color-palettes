@@ -53,11 +53,7 @@ c("#FB6246FF", "#E59C1EFF", "#F5DE31FF", "#ADA01FFF", "#BBC0CDFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Tara/"> <img src="../../MetBrewer/Tara/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,14 +63,18 @@ c("#FB6246FF", "#E59C1EFF", "#F5DE31FF", "#ADA01FFF", "#BBC0CDFF")
 </figure> <figure class="figure">
 <a href="../../palettetown/ninetales/"> <img src="../../palettetown/ninetales/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../rcartocolor/Fall/"> <img src="../../rcartocolor/Fall/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nbapalettes/spurs/"> <img src="../../nbapalettes/spurs/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../wesanderson/Royal2/"> <img src="../../wesanderson/Royal2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../rcartocolor/Fall/"> <img src="../../rcartocolor/Fall/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../lisa/JackYoungerman/"> <img src="../../lisa/JackYoungerman/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Hemitaurichthys_polylepis/"> <img src="../../fishualize/Hemitaurichthys_polylepis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Mesh/"> <img src="../../ggthemes/excel_Mesh/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Hemitaurichthys_polylepis/"> <img src="../../fishualize/Hemitaurichthys_polylepis/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../wesanderson/AsteroidCity1/"> <img src="../../wesanderson/AsteroidCity1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

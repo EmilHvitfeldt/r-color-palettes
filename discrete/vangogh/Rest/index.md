@@ -53,11 +53,7 @@ c("#54778CFF", "#BF7315FF", "#F29B30FF", "#8C4303FF", "#F2AA6BFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../IslamicArt/cordoba/"> <img src="../../IslamicArt/cordoba/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -75,6 +71,10 @@ c("#54778CFF", "#BF7315FF", "#F29B30FF", "#8C4303FF", "#F2AA6BFF")
 </figure> <figure class="figure">
 <a href="../../colRoz/grandis/"> <img src="../../colRoz/grandis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../poisonfrogs/Ramazonica/"> <img src="../../poisonfrogs/Ramazonica/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nord/red_mountain/"> <img src="../../nord/red_mountain/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../NatParksPalettes/BryceCanyon/"> <img src="../../NatParksPalettes/BryceCanyon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

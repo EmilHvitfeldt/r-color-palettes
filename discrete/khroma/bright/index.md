@@ -53,11 +53,7 @@ c("#4477AAFF", "#EE6677FF", "#228833FF", "#CCBB44FF", "#66CCEEFF", "#AA3377FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/MarcChagall/"> <img src="../../lisa/MarcChagall/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -65,9 +61,9 @@ c("#4477AAFF", "#EE6677FF", "#228833FF", "#CCBB44FF", "#66CCEEFF", "#AA3377FF", 
 </figure> <figure class="figure">
 <a href="../../MexBrewer/Casita1/"> <img src="../../MexBrewer/Casita1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../unikn/pal_unikn_pref/"> <img src="../../unikn/pal_unikn_pref/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../PrettyCols/Relax/"> <img src="../../PrettyCols/Relax/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../unikn/pal_unikn_pref/"> <img src="../../unikn/pal_unikn_pref/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../RColorBrewer/Accent/"> <img src="../../RColorBrewer/Accent/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#4477AAFF", "#EE6677FF", "#228833FF", "#CCBB44FF", "#66CCEEFF", "#AA3377FF", 
 <a href="../../lisa/PietMondrian/"> <img src="../../lisa/PietMondrian/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/JamesRosenquist/"> <img src="../../lisa/JamesRosenquist/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../feathers/eastern_rosella/"> <img src="../../feathers/eastern_rosella/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../feathers/princess_parrot/"> <img src="../../feathers/princess_parrot/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

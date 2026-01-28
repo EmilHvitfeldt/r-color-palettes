@@ -53,11 +53,7 @@ c("#E51E32FF", "#FF782AFF", "#FDA805FF", "#E2CF04FF", "#B1CA05FF", "#98C217FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../basetheme/deepblue/"> <img src="../../basetheme/deepblue/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +65,16 @@ c("#E51E32FF", "#FF782AFF", "#FDA805FF", "#E2CF04FF", "#B1CA05FF", "#98C217FF", 
 </figure> <figure class="figure">
 <a href="../../RColorBrewer/Spectral/"> <img src="../../RColorBrewer/Spectral/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../Redmonder/qMSOStd/"> <img src="../../Redmonder/qMSOStd/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../jcolors/pal7/"> <img src="../../jcolors/pal7/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Redmonder/qMSOStd/"> <img src="../../Redmonder/qMSOStd/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tidyquant/tq_dark/"> <img src="../../tidyquant/tq_dark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemr/flat/"> <img src="../../ggthemr/flat/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nbapalettes/bucks_city2/"> <img src="../../nbapalettes/bucks_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../LaCroixColoR/Mango/"> <img src="../../LaCroixColoR/Mango/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

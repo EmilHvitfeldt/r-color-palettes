@@ -53,11 +53,7 @@ c("#C8102EFF", "#010101FF", "#373A36FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/raptors_statement/"> <img src="../../nbapalettes/raptors_statement/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,14 +63,18 @@ c("#C8102EFF", "#010101FF", "#373A36FF")
 </figure> <figure class="figure">
 <a href="../../nbapalettes/wizards/"> <img src="../../nbapalettes/wizards/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nbapalettes/kings/"> <img src="../../nbapalettes/kings/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../nbapalettes/kings_alt2/"> <img src="../../nbapalettes/kings_alt2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nbapalettes/kings/"> <img src="../../nbapalettes/kings/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/blazers_city2/"> <img src="../../nbapalettes/blazers_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/hallmarks_dark_cosmic/"> <img src="../../ggsci/hallmarks_dark_cosmic/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X4/"> <img src="../../beyonce/X4/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ButterflyColors/chorinea_licursis/"> <img src="../../ButterflyColors/chorinea_licursis/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nbapalettes/bulls_city2/"> <img src="../../nbapalettes/bulls_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

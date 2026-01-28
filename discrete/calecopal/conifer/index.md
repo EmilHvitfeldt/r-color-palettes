@@ -53,11 +53,7 @@ c("#CC7540FF", "#765043FF", "#A69260FF", "#979A6BFF", "#39692FFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../vangogh/SunflowersLondon/"> <img src="../../vangogh/SunflowersLondon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +65,16 @@ c("#CC7540FF", "#765043FF", "#A69260FF", "#979A6BFF", "#39692FFF")
 </figure> <figure class="figure">
 <a href="../../rtist/klimt/"> <img src="../../rtist/klimt/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../vangogh/CafeDeNuit/"> <img src="../../vangogh/CafeDeNuit/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../fishualize/Barbus_barbus/"> <img src="../../fishualize/Barbus_barbus/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggthemes/excel_Orange/"> <img src="../../ggthemes/excel_Orange/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Retrospect/"> <img src="../../ggthemes/excel_Retrospect/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggthemes/excel_Orange/"> <img src="../../ggthemes/excel_Orange/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../vangogh/CafeDeNuit/"> <img src="../../vangogh/CafeDeNuit/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nord/moose_pond/"> <img src="../../nord/moose_pond/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggthemes/excel_Wisp/"> <img src="../../ggthemes/excel_Wisp/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

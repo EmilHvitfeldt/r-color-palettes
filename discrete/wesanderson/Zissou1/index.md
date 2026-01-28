@@ -53,11 +53,7 @@ c("#3B9AB2FF", "#78B7C5FF", "#EBCC2AFF", "#E1AF00FF", "#F21A00FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../PrettyCols/Lucent/"> <img src="../../PrettyCols/Lucent/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -65,16 +61,20 @@ c("#3B9AB2FF", "#78B7C5FF", "#EBCC2AFF", "#E1AF00FF", "#F21A00FF")
 </figure> <figure class="figure">
 <a href="../../ggthemes/Classic_Traffic_Light/"> <img src="../../ggthemes/Classic_Traffic_Light/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../lisa/JackYoungerman/"> <img src="../../lisa/JackYoungerman/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../waRhol/marilyn_green_62/"> <img src="../../waRhol/marilyn_green_62/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../lisa/JackYoungerman/"> <img src="../../lisa/JackYoungerman/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/Summer/"> <img src="../../ggthemes/Summer/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../wesanderson/AsteroidCity1/"> <img src="../../wesanderson/AsteroidCity1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../wesanderson/FantasticFox1/"> <img src="../../wesanderson/FantasticFox1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/JackBush/"> <img src="../../lisa/JackBush/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../wesanderson/FantasticFox1/"> <img src="../../wesanderson/FantasticFox1/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ggthemes/Jewel_Bright/"> <img src="../../ggthemes/Jewel_Bright/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../tvthemes/AirNomads/"> <img src="../../tvthemes/AirNomads/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

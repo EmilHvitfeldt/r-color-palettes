@@ -53,17 +53,15 @@ c("#008080FF", "#70A494FF", "#B4C8A8FF", "#F6EDBDFF", "#EDBB8AFF", "#DE8A5AFF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/Fall/"> <img src="../../rcartocolor/Fall/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/electabuzz/"> <img src="../../palettetown/electabuzz/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/desert_sunset/"> <img src="../../colRoz/desert_sunset/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../tayloRswift/TLOAS/"> <img src="../../tayloRswift/TLOAS/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSOMrq/"> <img src="../../Redmonder/qMSOMrq/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +74,7 @@ c("#008080FF", "#70A494FF", "#B4C8A8FF", "#F6EDBDFF", "#EDBB8AFF", "#DE8A5AFF", 
 <a href="../../colRoz/uluru/"> <img src="../../colRoz/uluru/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nationalparkcolors/Badlands/"> <img src="../../nationalparkcolors/Badlands/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../NatParksPalettes/SmokyMtns/"> <img src="../../NatParksPalettes/SmokyMtns/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

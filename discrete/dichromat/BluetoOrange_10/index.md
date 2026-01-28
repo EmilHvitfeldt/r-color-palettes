@@ -53,11 +53,7 @@ c("#0055FFFF", "#3399FFFF", "#66CCFFFF", "#99EEFFFF", "#CCFFFFFF", "#FFFFCCFF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colorBlindness/Blue2Orange10Steps/"> <img src="../../colorBlindness/Blue2Orange10Steps/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +65,16 @@ c("#0055FFFF", "#3399FFFF", "#66CCFFFF", "#99EEFFFF", "#CCFFFFFF", "#FFFFCCFF", 
 </figure> <figure class="figure">
 <a href="../../dichromat/BluetoOrangeRed_14/"> <img src="../../dichromat/BluetoOrangeRed_14/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../colorBlindness/ModifiedSpectralScheme11Steps/"> <img src="../../colorBlindness/ModifiedSpectralScheme11Steps/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../colorBlindness/Blue2Orange8Steps/"> <img src="../../colorBlindness/Blue2Orange8Steps/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../colorBlindness/ModifiedSpectralScheme11Steps/"> <img src="../../colorBlindness/ModifiedSpectralScheme11Steps/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../dichromat/BluetoOrange_8/"> <img src="../../dichromat/BluetoOrange_8/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../dichromat/DarkRedtoBlue_12/"> <img src="../../dichromat/DarkRedtoBlue_12/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../colorBlindness/Blue2DarkRed12Steps/"> <img src="../../colorBlindness/Blue2DarkRed12Steps/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../dichromat/Categorical_12/"> <img src="../../dichromat/Categorical_12/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

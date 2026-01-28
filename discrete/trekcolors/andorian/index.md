@@ -53,11 +53,7 @@ c("#202020FF", "#2D3C4DFF", "#3B597AFF", "#4B77A0FF", "#6395B8FF", "#7BB3CFFF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../trekcolors/ufp/"> <img src="../../trekcolors/ufp/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -73,8 +69,12 @@ c("#202020FF", "#2D3C4DFF", "#3B597AFF", "#4B77A0FF", "#6395B8FF", "#7BB3CFFF", 
 </figure> <figure class="figure">
 <a href="../../tvthemes/Night/"> <img src="../../tvthemes/Night/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ggsci/gray_bs5/"> <img src="../../ggsci/gray_bs5/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/remoraid/"> <img src="../../palettetown/remoraid/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../musculusColors/Bmsurface/"> <img src="../../musculusColors/Bmsurface/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../tayloRswift/midnights/"> <img src="../../tayloRswift/midnights/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

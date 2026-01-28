@@ -53,11 +53,7 @@ c("#CBB1B9FF", "#E3AE8EFF", "#BECCD9FF", "#C89F6DFF", "#BF7E04FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nationalparkcolors/BryceCanyon/"> <img src="../../nationalparkcolors/BryceCanyon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#CBB1B9FF", "#E3AE8EFF", "#BECCD9FF", "#C89F6DFF", "#BF7E04FF")
 <a href="../../fishualize/Lycengraulis_grossidens/"> <img src="../../fishualize/Lycengraulis_grossidens/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Xyrichthys_novacula/"> <img src="../../fishualize/Xyrichthys_novacula/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ltc/paloma/"> <img src="../../ltc/paloma/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../waRhol/basquiat_85/"> <img src="../../waRhol/basquiat_85/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

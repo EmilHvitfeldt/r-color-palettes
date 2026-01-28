@@ -53,11 +53,7 @@ c("#4E7989FF", "#A9011BFF", "#E4A826FF", "#80944EFF", "#DCD6B2FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rtist/picasso/"> <img src="../../rtist/picasso/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -65,16 +61,20 @@ c("#4E7989FF", "#A9011BFF", "#E4A826FF", "#80944EFF", "#DCD6B2FF")
 </figure> <figure class="figure">
 <a href="../../lisa/RobertDelaunay/"> <img src="../../lisa/RobertDelaunay/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Ctenochaetus_strigosus/"> <img src="../../fishualize/Ctenochaetus_strigosus/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../ggthemes/excel_Organic/"> <img src="../../ggthemes/excel_Organic/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../MetBrewer/VanGogh2/"> <img src="../../MetBrewer/VanGogh2/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../fishualize/Ctenochaetus_strigosus/"> <img src="../../fishualize/Ctenochaetus_strigosus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Badge/"> <img src="../../ggthemes/excel_Badge/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../calecopal/superbloom2/"> <img src="../../calecopal/superbloom2/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../MetBrewer/VanGogh2/"> <img src="../../MetBrewer/VanGogh2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nationalparkcolors/DeathValley/"> <img src="../../nationalparkcolors/DeathValley/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../calecopal/superbloom2/"> <img src="../../calecopal/superbloom2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../feathers/eastern_rosella/"> <img src="../../feathers/eastern_rosella/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nationalparkcolors/Redwoods/"> <img src="../../nationalparkcolors/Redwoods/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,11 +53,7 @@ c("#030439FF", "#00298CFF", "#211DF0FF", "#4092E1FF", "#CE8A8CFF", "#4B393BFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X25/"> <img src="../../beyonce/X25/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#030439FF", "#00298CFF", "#211DF0FF", "#4092E1FF", "#CE8A8CFF", "#4B393BFF")
 <a href="../../fishualize/Clepticus_parrae/"> <img src="../../fishualize/Clepticus_parrae/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../yarrr/eternal/"> <img src="../../yarrr/eternal/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggprism/office/"> <img src="../../ggprism/office/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../beyonce/X106/"> <img src="../../beyonce/X106/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

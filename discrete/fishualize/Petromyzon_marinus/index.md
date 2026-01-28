@@ -53,11 +53,7 @@ c("#514337FF", "#7B533EFF", "#9C7148FF", "#AC955FFF", "#ADA185FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../vangogh/Shoes/"> <img src="../../vangogh/Shoes/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#514337FF", "#7B533EFF", "#9C7148FF", "#AC955FFF", "#ADA185FF")
 <a href="../../rockthemes/swift/"> <img src="../../rockthemes/swift/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ButterflyColors/hylephila_phyleus/"> <img src="../../ButterflyColors/hylephila_phyleus/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../rtist/klimt/"> <img src="../../rtist/klimt/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MexBrewer/Taurus2/"> <img src="../../MexBrewer/Taurus2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

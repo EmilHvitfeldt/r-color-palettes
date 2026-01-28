@@ -53,11 +53,7 @@ c("#030F1EFF", "#253473FF", "#4982B6FF", "#8CCCE4FF", "#DFEBF1FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Ostracion_whitleyi/"> <img src="../../fishualize/Ostracion_whitleyi/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -75,6 +71,10 @@ c("#030F1EFF", "#253473FF", "#4982B6FF", "#8CCCE4FF", "#DFEBF1FF")
 </figure> <figure class="figure">
 <a href="../../lisa/YvesKlein/"> <img src="../../lisa/YvesKlein/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../PrettyCols/Ocean/"> <img src="../../PrettyCols/Ocean/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../MetBrewer/Hokusai2/"> <img src="../../MetBrewer/Hokusai2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../beyonce/X17/"> <img src="../../beyonce/X17/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

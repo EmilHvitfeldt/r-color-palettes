@@ -43,7 +43,7 @@ paletteer_d("tayloRswift::fearless")
 Use raw:
 
 ```r
-c("#B68F51FF", "#5B3617FF", "#F7EABEFF", "#ECD59FFF", "#825C2DFF")
+c("#DCBE83FF", "#88642CFF", "#EDE7D9FF", "#EFD998FF", "#49260AFF", "#EFB391FF")
 ``` 
 
 ![](examples.png) 
@@ -53,28 +53,28 @@ c("#B68F51FF", "#5B3617FF", "#F7EABEFF", "#ECD59FFF", "#825C2DFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../tayloRswift/fearlessTV/"> <img src="../../tayloRswift/fearlessTV/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Zapteryx_brevirostris/"> <img src="../../fishualize/Zapteryx_brevirostris/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../lisa/JohnQuidor/"> <img src="../../lisa/JohnQuidor/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../PNWColors/Mushroom/"> <img src="../../PNWColors/Mushroom/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../IslamicArt/fes/"> <img src="../../IslamicArt/fes/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../calecopal/oak/"> <img src="../../calecopal/oak/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../blueycolors/chilli/"> <img src="../../blueycolors/chilli/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../colRoz/v_acanthurus/"> <img src="../../colRoz/v_acanthurus/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../poisonfrogs/Dsarayacuensis/"> <img src="../../poisonfrogs/Dsarayacuensis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/OttoDix_1/"> <img src="../../lisa/OttoDix_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../soilpalettes/bangor/"> <img src="../../soilpalettes/bangor/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../rcartocolor/Fall/"> <img src="../../rcartocolor/Fall/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../lisa/JohannJacobUlrich/"> <img src="../../lisa/JohannJacobUlrich/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../poisonfrogs/Hhobbsi/"> <img src="../../poisonfrogs/Hhobbsi/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/kingler/"> <img src="../../palettetown/kingler/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Esox_lucius/"> <img src="../../fishualize/Esox_lucius/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

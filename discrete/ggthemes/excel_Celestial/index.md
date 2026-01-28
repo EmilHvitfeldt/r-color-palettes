@@ -53,11 +53,7 @@ c("#AC3EC1FF", "#477BD1FF", "#46B298FF", "#90BA4CFF", "#DD9D31FF", "#E25247FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Parallax/"> <img src="../../ggthemes/excel_Parallax/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -75,6 +71,10 @@ c("#AC3EC1FF", "#477BD1FF", "#46B298FF", "#90BA4CFF", "#DD9D31FF", "#E25247FF")
 </figure> <figure class="figure">
 <a href="../../basetheme/royal/"> <img src="../../basetheme/royal/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ggsci/categorical8_atlassian/"> <img src="../../ggsci/categorical8_atlassian/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ggthemr/flat/"> <img src="../../ggthemr/flat/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../basetheme/deepblue/"> <img src="../../basetheme/deepblue/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

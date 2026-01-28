@@ -53,11 +53,11 @@ c("#351821FF", "#9F2519FF", "#F65620FF", "#FFC87AFF", "#FBF2B5FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../poisonfrogs/Oscolon/"> <img src="../../poisonfrogs/Oscolon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../poisonfrogs/Oanchicayensis/"> <img src="../../poisonfrogs/Oanchicayensis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../soilpalettes/durorthod/"> <img src="../../soilpalettes/durorthod/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -75,6 +75,6 @@ c("#351821FF", "#9F2519FF", "#F65620FF", "#FFC87AFF", "#FBF2B5FF")
 </figure> <figure class="figure">
 <a href="../../beyonce/X45/"> <img src="../../beyonce/X45/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../beyonce/X58/"> <img src="../../beyonce/X58/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../beyonce/X115/"> <img src="../../beyonce/X115/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

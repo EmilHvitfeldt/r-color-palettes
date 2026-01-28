@@ -53,17 +53,13 @@ c("#BF2A37FF", "#59352DFF", "#D3392FFF", "#BFA77AFF", "#D93636FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Epinephelus_striatus/"> <img src="../../fishualize/Epinephelus_striatus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggthemes/excel_Wood_Type/"> <img src="../../ggthemes/excel_Wood_Type/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../ggthemes/excel_Orange_Red/"> <img src="../../ggthemes/excel_Orange_Red/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggthemes/excel_Wood_Type/"> <img src="../../ggthemes/excel_Wood_Type/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/BryceCanyon/"> <img src="../../NatParksPalettes/BryceCanyon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#BF2A37FF", "#59352DFF", "#D3392FFF", "#BFA77AFF", "#D93636FF")
 <a href="../../lisa/MaxBeckmann/"> <img src="../../lisa/MaxBeckmann/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/BarnettNewman/"> <img src="../../lisa/BarnettNewman/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../NineteenEightyR/sunset2/"> <img src="../../NineteenEightyR/sunset2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../beyonce/X69/"> <img src="../../beyonce/X69/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

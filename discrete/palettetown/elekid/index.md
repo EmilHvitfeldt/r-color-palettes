@@ -53,11 +53,7 @@ c("#E0A800FF", "#F0C048FF", "#B06800FF", "#F8E098FF", "#303040FF", "#686868FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/umbreon/"> <img src="../../palettetown/umbreon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -65,16 +61,20 @@ c("#E0A800FF", "#F0C048FF", "#B06800FF", "#F8E098FF", "#303040FF", "#686868FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/furret/"> <img src="../../palettetown/furret/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/hitmonlee/"> <img src="../../palettetown/hitmonlee/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../poisonfrogs/Haureoguttatum/"> <img src="../../poisonfrogs/Haureoguttatum/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../trekcolors/tholian/"> <img src="../../trekcolors/tholian/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../colRoz/ngadju/"> <img src="../../colRoz/ngadju/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../palettetown/hitmonlee/"> <img src="../../palettetown/hitmonlee/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/kakuna/"> <img src="../../palettetown/kakuna/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../colRoz/ngadju/"> <img src="../../colRoz/ngadju/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggpomological/pomological_base/"> <img src="../../ggpomological/pomological_base/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../palettetown/kakuna/"> <img src="../../palettetown/kakuna/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/noctowl/"> <img src="../../palettetown/noctowl/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/octillery/"> <img src="../../palettetown/octillery/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

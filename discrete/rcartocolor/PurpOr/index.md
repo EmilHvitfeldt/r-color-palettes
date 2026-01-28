@@ -53,11 +53,7 @@ c("#F9DDDAFF", "#F2B9C4FF", "#E597B9FF", "#CE78B3FF", "#AD5FADFF", "#834BA0FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MexBrewer/Ronda/"> <img src="../../MexBrewer/Ronda/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#F9DDDAFF", "#F2B9C4FF", "#E597B9FF", "#CE78B3FF", "#AD5FADFF", "#834BA0FF", 
 <a href="../../palettetown/zubat/"> <img src="../../palettetown/zubat/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/Classic_Purple_Gray_6/"> <img src="../../ggthemes/Classic_Purple_Gray_6/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../beyonce/X41/"> <img src="../../beyonce/X41/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/muk/"> <img src="../../palettetown/muk/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

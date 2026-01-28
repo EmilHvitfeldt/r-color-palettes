@@ -53,11 +53,7 @@ c("#B860B8FF", "#882880FF", "#E098D0FF", "#C0C0A0FF", "#F8D0F8FF", "#E0E0D0FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/dPBIPuGn/"> <img src="../../Redmonder/dPBIPuGn/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -75,6 +71,10 @@ c("#B860B8FF", "#882880FF", "#E098D0FF", "#C0C0A0FF", "#F8D0F8FF", "#E0E0D0FF", 
 </figure> <figure class="figure">
 <a href="../../khroma/PRGn/"> <img src="../../khroma/PRGn/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../palettetown/hitmontop/"> <img src="../../palettetown/hitmontop/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../rcartocolor/Tropic/"> <img src="../../rcartocolor/Tropic/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/PurpleYellows/"> <img src="../../PrettyCols/PurpleYellows/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,11 +53,9 @@ c("#96ABB1FF", "#313746FF", "#B0909DFF", "#687A97FF", "#292014FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../ButterflyColors/hamadryas_feronia_2/"> <img src="../../ButterflyColors/hamadryas_feronia_2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rockthemes/secondlaw/"> <img src="../../rockthemes/secondlaw/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +74,7 @@ c("#96ABB1FF", "#313746FF", "#B0909DFF", "#687A97FF", "#292014FF")
 <a href="../../Manu/Kereru/"> <img src="../../Manu/Kereru/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../DresdenColor/deathmasks/"> <img src="../../DresdenColor/deathmasks/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../futurevisions/jupiter/"> <img src="../../futurevisions/jupiter/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

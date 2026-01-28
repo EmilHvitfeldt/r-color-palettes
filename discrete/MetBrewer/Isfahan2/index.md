@@ -53,11 +53,7 @@ c("#D7ACA1FF", "#DDC000FF", "#79AD41FF", "#34B6C6FF", "#4063A3FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/PabloPicasso_1/"> <img src="../../lisa/PabloPicasso_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +65,16 @@ c("#D7ACA1FF", "#DDC000FF", "#79AD41FF", "#34B6C6FF", "#4063A3FF")
 </figure> <figure class="figure">
 <a href="../../ggthemes/Classic_Green_Orange_6/"> <img src="../../ggthemes/Classic_Green_Orange_6/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../fishualize/Sparisoma_viride/"> <img src="../../fishualize/Sparisoma_viride/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../fishualize/Valenciennea_strigata/"> <img src="../../fishualize/Valenciennea_strigata/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Sparisoma_viride/"> <img src="../../fishualize/Sparisoma_viride/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../jcolors/pal9/"> <img src="../../jcolors/pal9/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/VincentvanGogh_1/"> <img src="../../lisa/VincentvanGogh_1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nationalparkcolors/Zion/"> <img src="../../nationalparkcolors/Zion/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Rhinecanthus_aculeatus/"> <img src="../../fishualize/Rhinecanthus_aculeatus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

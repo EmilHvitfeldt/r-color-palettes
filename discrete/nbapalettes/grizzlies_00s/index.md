@@ -53,11 +53,7 @@ c("#707271FF", "#00285EFF", "#FDB927FF", "#BED4E9FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../PrettyCols/Relax/"> <img src="../../PrettyCols/Relax/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -71,10 +67,14 @@ c("#707271FF", "#00285EFF", "#FDB927FF", "#BED4E9FF")
 </figure> <figure class="figure">
 <a href="../../IslamicArt/samarqand2/"> <img src="../../IslamicArt/samarqand2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nationalparkcolors/Acadia/"> <img src="../../nationalparkcolors/Acadia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../fishualize/Zebrasoma_velifer/"> <img src="../../fishualize/Zebrasoma_velifer/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../nationalparkcolors/Acadia/"> <img src="../../nationalparkcolors/Acadia/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../ghibli/MarnieMedium1/"> <img src="../../ghibli/MarnieMedium1/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../rockthemes/nodoubt/"> <img src="../../rockthemes/nodoubt/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../lisa/LeeKrasner/"> <img src="../../lisa/LeeKrasner/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

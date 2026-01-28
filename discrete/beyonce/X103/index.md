@@ -53,11 +53,7 @@ c("#000000FF", "#613922FF", "#7D4C29FF", "#96725BFF", "#C1B5A2FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/DiegoVelazquez/"> <img src="../../lisa/DiegoVelazquez/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -66,6 +62,8 @@ c("#000000FF", "#613922FF", "#7D4C29FF", "#96725BFF", "#C1B5A2FF")
 <a href="../../wesanderson/IsleofDogs2/"> <img src="../../wesanderson/IsleofDogs2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/desert_flood/"> <img src="../../colRoz/desert_flood/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Rdune/sandworm/"> <img src="../../Rdune/sandworm/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../trekcolors/terran/"> <img src="../../trekcolors/terran/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +74,7 @@ c("#000000FF", "#613922FF", "#7D4C29FF", "#96725BFF", "#C1B5A2FF")
 <a href="../../colRoz/kimberley/"> <img src="../../colRoz/kimberley/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/p_breviceps/"> <img src="../../colRoz/p_breviceps/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MexBrewer/Tierra/"> <img src="../../MexBrewer/Tierra/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

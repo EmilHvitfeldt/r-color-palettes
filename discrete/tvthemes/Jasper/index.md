@@ -53,11 +53,7 @@ c("#2E0F16FF", "#A32A2FFF", "#EB9352FF", "#F8E3DBFF", "#91837DFF", "#37947EFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../soilpalettes/alaquod/"> <img src="../../soilpalettes/alaquod/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -65,9 +61,9 @@ c("#2E0F16FF", "#A32A2FFF", "#EB9352FF", "#F8E3DBFF", "#91837DFF", "#37947EFF")
 </figure> <figure class="figure">
 <a href="../../lisa/SandroBotticelli_1/"> <img src="../../lisa/SandroBotticelli_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../tayloRswift/evermore/"> <img src="../../tayloRswift/evermore/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../nationalparkcolors/Denali/"> <img src="../../nationalparkcolors/Denali/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../tayloRswift/evermore/"> <img src="../../tayloRswift/evermore/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rockthemes/miles/"> <img src="../../rockthemes/miles/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#2E0F16FF", "#A32A2FFF", "#EB9352FF", "#F8E3DBFF", "#91837DFF", "#37947EFF")
 <a href="../../colRoz/picta/"> <img src="../../colRoz/picta/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/pearl2/"> <img src="../../ggprism/pearl2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ltc/alger/"> <img src="../../ltc/alger/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Olehmanni/"> <img src="../../poisonfrogs/Olehmanni/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

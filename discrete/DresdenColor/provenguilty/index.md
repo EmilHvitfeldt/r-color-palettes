@@ -53,11 +53,7 @@ c("#AD3D27FF", "#D1E5C6FF", "#BCD384FF", "#4F9D4EFF", "#255025FF", "#0E130FFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../vangogh/Cypresses/"> <img src="../../vangogh/Cypresses/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,6 +63,8 @@ c("#AD3D27FF", "#D1E5C6FF", "#BCD384FF", "#4F9D4EFF", "#255025FF", "#0E130FFF")
 </figure> <figure class="figure">
 <a href="../../ggthemr/grass/"> <img src="../../ggthemr/grass/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../poisonfrogs/Opescudo/"> <img src="../../poisonfrogs/Opescudo/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../calecopal/agriculture/"> <img src="../../calecopal/agriculture/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../calecopal/wetland/"> <img src="../../calecopal/wetland/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -74,6 +72,8 @@ c("#AD3D27FF", "#D1E5C6FF", "#BCD384FF", "#4F9D4EFF", "#255025FF", "#0E130FFF")
 <a href="../../wesanderson/Cavalcanti1/"> <img src="../../wesanderson/Cavalcanti1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/bucks_earned/"> <img src="../../nbapalettes/bucks_earned/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../poisonfrogs/Edarwinwallacei/"> <img src="../../poisonfrogs/Edarwinwallacei/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tayloRswift/taylorSwift/"> <img src="../../tayloRswift/taylorSwift/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 

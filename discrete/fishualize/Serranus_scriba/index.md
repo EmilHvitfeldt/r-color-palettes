@@ -53,11 +53,7 @@ c("#F97E09FF", "#C8242BFF", "#2A2B3AFF", "#3054AFFF", "#84C7F4FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../suffrager/oxon/"> <img src="../../suffrager/oxon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#F97E09FF", "#C8242BFF", "#2A2B3AFF", "#3054AFFF", "#84C7F4FF")
 <a href="../../nbapalettes/knicks_city2/"> <img src="../../nbapalettes/knicks_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/Masaccio/"> <img src="../../lisa/Masaccio/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../waRhol/skull_76_2/"> <img src="../../waRhol/skull_76_2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../calecopal/superbloom3/"> <img src="../../calecopal/superbloom3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

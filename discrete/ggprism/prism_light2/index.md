@@ -53,11 +53,7 @@ c("#A48AD3FF", "#1CC5FEFF", "#6FC7CFFF", "#FBA27DFF", "#FB7D80FF", "#2C1453FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/prism_dark/"> <img src="../../ggprism/prism_dark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,6 +65,8 @@ c("#A48AD3FF", "#1CC5FEFF", "#6FC7CFFF", "#FBA27DFF", "#FB7D80FF", "#2C1453FF", 
 </figure> <figure class="figure">
 <a href="../../ggthemr/solarized/"> <img src="../../ggthemr/solarized/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../feathers/blue_winged_kookaburra/"> <img src="../../feathers/blue_winged_kookaburra/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../peRReo/badbunny1/"> <img src="../../peRReo/badbunny1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../LaCroixColoR/CranRaspberry/"> <img src="../../LaCroixColoR/CranRaspberry/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -76,5 +74,7 @@ c("#A48AD3FF", "#1CC5FEFF", "#6FC7CFFF", "#FBA27DFF", "#FB7D80FF", "#2C1453FF", 
 <a href="../../peRReo/karolg/"> <img src="../../peRReo/karolg/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/nrc_npg/"> <img src="../../ggsci/nrc_npg/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../tvthemes/Steven/"> <img src="../../tvthemes/Steven/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

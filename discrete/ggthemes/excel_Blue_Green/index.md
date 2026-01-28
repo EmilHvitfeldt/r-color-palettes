@@ -53,19 +53,15 @@ c("#3494BAFF", "#58B6C0FF", "#75BDA7FF", "#7A8C8EFF", "#84ACB6FF", "#2683C6FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nord/frost/"> <img src="../../nord/frost/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../soilpalettes/gley/"> <img src="../../soilpalettes/gley/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../Redmonder/qMSOBuGn/"> <img src="../../Redmonder/qMSOBuGn/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../ggthemes/excel_Blue_Warm/"> <img src="../../ggthemes/excel_Blue_Warm/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Redmonder/qMSOBuGn/"> <img src="../../Redmonder/qMSOBuGn/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Opisthonema_oglinum/"> <img src="../../fishualize/Opisthonema_oglinum/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#3494BAFF", "#58B6C0FF", "#75BDA7FF", "#7A8C8EFF", "#84ACB6FF", "#2683C6FF")
 <a href="../../ggthemes/excel_Violet/"> <img src="../../ggthemes/excel_Violet/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nord/afternoon_prarie/"> <img src="../../nord/afternoon_prarie/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ghibli/YesterdayLight/"> <img src="../../ghibli/YesterdayLight/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../unikn/pal_petrol/"> <img src="../../unikn/pal_petrol/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

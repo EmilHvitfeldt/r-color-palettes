@@ -53,11 +53,7 @@ c("#32A251FF", "#ACD98DFF", "#FF7F0FFF", "#FFB977FF", "#3CB7CCFF", "#98D9E4FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/Green_Orange_Teal/"> <img src="../../ggthemes/Green_Orange_Teal/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +65,16 @@ c("#32A251FF", "#ACD98DFF", "#FF7F0FFF", "#FFB977FF", "#3CB7CCFF", "#98D9E4FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/bayleef/"> <img src="../../palettetown/bayleef/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ggthemes/Miller_Stone/"> <img src="../../ggthemes/Miller_Stone/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/hoothoot/"> <img src="../../palettetown/hoothoot/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../wesanderson/Zissou1Continuous/"> <img src="../../wesanderson/Zissou1Continuous/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/Summer/"> <img src="../../ggthemes/Summer/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggthemes/Miller_Stone/"> <img src="../../ggthemes/Miller_Stone/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../palettetown/growlithe/"> <img src="../../palettetown/growlithe/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Redmonder/qMSOMrq/"> <img src="../../Redmonder/qMSOMrq/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,15 +53,13 @@ c("#E1A519FF", "#1E81C6FF", "#CAA6E8FF", "#696B61FF", "#2D2E2EFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ltc/pantone23/"> <img src="../../ltc/pantone23/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Kandinsky/"> <img src="../../MetBrewer/Kandinsky/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../blueycolors/socks/"> <img src="../../blueycolors/socks/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../IslamicArt/alhambra/"> <img src="../../IslamicArt/alhambra/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,12 +67,14 @@ c("#E1A519FF", "#1E81C6FF", "#CAA6E8FF", "#696B61FF", "#2D2E2EFF")
 </figure> <figure class="figure">
 <a href="../../colRoz/i_lesueurii/"> <img src="../../colRoz/i_lesueurii/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../calecopal/grassdry/"> <img src="../../calecopal/grassdry/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/JacksonPollock/"> <img src="../../lisa/JacksonPollock/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rtist/pollock/"> <img src="../../rtist/pollock/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../calecopal/grassdry/"> <img src="../../calecopal/grassdry/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../colRoz/p_cincta/"> <img src="../../colRoz/p_cincta/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../rtist/degas/"> <img src="../../rtist/degas/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

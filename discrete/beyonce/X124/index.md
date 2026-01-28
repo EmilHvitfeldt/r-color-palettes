@@ -53,11 +53,7 @@ c("#141824FF", "#32363FFF", "#55555FFF", "#AD8875FF", "#523B33FF", "#361913FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ghibli/PonyoDark/"> <img src="../../ghibli/PonyoDark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -73,8 +69,12 @@ c("#141824FF", "#32363FFF", "#55555FFF", "#AD8875FF", "#523B33FF", "#361913FF")
 </figure> <figure class="figure">
 <a href="../../beyonce/X84/"> <img src="../../beyonce/X84/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../PrettyCols/Aubergines/"> <img src="../../PrettyCols/Aubergines/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../beyonce/X1/"> <img src="../../beyonce/X1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ghibli/MononokeDark/"> <img src="../../ghibli/MononokeDark/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ghibli/SpiritedDark/"> <img src="../../ghibli/SpiritedDark/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

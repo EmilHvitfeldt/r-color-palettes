@@ -53,11 +53,7 @@ c("#5F8CF4FF", "#DCD6FCFF", "#E27A48FF", "#605646FF", "#434159FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nationalparkcolors/Arches/"> <img src="../../nationalparkcolors/Arches/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -69,11 +65,15 @@ c("#5F8CF4FF", "#DCD6FCFF", "#E27A48FF", "#605646FF", "#434159FF")
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/Triglav/"> <img src="../../NatParksPalettes/Triglav/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../blueycolors/socks/"> <img src="../../blueycolors/socks/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nationalparkcolors/ChannelIslands/"> <img src="../../nationalparkcolors/ChannelIslands/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Stegastes_nigricans/"> <img src="../../fishualize/Stegastes_nigricans/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Manu/Hoiho/"> <img src="../../Manu/Hoiho/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../werpals/when_i_was_your_age/"> <img src="../../werpals/when_i_was_your_age/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSOAsp/"> <img src="../../Redmonder/qMSOAsp/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 

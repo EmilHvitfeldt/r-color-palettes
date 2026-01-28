@@ -53,11 +53,7 @@ c("#A84848FF", "#F0D8D8FF", "#304830FF", "#909078FF", "#607890FF", "#90A8A8FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tayloRswift/taylor1989/"> <img src="../../tayloRswift/taylor1989/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -71,10 +67,14 @@ c("#A84848FF", "#F0D8D8FF", "#304830FF", "#909078FF", "#607890FF", "#90A8A8FF", 
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/KingsCanyon/"> <img src="../../NatParksPalettes/KingsCanyon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../PrettyCols/Coast/"> <img src="../../PrettyCols/Coast/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../nationalparkcolors/ArcticGates/"> <img src="../../nationalparkcolors/ArcticGates/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../peRReo/wyy/"> <img src="../../peRReo/wyy/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../IslamicArt/damascus/"> <img src="../../IslamicArt/damascus/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../DresdenColor/whitenight/"> <img src="../../DresdenColor/whitenight/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

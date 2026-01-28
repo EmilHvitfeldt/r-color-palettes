@@ -53,13 +53,11 @@ c("#211747FF", "#004F71FF", "#59C7EBFF", "#99D6EAFF", "#0082BAFF", "#FFC72CFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X19/"> <img src="../../beyonce/X19/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../blueycolors/bluey/"> <img src="../../blueycolors/bluey/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MoMAColors/VanGogh/"> <img src="../../MoMAColors/VanGogh/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,14 +65,16 @@ c("#211747FF", "#004F71FF", "#59C7EBFF", "#99D6EAFF", "#0082BAFF", "#FFC72CFF")
 </figure> <figure class="figure">
 <a href="../../RColorBrewer/YlGnBu/"> <img src="../../RColorBrewer/YlGnBu/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ghibli/YesterdayMedium/"> <img src="../../ghibli/YesterdayMedium/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/YvesKlein/"> <img src="../../lisa/YvesKlein/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../vangogh/StarryRhone/"> <img src="../../vangogh/StarryRhone/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ghibli/YesterdayMedium/"> <img src="../../ghibli/YesterdayMedium/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../fishualize/Rhinecanthus_aculeatus/"> <img src="../../fishualize/Rhinecanthus_aculeatus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MetBrewer/Hokusai3/"> <img src="../../MetBrewer/Hokusai3/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../LaCroixColoR/Pamplemousse/"> <img src="../../LaCroixColoR/Pamplemousse/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,11 +53,7 @@ c("#E0D8A8FF", "#C8C0A8FF", "#E8E0D8FF", "#504828FF", "#E88038FF", "#908870FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/corphish/"> <img src="../../palettetown/corphish/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#E0D8A8FF", "#C8C0A8FF", "#E8E0D8FF", "#504828FF", "#E88038FF", "#908870FF", 
 <a href="../../palettetown/primeape/"> <img src="../../palettetown/primeape/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/solrock/"> <img src="../../palettetown/solrock/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/entei/"> <img src="../../palettetown/entei/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/marowak/"> <img src="../../palettetown/marowak/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

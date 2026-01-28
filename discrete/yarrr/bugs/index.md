@@ -53,11 +53,7 @@ c("#667840FF", "#BAD6A8FF", "#85C7C1FF", "#A59A6BFF", "#67553FFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/SalvadorDali_1/"> <img src="../../lisa/SalvadorDali_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -75,6 +71,10 @@ c("#667840FF", "#BAD6A8FF", "#85C7C1FF", "#A59A6BFF", "#67553FFF")
 </figure> <figure class="figure">
 <a href="../../nationalparkcolors/Yellowstone/"> <img src="../../nationalparkcolors/Yellowstone/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ButterflyColors/anteos_clorinde/"> <img src="../../ButterflyColors/anteos_clorinde/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../calecopal/agriculture/"> <img src="../../calecopal/agriculture/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Oncorhynchus_tshawytscha/"> <img src="../../fishualize/Oncorhynchus_tshawytscha/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

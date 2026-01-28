@@ -53,11 +53,7 @@ c("#F81B02FF", "#FC7715FF", "#AFBF41FF", "#50C49FFF", "#3B95C4FF", "#B560D4FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Parallax/"> <img src="../../ggthemes/excel_Parallax/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -67,14 +63,18 @@ c("#F81B02FF", "#FC7715FF", "#AFBF41FF", "#50C49FFF", "#3B95C4FF", "#B560D4FF")
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Berlin/"> <img src="../../ggthemes/excel_Berlin/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggthemr/flat/"> <img src="../../ggthemr/flat/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../ggthemes/excel_Office_2007_2010/"> <img src="../../ggthemes/excel_Office_2007_2010/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggthemr/flat/"> <img src="../../ggthemr/flat/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Ion/"> <img src="../../ggthemes/excel_Ion/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Callanthias_australis/"> <img src="../../fishualize/Callanthias_australis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Slipstream/"> <img src="../../ggthemes/excel_Slipstream/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../yarrr/basel/"> <img src="../../yarrr/basel/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../basetheme/royal/"> <img src="../../basetheme/royal/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

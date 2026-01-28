@@ -53,11 +53,7 @@ c("#A1D8B6FF", "#D2C48EFF", "#F45F40FF", "#F9AE8DFF", "#80B9CEFF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ltc/paloma/"> <img src="../../ltc/paloma/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -75,6 +71,10 @@ c("#A1D8B6FF", "#D2C48EFF", "#F45F40FF", "#F9AE8DFF", "#80B9CEFF")
 </figure> <figure class="figure">
 <a href="../../ggthemes/Jewel_Bright/"> <img src="../../ggthemes/Jewel_Bright/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../nord/aurora/"> <img src="../../nord/aurora/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/M_C_Escher/"> <img src="../../lisa/M_C_Escher/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/Lucent/"> <img src="../../PrettyCols/Lucent/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

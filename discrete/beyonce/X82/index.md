@@ -53,11 +53,7 @@ c("#122246FF", "#304A83FF", "#4B6FBBFF", "#717580FF", "#928167FF", "#B6A593FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../impressionist.colors/irissen/"> <img src="../../impressionist.colors/irissen/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#122246FF", "#304A83FF", "#4B6FBBFF", "#717580FF", "#928167FF", "#B6A593FF", 
 <a href="../../beyonce/X10/"> <img src="../../beyonce/X10/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../NatParksPalettes/IguazuFalls/"> <img src="../../NatParksPalettes/IguazuFalls/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MoMAColors/Ernst/"> <img src="../../MoMAColors/Ernst/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../lisa/KatsushikaHokusai/"> <img src="../../lisa/KatsushikaHokusai/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

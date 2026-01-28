@@ -53,15 +53,9 @@ c("#F71480FF", "#FF8000FF", "#808000FF", "#008000FF", "#0000FFFF", "#76069AFF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/nuggets_80s/"> <img src="../../nbapalettes/nuggets_80s/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ggthemes/gdoc/"> <img src="../../ggthemes/gdoc/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Halichoeres_dimidiatus/"> <img src="../../fishualize/Halichoeres_dimidiatus/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +70,11 @@ c("#F71480FF", "#FF8000FF", "#808000FF", "#008000FF", "#0000FFFF", "#76069AFF", 
 <a href="../../MoMAColors/OKeeffe/"> <img src="../../MoMAColors/OKeeffe/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggprism/candy_soft/"> <img src="../../ggprism/candy_soft/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Stegastes_variabilis/"> <img src="../../fishualize/Stegastes_variabilis/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nbapalettes/blazers_city/"> <img src="../../nbapalettes/blazers_city/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../MetBrewer/Tam/"> <img src="../../MetBrewer/Tam/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

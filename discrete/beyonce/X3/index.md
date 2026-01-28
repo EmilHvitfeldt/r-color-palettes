@@ -53,11 +53,7 @@ c("#5A7362FF", "#6B867CFF", "#A1A897FF", "#9A8D6BFF", "#8E6341FF", "#432B21FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../fishualize/Lile_piquitinga/"> <img src="../../fishualize/Lile_piquitinga/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -75,6 +71,10 @@ c("#5A7362FF", "#6B867CFF", "#A1A897FF", "#9A8D6BFF", "#8E6341FF", "#432B21FF")
 </figure> <figure class="figure">
 <a href="../../Manu/Kiwi/"> <img src="../../Manu/Kiwi/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../Rdune/corrino/"> <img src="../../Rdune/corrino/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../lisa/C_M_Coolidge/"> <img src="../../lisa/C_M_Coolidge/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../lisa/PieterBruegel/"> <img src="../../lisa/PieterBruegel/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

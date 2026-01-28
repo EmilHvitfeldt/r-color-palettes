@@ -20,7 +20,7 @@ categories:
 {{< fa brands github size=3x >}}
 **Github**
 
-[loukesio/ltc_palettes](https://github.com/loukesio/ltc_palettes)
+[loukesio/ltc-color-palettes](https://github.com/loukesio/ltc-color-palettes)
 :::
 
 ::: {.column width="50%"}
@@ -53,11 +53,7 @@ c("#FC4E07FF", "#E7B800FF", "#00AFBBFF", "#8B4769FF", "#1D457FFF", "#808080FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../LaCroixColoR/Apricot/"> <img src="../../LaCroixColoR/Apricot/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#FC4E07FF", "#E7B800FF", "#00AFBBFF", "#8B4769FF", "#1D457FFF", "#808080FF")
 <a href="../../khroma/vibrant/"> <img src="../../khroma/vibrant/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/startersDark/"> <img src="../../palettetown/startersDark/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../fishualize/Pseudochromis_aldabraensis/"> <img src="../../fishualize/Pseudochromis_aldabraensis/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../lisa/WassilyKandinsky_1/"> <img src="../../lisa/WassilyKandinsky_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

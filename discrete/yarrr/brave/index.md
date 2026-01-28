@@ -53,15 +53,13 @@ c("#A8643BFF", "#B65B23FF", "#94220EFF", "#272D17FF", "#202126FF")
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../wesanderson/BottleRocket1/"> <img src="../../wesanderson/BottleRocket1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../calecopal/redwood2/"> <img src="../../calecopal/redwood2/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Rdune/fermen2/"> <img src="../../Rdune/fermen2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../colRoz/v_pilbarensis/"> <img src="../../colRoz/v_pilbarensis/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +74,7 @@ c("#A8643BFF", "#B65B23FF", "#94220EFF", "#272D17FF", "#202126FF")
 <a href="../../MetBrewer/Wissing/"> <img src="../../MetBrewer/Wissing/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../beyonce/X20/"> <img src="../../beyonce/X20/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggsci/dark_uchicago/"> <img src="../../ggsci/dark_uchicago/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

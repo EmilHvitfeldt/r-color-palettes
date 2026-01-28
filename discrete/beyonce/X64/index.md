@@ -53,11 +53,7 @@ c("#22203BFF", "#35213DFF", "#3A213EFF", "#472240FF", "#5B2442FF", "#737C77FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MexBrewer/Maiz/"> <img src="../../MexBrewer/Maiz/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#22203BFF", "#35213DFF", "#3A213EFF", "#472240FF", "#5B2442FF", "#737C77FF", 
 <a href="../../ghibli/YesterdayMedium/"> <img src="../../ghibli/YesterdayMedium/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/GeorgiaOKeeffe/"> <img src="../../lisa/GeorgiaOKeeffe/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../rtist/okeeffe/"> <img src="../../rtist/okeeffe/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../PrettyCols/Ocean/"> <img src="../../PrettyCols/Ocean/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -53,19 +53,17 @@ c("#436F85FF", "#4C7D96FF", "#548BA7FF", "#6497B1FF", "#75A2BAFF", "#86AEC2FF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nord/frost/"> <img src="../../nord/frost/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Violet/"> <img src="../../ggthemes/excel_Violet/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../unikn/pal_karpfenblau/"> <img src="../../unikn/pal_karpfenblau/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../Rdune/harkonnen/"> <img src="../../Rdune/harkonnen/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggthemes/excel_Blue_Warm/"> <img src="../../ggthemes/excel_Blue_Warm/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../unikn/pal_karpfenblau/"> <img src="../../unikn/pal_karpfenblau/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../rcartocolor/Teal/"> <img src="../../rcartocolor/Teal/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +74,7 @@ c("#436F85FF", "#4C7D96FF", "#548BA7FF", "#6497B1FF", "#75A2BAFF", "#86AEC2FF", 
 <a href="../../fishualize/Opisthonema_oglinum/"> <img src="../../fishualize/Opisthonema_oglinum/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../musculusColors/ErMole/"> <img src="../../musculusColors/ErMole/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../musculusColors/Bmlunge/"> <img src="../../musculusColors/Bmlunge/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

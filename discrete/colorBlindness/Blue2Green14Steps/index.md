@@ -53,11 +53,7 @@ c("#0000FFFF", "#3333FFFF", "#6565FFFF", "#9999FFFF", "#B2B2FFFF", "#CBCBFFFF", 
 # Related Palettes
 
 <div class="list" style="display: grid; grid-template-columns: auto auto auto;"> <figure class="figure">
-<a href="../../awtools/a_palette/"> <img src="../../awtools/a_palette/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../amerika/Dem_Ind_Rep3/"> <img src="../../amerika/Dem_Ind_Rep3/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../dichromat/BluetoGreen_14/"> <img src="../../dichromat/BluetoGreen_14/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +72,9 @@ c("#0000FFFF", "#3333FFFF", "#6565FFFF", "#9999FFFF", "#B2B2FFFF", "#CBCBFFFF", 
 <a href="../../RColorBrewer/GnBu/"> <img src="../../RColorBrewer/GnBu/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/Emerald/"> <img src="../../tvthemes/Emerald/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../rcartocolor/BluYl/"> <img src="../../rcartocolor/BluYl/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../werpals/lakelouise/"> <img src="../../werpals/lakelouise/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>
