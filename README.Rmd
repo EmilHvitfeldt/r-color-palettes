@@ -202,33 +202,33 @@ The `ggthemes` package include the 150 four-color palettes from the [canva.com](
 
 ```{r}
 #| results: asis
-
-library(paletteer)
-
+#| warning: false
 source("palette_plotter.R")
-
 fs::dir_create("readme_images")
 
-readme_pals <- paletteer::palettes_d
-readme_pals <- readme_pals[names(readme_pals) != "palettetown"]
+pals <- paletteer::palettes_d
+pals <- pals[names(pals) != "palettetown"]
 
-walk2(readme_pals, names(readme_pals), make_plot)
+walk2(pals, names(pals), make_plot)
 
 pkg_data <- paletteer::paletteer_packages |>
-  filter(Name %in% names(readme_pals))
+  filter(Name %in% names(pals)) |>
+  mutate(
+    github_install = if_else(
+      is.na(github_ver),
+      "",
+      glue::glue("# Developmental version\npak::pak(\"{Github}\")")
+    ),
+    cran_install = if_else(
+      CRAN,
+      glue::glue("\n\n# CRAN version\ninstall.packages(\"{Name}\")\n\n"),
+      ""
+    )
+  )
 
-github_install <- if_else(is.na(pkg_data$github_ver), "", glue::glue("
-# Developmental version
-pak::pak(\"{pkg_data$Github}\")"))
-
-cran_install <- if_else(pkg_data$CRAN, "", glue::glue("
-
-# CRAN version
-install.packages(\"{pkg_data$Name}\")
-
-"))
-
-glue::glue_data(pkg_data, "
+glue::glue_data(
+  pkg_data,
+  "
 ### [[Name]]
 
 \`\`\`r
@@ -238,5 +238,8 @@ glue::glue_data(pkg_data, "
 
 ![](readme_images/[[Name]].png)
 
-", .open = "[[", .close = "]]")
+",
+  .open = "[[",
+  .close = "]]"
+)
 ```

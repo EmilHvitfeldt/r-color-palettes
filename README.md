@@ -246,9 +246,6 @@ once.
 ``` r
 # Developmental version
 pak::pak("junqueiragaabi/ButterflyColors")
-
-# CRAN version
-install.packages("ButterflyColors")
 ```
 
 ![](readme_images/ButterflyColors.png)
@@ -258,9 +255,6 @@ install.packages("ButterflyColors")
 ``` r
 # Developmental version
 pak::pak("katiesaund/DresdenColor")
-
-# CRAN version
-install.packages("DresdenColor")
 ```
 
 ![](readme_images/DresdenColor.png)
@@ -270,9 +264,6 @@ install.packages("DresdenColor")
 ``` r
 # Developmental version
 pak::pak("lambdamoses/IslamicArt")
-
-# CRAN version
-install.packages("IslamicArt")
 ```
 
 ![](readme_images/IslamicArt.png)
@@ -282,9 +273,6 @@ install.packages("IslamicArt")
 ``` r
 # Developmental version
 pak::pak("johannesbjork/LaCroixColoR")
-
-# CRAN version
-install.packages("LaCroixColoR")
 ```
 
 ![](readme_images/LaCroixColoR.png)
@@ -294,9 +282,6 @@ install.packages("LaCroixColoR")
 ``` r
 # Developmental version
 pak::pak("G-Thomson/Manu")
-
-# CRAN version
-install.packages("Manu")
 ```
 
 ![](readme_images/Manu.png)
@@ -306,9 +291,6 @@ install.packages("Manu")
 ``` r
 # Developmental version
 pak::pak("disarm-platform/MapPalettes")
-
-# CRAN version
-install.packages("MapPalettes")
 ```
 
 ![](readme_images/MapPalettes.png)
@@ -318,6 +300,9 @@ install.packages("MapPalettes")
 ``` r
 # Developmental version
 pak::pak("BlakeRMills/MetBrewer")
+
+# CRAN version
+install.packages("MetBrewer")
 ```
 
 ![](readme_images/MetBrewer.png)
@@ -327,9 +312,6 @@ pak::pak("BlakeRMills/MetBrewer")
 ``` r
 # Developmental version
 pak::pak("paezha/MexBrewer")
-
-# CRAN version
-install.packages("MexBrewer")
 ```
 
 ![](readme_images/MexBrewer.png)
@@ -339,9 +321,6 @@ install.packages("MexBrewer")
 ``` r
 # Developmental version
 pak::pak("BlakeRMills/MoMAColors")
-
-# CRAN version
-install.packages("MoMAColors")
 ```
 
 ![](readme_images/MoMAColors.png)
@@ -351,6 +330,9 @@ install.packages("MoMAColors")
 ``` r
 # Developmental version
 pak::pak("kevinsblake/NatParksPalettes")
+
+# CRAN version
+install.packages("NatParksPalettes")
 ```
 
 ![](readme_images/NatParksPalettes.png)
@@ -360,9 +342,6 @@ pak::pak("kevinsblake/NatParksPalettes")
 ``` r
 # Developmental version
 pak::pak("m-clark/NineteenEightyR")
-
-# CRAN version
-install.packages("NineteenEightyR")
 ```
 
 ![](readme_images/NineteenEightyR.png)
@@ -372,9 +351,6 @@ install.packages("NineteenEightyR")
 ``` r
 # Developmental version
 pak::pak("jakelawlor/PNWColors")
-
-# CRAN version
-install.packages("PNWColors")
 ```
 
 ![](readme_images/PNWColors.png)
@@ -382,6 +358,10 @@ install.packages("PNWColors")
 ### Polychrome
 
 ``` r
+
+
+# CRAN version
+install.packages("Polychrome")
 ```
 
 ![](readme_images/Polychrome.png)
@@ -391,6 +371,9 @@ install.packages("PNWColors")
 ``` r
 # Developmental version
 pak::pak("nrennie/PrettyCols")
+
+# CRAN version
+install.packages("PrettyCols")
 ```
 
 ![](readme_images/PrettyCols.png)
@@ -398,6 +381,10 @@ pak::pak("nrennie/PrettyCols")
 ### RColorBrewer
 
 ``` r
+
+
+# CRAN version
+install.packages("RColorBrewer")
 ```
 
 ![](readme_images/RColorBrewer.png)
@@ -407,9 +394,6 @@ pak::pak("nrennie/PrettyCols")
 ``` r
 # Developmental version
 pak::pak("alyssafrazee/RSkittleBrewer")
-
-# CRAN version
-install.packages("RSkittleBrewer")
 ```
 
 ![](readme_images/RSkittleBrewer.png)
@@ -419,6 +403,9 @@ install.packages("RSkittleBrewer")
 ``` r
 # Developmental version
 pak::pak("nvietto/Rdune")
+
+# CRAN version
+install.packages("Rdune")
 ```
 
 ![](readme_images/Rdune.png)
@@ -428,6 +415,9 @@ pak::pak("nvietto/Rdune")
 ``` r
 # Developmental version
 pak::pak("pmdci/redmonder")
+
+# CRAN version
+install.packages("Redmonder")
 ```
 
 ![](readme_images/Redmonder.png)
@@ -437,6 +427,9 @@ pak::pak("pmdci/redmonder")
 ``` r
 # Developmental version
 pak::pak("pdwaggoner/amerika")
+
+# CRAN version
+install.packages("amerika")
 ```
 
 ![](readme_images/amerika.png)
@@ -446,9 +439,6 @@ pak::pak("pdwaggoner/amerika")
 ``` r
 # Developmental version
 pak::pak("awhstin/awtools")
-
-# CRAN version
-install.packages("awtools")
 ```
 
 ![](readme_images/awtools.png)
@@ -458,6 +448,9 @@ install.packages("awtools")
 ``` r
 # Developmental version
 pak::pak("karoliskoncevicius/basetheme")
+
+# CRAN version
+install.packages("basetheme")
 ```
 
 ![](readme_images/basetheme.png)
@@ -467,9 +460,6 @@ pak::pak("karoliskoncevicius/basetheme")
 ``` r
 # Developmental version
 pak::pak("dill/beyonce")
-
-# CRAN version
-install.packages("beyonce")
 ```
 
 ![](readme_images/beyonce.png)
@@ -479,9 +469,6 @@ install.packages("beyonce")
 ``` r
 # Developmental version
 pak::pak("ekholme/blueycolors")
-
-# CRAN version
-install.packages("blueycolors")
 ```
 
 ![](readme_images/blueycolors.png)
@@ -491,9 +478,6 @@ install.packages("blueycolors")
 ``` r
 # Developmental version
 pak::pak("an-bui/calecopal")
-
-# CRAN version
-install.packages("calecopal")
 ```
 
 ![](readme_images/calecopal.png)
@@ -503,9 +487,6 @@ install.packages("calecopal")
 ``` r
 # Developmental version
 pak::pak("jacintak/colRoz")
-
-# CRAN version
-install.packages("colRoz")
 ```
 
 ![](readme_images/colRoz.png)
@@ -513,6 +494,10 @@ install.packages("colRoz")
 ### colorBlindness
 
 ``` r
+
+
+# CRAN version
+install.packages("colorBlindness")
 ```
 
 ![](readme_images/colorBlindness.png)
@@ -522,9 +507,6 @@ install.packages("colRoz")
 ``` r
 # Developmental version
 pak::pak("clauswilke/colorblindr")
-
-# CRAN version
-install.packages("colorblindr")
 ```
 
 ![](readme_images/colorblindr.png)
@@ -532,6 +514,10 @@ install.packages("colorblindr")
 ### dichromat
 
 ``` r
+
+
+# CRAN version
+install.packages("dichromat")
 ```
 
 ![](readme_images/dichromat.png)
@@ -541,9 +527,6 @@ install.packages("colorblindr")
 ``` r
 # Developmental version
 pak::pak("EdwinTh/dutchmasters")
-
-# CRAN version
-install.packages("dutchmasters")
 ```
 
 ![](readme_images/dutchmasters.png)
@@ -553,9 +536,6 @@ install.packages("dutchmasters")
 ``` r
 # Developmental version
 pak::pak("shandiya/feathers")
-
-# CRAN version
-install.packages("feathers")
 ```
 
 ![](readme_images/feathers.png)
@@ -565,6 +545,9 @@ install.packages("feathers")
 ``` r
 # Developmental version
 pak::pak("nschiett/fishualize")
+
+# CRAN version
+install.packages("fishualize")
 ```
 
 ![](readme_images/fishualize.png)
@@ -574,9 +557,6 @@ pak::pak("nschiett/fishualize")
 ``` r
 # Developmental version
 pak::pak("JoeyStanley/futurevisions")
-
-# CRAN version
-install.packages("futurevisions")
 ```
 
 ![](readme_images/futurevisions.png)
@@ -586,9 +566,6 @@ install.packages("futurevisions")
 ``` r
 # Developmental version
 pak::pak("gadenbuie/ggpomological")
-
-# CRAN version
-install.packages("ggpomological")
 ```
 
 ![](readme_images/ggpomological.png)
@@ -598,6 +575,9 @@ install.packages("ggpomological")
 ``` r
 # Developmental version
 pak::pak("csdaw/ggprism")
+
+# CRAN version
+install.packages("ggprism")
 ```
 
 ![](readme_images/ggprism.png)
@@ -607,6 +587,9 @@ pak::pak("csdaw/ggprism")
 ``` r
 # Developmental version
 pak::pak("nanxstats/ggsci")
+
+# CRAN version
+install.packages("ggsci")
 ```
 
 ![](readme_images/ggsci.png)
@@ -616,6 +599,9 @@ pak::pak("nanxstats/ggsci")
 ``` r
 # Developmental version
 pak::pak("jrnold/ggthemes")
+
+# CRAN version
+install.packages("ggthemes")
 ```
 
 ![](readme_images/ggthemes.png)
@@ -625,9 +611,6 @@ pak::pak("jrnold/ggthemes")
 ``` r
 # Developmental version
 pak::pak("Mikata-Project/ggthemr")
-
-# CRAN version
-install.packages("ggthemr")
 ```
 
 ![](readme_images/ggthemr.png)
@@ -637,6 +620,9 @@ install.packages("ggthemr")
 ``` r
 # Developmental version
 pak::pak("ewenme/ghibli")
+
+# CRAN version
+install.packages("ghibli")
 ```
 
 ![](readme_images/ghibli.png)
@@ -644,6 +630,10 @@ pak::pak("ewenme/ghibli")
 ### grDevices
 
 ``` r
+
+
+# CRAN version
+install.packages("grDevices")
 ```
 
 ![](readme_images/grDevices.png)
@@ -651,6 +641,10 @@ pak::pak("ewenme/ghibli")
 ### impressionist.colors
 
 ``` r
+
+
+# CRAN version
+install.packages("impressionist.colors")
 ```
 
 ![](readme_images/impressionist.colors.png)
@@ -660,9 +654,6 @@ pak::pak("ewenme/ghibli")
 ``` r
 # Developmental version
 pak::pak("jaredhuling/jcolors")
-
-# CRAN version
-install.packages("jcolors")
 ```
 
 ![](readme_images/jcolors.png)
@@ -672,6 +663,9 @@ install.packages("jcolors")
 ``` r
 # Developmental version
 pak::pak("tesselle/khroma")
+
+# CRAN version
+install.packages("khroma")
 ```
 
 ![](readme_images/khroma.png)
@@ -681,6 +675,9 @@ pak::pak("tesselle/khroma")
 ``` r
 # Developmental version
 pak::pak("tylerlittlefield/lisa")
+
+# CRAN version
+install.packages("lisa")
 ```
 
 ![](readme_images/lisa.png)
@@ -690,9 +687,6 @@ pak::pak("tylerlittlefield/lisa")
 ``` r
 # Developmental version
 pak::pak("loukesio/ltc-color-palettes")
-
-# CRAN version
-install.packages("ltc")
 ```
 
 ![](readme_images/ltc.png)
@@ -702,9 +696,6 @@ install.packages("ltc")
 ``` r
 # Developmental version
 pak::pak("EmilHvitfeldt/miscpalettes")
-
-# CRAN version
-install.packages("miscpalettes")
 ```
 
 ![](readme_images/miscpalettes.png)
@@ -714,9 +705,6 @@ install.packages("miscpalettes")
 ``` r
 # Developmental version
 pak::pak("dawnbarlow/musculusColors")
-
-# CRAN version
-install.packages("musculusColors")
 ```
 
 ![](readme_images/musculusColors.png)
@@ -726,9 +714,6 @@ install.packages("musculusColors")
 ``` r
 # Developmental version
 pak::pak("katiejolly/nationalparkcolors")
-
-# CRAN version
-install.packages("nationalparkcolors")
 ```
 
 ![](readme_images/nationalparkcolors.png)
@@ -738,6 +723,9 @@ install.packages("nationalparkcolors")
 ``` r
 # Developmental version
 pak::pak("murrayjw/nbapalettes")
+
+# CRAN version
+install.packages("nbapalettes")
 ```
 
 ![](readme_images/nbapalettes.png)
@@ -747,6 +735,9 @@ pak::pak("murrayjw/nbapalettes")
 ``` r
 # Developmental version
 pak::pak("jkaupp/nord")
+
+# CRAN version
+install.packages("nord")
 ```
 
 ![](readme_images/nord.png)
@@ -756,9 +747,6 @@ pak::pak("jkaupp/nord")
 ``` r
 # Developmental version
 pak::pak("hollylkirk/ochRe")
-
-# CRAN version
-install.packages("ochRe")
 ```
 
 ![](readme_images/ochRe.png)
@@ -768,6 +756,9 @@ install.packages("ochRe")
 ``` r
 # Developmental version
 pak::pak("frareb/palettesForR")
+
+# CRAN version
+install.packages("palettesForR")
 ```
 
 ![](readme_images/palettesForR.png)
@@ -777,6 +768,9 @@ pak::pak("frareb/palettesForR")
 ``` r
 # Developmental version
 pak::pak("kwstat/pals")
+
+# CRAN version
+install.packages("pals")
 ```
 
 ![](readme_images/pals.png)
@@ -786,9 +780,6 @@ pak::pak("kwstat/pals")
 ``` r
 # Developmental version
 pak::pak("jbgb13/peRReo")
-
-# CRAN version
-install.packages("peRReo")
 ```
 
 ![](readme_images/peRReo.png)
@@ -798,6 +789,9 @@ install.packages("peRReo")
 ``` r
 # Developmental version
 pak::pak("laurenoconnelllab/poisonfrogs")
+
+# CRAN version
+install.packages("poisonfrogs")
 ```
 
 ![](readme_images/poisonfrogs.png)
@@ -807,6 +801,9 @@ pak::pak("laurenoconnelllab/poisonfrogs")
 ``` r
 # Developmental version
 pak::pak("Nowosad/rcartocolor")
+
+# CRAN version
+install.packages("rcartocolor")
 ```
 
 ![](readme_images/rcartocolor.png)
@@ -816,9 +813,6 @@ pak::pak("Nowosad/rcartocolor")
 ``` r
 # Developmental version
 pak::pak("johnmackintosh/rockthemes")
-
-# CRAN version
-install.packages("rockthemes")
 ```
 
 ![](readme_images/rockthemes.png)
@@ -828,6 +822,9 @@ install.packages("rockthemes")
 ``` r
 # Developmental version
 pak::pak("tomasokal/rtist")
+
+# CRAN version
+install.packages("rtist")
 ```
 
 ![](readme_images/rtist.png)
@@ -837,9 +834,6 @@ pak::pak("tomasokal/rtist")
 ``` r
 # Developmental version
 pak::pak("ivelasq/severance")
-
-# CRAN version
-install.packages("severance")
 ```
 
 ![](readme_images/severance.png)
@@ -849,9 +843,6 @@ install.packages("severance")
 ``` r
 # Developmental version
 pak::pak("kaizadp/soilpalettes")
-
-# CRAN version
-install.packages("soilpalettes")
 ```
 
 ![](readme_images/soilpalettes.png)
@@ -861,9 +852,6 @@ install.packages("soilpalettes")
 ``` r
 # Developmental version
 pak::pak("alburezg/suffrager")
-
-# CRAN version
-install.packages("suffrager")
 ```
 
 ![](readme_images/suffrager.png)
@@ -873,9 +861,6 @@ install.packages("suffrager")
 ``` r
 # Developmental version
 pak::pak("asteves/tayloRswift")
-
-# CRAN version
-install.packages("tayloRswift")
 ```
 
 ![](readme_images/tayloRswift.png)
@@ -885,6 +870,9 @@ install.packages("tayloRswift")
 ``` r
 # Developmental version
 pak::pak("business-science/tidyquant")
+
+# CRAN version
+install.packages("tidyquant")
 ```
 
 ![](readme_images/tidyquant.png)
@@ -894,6 +882,9 @@ pak::pak("business-science/tidyquant")
 ``` r
 # Developmental version
 pak::pak("leonawicz/trekcolors")
+
+# CRAN version
+install.packages("trekcolors")
 ```
 
 ![](readme_images/trekcolors.png)
@@ -903,6 +894,9 @@ pak::pak("leonawicz/trekcolors")
 ``` r
 # Developmental version
 pak::pak("Ryo-N7/tvthemes")
+
+# CRAN version
+install.packages("tvthemes")
 ```
 
 ![](readme_images/tvthemes.png)
@@ -912,6 +906,9 @@ pak::pak("Ryo-N7/tvthemes")
 ``` r
 # Developmental version
 pak::pak("hneth/unikn")
+
+# CRAN version
+install.packages("unikn")
 ```
 
 ![](readme_images/unikn.png)
@@ -921,6 +918,9 @@ pak::pak("hneth/unikn")
 ``` r
 # Developmental version
 pak::pak("cherylisabella/vangogh")
+
+# CRAN version
+install.packages("vangogh")
 ```
 
 ![](readme_images/vangogh.png)
@@ -930,9 +930,6 @@ pak::pak("cherylisabella/vangogh")
 ``` r
 # Developmental version
 pak::pak("seasmith/vapeplot")
-
-# CRAN version
-install.packages("vapeplot")
 ```
 
 ![](readme_images/vapeplot.png)
@@ -942,9 +939,6 @@ install.packages("vapeplot")
 ``` r
 # Developmental version
 pak::pak("moldach/vapoRwave")
-
-# CRAN version
-install.packages("vapoRwave")
 ```
 
 ![](readme_images/vapoRwave.png)
@@ -954,9 +948,6 @@ install.packages("vapoRwave")
 ``` r
 # Developmental version
 pak::pak("alexskeels/waRhol")
-
-# CRAN version
-install.packages("waRhol")
 ```
 
 ![](readme_images/waRhol.png)
@@ -966,9 +957,6 @@ install.packages("waRhol")
 ``` r
 # Developmental version
 pak::pak("sciencificity/werpals")
-
-# CRAN version
-install.packages("werpals")
 ```
 
 ![](readme_images/werpals.png)
@@ -978,6 +966,9 @@ install.packages("werpals")
 ``` r
 # Developmental version
 pak::pak("karthik/wesanderson")
+
+# CRAN version
+install.packages("wesanderson")
 ```
 
 ![](readme_images/wesanderson.png)
@@ -987,6 +978,9 @@ pak::pak("karthik/wesanderson")
 ``` r
 # Developmental version
 pak::pak("ndphillips/yarrr")
+
+# CRAN version
+install.packages("yarrr")
 ```
 
 ![](readme_images/yarrr.png)
