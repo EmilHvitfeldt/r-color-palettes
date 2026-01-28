@@ -1,14 +1,17 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# Comprehensive list of color palettes in r
+# Comprehensive list of color palettes in R
 
 The goal of this repository is to have a one stop destination for anyone
 looking for a color palette to use in r. If you would like to
 help/contribute please feel free post an issue, PR or send a email to
 <emilhhvitfeldt@gmail.com>.
 
-# Interactive Color Picker at <https://emilhvitfeldt.github.io/r-color-palettes/>
+Interactive R Color Palette Pickers:
+
+- <https://emilhvitfeldt.github.io/r-color-palettes/>
+- <https://r-graph-gallery.com/color-palette-finder>
 
 Further down the page is all the palettes available in the R ecosystem
 ordered alphabetically by package name. A list of palettes ordered by
