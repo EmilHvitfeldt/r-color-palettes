@@ -24,21 +24,28 @@ using a unified framework. Developmental version can be found
 You can install the released version of paletteer from
 [CRAN](https://CRAN.R-project.org) with:
 
+``` r
+install.packages("paletteer")
+```
+
 If you want the development version instead then install directly from
 GitHub:
 
+``` r
+# install.packages("pak")
+pak::pak("EmilHvitfeldt/paletteer")
+```
+
 # Table of Contents
 
-- [Main page](#comprehensive-list-of-color-palettes-in-r)
-- [Blogposts and other resources](#blogposts-and-other-resources)
-- [Color manipulation packages](#color-manipulation-packages)
-- [Generative packages](#generative-packages)
-- [Perception of color palettes](#perception-of-color-palettes)
-  - [Printing in black and white](#printing-in-black-and-white)
-  - [Color blindness](#color-blindness)
-- [Honorable mentions](#honorable-mentions)
+- [Main page](README.md#comprehensive-list-of-color-palettes-in-r)
+- [Blogposts and other
+  resources](README.md#blogposts-and-other-resources)
+- [Generative packages](README.md#generative-packages)
+- [Honorable mentions](README.md#honorable-mentions)
 - [Palettes sorted by Package
-  (alphabetically)](#palettes-sorted-by-package-alphabetically)
+  (alphabetically)](README.md#palettes-sorted-by-package-alphabetically)
+  - [Non Novelty Palettes](non-novelty.md)
   - [Sequential color
     palettes](type-sorted-palettes.md#sequential-color-palettes)
   - [Diverging color
@@ -127,7 +134,20 @@ its colorful display. However as we see here would it be horrible if
 used for black and white printing since different colors are mapped to
 the same shade of grey.
 
-![](man/figures/README-unnamed-chunk-4-1.png)<!-- -->
+``` r
+source("palette_plotter.R")
+
+pal_data <- list(
+  Normal = rainbow(32),
+  Desaturated = colorspace::desaturate(rainbow(32))
+)
+
+make_plot(pal_data, "readme-1")
+```
+
+Standard rainbow palette
+
+![](palette_images/readme-1.png)
 
 A related problem happens with the standard color palette used in
 `ggplot2` since that color is picked to have constant chroma and
@@ -135,12 +155,34 @@ luminance thus yielding the same shade of grey when desaturated. (This
 palette is no longer the default for continuous variables in `ggplot2`
 after version 3.0.0)
 
-![](man/figures/README-unnamed-chunk-5-1.png)<!-- -->
+``` r
+pal_data <- list(
+  Normal = scales::hue_pal()(256),
+  Desaturated = colorspace::desaturate(scales::hue_pal()(256))
+)
+
+make_plot(pal_data, "readme-2")
+```
+
+Standard color palette for ggplot2
+
+![](palette_images/readme-2.png)
 
 One of the continuous palette that satisfy this criteria is the well
 known `viridis` palettes.
 
-![](man/figures/README-unnamed-chunk-6-1.png)<!-- -->
+``` r
+pal_data <- list(
+  Normal = viridis::inferno(256),
+  Desaturated = colorspace::desaturate(viridis::inferno(256))
+)
+
+make_plot(pal_data, "readme-3")
+```
+
+inferno palette from viridis
+
+![](palette_images/readme-3.png)
 
 To test if the palette you want to use will be distorted when in black
 and white, use the `colorspace::desaturate()` to desaturate it.
@@ -190,7 +232,20 @@ to two packages. The `dichromat` package can simulate color blindness on
 individual color and then also entire palettes like so in this `rainbow`
 palette:
 
-![](man/figures/README-unnamed-chunk-7-1.png)<!-- -->
+``` r
+pal_data <- list(
+  Normal = rainbow(256),
+  Deuteranopia = dichromat::dichromat(rainbow(256), type = "deutan"),
+  Protanopia = dichromat::dichromat(rainbow(256), type = "protan"),
+  Tritanopia = dichromat::dichromat(rainbow(256), type = "tritan")
+)
+
+make_plot(pal_data, "readme-4")
+```
+
+The effect of color blindness on the rainbow palette
+
+![](palette_images/readme-4.png)
 
 Another package that can provide helpful is the amazing
 [colorblindr](https://github.com/clauswilke/colorblindr) package that is
@@ -240,6 +295,48 @@ once.
 - [Canva colors](canva.md)
 
 ## Palettes sorted by Package (alphabetically)
+
+``` r
+source("palette_plotter.R")
+fs::dir_create("palette_images")
+
+pals <- paletteer::palettes_d
+pals <- pals[names(pals) != "palettetown"]
+
+walk2(pals, names(pals), make_plot)
+
+pkg_data <- paletteer::paletteer_packages |>
+  filter(Name %in% names(pals)) |>
+  mutate(
+    github_install = if_else(
+      is.na(github_ver),
+      "",
+      glue::glue("# Developmental version\npak::pak(\"{Github}\")")
+    ),
+    cran_install = if_else(
+      CRAN,
+      glue::glue("\n\n# CRAN version\ninstall.packages(\"{Name}\")\n\n"),
+      ""
+    )
+  )
+
+glue::glue_data(
+  pkg_data,
+  "
+### [[Name]]
+
+\`\`\`r
+[[github_install]]
+[[cran_install]]
+\`\`\`
+
+![](palette_images/[[Name]].png)
+
+",
+  .open = "[[",
+  .close = "]]"
+)
+```
 
 ### ButterflyColors
 
