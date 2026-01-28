@@ -82,6 +82,7 @@ make_row <- function(x, n_row = 1, name) {
 
   res <- list_rbind(res)
   res$y <- res$y - (size + col_gap) * (n_row - 1)
+  res$x <- res$x + size
 
   res$row <- n_row
 
@@ -131,7 +132,7 @@ make_plot <- function(pals, name) {
     theme_void() +
     theme(plot.margin = margin(0, 0, 0, 0)) +
     scale_fill_identity() +
-    scale_x_continuous(limits = c(0, 12 * size + 11 * gap), expand = c(0, 0)) +
+    scale_x_continuous(limits = c(0, max_width + 2 * size), expand = c(0, 0)) +
     scale_y_continuous(
       limits = range(values$box$y) + c(-col_gap, col_gap),
       expand = c(0, 0)
@@ -140,7 +141,7 @@ make_plot <- function(pals, name) {
   ggsave(
     fs::path("palette_images", paste0(name, ".png")),
     p,
-    width = 12 * size + 11 * gap,
+    width = max_width + 2 * size,
     height = max(values$box$y) - min(values$box$y) + col_gap * 2,
     bg = "white",
     units = "px",
