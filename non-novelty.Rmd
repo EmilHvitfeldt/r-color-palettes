@@ -1,0 +1,91 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+## Palettes sorted by type (Sequential/Diverging/Qualitative)
+
+Table of Contents
+=================
+  * [Main page](README.md#comprehensive-list-of-color-palettes-in-r)
+  * [Blogposts and other resources](README.md#blogposts-and-other-resources)
+  * [Color manipulation packages](README.md#color-manipulation-packages)
+  * [Generative packages](README.md#generative-packages)
+  * [Perception of color palettes](README.md#perception-of-color-palettes)
+    * [Printing in black and white](README.md#printing-in-black-and-white)
+    * [Color blindness](README.md#color-blindness)
+  * [Honorable mentions](README.md#honorable-mentions)
+  * [Palettes sorted by Package (alphabetically)](README.md#palettes-sorted-by-package-alphabetically)
+    * [Sequential color palettes](#sequential-color-palettes)
+    * [Diverging color palettes](#diverging-color-palettes)
+    * [Qualitative color palettes](#qualitative-color-palettes)
+    * [Canva palettes](canva.md)
+    * [Palettetown palettes](palettetown.md)
+  * [News](NEWS.md)
+
+### Sequential color palettes
+
+```{r}
+#| results: asis
+#| warning: false
+source("palette_plotter.R")
+fs::dir_create("palette_images")
+
+pals <- paletteer::palettes_d
+pals <- pals[names(pals) != "palettetown"]
+
+for (i in seq_along(pals)) {
+  pal_package <- names(pals)[i] 
+  pal <- pals[[i]]
+
+info <- paletteer::palettes_d_names |>
+  filter(package == pal_package) |>
+  arrange(palette) |>
+  filter(!novelty)
+
+  if (nrow(info) > 0) {
+
+    pal_names <- info$palette
+    make_plot(pal[pal_names], paste0("nonnovel", "-", pal_package))
+  }
+}
+```
+
+```{r}
+#| results: asis
+#| warning: false
+pkg_data <- paletteer::palettes_d_names |>
+  filter(!novelty) |>
+  distinct(package) |>
+  left_join(paletteer::paletteer_packages, by = c("package" = "Name")) |>
+  mutate(
+    github_install = if_else(
+      is.na(github_ver),
+      "",
+      glue::glue("# Developmental version\npak::pak(\"{Github}\")")
+    ),
+    cran_install = if_else(
+      CRAN,
+      glue::glue("\n\n# CRAN version\ninstall.packages(\"{package}\")\n\n"),
+      ""
+    )
+  )
+
+glue::glue_data(
+  pkg_data,
+  "
+### [[package]]
+
+\`\`\`r
+[[github_install]]
+[[cran_install]]
+\`\`\`
+
+![](palette_images/nonnovel-[[package]].png)
+
+",
+  .open = "[[",
+  .close = "]]"
+)
+```
