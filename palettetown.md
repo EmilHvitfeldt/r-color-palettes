@@ -23,15 +23,6 @@
 
 ## Palettetown palettes
 
-``` r
-source("palette_plotter.R")
-
-make_plot(palettes_d$palettetown[1:100], "palettetown-1")
-make_plot(palettes_d$palettetown[101:200], "palettetown-2")
-make_plot(palettes_d$palettetown[201:300], "palettetown-3")
-make_plot(palettes_d$palettetown[301:389], "palettetown-4")
-```
-
 ### Pokemon 1-100
 
 ![](palette_images/palettetown-1.png)

@@ -10,6 +10,8 @@ output: github_document
 ## Palettetown palettes
 
 ```{r}
+#| echo: false
+#| message: false
 source("palette_plotter.R")
 
 make_plot(palettes_d$palettetown[1:100], "palettetown-1")
