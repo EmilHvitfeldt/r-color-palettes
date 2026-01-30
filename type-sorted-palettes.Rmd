@@ -12,6 +12,8 @@ output: github_document
 ```{r}
 #| results: asis
 #| warning: false
+#| echo: false
+#| message: false
 source("palette_plotter.R")
 fs::dir_create("palette_images")
 
@@ -38,6 +40,8 @@ types <- split(info$palette, info$type)
 ```{r}
 #| results: asis
 #| warning: false
+#| echo: false
+#| message: false
 markdown_by_type <- function(pal_type) {
 pkg_data <- paletteer::palettes_d_names |>
   filter(package != "palettetown") |>
@@ -81,6 +85,8 @@ glue::glue_data(
 ```{r}
 #| results: asis
 #| warning: false
+#| echo: false
+#| message: false
 markdown_by_type("sequential")
 ```
 
@@ -89,6 +95,8 @@ markdown_by_type("sequential")
 ```{r}
 #| results: asis
 #| warning: false
+#| echo: false
+#| message: false
 markdown_by_type("divergent")
 ```
 
@@ -97,5 +105,7 @@ markdown_by_type("divergent")
 ```{r}
 #| results: asis
 #| warning: false
+#| echo: false
+#| message: false
 markdown_by_type("qualitative")
 ```

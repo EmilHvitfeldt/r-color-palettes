@@ -23,74 +23,7 @@
   - [Palettetown palettes](palettetown.md)
 - [News](NEWS.md)
 
-``` r
-source("palette_plotter.R")
-fs::dir_create("palette_images")
-
-pals <- paletteer::palettes_d
-pals <- pals[names(pals) != "palettetown"]
-
-for (i in seq_along(pals)) {
-  pal_package <- names(pals)[i] 
-  pal <- pals[[i]]
-
-info <- paletteer::palettes_d_names |>
-  filter(package == pal_package) |>
-  arrange(palette)
-
-types <- split(info$palette, info$type)
-
-  for (type in names(types)) {
-    pal_names <- types[[type]]
-    make_plot(pal[pal_names], paste0(type, "-", pal_package))
-  }
-}
-```
-
-``` r
-markdown_by_type <- function(pal_type) {
-pkg_data <- paletteer::palettes_d_names |>
-  filter(package != "palettetown") |>
-  filter(type == pal_type) |>
-  distinct(package) |>
-  left_join(paletteer::paletteer_packages, by = c("package" = "Name")) |>
-  mutate(
-    github_install = if_else(
-      is.na(github_ver),
-      "",
-      glue::glue("# Developmental version\npak::pak(\"{Github}\")")
-    ),
-    cran_install = if_else(
-      CRAN,
-      glue::glue("\n\n# CRAN version\ninstall.packages(\"{package}\")\n\n"),
-      ""
-    )
-  )
-
-glue::glue_data(
-  pkg_data,
-  "
-### [[package]]
-
-\`\`\`r
-[[github_install]]
-[[cran_install]]
-\`\`\`
-
-![](palette_images/[[pal_type]]-[[package]].png)
-
-",
-  .open = "[[",
-  .close = "]]"
-)
-}
-```
-
 ### Sequential color palettes
-
-``` r
-markdown_by_type("sequential")
-```
 
 ### amerika
 
@@ -462,10 +395,6 @@ pak::pak("sciencificity/werpals")
 
 ### Diverging color palettes
 
-``` r
-markdown_by_type("divergent")
-```
-
 ### amerika
 
 ``` r
@@ -740,10 +669,6 @@ pak::pak("moldach/vapoRwave")
 ![](palette_images/divergent-vapoRwave.png)
 
 ### Qualitative color palettes
-
-``` r
-markdown_by_type("qualitative")
-```
 
 ### awtools
 

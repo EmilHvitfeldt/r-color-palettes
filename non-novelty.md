@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-## Palettes sorted by type (Sequential/Diverging/Qualitative)
+## Non-Novelty Palettes
 
 # Table of Contents
 
@@ -24,66 +24,6 @@
 - [News](NEWS.md)
 
 ### Sequential color palettes
-
-``` r
-source("palette_plotter.R")
-fs::dir_create("palette_images")
-
-pals <- paletteer::palettes_d
-pals <- pals[names(pals) != "palettetown"]
-
-for (i in seq_along(pals)) {
-  pal_package <- names(pals)[i] 
-  pal <- pals[[i]]
-
-info <- paletteer::palettes_d_names |>
-  filter(package == pal_package) |>
-  arrange(palette) |>
-  filter(!novelty)
-
-  if (nrow(info) > 0) {
-
-    pal_names <- info$palette
-    make_plot(pal[pal_names], paste0("nonnovel", "-", pal_package))
-  }
-}
-```
-
-``` r
-pkg_data <- paletteer::palettes_d_names |>
-  filter(!novelty) |>
-  distinct(package) |>
-  left_join(paletteer::paletteer_packages, by = c("package" = "Name")) |>
-  mutate(
-    github_install = if_else(
-      is.na(github_ver),
-      "",
-      glue::glue("# Developmental version\npak::pak(\"{Github}\")")
-    ),
-    cran_install = if_else(
-      CRAN,
-      glue::glue("\n\n# CRAN version\ninstall.packages(\"{package}\")\n\n"),
-      ""
-    )
-  )
-
-glue::glue_data(
-  pkg_data,
-  "
-### [[package]]
-
-\`\`\`r
-[[github_install]]
-[[cran_install]]
-\`\`\`
-
-![](palette_images/nonnovel-[[package]].png)
-
-",
-  .open = "[[",
-  .close = "]]"
-)
-```
 
 ### amerika
 

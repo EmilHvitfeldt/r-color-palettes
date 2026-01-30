@@ -299,48 +299,6 @@ once.
 
 ## Palettes sorted by Package (alphabetically)
 
-``` r
-source("palette_plotter.R")
-fs::dir_create("palette_images")
-
-pals <- paletteer::palettes_d
-pals <- pals[names(pals) != "palettetown"]
-
-walk2(pals, names(pals), make_plot)
-
-pkg_data <- paletteer::paletteer_packages |>
-  filter(Name %in% names(pals)) |>
-  mutate(
-    github_install = if_else(
-      is.na(github_ver),
-      "",
-      glue::glue("# Developmental version\npak::pak(\"{Github}\")")
-    ),
-    cran_install = if_else(
-      CRAN,
-      glue::glue("\n\n# CRAN version\ninstall.packages(\"{Name}\")\n\n"),
-      ""
-    )
-  )
-
-glue::glue_data(
-  pkg_data,
-  "
-### [[Name]]
-
-\`\`\`r
-[[github_install]]
-[[cran_install]]
-\`\`\`
-
-![](palette_images/[[Name]].png)
-
-",
-  .open = "[[",
-  .close = "]]"
-)
-```
-
 ### ButterflyColors
 
 ``` r

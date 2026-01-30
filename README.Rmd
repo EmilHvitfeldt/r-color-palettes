@@ -210,6 +210,8 @@ The `ggthemes` package include the 150 four-color palettes from the [canva.com](
 ```{r}
 #| results: asis
 #| warning: false
+#| echo: false
+#| message: false
 source("palette_plotter.R")
 fs::dir_create("palette_images")
 
