@@ -23,8 +23,6 @@
   - [Palettetown palettes](palettetown.md)
 - [News](NEWS.md)
 
-### Sequential color palettes
-
 ### amerika
 
 ``` r

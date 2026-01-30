@@ -9,9 +9,6 @@ output: github_document
 ```{r child="toc"}
 ```
 
-
-### Sequential color palettes
-
 ```{r}
 #| results: asis
 #| warning: false
